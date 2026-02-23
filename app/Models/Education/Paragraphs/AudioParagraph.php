@@ -1,0 +1,41 @@
+<?php
+
+declare(strict_types=1);
+
+namespace App\Models\Education\Paragraphs;
+
+/**
+ * Represents an audio paragraph in a lesson.
+ */
+class AudioParagraph extends BaseParagraph
+{
+    public ?string $url;
+    public ?string $text; // For TTS
+
+    public function __construct(int $order, ?string $url = null, ?string $text = null)
+    {
+        $this->order = $order;
+        $this->type = 'audio';
+        $this->url = $url;
+        $this->text = $text;
+    }
+
+    public function toArray(): array
+    {
+        return [
+            'order' => $this->order,
+            'type' => $this->type,
+            'url' => $this->url,
+            'text' => $this->text,
+        ];
+    }
+
+    public static function fromArray(array $data): static
+    {
+        return new self(
+            $data['order'],
+            $data['url'] ?? null,
+            $data['text'] ?? null
+        );
+    }
+}

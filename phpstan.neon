@@ -1,0 +1,49 @@
+includes:
+    - vendor/larastan/larastan/extension.neon
+    - vendor/phpstan/phpstan-deprecation-rules/rules.neon
+    - vendor/phpstan/phpstan-strict-rules/rules.neon
+
+parameters:
+    level: 5
+
+    parallel:
+        maximumNumberOfProcesses: 4
+
+    inferPrivatePropertyTypeFromConstructor: true
+
+
+    paths:
+        - app
+        - database
+        - routes
+
+    excludePaths:
+        analyse:
+            - tests/*
+            - database/migrations/*
+            - config/*
+
+    ignoreErrors:
+        -
+            message: '#Method App\\Models\\Education\\Paragraphs\\.*::fromArray\(\) should return static.*but returns App\\Models\\Education\\Paragraphs\\.*#'
+            path: app/Models/Education/Paragraphs/*
+        -
+            message: '#Dynamic call to static method Illuminate\\Contracts\\Auth\\Guard::#'
+            path: app/Http/*
+        -
+            message: '#Dynamic call to static method Illuminate\\Database\\Eloquent\\Builder#'
+            paths:
+                - app/Http/Controllers/*
+                - app/Services/*
+        -
+            message: '#PHPDoc tag @return with type .* is incompatible with native type Illuminate\\Database\\Eloquent\\Casts\\Attribute#'
+        -
+            message: '#Unsafe usage of new static\(\)#'
+            path: app/Models/Education/Paragraphs/*
+        -
+            message: '#Call to an undefined method Laravel\\Socialite\\Contracts\\Provider::#'
+        -
+            message: '#Access to an undefined property Illuminate\\Database\\Eloquent\\Model::#'
+        -
+            message: '#Call to function in_array\(\) requires parameter \#3 to be set#'
+            path: app/Providers/SwaggerUiServiceProvider.php

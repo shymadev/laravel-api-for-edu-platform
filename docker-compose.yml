@@ -1,0 +1,53 @@
+services:
+  php-fpm:
+    container_name: php-fpm
+    build:
+      context: .
+      dockerfile: ../docker/common/php-fpm/Dockerfile
+      args:
+        UID: ${UID:-1000}
+        GID: ${GID:-1000}
+        XDEBUG_ENABLED: ${XDEBUG_ENABLED:-true}
+        XDEBUG_MODE: develop,coverage,debug
+        XDEBUG_HOST: ${XDEBUG_HOST:-host.docker.internal}
+        XDEBUG_LOG: /dev/stdout
+        XDEBUG_IDE_KEY: ${XDEBUG_IDE_KEY:-PHPSTORM}
+        XDEBUG_LOG_LEVEL: 7
+    env_file:
+      - .env
+    environment:
+      PHP_IDE_CONFIG: serverName=Docker
+    user: "${UID:-1000}:${GID:-1000}"
+    volumes:
+      - .:/var/www
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - app_network
+
+  workspace:
+    container_name: workspace
+    build:
+      context: .
+      dockerfile: ../docker/workspace/Dockerfile
+      args:
+        UID: ${UID:-1000}
+        GID: ${GID:-1000}
+        XDEBUG_ENABLED: ${XDEBUG_ENABLED:-true}
+        XDEBUG_MODE: develop,coverage,debug,profile
+        XDEBUG_HOST: ${XDEBUG_HOST:-host.docker.internal}
+        XDEBUG_IDE_KEY: ${XDEBUG_IDE_KEY:-DOCKER}
+        XDEBUG_LOG: /dev/stdout
+        XDEBUG_LOG_LEVEL: 0
+    tty: true
+    stdin_open: true
+    env_file:
+      - .env
+    volumes:
+      - .:/var/www
+    networks:
+      - app_network
+
+networks:
+  app_network:
+    external: true
