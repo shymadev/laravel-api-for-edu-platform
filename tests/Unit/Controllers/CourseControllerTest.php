@@ -28,7 +28,7 @@ test('controller calls courseService to get course by id', function () {
         ->andReturn($course);
 
     $result = $this->courseService->getCourseById($courseId);
-    
+
     expect($result)->toBe($course);
 });
 
@@ -42,7 +42,7 @@ test('controller calls courseService to publish course', function () {
         ->andReturn($course);
 
     $result = $this->courseService->publish($course);
-    
+
     expect($result)->toBe($course);
 });
 
@@ -56,6 +56,6 @@ test('controller calls courseService to unpublish course', function () {
         ->andReturn($course);
 
     $result = $this->courseService->unpublish($course);
-    
+
     expect($result)->toBe($course);
 });

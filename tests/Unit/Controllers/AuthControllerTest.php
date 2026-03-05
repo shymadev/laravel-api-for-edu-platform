@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use App\Http\Controllers\AuthController;
 use App\DTO\Auth\LoginDTO;
+use App\Http\Controllers\AuthController;
 use App\Models\User\User;
 use App\Services\Contracts\Auth\AuthServiceInterface;
 
@@ -28,7 +28,7 @@ test('authService login is called with correct DTO', function () {
         ->andReturn(['user' => $user, 'token' => $token]);
 
     $result = $this->authService->login($dto);
-    
+
     expect($result)->toBeArray();
     expect($result['token'])->toBe($token);
 });
@@ -42,6 +42,6 @@ test('authService logout is called with user object', function () {
         ->once();
 
     $this->authService->logout($user);
-    
+
     expect(true)->toBeTrue(); // Passes if no exception thrown
 });

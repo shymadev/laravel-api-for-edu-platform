@@ -26,7 +26,7 @@ test('controller calls userService to get user by id', function () {
         ->andReturn($user);
 
     $result = $this->userService->getUserById($userId);
-    
+
     expect($result)->toBe($user);
 });
 
@@ -39,7 +39,7 @@ test('controller calls userService to block user', function () {
         ->once();
 
     $this->userService->blockUser($user);
-    
+
     expect(true)->toBeTrue();
 });
 
@@ -52,6 +52,6 @@ test('controller calls userService to unblock user', function () {
         ->once();
 
     $this->userService->unblockUser($user);
-    
+
     expect(true)->toBeTrue();
 });

@@ -26,7 +26,7 @@ test('controller calls lessonService when deleting lesson', function () {
 
     // Verify service is called correctly
     $result = $this->lessonService->deleteLesson($lesson);
-    
+
     expect($result)->toBeTrue();
 });
 
@@ -40,7 +40,7 @@ test('controller calls lessonService to publish lesson', function () {
         ->andReturn($lesson);
 
     $result = $this->lessonService->publish($lesson);
-    
+
     expect($result)->toBe($lesson);
 });
 
@@ -54,6 +54,6 @@ test('controller calls lessonService to unpublish lesson', function () {
         ->andReturn($lesson);
 
     $result = $this->lessonService->unpublish($lesson);
-    
+
     expect($result)->toBe($lesson);
 });

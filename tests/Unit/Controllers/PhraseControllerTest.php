@@ -23,7 +23,7 @@ test('controller calls phraseService to get all categories', function () {
         ->andReturn($categories);
 
     $result = $this->phraseService->getAllCategories();
-    
+
     expect($result)->toBe($categories);
     expect($result)->toHaveCount(3);
 });
@@ -39,7 +39,7 @@ test('controller calls phraseService to get phrase by id', function () {
         ->andReturn($phrase);
 
     $result = $this->phraseService->getPhraseById($phraseId);
-    
+
     expect($result)->toBe($phrase);
 });
 
@@ -51,7 +51,7 @@ test('controller calls phraseService to delete phrase', function () {
         ->once();
 
     $this->phraseService->deletePhrase($phraseId);
-    
+
     // Test passes if no exception is thrown
     expect(true)->toBeTrue();
 });
@@ -67,6 +67,6 @@ test('controller calls phraseService to regenerate audio', function () {
         ->andReturn($phrase);
 
     $result = $this->phraseService->regenerateAudio($phraseId);
-    
+
     expect($result)->toBe($phrase);
 });

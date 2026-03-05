@@ -17,7 +17,7 @@ afterEach(function () {
 test('updateTopic updates topic data correctly', function () {
     $topic = Mockery::mock(Topic::class)->makePartial();
     $topic->shouldAllowMockingProtectedMethods();
-    
+
     $dto = new UpdateTopicDTO(
         id: 1,
         title: 'Updated Topic Title'
@@ -34,7 +34,7 @@ test('updateTopic updates topic data correctly', function () {
 test('deleteTopic returns true on successful deletion', function () {
     $topic = Mockery::mock(Topic::class)->makePartial();
     $topic->shouldAllowMockingProtectedMethods();
-    
+
     $topic->shouldReceive('delete')->once()->andReturn(true);
 
     $result = $this->service->deleteTopic($topic);
@@ -45,7 +45,7 @@ test('deleteTopic returns true on successful deletion', function () {
 test('publish marks topic as active', function () {
     $topic = Mockery::mock(Topic::class)->makePartial();
     $topic->shouldAllowMockingProtectedMethods();
-    
+
     $topic->shouldReceive('update')->once()->with(['is_active' => true])->andReturn(true);
     $topic->shouldReceive('save')->once()->andReturn(true);
     $topic->shouldReceive('refresh')->once()->andReturn($topic);
@@ -58,7 +58,7 @@ test('publish marks topic as active', function () {
 test('unpublish marks topic as inactive', function () {
     $topic = Mockery::mock(Topic::class)->makePartial();
     $topic->shouldAllowMockingProtectedMethods();
-    
+
     $topic->shouldReceive('update')->once()->with(['is_active' => false])->andReturn(true);
     $topic->shouldReceive('save')->once()->andReturn(true);
     $topic->shouldReceive('refresh')->once()->andReturn($topic);

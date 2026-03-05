@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-use App\DTO\Lesson\UpdateLessonDTO;
 use App\Models\Education\Lesson;
 use App\Services\Contracts\Storage\AudioStorageInterface;
 use App\Services\Contracts\TTSServiceInterface;
@@ -40,7 +39,7 @@ test('validateContent returns errors for missing type field', function () {
 test('publish marks lesson as active', function () {
     $lesson = Mockery::mock(Lesson::class)->makePartial();
     $lesson->shouldAllowMockingProtectedMethods();
-    
+
     $lesson->shouldReceive('update')->once()->with(['is_active' => true])->andReturn(true);
     $lesson->shouldReceive('save')->once()->andReturn(true);
     $lesson->shouldReceive('refresh')->once()->andReturn($lesson);
@@ -53,7 +52,7 @@ test('publish marks lesson as active', function () {
 test('unpublish marks lesson as inactive', function () {
     $lesson = Mockery::mock(Lesson::class)->makePartial();
     $lesson->shouldAllowMockingProtectedMethods();
-    
+
     $lesson->shouldReceive('update')->once()->with(['is_active' => false])->andReturn(true);
     $lesson->shouldReceive('save')->once()->andReturn(true);
     $lesson->shouldReceive('refresh')->once()->andReturn($lesson);
@@ -66,7 +65,7 @@ test('unpublish marks lesson as inactive', function () {
 test('deleteLesson returns true on successful deletion', function () {
     $lesson = Mockery::mock(Lesson::class)->makePartial();
     $lesson->shouldAllowMockingProtectedMethods();
-    
+
     $lesson->shouldReceive('delete')->once()->andReturn(true);
 
     $result = $this->service->deleteLesson($lesson);

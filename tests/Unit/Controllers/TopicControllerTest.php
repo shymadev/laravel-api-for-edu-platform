@@ -25,7 +25,7 @@ test('controller calls topicService to delete topic', function () {
         ->andReturn(true);
 
     $result = $this->topicService->deleteTopic($topic);
-    
+
     expect($result)->toBeTrue();
 });
 
@@ -39,7 +39,7 @@ test('controller calls topicService to publish topic', function () {
         ->andReturn($topic);
 
     $result = $this->topicService->publish($topic);
-    
+
     expect($result)->toBe($topic);
 });
 
@@ -53,6 +53,6 @@ test('controller calls topicService to unpublish topic', function () {
         ->andReturn($topic);
 
     $result = $this->topicService->unpublish($topic);
-    
+
     expect($result)->toBe($topic);
 });

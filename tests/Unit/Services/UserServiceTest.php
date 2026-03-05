@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-use App\DTO\User\UpdateUserDTO;
 use App\Models\User\User;
 use App\Services\Contracts\Mail\MailServiceInterface;
 use App\Services\User\UserService;

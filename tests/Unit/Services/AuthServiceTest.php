@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-use App\Services\Auth\AuthService;
-use App\Models\User\User;
 use App\DTO\Auth\LoginDTO;
+use App\Models\User\User;
+use App\Services\Auth\AuthService;
 
 beforeEach(function () {
     $this->registerUserAction = Mockery::mock(\App\Actions\Auth\RegisterUser::class);

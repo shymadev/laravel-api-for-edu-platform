@@ -26,7 +26,7 @@ test('controller calls profileService to get profile by id', function () {
         ->andReturn($profile);
 
     $result = $this->profileService->getProfileById($profileId);
-    
+
     expect($result)->toBe($profile);
 });
 
