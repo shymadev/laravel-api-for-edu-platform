@@ -8,8 +8,14 @@ use App\Models\Additional\Log;
 use Monolog\Handler\AbstractProcessingHandler;
 use Monolog\LogRecord;
 
+/**
+ * Custom Monolog handler to write log records to the database.
+ */
 class DatabaseLogProcessingHandler extends AbstractProcessingHandler
 {
+    /**
+     * {@inheritdoc}
+     */
     protected function write(LogRecord $record): void
     {
         Log::create([
