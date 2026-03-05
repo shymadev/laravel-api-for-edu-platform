@@ -3,9 +3,11 @@
 namespace App\Models\Education;
 
 use App\Models\User\User;
+use App\Observers\ReviewObserver;
+use Illuminate\Database\Eloquent\Attributes\ObservedBy;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
-
+#[ObservedBy(ReviewObserver::class)]
 class CourseReview extends Model
 {
     protected $table = 'course_reviews';

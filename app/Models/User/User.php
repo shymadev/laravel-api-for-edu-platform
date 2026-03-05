@@ -6,6 +6,8 @@ namespace App\Models\User;
 
 use App\Models\Additional\Log;
 use App\Models\Education\FavoritePhrase;
+use App\Observers\UserObserver;
+use Illuminate\Database\Eloquent\Attributes\ObservedBy;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\HasOne;
@@ -14,6 +16,7 @@ use Illuminate\Notifications\Notifiable;
 use Laravel\Cashier\Billable;
 use Laravel\Sanctum\HasApiTokens;
 
+#[ObservedBy(UserObserver::class)]
 class User extends Authenticatable
 {
     use HasApiTokens;

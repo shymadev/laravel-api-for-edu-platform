@@ -54,7 +54,7 @@ class AuthController extends Controller
     {
         $result = $this->authService->login($request->toDTO());
 
-        if($result === null) {
+        if ($result === null) {
             Log::channel('db')->warning('Failed login attempt', [
                 'email' => $request->input('email'),
                 'action' => 'login_failed',

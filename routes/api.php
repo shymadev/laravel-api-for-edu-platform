@@ -12,6 +12,7 @@ use App\Http\Controllers\LessonController;
 use App\Http\Controllers\LogsController;
 use App\Http\Controllers\PhraseController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\StatisticsController;
 use App\Http\Controllers\SubscriptionController;
 use App\Http\Controllers\TopicController;
 use App\Http\Controllers\UserController;
@@ -37,6 +38,7 @@ Route::get('courses/{courseId}/reviews', [CourseReviewController::class, 'index'
 Route::get('courses/{courseId}/rating', [CourseReviewController::class, 'rating']);
 Route::get('lessons/{lessonId}', [LessonController::class, 'show']);
 Route::get('topics/{topic}', [TopicController::class, 'show']);
+Route::get('statistics/overall', [StatisticsController::class, 'getStatistics']);
 
 Route::middleware(['auth:sanctum', 'is_blocked'])->group(function () {
     Route::post('auth/logout', [AuthController::class, 'logout']);

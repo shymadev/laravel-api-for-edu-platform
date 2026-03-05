@@ -27,6 +27,7 @@ use App\Services\Contracts\User\UserServiceInterface;
 use App\Services\Course\CourseService;
 use App\Services\Lesson\LessonService;
 use App\Services\Log\DatabaseLogsProvider;
+use App\Services\Mail\MailService;
 use App\Services\Payment\SubscriptionService;
 use App\Services\Phrase\PhraseService;
 use App\Services\Progress\CourseProgressService;
@@ -65,8 +66,7 @@ class AppServiceProvider extends ServiceProvider
         $this->app->singleton(CourseProgressServiceInterface::class, CourseProgressService::class);
         $this->app->singleton(SubscriptionServiceInterface::class, SubscriptionService::class);
         $this->app->singleton(DatabaseLogsProviderInterface::class, DatabaseLogsProvider::class);
-        // Bind the concrete mail service implementation to the contract
-        $this->app->singleton(MailServiceInterface::class, \App\Services\Mail\MailService::class);
+        $this->app->singleton(MailServiceInterface::class, MailService::class);
     }
 
     /**

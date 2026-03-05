@@ -2274,6 +2274,31 @@
         },
         "security": [{"bearerAuth": []}]
       }
+    },
+    "/api/statistics/overall": {
+      "get": {
+        "tags": [
+          "Statistics"
+        ],
+        "summary": "Get overall application statistics",
+        "description": "Retrieve overall statistics about the application, such as total users, courses, reviews, and average ratings. Only accessible to admin users.",
+        "operationId": "getStatistics",
+        "responses": {
+          "200": {
+            "description": "Overall statistics",
+            "content": {
+              "application\/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/StatisticsOverview"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Server error"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -3007,6 +3032,24 @@
           "last_page": {"type": "integer"},
           "per_page": {"type": "integer"},
           "total": {"type": "integer"}
+        }
+      },
+      "StatisticsOverview": {
+        "type": "object",
+        "properties": {
+          "active_students": {
+            "type": "integer"
+          },
+          "total_courses": {
+            "type": "integer"
+          },
+          "completed_lessons": {
+            "type": "integer"
+          },
+          "average_rating": {
+            "type": "number",
+            "format": "float"
+          }
         }
       }
     }

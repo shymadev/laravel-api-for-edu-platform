@@ -5,10 +5,13 @@ declare(strict_types=1);
 namespace App\Models\Education;
 
 use App\Models\User\UserCourseStatistics;
+use App\Observers\CourseObserver;
+use Illuminate\Database\Eloquent\Attributes\ObservedBy;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
+#[ObservedBy(CourseObserver::class)]
 class Course extends Model
 {
     protected $table = 'courses';
