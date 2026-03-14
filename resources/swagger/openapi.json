@@ -347,7 +347,7 @@
             "description": "Current user data",
             "content": {
               "application/json": {
-                "schema": {"$ref": "#/components/schemas/User"}
+                "schema": {"$ref": "#/components/schemas/UserResponse"}
               }
             }
           }
@@ -2321,6 +2321,14 @@
           "profile_id": {"type": "integer", "nullable": true},
           "created_at": {"type": "string", "format": "date-time"},
           "updated_at": {"type": "string", "format": "date-time"}
+        }
+      },
+      "UserResponse": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "$ref": "#/components/schemas/User"
+          }
         }
       },
       "CourseReview": {
