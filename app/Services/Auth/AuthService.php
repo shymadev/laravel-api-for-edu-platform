@@ -107,8 +107,11 @@ class AuthService implements AuthServiceInterface
     public function handleGoogleCallback(SocialiteUser $googleUser): array
     {
         $user = $this->handleGoogleCallback->execute($googleUser);
-        $emptyProfile = $this->userProfileService->createEmptyProfile();
-        $this->userProfileService->assignProfileToUser($user, $emptyProfile);
+
+        if (!User::where('id', $user->id)) {
+            $emptyProfile = $this->userProfileService->createEmptyProfile();
+            $this->userProfileService->assignProfileToUser($user, $emptyProfile);
+        }
 
         Auth::login($user, true);
 
