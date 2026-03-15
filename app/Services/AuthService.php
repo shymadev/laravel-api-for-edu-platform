@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Services\Auth;
+namespace App\Services;
 
 use App\Actions\Auth\HandleGoogleCallback;
 use App\Actions\Auth\LoginUser;
@@ -12,16 +12,16 @@ use App\DTO\User\CreateUserDTO;
 use App\Enums\Role;
 use App\Mail\WelcomeMail;
 use App\Models\User\User;
-use App\Services\Contracts\Auth\AuthServiceInterface;
-use App\Services\Contracts\Auth\TokenGeneratorInterface;
 use App\Services\Contracts\Mail\MailServiceInterface;
 use App\Services\Contracts\User\UserProfileServiceInterface;
+use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Log;
 use Laravel\Sanctum\TransientToken;
 use Laravel\Socialite\Two\User as SocialiteUser;
 
-class AuthService implements AuthServiceInterface
+#[Singleton]
+readonly class AuthService
 {
     /**
      * Constructs Auth service object.
@@ -30,21 +30,19 @@ class AuthService implements AuthServiceInterface
      * @param LoginUser                   $loginUserAction
      * @param UserProfileServiceInterface $userProfileService
      * @param HandleGoogleCallback        $handleGoogleCallback
-     * @param TokenGeneratorInterface     $tokenGenerator
+     * @param TokenGenerator     $tokenGenerator
+     * @param MailServiceInterface        $mailService
      */
     public function __construct(
-        protected readonly RegisterUser $registerUserAction,
-        protected readonly LoginUser $loginUserAction,
-        protected readonly UserProfileServiceInterface $userProfileService,
-        protected readonly HandleGoogleCallback $handleGoogleCallback,
-        protected readonly TokenGeneratorInterface $tokenGenerator,
-        protected readonly MailServiceInterface $mailService
+        protected RegisterUser                $registerUserAction,
+        protected LoginUser                   $loginUserAction,
+        protected UserProfileServiceInterface $userProfileService,
+        protected HandleGoogleCallback        $handleGoogleCallback,
+        protected TokenGenerator              $tokenGenerator,
+        protected MailServiceInterface        $mailService
     ) {
     }
 
-    /**
-     * {@inheritdoc}
-     */
     public function register(CreateUserDTO $dto): array
     {
         $user = $this->registerUserAction->execute($dto);
@@ -71,15 +69,29 @@ class AuthService implements AuthServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * Logs in a user using either email or username.
+     *
+     * @param LoginDTO $dto
+     *    The data transfer object containing login credentials.
+     *
+     * @return array|null
+     *    Returns an array with user and token if login is successful, or null if it fails.
      */
     public function login(LoginDTO $dto): ?array
     {
-        if (! $this->loginUserAction->execute(['email' => $dto->email, 'password' => $dto->password])) {
+        $isEmail = filter_var($dto->login, FILTER_VALIDATE_EMAIL);
+
+        $credentials = $isEmail
+            ? ['email' => $dto->login, 'password' => $dto->password]
+            : ['username' => $dto->login, 'password' => $dto->password];
+
+        if (!$this->loginUserAction->execute($credentials)) {
             return null;
         }
 
-        $user = User::where('email', $dto->email)->first();
+        $user = $isEmail
+            ? User::where('email', $dto->login)->first()
+            : User::where('username', $dto->login)->first();
 
         return [
             'user' => $user,

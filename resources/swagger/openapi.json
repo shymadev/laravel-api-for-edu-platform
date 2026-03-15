@@ -2434,9 +2434,9 @@
       },
       "LoginRequest": {
         "type": "object",
-        "required": ["email", "password"],
+        "required": ["login", "password"],
         "properties": {
-          "email": {"type": "string"},
+          "login": {"type": "string"},
           "password": {"type": "string"}
         }
       },

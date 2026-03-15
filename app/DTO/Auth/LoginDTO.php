@@ -7,7 +7,7 @@ namespace App\DTO\Auth;
 readonly class LoginDTO
 {
     public function __construct(
-        public string $email,
+        public string $login,
         public string $password,
     ) {
     }
@@ -15,7 +15,7 @@ readonly class LoginDTO
     public static function fromArray(array $data): self
     {
         return new self(
-            email: $data['email'],
+            login: $data['login'],
             password: $data['password'],
         );
     }

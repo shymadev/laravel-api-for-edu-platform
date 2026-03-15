@@ -7,7 +7,7 @@ namespace App\Http\Controllers;
 use App\Http\Requests\LoginRequest;
 use App\Http\Requests\RegisterRequest;
 use App\Http\Resources\User\UserResource;
-use App\Services\Contracts\Auth\AuthServiceInterface;
+use App\Services\AuthService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
@@ -19,7 +19,7 @@ use Laravel\Socialite\Facades\Socialite;
 class AuthController extends Controller
 {
     public function __construct(
-        protected readonly AuthServiceInterface $authService,
+        protected readonly AuthService $authService,
     ) {
     }
 
