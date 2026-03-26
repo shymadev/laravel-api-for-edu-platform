@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Services\Phrase;
+namespace App\Services;
 
 use App\DTO\Phrase\CreatePhraseDTO;
 use App\DTO\Phrase\UpdatePhraseDTO;
@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Storage;
 /**
  * Service to manage phrases.
  */
-class PhraseService implements PhraseServiceInterface
+readonly class PhraseService
 {
     /**
      * Constructs Phrase service object.
@@ -24,8 +24,8 @@ class PhraseService implements PhraseServiceInterface
      * @param TTSServiceInterface $ttsService
      */
     public function __construct(
-        protected readonly TTSServiceInterface $ttsService,
-        protected readonly AudioStorageInterface $audioStorage,
+        protected TTSServiceInterface   $ttsService,
+        protected AudioStorageInterface $audioStorage,
     ) {
     }
 
@@ -42,17 +42,11 @@ class PhraseService implements PhraseServiceInterface
             ->toArray();
     }
 
-    /**
-     * {@inheritDoc}
-     */
     public function getPhraseById(int $id): Phrase
     {
         return Phrase::findOrFail($id);
     }
 
-    /**
-     * {@inheritDoc}
-     */
     public function createPhrase(CreatePhraseDTO $dto): Phrase
     {
         $phrase = Phrase::create([
@@ -74,9 +68,6 @@ class PhraseService implements PhraseServiceInterface
         return $phrase->fresh();
     }
 
-    /**
-     * {@inheritDoc}
-     */
     public function updatePhrase(Phrase $phrase, UpdatePhraseDTO $dto): Phrase
     {
         $data = array_filter($dto->toArray(), fn ($value) => $value !== null);
@@ -100,9 +91,6 @@ class PhraseService implements PhraseServiceInterface
         return $phrase;
     }
 
-    /**
-     * {@inheritDoc}
-     */
     public function deletePhrase(int $id): void
     {
         $phrase = $this->getPhraseById($id);
@@ -114,26 +102,4 @@ class PhraseService implements PhraseServiceInterface
         $phrase->delete();
     }
 
-    /**
-     * {@inheritDoc}
-     */
-    public function regenerateAudio(int $id): Phrase
-    {
-        $phrase = $this->getPhraseById($id);
-
-        try {
-            if ($phrase->audio !== null) {
-                Storage::disk('public')->delete($phrase->audio);
-            }
-
-            $audioPath = $this->ttsService->generateAudio($phrase->text);
-            $phrase->update(['audio' => $audioPath]);
-        } catch (\Exception $e) {
-            Log::error("Failed to regenerate audio for phrase {$id}: " . $e->getMessage());
-
-            throw $e;
-        }
-
-        return $phrase->fresh();
-    }
 }

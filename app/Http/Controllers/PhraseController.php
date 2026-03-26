@@ -12,7 +12,7 @@ use App\Http\Requests\Education\CreatePhraseRequest;
 use App\Http\Requests\Education\UpdatePhraseRequest;
 use App\Http\Resources\Education\PhraseResource;
 use App\Models\Education\Phrase;
-use App\Services\Contracts\Education\PhraseServiceInterface;
+use App\Services\PhraseService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
@@ -25,7 +25,7 @@ class PhraseController extends Controller
     use SearcherTrait;
 
     public function __construct(
-        protected readonly PhraseServiceInterface $phraseService
+        protected readonly PhraseService $phraseService
     ) {
     }
 
@@ -152,26 +152,4 @@ class PhraseController extends Controller
         }
     }
 
-    public function regenerateAudio(int $id): PhraseResource
-    {
-        try {
-            $phrase = $this->phraseService->regenerateAudio($id);
-
-            Log::channel('db')->info('Audio regenerated for phrase', [
-                'phrase_id' => $id,
-                'action' => 'phrase_regenerate_audio',
-            ]);
-
-            return new PhraseResource($phrase);
-
-        } catch (\Throwable $e) {
-            Log::channel('db')->error('Failed to regenerate audio', [
-                'phrase_id' => $id,
-                'action' => 'phrase_regenerate_audio_failed',
-                'exception' => $e,
-            ]);
-
-            abort(500, 'Failed to regenerate audio');
-        }
-    }
 }

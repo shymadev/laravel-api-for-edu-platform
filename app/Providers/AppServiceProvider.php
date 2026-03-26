@@ -7,7 +7,6 @@ namespace App\Providers;
 use App\Models\User\PersonalAccessToken;
 use App\Models\User\User;
 use App\Services\Advertisement\AdvertisementService;
-use App\Services\AuthService;
 use App\Services\Contracts\Advertisement\AdvertisementServiceInterface;
 use App\Services\Contracts\Auth\AuthServiceInterface;
 use App\Services\Contracts\Course\CourseServiceInterface;
@@ -29,7 +28,7 @@ use App\Services\Lesson\LessonService;
 use App\Services\Log\DatabaseLogsProvider;
 use App\Services\Mail\MailService;
 use App\Services\Payment\SubscriptionService;
-use App\Services\Phrase\PhraseService;
+use App\Services\PhraseService;
 use App\Services\Progress\CourseProgressService;
 use App\Services\Review\CourseReviewService;
 use App\Services\Storage\AudioStorageService;
@@ -52,7 +51,6 @@ class AppServiceProvider extends ServiceProvider
     {
         $this->app->singleton(UserServiceInterface::class, UserService::class);
         $this->app->singleton(UserProfileServiceInterface::class, UserProfileService::class);
-        $this->app->singleton(PhraseServiceInterface::class, PhraseService::class);
         $this->app->singleton(TTSServiceInterface::class, TTSService::class);
 
         $this->app->singleton(CourseServiceInterface::class, CourseService::class);
