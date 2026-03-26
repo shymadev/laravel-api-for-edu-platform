@@ -1345,7 +1345,58 @@
           }
         },
         "responses": {
-          "200": {"description": "Favorite status toggled"}
+          "200": {
+            "description": "Favorite status toggled",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message": {"type": "string"},
+                    "favorited": {"type": "boolean"}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/favorite-phrases/toggle-learned": {
+      "post": {
+        "summary": "Toggle the learned state of a favourite phrase",
+        "description": "Marks a favourited phrase as learned or resets it to unlearned. Returns 404 when the phrase is not in the user's favourites.",
+        "tags": ["User Progress"],
+        "security": [{"bearerAuth": []}],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["phrase_id"],
+                "properties": {"phrase_id": {"type": "integer"}}
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Learned state toggled",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "message": {"type": "string"},
+                    "is_learned": {"type": "boolean"}
+                  }
+                }
+              }
+            }
+          },
+          "404": {"description": "Phrase not found in user's favourites"},
+          "500": {"description": "Server error"}
         }
       }
     },
@@ -2894,8 +2945,10 @@
       "FavoritePhrase": {
         "type": "object",
         "properties": {
+          "id": {"type": "integer"},
           "user_id": {"type": "integer"},
           "phrase_id": {"type": "integer"},
+          "is_learned": {"type": "boolean"},
           "added_at": {"type": "string", "format": "date-time"},
           "phrase": {"$ref": "#/components/schemas/Phrase"}
         }

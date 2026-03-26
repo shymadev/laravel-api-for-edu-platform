@@ -4,100 +4,122 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers;
 
+use App\DTO\ToggleFavoriteDTO;
+use App\DTO\ToggleLearnedDTO;
 use App\Http\Requests\Education\ToggleFavoritePhraseRequest;
+use App\Http\Requests\ToggleLearnedPhraseRequest;
 use App\Http\Resources\FavouritePhrase\FavouritePhraseResource;
-use App\Models\Education\FavoritePhrase;
+use App\Services\PhraseStateManager;
+use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Log;
 
 /**
- * Controller that handles favorite phrase operations.
+ * Handles HTTP operations for a user's favourite phrases.
  */
 class FavoritePhraseController extends Controller
 {
+    public function __construct(
+        protected readonly PhraseStateManager $phraseStateManager
+    ) {
+    }
+
     /**
-     * Display a listing of the user's favorite phrases.
+     * Return all favourite phrases for the authenticated user.
      *
      * @return JsonResponse
      */
     public function index(): JsonResponse
     {
         try {
-            $favorites = auth()->user()->favoritePhrases()->with('phrase')->get();
+            $favorites = auth()->user()
+                ->favoritePhrases()
+                ->with('phrase')
+                ->get();
 
             return FavouritePhraseResource::collection($favorites)->response();
         } catch (\Throwable $e) {
-            Log::channel('db')->error('Failed to retrieve user favorite phrases', [
-                'user_id' => auth()->id(),
-                'action' => 'favorite_phrase_index_failed',
+            Log::channel('db')->error('Failed to retrieve user favourite phrases', [
+                'user_id'   => auth()->id(),
+                'action'    => 'favorite_phrase_index_failed',
                 'exception' => $e,
             ]);
 
             return response()->json([
-                'message' => 'Failed to fetch favorite phrases',
+                'message' => 'Failed to fetch favourite phrases',
             ], 500);
         }
     }
 
     /**
-     * Toggle the favorite status of a phrase.
+     * Toggle the favourite status of a phrase for the authenticated user.
      *
-     * @param ToggleFavoritePhraseRequest $request The validated request containing phrase ID
-     *
+     * @param  ToggleFavoritePhraseRequest $request  Validated request containing `phrase_id`.
      * @return JsonResponse
      */
     public function toggle(ToggleFavoritePhraseRequest $request): JsonResponse
     {
-        $userId = auth()->id();
+        $userId   = auth()->id();
         $phraseId = $request->validated()['phrase_id'];
 
         try {
-            $favorite = FavoritePhrase::where('user_id', $userId)
-                ->where('phrase_id', $phraseId)
-                ->first();
-
-            if ($favorite !== null) {
-                $favorite->deleteOrFail();
-
-                Log::channel('db')->info('Favorite phrase removed', [
-                    'user_id' => $userId,
-                    'phrase_id' => $phraseId,
-                    'action' => 'favorite_phrase_removed',
-                ]);
-
-                return response()->json([
-                    'message' => 'Phrase removed from favorites',
-                    'favorited' => false,
-                ]);
-            }
-
-            FavoritePhrase::create([
-                'user_id' => $userId,
-                'phrase_id' => $phraseId,
-            ]);
-
-            Log::channel('db')->info('Favorite phrase added', [
-                'user_id' => $userId,
-                'phrase_id' => $phraseId,
-                'action' => 'favorite_phrase_added',
-            ]);
+            $isFavorited = $this->phraseStateManager->toggleFavouriteState(
+                new ToggleFavoriteDTO($phraseId, $userId)
+            );
 
             return response()->json([
-                'message' => 'Phrase added to favorites',
-                'favorited' => true,
+                'message'   => $isFavorited ? 'Phrase added to favourites' : 'Phrase removed from favourites',
+                'favorited' => $isFavorited,
             ]);
-
         } catch (\Throwable $e) {
-            Log::channel('db')->error('Failed to toggle favorite phrase', [
-                'user_id' => $userId,
+            Log::channel('db')->error('Failed to toggle favourite phrase', [
+                'user_id'   => $userId,
                 'phrase_id' => $phraseId,
-                'action' => 'favorite_phrase_toggle_failed',
+                'action'    => 'favorite_phrase_toggle_failed',
                 'exception' => $e,
             ]);
 
             return response()->json([
-                'message' => 'Failed to toggle favorite phrase',
+                'message' => 'Failed to toggle favourite phrase',
+            ], 500);
+        }
+    }
+
+    /**
+     * Toggle the learned state of an already-favourited phrase.
+     *
+     * @param  ToggleLearnedPhraseRequest $request  Validated request containing `phrase_id`.
+     * @return JsonResponse
+     */
+    public function toggleLearned(ToggleLearnedPhraseRequest $request): JsonResponse
+    {
+        $userId   = auth()->id();
+        $phraseId = $request->validated()['phrase_id'];
+
+        try {
+            $isLearned = $this->phraseStateManager->toggleLearnedState(
+                new ToggleLearnedDTO($phraseId, $userId)
+            );
+
+            return response()->json([
+                'message'    => $isLearned ? 'Phrase marked as learned' : 'Phrase marked as unlearned',
+                'is_learned' => $isLearned,
+            ]);
+        } catch (ModelNotFoundException) {
+            return response()->json([
+                'message' => 'Phrase not found in your favourites',
+            ], 404);
+        } catch (\Throwable $e) {
+            Log::channel('db')->error('Failed to toggle phrase learned state', [
+                'user_id'   => $userId,
+                'phrase_id' => $phraseId,
+                'action'    => 'favorite_phrase_learned_toggle_failed',
+                'exception' => $e,
+            ]);
+
+            return response()->json([
+                'message' => 'Failed to update phrase learned state',
             ], 500);
         }
     }

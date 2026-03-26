@@ -51,6 +51,7 @@ Route::middleware(['auth:sanctum', 'is_blocked'])->group(function () {
 
     Route::get('favorite-phrases', [FavoritePhraseController::class, 'index']);
     Route::post('favorite-phrases/toggle', [FavoritePhraseController::class, 'toggle']);
+    Route::post('favorite-phrases/toggle-learned', [FavoritePhraseController::class, 'toggleLearned']);
 
     Route::get('user/completed-lessons', [UserProgressController::class, 'completedLessons']);
     Route::post('user/completed-lessons', [UserProgressController::class, 'markLessonComplete']);

@@ -15,12 +15,14 @@ class FavoritePhrase extends Model
     protected $fillable = [
         'user_id',
         'phrase_id',
+        'is_learned',
     ];
 
     public $timestamps = false;
 
     protected $casts = [
         'added_at' => 'datetime',
+        'is_learned' => 'boolean',
     ];
 
     public function user(): BelongsTo
