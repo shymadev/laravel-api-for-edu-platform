@@ -28,7 +28,23 @@ abstract class BaseStorage implements FileStorageInterface
                 $filename = $this->getStoragePathPrefix() . '/' . $filename;
             }
 
-            Storage::disk('public')->put($filename, $fileToUpload->getContent());
+            $realPath = $fileToUpload->getRealPath();
+            if ($realPath === false) {
+                return false;
+            }
+
+            $stream = fopen($realPath, 'rb');
+            if ($stream === false) {
+                return false;
+            }
+
+            try {
+                Storage::disk('public')->writeStream($filename, $stream);
+            } finally {
+                if (is_resource($stream)) {
+                    fclose($stream);
+                }
+            }
 
             return '/storage/' . $filename;
 

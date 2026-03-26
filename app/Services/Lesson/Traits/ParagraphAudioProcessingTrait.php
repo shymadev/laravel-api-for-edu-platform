@@ -11,6 +11,14 @@ use Illuminate\Http\UploadedFile;
 trait ParagraphAudioProcessingTrait
 {
     /**
+     * Whether to call the TTS service for `tts` paragraph items (seeders may disable when TTS is down).
+     */
+    protected function isLessonTtsGenerationEnabled(): bool
+    {
+        return true;
+    }
+
+    /**
      * Extract all audio URLs from lesson content.
      *
      * @param array|null $content
@@ -120,7 +128,7 @@ trait ParagraphAudioProcessingTrait
             $uploadPath = $this->audioStorage->upload($fileToUpload, 'lessons/audio');
             unset($content['file_key']);
             $content['audio_url'] = $uploadPath;
-        } elseif ($content['type'] === 'tts' && isset($content['text'])) {
+        } elseif ($content['type'] === 'tts' && isset($content['text']) && $this->isLessonTtsGenerationEnabled()) {
             $fileToUpload = $this->ttsService->generateAudio($content['text']);
             $uploadPath = $this->audioStorage->upload($fileToUpload, 'lessons/audio_paragraphs');
             $content['audio_url'] = $uploadPath;
@@ -164,7 +172,7 @@ trait ParagraphAudioProcessingTrait
                 $item['audio_url'] = $uploadPath;
                 $listenItems[$key] = $item;
             } else {
-                if ($item['type'] === 'tts' && isset($item['text'])) {
+                if ($item['type'] === 'tts' && isset($item['text']) && $this->isLessonTtsGenerationEnabled()) {
                     $fileToUpload = $this->ttsService->generateAudio($item['text']);
                     $uploadPath = $this->audioStorage->upload($fileToUpload, 'lessons/vocabulary_games');
                     $item['audio_url'] = $uploadPath;

@@ -47,11 +47,15 @@ class TTSService implements TTSServiceInterface
             $tempFilePath = tempnam(sys_get_temp_dir(), 'tts_');
             file_put_contents($tempFilePath, $audioBinary);
 
+            $mime = $response->header('content-type') ?? '';
+            if ($mime === '' || ! str_starts_with((string) $mime, 'audio/')) {
+                $mime = 'audio/wav';
+            }
 
             return new UploadedFile(
                 $tempFilePath,
                 Str::slug(substr($text, 0, 20)) . '.wav',
-                $response->header('content-type'),
+                $mime,
                 null,
                 true
             );

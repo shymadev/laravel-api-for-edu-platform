@@ -25,6 +25,11 @@ class AudioStorageService extends BaseStorage implements AudioStorageInterface
             'audio/ogg',
         ];
 
+        $client = $file->getClientMimeType();
+        if ($client !== null && in_array($client, $availableMimeTypes, true)) {
+            return true;
+        }
+
         return in_array($file->getMimeType(), $availableMimeTypes, true);
     }
 

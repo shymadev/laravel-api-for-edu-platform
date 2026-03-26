@@ -22,7 +22,7 @@ return [
 
     'tts' => [
         'url' => env('TTS_SERVICE_URL', 'http://tts:8000'),
-        'timeout' => env('TTS_TIMEOUT', 30),
+        'timeout' => env('TTS_TIMEOUT', 120),
     ],
 
     'stripe' => [
