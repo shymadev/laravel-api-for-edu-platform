@@ -65,6 +65,10 @@
         color: var(--primary-dark);
     }
 
+    .email-header .email-title {
+        color: #ffffff;
+    }
+
     .email-body {
         padding: 28px;
         color: var(--text-primary);

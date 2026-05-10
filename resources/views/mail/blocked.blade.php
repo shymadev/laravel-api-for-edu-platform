@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Аккаунт заблокирован</title>
-    @include('emails.partials.styles')
+    @include('mail.partials.styles')
 </head>
 <body>
     <div class="email-wrapper">
