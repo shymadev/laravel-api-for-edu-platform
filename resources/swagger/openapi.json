@@ -259,7 +259,7 @@
     "/api/stripe/webhook": {
       "post": {
         "summary": "Stripe webhook endpoint",
-        "description": "Handles Stripe webhook events for subscription updates",
+        "description": "Stripe → Laravel Cashier + application webhook handling. Signed with Stripe-Signature.",
         "tags": ["Subscription"],
         "requestBody": {
           "required": true,
@@ -267,14 +267,17 @@
             "application/json": {
               "schema": {
                 "type": "object",
-                "description": "Stripe webhook event payload"
+                "description": "Stripe event payload"
               }
             }
           }
         },
         "responses": {
           "200": {
-            "description": "Webhook processed successfully"
+            "description": "Webhook handled"
+          },
+          "400": {
+            "description": "Invalid payload"
           }
         }
       }
@@ -348,6 +351,127 @@
             "content": {
               "application/json": {
                 "schema": {"$ref": "#/components/schemas/UserResponse"}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/auth/forgot-password": {
+      "post": {
+        "summary": "Forgot password",
+        "tags": ["Auth"],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {"$ref": "#/components/schemas/ForgotPasswordRequest"}
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Password reset email sent",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/ForgotPasswordResponse"}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation error"
+          },
+          "500": {
+            "description": "Failed to send reset password link",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/ForgotPasswordResponse"}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/auth/reset-password": {
+      "post": {
+        "summary": "Reset password",
+        "tags": ["Auth"],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {"$ref": "#/components/schemas/ResetPasswordRequest"}
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Password reset successfully",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/ResetPasswordResponse"}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation error"
+          },
+          "500": {
+            "description": "Failed to reset password",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/ResetPasswordResponse"}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/auth/change-password": {
+      "post": {
+        "summary": "Change password (authenticated)",
+        "description": "Changes the password for the current user. Guest users cannot change password. Google-only accounts may set a password without old_password.",
+        "tags": ["Auth"],
+        "security": [{"bearerAuth": []}],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {"$ref": "#/components/schemas/ChangePasswordRequest"}
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Password changed successfully",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/ChangePasswordResponse"}
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request: password change failed, or business rule error (e.g. guest user, invalid old password)",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/ChangePasswordErrorResponse"}
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthenticated"
+          },
+          "422": {
+            "description": "Validation error (e.g. new_password confirmation mismatch, min length)"
+          },
+          "429": {
+            "description": "Too many requests (rate limited)"
+          },
+          "500": {
+            "description": "Unexpected error while changing password",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/ChangePasswordErrorResponse"}
               }
             }
           }
@@ -585,7 +709,10 @@
           {"name": "page", "in": "query", "required": false, "schema": {"type": "integer", "default": 1}},
           {"name": "per_page", "in": "query", "required": false, "schema": {"type": "integer", "default": 15}},
           {"name": "search", "in": "query", "required": false, "schema": {"type": "string"}, "description": "Search in course title and description"},
-          {"name": "difficulty", "in": "query", "required": false, "schema": {"type": "string"}, "description": "Filter by difficulty level"}
+          {"name": "difficulty", "in": "query", "required": false, "schema": {"type": "string"}, "description": "Filter by difficulty level"},
+          {"name": "is_premium", "in": "query", "required": false, "schema": {"type": "boolean"}, "description": "Filter by premium status"},
+          {"name": "sort_order", "in": "query", "required": false, "schema": {"type": "string", "enum": ["asc", "desc"], "default": "desc"}, "description": "Order by course creation date (newest first when desc)"},
+          {"name": "show_archived", "in": "query", "required": false, "schema": {"type": "boolean", "default": false}, "description": "Include archived courses in results (admin only)"}
         ],
         "responses": {
           "200": {
@@ -981,6 +1108,49 @@
               }
             }
           }
+        }
+      }
+    },
+    "/api/media/video": {
+      "post": {
+        "summary": "Upload a video file",
+        "description": "Uploads a video to object storage and returns the public URL. Allowed formats: mp4, webm, ogg, mov, avi. Max size: 500 MB.",
+        "tags": ["Media"],
+        "security": [{"sanctum": []}],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "required": ["video"],
+                "properties": {
+                  "video": {
+                    "type": "string",
+                    "format": "binary",
+                    "description": "Video file (mp4, webm, ogg, mov, avi, mpeg)"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Video uploaded successfully",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "url": {"type": "string", "format": "uri", "description": "Public URL of the uploaded video"}
+                  }
+                }
+              }
+            }
+          },
+          "422": {"description": "Validation error"},
+          "500": {"description": "Upload failed"}
         }
       }
     },
@@ -1502,6 +1672,121 @@
         }
       }
     },
+    "/api/user/lessons/{lessonId}/block-progress": {
+      "get": {
+        "summary": "Get block progress for a lesson (completed indexes + partial states)",
+        "tags": ["User Progress"],
+        "security": [{"bearerAuth": []}],
+        "parameters": [
+          {"name": "lessonId", "in": "path", "required": true, "schema": {"type": "integer"}}
+        ],
+        "responses": {
+          "200": {
+            "description": "Block progress data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "completed": {
+                      "type": "array",
+                      "items": {"type": "integer"},
+                      "description": "Indexes of fully completed blocks"
+                    },
+                    "states": {
+                      "type": "object",
+                      "additionalProperties": true,
+                      "description": "Partial state keyed by block index"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/user/lesson-block-progress": {
+      "post": {
+        "summary": "Save lesson block progress (partial state or completion)",
+        "tags": ["User Progress"],
+        "security": [{"bearerAuth": []}],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["lesson_id", "block_index", "block_type"],
+                "properties": {
+                  "lesson_id": {"type": "integer"},
+                  "block_index": {"type": "integer", "minimum": 0},
+                  "block_type": {"type": "string", "maxLength": 50},
+                  "is_completed": {"type": "boolean"},
+                  "block_state": {"type": "object", "nullable": true, "additionalProperties": true}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {"description": "Block progress saved"}
+        }
+      }
+    },
+    "/api/user/courses/{courseId}/stop": {
+      "post": {
+        "summary": "Stop learning a course",
+        "tags": ["User Progress"],
+        "parameters": [{"name": "courseId", "in": "path", "required": true, "schema": {"type": "integer"}}],
+        "responses": {
+          "200": {"description": "Course stopped", "content": {"application/json": {"schema": {"type": "object", "properties": {"stopped": {"type": "boolean"}}}}}}
+        },
+        "security": [{"sanctum": []}]
+      }
+    },
+    "/api/user/courses/{courseId}/resume": {
+      "post": {
+        "summary": "Resume learning a stopped course",
+        "tags": ["User Progress"],
+        "parameters": [{"name": "courseId", "in": "path", "required": true, "schema": {"type": "integer"}}],
+        "responses": {
+          "200": {"description": "Course resumed", "content": {"application/json": {"schema": {"type": "object", "properties": {"resumed": {"type": "boolean"}}}}}}
+        },
+        "security": [{"sanctum": []}]
+      }
+    },
+    "/api/phrases/resolve": {
+      "post": {
+        "summary": "Find or create a phrase by text and translation (for lesson phrase favorites)",
+        "tags": ["Phrases"],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["text", "translation"],
+                "properties": {
+                  "text": {"type": "string"},
+                  "translation": {"type": "string"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Resolved phrase",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/Phrase"}
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/phrases": {
       "get": {
         "summary": "List all phrases",
@@ -1979,6 +2264,34 @@
         }
       }
     },
+    "/api/courses/{id}/archive": {
+      "put": {
+        "summary": "Archive a course",
+        "tags": ["Courses"],
+        "parameters": [{"name": "id", "in": "path", "required": true, "schema": {"type": "integer"}}],
+        "responses": {
+          "200": {
+            "description": "Course archived",
+            "content": {"application/json": {"schema": {"$ref": "#/components/schemas/Course"}}}
+          }
+        },
+        "security": [{"sanctum": []}]
+      }
+    },
+    "/api/courses/{id}/unarchive": {
+      "put": {
+        "summary": "Unarchive a course",
+        "tags": ["Courses"],
+        "parameters": [{"name": "id", "in": "path", "required": true, "schema": {"type": "integer"}}],
+        "responses": {
+          "200": {
+            "description": "Course unarchived",
+            "content": {"application/json": {"schema": {"$ref": "#/components/schemas/Course"}}}
+          }
+        },
+        "security": [{"sanctum": []}]
+      }
+    },
     "/api/advertisements": {
       "get": {
         "summary": "Get all advertisements",
@@ -2370,6 +2683,15 @@
           "role": {"type": "string", "nullable": true, "description": "User role name"},
           "is_blocked": {"type": "boolean", "description": "Indicates if the user is blocked"},
           "profile_id": {"type": "integer", "nullable": true},
+          "auth_provider": {
+            "type": "string",
+            "enum": ["local", "google"],
+            "description": "Authentication origin: `local` for email/password registration, `google` when the account is linked to Google (google_id is set)"
+          },
+          "has_local_password": {
+            "type": "boolean",
+            "description": "Whether a password is stored (false for Google-only accounts that have not set a password yet)"
+          },
           "created_at": {"type": "string", "format": "date-time"},
           "updated_at": {"type": "string", "format": "date-time"}
         }
@@ -2491,6 +2813,67 @@
           "password": {"type": "string"}
         }
       },
+      "ForgotPasswordRequest": {
+        "type": "object",
+        "required": ["email"],
+        "properties": {
+          "email": {"type": "string", "format": "email"}
+        }
+      },
+      "ForgotPasswordResponse": {
+        "type": "object",
+        "properties": {
+          "message": {"type": "string"}
+        }
+      },
+      "ResetPasswordRequest": {
+        "type": "object",
+        "required": ["token", "email", "password", "password_confirmation"],
+        "properties": {
+          "token": {"type": "string"},
+          "email": {"type": "string", "format": "email"},
+          "password": {"type": "string", "minLength": 8},
+          "password_confirmation": {"type": "string", "minLength": 8}
+        }
+      },
+      "ResetPasswordResponse": {
+        "type": "object",
+        "properties": {
+          "message": {"type": "string"}
+        }
+      },
+      "ChangePasswordRequest": {
+        "type": "object",
+        "required": ["new_password", "new_password_confirmation"],
+        "properties": {
+          "old_password": {
+            "type": "string",
+            "nullable": true,
+            "description": "Current password; required for standard (non-Google-only) password change"
+          },
+          "new_password": {"type": "string", "minLength": 8},
+          "new_password_confirmation": {"type": "string", "minLength": 8}
+        }
+      },
+      "ChangePasswordResponse": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "example": "Password changed successfully"
+          }
+        }
+      },
+      "ChangePasswordErrorResponse": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "description": "Error detail from server (e.g. failed change, guest user, or unexpected error)",
+            "example": "Failed to change password"
+          }
+        }
+      },
       "UpdateProfileRequest": {
         "type": "object",
         "properties": {
@@ -2514,6 +2897,7 @@
           "preview_image_url": {"type": "string", "nullable": true, "description": "Full URL to the course preview image"},
           "is_premium": {"type": "boolean", "description": "Whether the requires premium su coursebscription"},
           "is_active": {"type": "boolean", "description": "Whether the course is published"},
+          "is_archived": {"type": "boolean", "description": "Whether the course is archived"},
           "created_at": {"type": "string", "format": "date-time"},
           "topics": {
             "type": "array",
@@ -2550,7 +2934,8 @@
           "parent_id": {"type": "integer", "nullable": true},
           "title": {"type": "string"},
           "is_active": {"type": "boolean", "description": "Whether the topic is published"},
-          "created_at": {"type": "string", "format": "date-time"}
+          "created_at": {"type": "string", "format": "date-time"},
+          "lesson_count": {"type": "integer", "description": "Number of active lessons in this topic"}
         }
       },
       "CreateTopicRequest": {
@@ -2686,7 +3071,8 @@
         "required": ["text", "translation"],
         "properties": {
           "text": {"type": "string"},
-          "translation": {"type": "string"}
+          "translation": {"type": "string"},
+          "phrase_id": {"type": "integer", "nullable": true}
         }
       },
       "TestParagraph": {
@@ -2966,6 +3352,8 @@
           },
           "topic": {"type": "string"},
           "audio_url": {"type": "string"},
+          "transcription": {"type": "string", "nullable": true},
+          "is_phrasebook": {"type": "boolean"},
           "created_at": {"type": "string", "format": "date-time"},
           "updated_at": {"type": "string", "format": "date-time"}
         }
@@ -3037,7 +3425,8 @@
           "total_lessons": {"type": "integer"},
           "completed_lessons": {"type": "integer"},
           "progress_percentage": {"type": "number", "format": "float"},
-          "is_completed": {"type": "boolean"}
+          "is_completed": {"type": "boolean"},
+          "is_stopped": {"type": "boolean"}
         }
       },
       "UserStatistics": {
@@ -3046,7 +3435,9 @@
           "total_completed_lessons": {"type": "integer"},
           "total_completed_courses": {"type": "integer"},
           "total_in_progress_courses": {"type": "integer"},
-          "average_progress": {"type": "number", "format": "float"}
+          "average_progress": {"type": "number", "format": "float"},
+          "total_completed_exercises": {"type": "integer"},
+          "total_listened_audio": {"type": "integer"}
         }
       },
       "SubscriptionStatus": {
