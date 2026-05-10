@@ -1,0 +1,1159 @@
+{
+  "title": "Family & Relationships",
+  "description": "Learn the names of family members in English and how to use possessive pronouns to talk about your family. This course is perfect for absolute beginners who want to describe the people close to them.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": false,
+  "preview_image": "Family & Relationships.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Immediate Family",
+      "subtopics": [
+        {
+          "title": "1.1 Parents and Children",
+          "lessons": [
+            {
+              "title": "Mother, Father, Brother, Sister",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700003001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Your <b>immediate family</b> (closest family) includes:\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>mother / mom</b> — мама\",\"<b>father / dad</b> — папа\",\"<b>parents</b> — родители (mother + father)\",\"<b>son</b> — сын\",\"<b>daughter</b> — дочь\",\"<b>brother</b> — брат\",\"<b>sister</b> — сестра\",\"<b>child / children</b> — ребёнок / дети\"]}},{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples:\"}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"My <b>mother</b> is kind.\",\"I have one <b>brother</b> and two <b>sisters</b>.\",\"Her <b>father</b> is a doctor.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "My mother is kind. I have one brother and two sisters.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "mother / mom",
+                      "translation": "мама"
+                    },
+                    {
+                      "text": "father / dad",
+                      "translation": "папа"
+                    },
+                    {
+                      "text": "brother",
+                      "translation": "брат"
+                    },
+                    {
+                      "text": "sister",
+                      "translation": "сестра"
+                    },
+                    {
+                      "text": "parents",
+                      "translation": "родители"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700003001001",
+                      "left": "mother",
+                      "right": "мама"
+                    },
+                    {
+                      "id": "1700003001002",
+                      "left": "father",
+                      "right": "папа"
+                    },
+                    {
+                      "id": "1700003001003",
+                      "left": "brother",
+                      "right": "брат"
+                    },
+                    {
+                      "id": "1700003001004",
+                      "left": "sister",
+                      "right": "сестра"
+                    },
+                    {
+                      "id": "1700003001005",
+                      "left": "son",
+                      "right": "сын"
+                    },
+                    {
+                      "id": "1700003001006",
+                      "left": "daughter",
+                      "right": "дочь"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "mother",
+                    "father",
+                    "brother",
+                    "sister"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is the English word for 'сестра'?",
+                      "options": [
+                        "mother",
+                        "daughter",
+                        "brother",
+                        "sister"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    },
+                    {
+                      "text": "Your parents are your...",
+                      "options": [
+                        "son and daughter",
+                        "mother and father",
+                        "brother and sister",
+                        "aunt and uncle"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Do You Have Brothers or Sisters?",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700003002000,\"blocks\":[{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"To talk about family members, we use <b>have / has</b>:\"}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I have</b> a brother.\",\"<b>She has</b> two sisters.\",\"<b>He has</b> no children.\"]}},{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask about family:\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Do you have any brothers or sisters?</b>\",\"<b>How many brothers do you have?</b>\"]}},{\"id\":\"yY5zZ6aA7b\",\"type\":\"paragraph\",\"data\":{\"text\":\"To say you have none: <b>I don't have any brothers.</b> or <b>I have no sisters.</b>\"}},{\"id\":\"bB8cC9dD0e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Numbers help here: <em>I have <b>one</b> brother and <b>three</b> sisters.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Do you have any brothers or sisters? I have one brother.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "A: Do you [have] any brothers? B: Yes, I have [one] brother. A: And sisters? B: I [don't] have any sisters.",
+                  "gaps": [
+                    {
+                      "placeholder": "have",
+                      "answers": [
+                        "have"
+                      ]
+                    },
+                    {
+                      "placeholder": "one",
+                      "answers": [
+                        "one",
+                        "1"
+                      ]
+                    },
+                    {
+                      "placeholder": "don't",
+                      "answers": [
+                        "don't",
+                        "do not"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I ___ two sisters.",
+                      "answers": [
+                        "have",
+                        "has",
+                        "am"
+                      ]
+                    },
+                    {
+                      "sentence": "She ___ one brother.",
+                      "answers": [
+                        "has",
+                        "have",
+                        "is"
+                      ]
+                    },
+                    {
+                      "sentence": "They ___ three children.",
+                      "answers": [
+                        "have",
+                        "has",
+                        "are"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which is correct: 'I ___ two brothers.'",
+                      "options": [
+                        "has",
+                        "have",
+                        "am",
+                        "is"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you say you have no sisters?",
+                      "options": [
+                        "I not have sisters.",
+                        "I don't have any sisters.",
+                        "I have not sisters.",
+                        "No sisters have I."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Husband, Wife and Partner",
+          "lessons": [
+            {
+              "title": "Marriage and Partnership",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700003003000,\"blocks\":[{\"id\":\"eE1fF2gG3h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Words for adult relationships in English:\"}},{\"id\":\"hH4iI5jJ6k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>husband</b> — муж\",\"<b>wife</b> — жена\",\"<b>partner</b> — партнёр (neutral term)\",\"<b>boyfriend</b> — молодой человек / друг\",\"<b>girlfriend</b> — девушка / подруга\",\"<b>married</b> — женат / замужем\",\"<b>single</b> — один / незамужняя\"]}},{\"id\":\"kK7lL8mM9n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful phrases:\"}},{\"id\":\"nN0oO1pP2q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I am <b>married</b>. My <b>husband</b> is a teacher.\",\"She is <b>single</b>.\",\"They have two <b>children</b>.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I am married. My husband is a teacher.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700003003001",
+                      "left": "husband",
+                      "right": "муж"
+                    },
+                    {
+                      "id": "1700003003002",
+                      "left": "wife",
+                      "right": "жена"
+                    },
+                    {
+                      "id": "1700003003003",
+                      "left": "boyfriend",
+                      "right": "молодой человек"
+                    },
+                    {
+                      "id": "1700003003004",
+                      "left": "married",
+                      "right": "женат/замужем"
+                    },
+                    {
+                      "id": "1700003003005",
+                      "left": "single",
+                      "right": "не состоит в браке"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700003003001",
+                      "english": "I am married.",
+                      "russian": "Я женат / замужем.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700003003002",
+                      "english": "My wife is a doctor.",
+                      "russian": "Моя жена — врач.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700003003003",
+                      "english": "He is single.",
+                      "russian": "Он не женат.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700003003004",
+                      "english": "They have two children.",
+                      "russian": "У них двое детей.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'single' mean?",
+                      "options": [
+                        "married",
+                        "not married",
+                        "divorced",
+                        "widowed"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "My ___ is a doctor. (female spouse)",
+                      "options": [
+                        "husband",
+                        "girlfriend",
+                        "wife",
+                        "partner"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Extended Family",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Grandparents, Aunts, Uncles and Cousins",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700003004000,\"blocks\":[{\"id\":\"qQ3rR4sS5t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Your <b>extended family</b> includes relatives beyond your parents and siblings:\"}},{\"id\":\"tT6uU7vV8w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>grandfather / grandpa</b> — дедушка\",\"<b>grandmother / grandma</b> — бабушка\",\"<b>grandparents</b> — бабушка и дедушка\",\"<b>uncle</b> — дядя (your parent's brother)\",\"<b>aunt</b> — тётя (your parent's sister)\",\"<b>cousin</b> — двоюродный брат/сестра\",\"<b>nephew</b> — племянник\",\"<b>niece</b> — племянница\"]}},{\"id\":\"wW9xX0yY1z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example: <em>My <b>grandmother</b> is 70 years old. She lives with my <b>uncle</b>.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "My grandmother is seventy years old. My uncle lives in London.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700003004001",
+                  "left": "grandfather",
+                  "right": "дедушка"
+                },
+                {
+                  "id": "1700003004002",
+                  "left": "grandmother",
+                  "right": "бабушка"
+                },
+                {
+                  "id": "1700003004003",
+                  "left": "uncle",
+                  "right": "дядя"
+                },
+                {
+                  "id": "1700003004004",
+                  "left": "aunt",
+                  "right": "тётя"
+                },
+                {
+                  "id": "1700003004005",
+                  "left": "cousin",
+                  "right": "двоюродный брат/сестра"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Your father's father",
+                  "word": "grandfather"
+                },
+                {
+                  "hint": "Your mother's sister",
+                  "word": "aunt"
+                },
+                {
+                  "hint": "Your aunt's son or daughter",
+                  "word": "cousin"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Your mother's sister is your...",
+                  "options": [
+                    "grandmother",
+                    "aunt",
+                    "cousin",
+                    "niece"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Your father's father is your...",
+                  "options": [
+                    "uncle",
+                    "brother",
+                    "grandfather",
+                    "nephew"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Your aunt's son is your...",
+                  "options": [
+                    "nephew",
+                    "cousin",
+                    "brother",
+                    "uncle"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Possessive Pronouns",
+      "subtopics": [
+        {
+          "title": "3.1 My, Your, His, Her",
+          "lessons": [
+            {
+              "title": "Using Possessive Pronouns",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700003005000,\"blocks\":[{\"id\":\"zA2bB3cC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Possessive pronouns</b> show who something belongs to. They replace 'the ... of ...'\"}},{\"id\":\"dD5eE6fF7g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I → <b>my</b> — my mother\",\"you → <b>your</b> — your father\",\"he → <b>his</b> — his sister\",\"she → <b>her</b> — her brother\",\"we → <b>our</b> — our family\",\"they → <b>their</b> — their children\"]}},{\"id\":\"gG8hH9iI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"The possessive goes before the noun: <em><b>My</b> mother is kind.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "My mother is kind. His sister is tall. Their children are young.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700003005001",
+                      "left": "I",
+                      "right": "my"
+                    },
+                    {
+                      "id": "1700003005002",
+                      "left": "you",
+                      "right": "your"
+                    },
+                    {
+                      "id": "1700003005003",
+                      "left": "he",
+                      "right": "his"
+                    },
+                    {
+                      "id": "1700003005004",
+                      "left": "she",
+                      "right": "her"
+                    },
+                    {
+                      "id": "1700003005005",
+                      "left": "we",
+                      "right": "our"
+                    },
+                    {
+                      "id": "1700003005006",
+                      "left": "they",
+                      "right": "their"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I have a sister. [My] sister is 18. He has a brother. [His] brother is a student. She has a mother. [Her] mother is kind.",
+                  "gaps": [
+                    {
+                      "placeholder": "My",
+                      "answers": [
+                        "My"
+                      ]
+                    },
+                    {
+                      "placeholder": "His",
+                      "answers": [
+                        "His"
+                      ]
+                    },
+                    {
+                      "placeholder": "Her",
+                      "answers": [
+                        "Her"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "She loves his cat. (about Anna)",
+                      "correctText": "She loves her cat. (about Anna)"
+                    },
+                    {
+                      "text": "He plays with her dog. (about Tom)",
+                      "correctText": "He plays with his dog. (about Tom)"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which possessive pronoun goes with 'she'?",
+                      "options": [
+                        "his",
+                        "my",
+                        "her",
+                        "their"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Complete: ___ family is big. (talking about 'we')",
+                      "options": [
+                        "My",
+                        "Their",
+                        "Our",
+                        "His"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Practice: His or Her?",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700003006000,\"blocks\":[{\"id\":\"jJ1kK2lL3m\",\"type\":\"paragraph\",\"data\":{\"text\":\"A common mistake for beginners is confusing <b>his</b> and <b>her</b>.\"}},{\"id\":\"mM4nN5oO6p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Use <b>his</b> for a <em>male</em> (he): <em>Tom loves <b>his</b> dog.</em>\",\"Use <b>her</b> for a <em>female</em> (she): <em>Anna loves <b>her</b> cat.</em>\"]}},{\"id\":\"pP7qQ8rR9s\",\"type\":\"paragraph\",\"data\":{\"text\":\"The possessive does NOT change based on what is owned — it changes based on who OWNS it!\"}},{\"id\":\"sS0tT1uU2v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Tom has a sister. <b>His</b> sister is tall. ✓\",\"Anna has a brother. <b>Her</b> brother is young. ✓\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Tom loves his dog. Anna loves her cat.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "Tom loves ___ mother.",
+                      "answers": [
+                        "his",
+                        "her",
+                        "my"
+                      ]
+                    },
+                    {
+                      "sentence": "Anna likes ___ dog.",
+                      "answers": [
+                        "her",
+                        "his",
+                        "my"
+                      ]
+                    },
+                    {
+                      "sentence": "My brother and I love ___ grandma.",
+                      "answers": [
+                        "our",
+                        "their",
+                        "his"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Sarah is reading. ___ book is on the table.",
+                      "options": [
+                        "His",
+                        "My",
+                        "Her",
+                        "Their"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Peter has a cat. ___ cat is grey.",
+                      "options": [
+                        "Her",
+                        "My",
+                        "Our",
+                        "His"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Describing Your Family",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Talking About Family Members",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700003007000,\"blocks\":[{\"id\":\"vV3wW4xX5y\",\"type\":\"paragraph\",\"data\":{\"text\":\"When describing family members, we can combine vocabulary from this course with adjectives:\"}},{\"id\":\"yY6zZ7aA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Age:</b> My grandmother is <b>70 years old</b>.\"}},{\"id\":\"bB9cC0dD1e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Job:</b> My father is <b>a teacher</b>.\"}},{\"id\":\"eE2fF3gG4h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Appearance:</b> My sister has <b>long brown hair</b>.\"}},{\"id\":\"hH5iI6jJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Character:</b>\"}},{\"id\":\"kK8lL9mM0n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>kind</b> — добрый\",\"<b>funny</b> — смешной\",\"<b>clever</b> — умный\",\"<b>quiet</b> — тихий/спокойный\",\"<b>tall / short</b> — высокий / низкий\"]}},{\"id\":\"nN1oO2pP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example: <em>My mother is <b>kind</b> and <b>clever</b>. She is a doctor. She is 45 years old.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "My mother is kind and clever. She is a doctor.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "kind",
+                    "funny",
+                    "clever",
+                    "sister"
+                  ],
+                  "correctWord": "sister"
+                },
+                {
+                  "words": [
+                    "father",
+                    "mother",
+                    "brother",
+                    "tall"
+                  ],
+                  "correctWord": "tall"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "My [father] is 50 years old. He is a [teacher]. He is [tall] and [kind]. I love [my] father.",
+              "gaps": [
+                {
+                  "placeholder": "father",
+                  "answers": [
+                    "father",
+                    "dad"
+                  ]
+                },
+                {
+                  "placeholder": "teacher",
+                  "answers": [
+                    "teacher"
+                  ]
+                },
+                {
+                  "placeholder": "tall",
+                  "answers": [
+                    "tall"
+                  ]
+                },
+                {
+                  "placeholder": "kind",
+                  "answers": [
+                    "kind"
+                  ]
+                },
+                {
+                  "placeholder": "my",
+                  "answers": [
+                    "my"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700003007001",
+                  "english": "My mother is kind and clever.",
+                  "russian": "Моя мама добрая и умная.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700003007002",
+                  "english": "His grandfather is 75 years old.",
+                  "russian": "Его дедушке 75 лет.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700003007003",
+                  "english": "Her sister has two children.",
+                  "russian": "У её сестры двое детей.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700003007004",
+                  "english": "Our family is big.",
+                  "russian": "Наша семья большая.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which word is a character adjective?",
+                  "options": [
+                    "brother",
+                    "kind",
+                    "mother",
+                    "married"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Complete: My father ___ a doctor.",
+                  "options": [
+                    "am",
+                    "are",
+                    "is",
+                    "have"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Family Conversations",
+      "subtopics": [
+        {
+          "title": "5.1 Talking About Your Family",
+          "lessons": [
+            {
+              "title": "A Family Dialogue",
+              "weight": 8,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700003008000,\"blocks\":[{\"id\":\"qQ4rR5sS6t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here is a typical conversation about family:\"}},{\"id\":\"tT7uU8vV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> Do you have a big family?\"}},{\"id\":\"wW0xX1yY2z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tom:</b> Yes! I have a mother, a father, and two sisters.\"}},{\"id\":\"zA3bB4cC5d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> How old are your sisters?\"}},{\"id\":\"dD6eE7fF8g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tom:</b> My younger sister is 15 and my older sister is 22. Do you have brothers or sisters?\"}},{\"id\":\"gG9hH0iI1j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> No, I am an only child. But I have a big extended family — many aunts, uncles and cousins!\"}},{\"id\":\"jJ2kK3lL4m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tom:</b> That's nice! Do your grandparents live with you?\"}},{\"id\":\"mM5nN6oO7p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> Yes, my grandmother lives with us. She is 68.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Do you have a big family? Yes, I have a mother, a father, and two sisters.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the following sentence aloud",
+                    "targetPhrase": "I have a mother, a father, and two sisters."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: Do you have any [brothers]? B: Yes, I have [one] brother. He is [20] years old. He is a [student].",
+                  "gaps": [
+                    {
+                      "placeholder": "brothers",
+                      "answers": [
+                        "brothers"
+                      ]
+                    },
+                    {
+                      "placeholder": "one",
+                      "answers": [
+                        "one",
+                        "1"
+                      ]
+                    },
+                    {
+                      "placeholder": "20",
+                      "answers": [
+                        "20",
+                        "twenty"
+                      ]
+                    },
+                    {
+                      "placeholder": "student",
+                      "answers": [
+                        "student"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "In the dialogue, how many sisters does Tom have?",
+                      "options": [
+                        "one",
+                        "two",
+                        "three",
+                        "none"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Anna is an only child. This means she has...",
+                      "options": [
+                        "one sibling",
+                        "many siblings",
+                        "no brothers or sisters",
+                        "two brothers"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "How old is Anna's grandmother?",
+                      "options": [
+                        "58",
+                        "68",
+                        "78",
+                        "65"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5.2 Family Vocabulary Review",
+          "lessons": [
+            {
+              "title": "Review: Family Members Quiz",
+              "weight": 9,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700003009000,\"blocks\":[{\"id\":\"pP8qQ9rR0s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's review all the family vocabulary from this course!\"}},{\"id\":\"sS1tT2uU3v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Immediate family:</b> mother, father, brother, sister, son, daughter\"}},{\"id\":\"vV4wW5xX6y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Spouses and partners:</b> husband, wife, boyfriend, girlfriend\"}},{\"id\":\"yY7zZ8aA9b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Extended family:</b> grandfather, grandmother, uncle, aunt, cousin, nephew, niece\"}},{\"id\":\"bB0cC1dD2e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Possessives:</b> my, your, his, her, our, their\"}},{\"id\":\"eE3fF4gG5h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key phrases:</b>\"}},{\"id\":\"hH6iI7jJ8k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I have a big / small family.\",\"My mother/father is a ...\",\"Do you have any brothers or sisters?\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "My family is big. I have a brother, two sisters, and many cousins.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_immediate",
+                      "name": "Immediate Family",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_extended",
+                      "name": "Extended Family",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "mother",
+                      "correctCategory": "cat_immediate"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "brother",
+                      "correctCategory": "cat_immediate"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "daughter",
+                      "correctCategory": "cat_immediate"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "grandfather",
+                      "correctCategory": "cat_extended"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "aunt",
+                      "correctCategory": "cat_extended"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "cousin",
+                      "correctCategory": "cat_extended"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "listen-write",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [
+                    {
+                      "text": "mother",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "mother"
+                    },
+                    {
+                      "text": "brother",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "brother"
+                    },
+                    {
+                      "text": "grandmother",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "grandmother"
+                    }
+                  ],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700003009001",
+                      "english": "My family is small.",
+                      "russian": "Моя семья небольшая.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700003009002",
+                      "english": "I have one brother and two sisters.",
+                      "russian": "У меня один брат и две сестры.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700003009003",
+                      "english": "Her grandmother is very kind.",
+                      "russian": "Её бабушка очень добрая.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700003009004",
+                      "english": "Do you have a big family?",
+                      "russian": "У тебя большая семья?",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which word belongs to 'extended family'?",
+                      "options": [
+                        "mother",
+                        "sister",
+                        "cousin",
+                        "daughter"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which possessive belongs to 'she'?",
+                      "options": [
+                        "his",
+                        "my",
+                        "their",
+                        "her"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    },
+                    {
+                      "text": "Complete: I ___ one brother.",
+                      "options": [
+                        "has",
+                        "have",
+                        "is",
+                        "am"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "title": "Fluency & Interaction",
+  "description": "Develop the conversational fluency and interactive skills needed to engage in longer, more natural discussions: expressing opinions, agreeing and disagreeing, asking follow-up questions, and managing conversation flow. Perfect for B1 learners who want to communicate more confidently and naturally.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": false,
+  "preview_image": "Fluency & Interaction.jpeg",
+  "topics": [
+    {
+      "title": "Module 1: Expressing Opinions",
+      "subtopics": [
+        {
+          "title": "1.1 Giving and Justifying Opinions",
+          "lessons": [
+            {
+              "title": "How to Share What You Think",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700050001000,\"blocks\":[{\"id\":\"oA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Expressing opinions fluently requires more than just 'I think'. Native speakers use a range of phrases to introduce, emphasise, and justify their views.\"}},{\"id\":\"oD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Phrases for Opinions\",\"level\":3}},{\"id\":\"oG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Introducing:</b> In my opinion / To my mind / As far as I'm concerned / Personally, I think...\",\"<b>Emphasising:</b> I strongly believe / I'm absolutely convinced that...\",\"<b>Hedging:</b> I suppose / I tend to think / It seems to me that...\",\"<b>Justifying:</b> ...because / ...since / The reason I think this is... / This is mainly because...\"]}},{\"id\":\"oJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example:</b> Personally, I think remote work is very beneficial, mainly because it reduces commuting time and gives people more flexibility.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "As far as I'm concerned, learning a foreign language is one of the best things you can do. I strongly believe it opens your mind to new cultures and ways of thinking.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "In ___ opinion, social media does more harm than good. ___ I'm concerned, it's mainly because people compare themselves to others too much. I ___ believe that limiting screen time is essential.",
+                  "gaps": [
+                    { "position": 1, "answer": "my", "options": ["my", "their", "your", "his"] },
+                    { "position": 2, "answer": "As far as", "options": ["As far as", "In spite of", "Because of", "For"] },
+                    { "position": 3, "answer": "strongly", "options": ["strongly", "rarely", "hardly", "almost"] }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase introduces a personal opinion?",
+                      "options": ["According to scientists...", "Personally, I think...", "It has been proven that...", "Studies show that..."],
+                      "correctOptions": [1]
+                    },
+                    {
+                      "text": "Which word best connects an opinion to its reason?",
+                      "options": ["although", "despite", "because", "unless"],
+                      "correctOptions": [2]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Agreeing and Disagreeing",
+          "lessons": [
+            {
+              "title": "Polite Agreement and Disagreement",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700050002000,\"blocks\":[{\"id\":\"agA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English conversation, it's important to agree and disagree politely. Direct disagreement can seem rude. Use these phrases to keep the conversation friendly.\"}},{\"id\":\"agD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Agreeing\",\"level\":3}},{\"id\":\"agG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Exactly! / Absolutely! / That's a good point.</b>\",\"<b>I couldn't agree more.</b>\",\"<b>You're absolutely right.</b>\",\"<b>I think so too.</b>\"]}},{\"id\":\"agJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Disagreeing Politely\",\"level\":3}},{\"id\":\"agM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I see your point, but...</b>\",\"<b>That's true to some extent, but...</b>\",\"<b>I'm not sure I agree with that.</b>\",\"<b>Actually, I think it's slightly different...</b>\",\"<b>I take your point, however...\"]}},{\"id\":\"agN1oP2qQ3r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tip:</b> Softening words like <em>a bit</em>, <em>slightly</em>, <em>to some extent</em>, and <em>not entirely</em> make disagreements sound much more polite.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    { "id": "pair_1", "left": "I couldn't agree more.", "right": "Strong agreement" },
+                    { "id": "pair_2", "left": "I see your point, but...", "right": "Polite disagreement" },
+                    { "id": "pair_3", "left": "That's a good point.", "right": "Mild agreement" },
+                    { "id": "pair_4", "left": "I'm not sure I agree.", "right": "Tentative disagreement" },
+                    { "id": "pair_5", "left": "Absolutely!", "right": "Enthusiastic agreement" }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Someone says: 'Fast food is terrible for your health.' You want to politely disagree. Which response is best?",
+                      "options": ["No, you're wrong!", "That's stupid.", "I see your point, but it depends on how often you eat it.", "You're completely mistaken."],
+                      "correctOptions": [2]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Managing Conversation",
+      "subtopics": [
+        {
+          "title": "2.1 Asking Follow-Up Questions",
+          "lessons": [
+            {
+              "title": "Keeping Conversations Going",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700050003000,\"blocks\":[{\"id\":\"fqA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Good conversationalists don't just answer questions — they ask follow-up questions to show interest and keep the conversation flowing naturally.\"}},{\"id\":\"fqD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Types of Follow-Up Questions\",\"level\":3}},{\"id\":\"fqG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Clarifying:</b> What do you mean exactly? / Could you explain that a bit more?\",\"<b>Elaborating:</b> Really? What happened then? / And how did that make you feel?\",\"<b>Checking understanding:</b> So, are you saying that...? / If I understand you correctly...\",\"<b>Showing interest:</b> That's interesting! / Wow, I didn't know that.\"]}},{\"id\":\"fqJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example exchange:</b><br>A: I used to work in Japan for two years.<br>B: Really? What was that like? What did you do there?\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I've just come back from a hiking trip in the mountains. Really? That sounds amazing! How long were you there for? And did you go alone or with friends?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A friend says: 'I had a really bad day.' Which is the best follow-up question?",
+                      "options": ["Oh.", "OK.", "Really? What happened?", "That's your fault."],
+                      "correctOptions": [2]
+                    },
+                    {
+                      "text": "Which phrase checks if you have understood correctly?",
+                      "options": ["What do you mean?", "So, are you saying that you prefer working from home?", "I see.", "Tell me more."],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Discussion Topics",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Discussing Advantages and Disadvantages",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700050004000,\"blocks\":[{\"id\":\"adA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A very common task in speaking tests and everyday conversation is to discuss the pros and cons of an issue. Here is the language you need.\"}},{\"id\":\"adD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Presenting Advantages\",\"level\":3}},{\"id\":\"adG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>One of the main advantages is...</b>\",\"<b>A major benefit of this is...</b>\",\"<b>It has the advantage of...</b>\"]}},{\"id\":\"adJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Presenting Disadvantages\",\"level\":3}},{\"id\":\"adM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>On the other hand...</b>\",\"<b>One drawback is that...</b>\",\"<b>However, there is a downside...</b>\"]}},{\"id\":\"adN1oP2qQ3r\",\"type\":\"header\",\"data\":{\"text\":\"Reaching a Conclusion\",\"level\":3}},{\"id\":\"adO2pP3qQ4r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>On balance, I think...</b>\",\"<b>All things considered...</b>\",\"<b>Taking everything into account...</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "phrases",
+              "phrases": [
+                { "text": "One of the main advantages is the flexibility.", "translation": "Одним из главных преимуществ является гибкость." },
+                { "text": "On the other hand, it can be very expensive.", "translation": "С другой стороны, это может быть очень дорого." },
+                { "text": "All things considered, I think it's worth it.", "translation": "Взвесив всё, я думаю, оно того стоит." },
+                { "text": "One drawback is that it takes a lot of time.", "translation": "Одним из недостатков является то, что это занимает много времени." }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "fill-gaps",
+              "text": "Living in a big city has many benefits. ___ the main advantages is easy access to jobs and culture. ___ the other hand, cities can be expensive and noisy. ___ balance, I think city life suits me.",
+              "gaps": [
+                { "position": 1, "answer": "One of", "options": ["One of", "Some of", "Most of", "All of"] },
+                { "position": 2, "answer": "On", "options": ["On", "In", "At", "By"] },
+                { "position": 3, "answer": "On", "options": ["On", "In", "At", "By"] }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

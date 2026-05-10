@@ -1,0 +1,152 @@
+{
+  "title": "Sports & Fitness Talk",
+  "description": "Learn the vocabulary to talk about your favourite sports, describe physical activities, discuss match results, and chat about health and fitness. Designed for A2 learners who want to join sports conversations with ease.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Sports & Fitness Talk.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Sport Vocabulary",
+      "subtopics": [
+        {
+          "title": "1.1 Types of Sport",
+          "lessons": [
+            {
+              "title": "Team Sports vs Individual Sports",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700040001000,\"blocks\":[{\"id\":\"sA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"English has specific verbs for different sports. You <b>play</b> team sports with a ball, you <b>go</b> to activities ending in -ing, and you <b>do</b> other sports.\"}},{\"id\":\"sD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"play / go / do\",\"level\":3}},{\"id\":\"sG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>PLAY:</b> football, tennis, basketball, volleyball, golf, chess\",\"<b>GO:</b> swimming, cycling, running, hiking, skiing, jogging\",\"<b>DO:</b> yoga, karate, gymnastics, athletics, aerobics\"]}},{\"id\":\"sJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Note:</b> Some sports can use two verbs — e.g. 'go boxing' and 'do boxing' are both acceptable.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "categorization",
+                  "categories": [
+                    { "id": "cat1", "name": "PLAY", "color": "#1976d2" },
+                    { "id": "cat2", "name": "GO", "color": "#d32f2f" },
+                    { "id": "cat3", "name": "DO", "color": "#388e3c" }
+                  ],
+                  "items": [
+                    { "text": "football", "correctCategory": "cat1" },
+                    { "text": "tennis", "correctCategory": "cat1" },
+                    { "text": "basketball", "correctCategory": "cat1" },
+                    { "text": "swimming", "correctCategory": "cat2" },
+                    { "text": "cycling", "correctCategory": "cat2" },
+                    { "text": "running", "correctCategory": "cat2" },
+                    { "text": "yoga", "correctCategory": "cat3" },
+                    { "text": "gymnastics", "correctCategory": "cat3" },
+                    { "text": "karate", "correctCategory": "cat3" }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": ["I do tennis every Saturday.", "I go tennis every Saturday.", "I play tennis every Saturday.", "I make tennis every Saturday."],
+                      "correctOptions": [2]
+                    },
+                    {
+                      "text": "Which verb is correct? 'She ___ swimming three times a week.'",
+                      "options": ["plays", "goes", "does", "makes"],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Talking About a Match",
+          "lessons": [
+            {
+              "title": "Scores, Results and Reactions",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700040002000,\"blocks\":[{\"id\":\"mA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Did you watch the game? Can you talk about what happened? Let's learn how to describe sporting events.\"}},{\"id\":\"mD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Results Vocabulary\",\"level\":3}},{\"id\":\"mG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>win / beat</b> — победить / обыграть\",\"<b>lose</b> — проиграть\",\"<b>draw / tie</b> — сыграть вничью\",\"<b>score a goal / point</b> — забить гол / набрать очко\",\"<b>The final score was 3–1.</b> — Финальный счёт был 3–1.\"]}},{\"id\":\"mJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Reactions\",\"level\":3}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>What a game!</b> — Вот это игра!\",\"<b>That was brilliant / terrible!</b>\",\"<b>Did you see that goal?</b>\",\"<b>I can't believe they lost!</b>\",\"<b>They played really well / badly.</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    { "text": "England beat France 2–0.", "translation": "Англия обыграла Францию со счётом 2:0." },
+                    { "text": "The game ended in a draw.", "translation": "Игра завершилась вничью." },
+                    { "text": "He scored in the last minute!", "translation": "Он забил на последней минуте!" },
+                    { "text": "Did you watch the match last night?", "translation": "Ты смотрел вчера матч?" }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "Spain ___ Germany 3–1 in the final. It was an amazing game! Rodriguez ___ two goals in the first half. At the end everyone was ___ because Spain played so well.",
+                  "gaps": [
+                    { "position": 1, "answer": "beat", "options": ["beat", "won", "played", "lost"] },
+                    { "position": 2, "answer": "scored", "options": ["scored", "did", "made", "had"] },
+                    { "position": 3, "answer": "excited", "options": ["excited", "bored", "sleeping", "running"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Health and Fitness",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Keeping Fit: Habits and Goals",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700040003000,\"blocks\":[{\"id\":\"fA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Many people talk about fitness goals and healthy habits. Let's learn how to discuss keeping fit in English.\"}},{\"id\":\"fD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Fitness Vocabulary\",\"level\":3}},{\"id\":\"fG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>work out</b> — тренироваться\",\"<b>warm up / cool down</b> — разминаться / восстанавливаться\",\"<b>stretch</b> — растягиваться\",\"<b>build muscle</b> — наращивать мышцы\",\"<b>lose weight</b> — сбросить вес\",\"<b>get fit</b> — привести себя в форму\",\"<b>stay active</b> — оставаться активным\"]}},{\"id\":\"fJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Talking About Routines\",\"level\":3}},{\"id\":\"fM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I work out three times a week.</b>\",\"<b>My goal is to run a 5K.</b>\",\"<b>I've started going to the gym.</b>\",\"<b>I try to stay active every day.</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I try to work out at least three times a week. I usually go running in the morning and do yoga in the evening. My goal is to run a half marathon by the end of the year.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                { "id": "pair_1", "left": "warm up", "right": "do light exercise before the main workout" },
+                { "id": "pair_2", "left": "stretch", "right": "lengthen your muscles" },
+                { "id": "pair_3", "left": "lose weight", "right": "become lighter / slimmer" },
+                { "id": "pair_4", "left": "work out", "right": "do physical exercise" },
+                { "id": "pair_5", "left": "stay active", "right": "keep moving and exercising regularly" }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence correctly describes a fitness goal?",
+                  "options": ["My goal is run a 5K.", "My goal is to run a 5K.", "My goal to running a 5K.", "My goal to run a 5K."],
+                  "correctOptions": [1]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1380 @@
+{
+  "title": "Home & Living",
+  "description": "Covers rooms and furniture vocabulary, describing your home, household chores, and asking about accommodation. Suited for elementary learners who want to talk about where they live.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Home & Living.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Rooms of the House",
+      "subtopics": [
+        {
+          "title": "1.1 Rooms Vocabulary",
+          "lessons": [
+            {
+              "title": "Names of Rooms",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000501000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"A house or apartment has different <b>rooms</b>. Learn the names:\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>living room</b> — гостиная\",\"<b>bedroom</b> — спальня\",\"<b>kitchen</b> — кухня\",\"<b>bathroom</b> — ванная комната\",\"<b>toilet / WC</b> — туалет\",\"<b>dining room</b> — столовая\",\"<b>hallway / corridor</b> — прихожая / коридор\",\"<b>study / home office</b> — кабинет\",\"<b>balcony</b> — балкон\",\"<b>basement</b> — подвал\",\"<b>attic</b> — чердак\",\"<b>garage</b> — гараж\"]}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Note: In British English, 'bathroom' often includes the toilet. In American English, they may be separate rooms.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I sleep in the bedroom.",
+                      "translation": "Я сплю в спальне."
+                    },
+                    {
+                      "text": "We cook in the kitchen.",
+                      "translation": "Мы готовим на кухне."
+                    },
+                    {
+                      "text": "She reads in the study.",
+                      "translation": "Она читает в кабинете."
+                    },
+                    {
+                      "text": "The car is in the garage.",
+                      "translation": "Машина в гараже."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "living room",
+                      "right": "гостиная"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "bedroom",
+                      "right": "спальня"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "kitchen",
+                      "right": "кухня"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "bathroom",
+                      "right": "ванная комната"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "dining room",
+                      "right": "столовая"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "My flat has a living room, two bedrooms, a kitchen, and a bathroom.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "bedroom",
+                    "kitchen",
+                    "bathroom",
+                    "hallway"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Where do you cook food?",
+                      "options": [
+                        "bedroom",
+                        "kitchen",
+                        "bathroom",
+                        "garage"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Where do you sleep?",
+                      "options": [
+                        "living room",
+                        "study",
+                        "bedroom",
+                        "hallway"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What is an 'attic'?",
+                      "options": [
+                        "A room underground",
+                        "A space under the roof",
+                        "A large garage",
+                        "An outdoor area"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "What We Do in Each Room",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000502000,\"blocks\":[{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Each room has a <b>purpose</b>. We use prepositions <b>in</b> and <b>at</b> with rooms:\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I watch TV <b>in the living room</b>.\",\"She cooks <b>in the kitchen</b>.\",\"He sleeps <b>in the bedroom</b>.\",\"We eat <b>in the dining room</b>.\",\"I work <b>in the study</b>.\",\"She takes a shower <b>in the bathroom</b>.\"]}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"You can also describe a room:\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"The living room is <b>large and bright</b>.\",\"The bedroom is <b>small but cosy</b>.\",\"The kitchen is <b>modern</b>.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I watch TV in the living room. She cooks in the kitchen. The bedroom is small but cosy.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "I sleep [in] the bedroom. We cook [in] the kitchen. She reads [in] the study. The children play [in] the living room. He takes a shower [in] the bathroom.",
+                  "gaps": [
+                    {
+                      "placeholder": "in",
+                      "answers": [
+                        "in"
+                      ]
+                    },
+                    {
+                      "placeholder": "in",
+                      "answers": [
+                        "in"
+                      ]
+                    },
+                    {
+                      "placeholder": "in",
+                      "answers": [
+                        "in"
+                      ]
+                    },
+                    {
+                      "placeholder": "in",
+                      "answers": [
+                        "in"
+                      ]
+                    },
+                    {
+                      "placeholder": "in",
+                      "answers": [
+                        "in"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Action done there",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Room",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "cooking food",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "kitchen",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "sleeping",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "bedroom",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "watching TV",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "living room",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "I cook at the kitchen.",
+                        "I cook in the kitchen.",
+                        "I cook on the kitchen.",
+                        "I cook for the kitchen."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you describe a room that has a lot of space?",
+                      "options": [
+                        "tiny",
+                        "cosy",
+                        "spacious",
+                        "noisy"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Furniture and Objects",
+      "subtopics": [
+        {
+          "title": "2.1 Living Room and Bedroom Furniture",
+          "lessons": [
+            {
+              "title": "Furniture Vocabulary",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000503000,\"blocks\":[{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here is the key <b>furniture vocabulary</b> for the main rooms:\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Living room:</b>\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>sofa / couch</b> — диван\",\"<b>armchair</b> — кресло\",\"<b>coffee table</b> — журнальный столик\",\"<b>bookshelf</b> — книжная полка\",\"<b>television / TV</b> — телевизор\",\"<b>curtains</b> — шторы\",\"<b>carpet / rug</b> — ковёр\"]}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Bedroom:</b>\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>bed</b> — кровать\",\"<b>wardrobe / closet</b> — шкаф для одежды\",\"<b>bedside table</b> — тумбочка\",\"<b>mirror</b> — зеркало\",\"<b>lamp</b> — лампа\",\"<b>pillow</b> — подушка\",\"<b>blanket</b> — одеяло\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "There is a sofa in the living room.",
+                      "translation": "В гостиной есть диван."
+                    },
+                    {
+                      "text": "My wardrobe is full of clothes.",
+                      "translation": "Мой шкаф полон одежды."
+                    },
+                    {
+                      "text": "I have a lamp on my bedside table.",
+                      "translation": "На тумбочке у меня стоит лампа."
+                    },
+                    {
+                      "text": "The curtains are blue.",
+                      "translation": "Шторы синего цвета."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "sofa",
+                      "right": "диван"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "wardrobe",
+                      "right": "шкаф для одежды"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "bookshelf",
+                      "right": "книжная полка"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "mirror",
+                      "right": "зеркало"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "curtains",
+                      "right": "шторы"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "In the living room there is a sofa and a coffee table. In the bedroom there is a bed and a wardrobe.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Living Room",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Bedroom",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "sofa",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "bed",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "coffee table",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "wardrobe",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "curtains",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "pillow",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "sofa",
+                    "wardrobe",
+                    "mirror",
+                    "curtains"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A 'wardrobe' is used for ___.",
+                      "options": [
+                        "sleeping",
+                        "storing clothes",
+                        "watching TV",
+                        "cooking"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Where would you typically find a 'coffee table'?",
+                      "options": [
+                        "bedroom",
+                        "bathroom",
+                        "living room",
+                        "kitchen"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Kitchen and Bathroom Items",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000504000,\"blocks\":[{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Kitchen items:</b>\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>fridge / refrigerator</b> — холодильник\",\"<b>oven</b> — духовка\",\"<b>microwave</b> — микроволновка\",\"<b>kettle</b> — чайник\",\"<b>sink</b> — раковина\",\"<b>dishwasher</b> — посудомоечная машина\",\"<b>cupboard</b> — шкафчик (навесной)\"]}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Bathroom items:</b>\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>bath / bathtub</b> — ванна\",\"<b>shower</b> — душ\",\"<b>toilet</b> — унитаз\",\"<b>tap / faucet</b> — кран\",\"<b>towel</b> — полотенце\",\"<b>soap</b> — мыло\",\"<b>toothbrush</b> — зубная щётка\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "fridge",
+                      "right": "холодильник"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "kettle",
+                      "right": "чайник"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "sink",
+                      "right": "раковина"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "towel",
+                      "right": "полотенце"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "shower",
+                      "right": "душ"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "I put the food in the fridge. I boil water in the kettle. I wash my hands at the sink.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "fridge",
+                        "oven",
+                        "microwave",
+                        "sofa"
+                      ],
+                      "correctWord": "sofa"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What do you use to keep food cold?",
+                      "options": [
+                        "oven",
+                        "fridge",
+                        "microwave",
+                        "dishwasher"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What is a 'kettle' used for?",
+                      "options": [
+                        "Washing dishes",
+                        "Heating water",
+                        "Cooling food",
+                        "Cooking meat"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Describing Your Home",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Adjectives for Describing Homes",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000505000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Use these <b>adjectives</b> to describe your home:\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Size:</b> large, big, small, tiny, spacious\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Condition:</b> modern, old, new, comfortable, cosy, elegant\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Location:</b> central, quiet, noisy, near the city centre, in the suburbs\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Type of home:</b>\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>flat / apartment</b> — квартира\",\"<b>house</b> — дом\",\"<b>semi-detached house</b> — дом на два хозяина\",\"<b>terraced house</b> — дом в ряду\",\"<b>studio</b> — студия\"]}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example:</b> <em>I live in a <b>small, cosy flat</b> in the city centre. It has two bedrooms and a <b>modern kitchen</b>.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I live in a small cosy flat in the city centre. It has two bedrooms and a modern kitchen.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "A very small flat with one room",
+                  "word": "studio"
+                },
+                {
+                  "hint": "Having a lot of space",
+                  "word": "spacious"
+                },
+                {
+                  "hint": "Warm and comfortable feeling",
+                  "word": "cosy"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "I live in a [small] flat in the city [centre]. It has two [bedrooms] and a modern [kitchen]. The living room is [cosy] and bright. I really like my [home].",
+              "gaps": [
+                {
+                  "placeholder": "small",
+                  "answers": [
+                    "small",
+                    "big",
+                    "large"
+                  ]
+                },
+                {
+                  "placeholder": "centre",
+                  "answers": [
+                    "centre",
+                    "center"
+                  ]
+                },
+                {
+                  "placeholder": "bedrooms",
+                  "answers": [
+                    "bedrooms"
+                  ]
+                },
+                {
+                  "placeholder": "kitchen",
+                  "answers": [
+                    "kitchen"
+                  ]
+                },
+                {
+                  "placeholder": "cosy",
+                  "answers": [
+                    "cosy",
+                    "cozy",
+                    "comfortable"
+                  ]
+                },
+                {
+                  "placeholder": "home",
+                  "answers": [
+                    "home",
+                    "flat",
+                    "apartment"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000505001",
+                  "english": "I live in a cosy flat.",
+                  "russian": "Я живу в уютной квартире.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000505002",
+                  "english": "The house has a large garden.",
+                  "russian": "У дома есть большой сад.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000505003",
+                  "english": "My bedroom is small but comfortable.",
+                  "russian": "Моя спальня маленькая, но удобная.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000505004",
+                  "english": "The kitchen is modern and bright.",
+                  "russian": "Кухня современная и светлая.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "A 'semi-detached house' is ___.",
+                  "options": [
+                    "a flat",
+                    "a house shared by two families with one shared wall",
+                    "a very large mansion",
+                    "a studio apartment"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "How do you describe a home that has lots of space?",
+                  "options": [
+                    "tiny",
+                    "noisy",
+                    "spacious",
+                    "furnished"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "There is / There are — Describing Rooms",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000506000,\"blocks\":[{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use <b>there is</b> and <b>there are</b> to say what exists in a place:\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>There is</b> + singular noun: <em>There is a sofa in the living room.</em>\",\"<b>There are</b> + plural noun: <em>There are two chairs in the kitchen.</em>\",\"<b>There isn't</b> + singular: <em>There isn't a dishwasher.</em>\",\"<b>There aren't</b> + plural: <em>There aren't any curtains.</em>\"]}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Questions:</b>\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em><b>Is there</b> a garden?</em> — Yes, there is. / No, there isn't.\",\"<em><b>Are there</b> any wardrobes?</em> — Yes, there are. / No, there aren't.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "There is a sofa in the living room. There are two chairs in the kitchen. Is there a garden?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "There is two chairs in the kitchen.",
+                  "correctText": "There are two chairs in the kitchen."
+                },
+                {
+                  "text": "There are a sofa in the room.",
+                  "correctText": "There is a sofa in the room."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "___ a big sofa in the living room.",
+                  "answers": [
+                    "There is",
+                    "There are",
+                    "Is there"
+                  ]
+                },
+                {
+                  "sentence": "___ three windows in the bedroom.",
+                  "answers": [
+                    "There are",
+                    "There is",
+                    "Are there"
+                  ]
+                },
+                {
+                  "sentence": "___ a garden? — Yes, there is.",
+                  "answers": [
+                    "Is there",
+                    "Are there",
+                    "There is"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000506001",
+                  "english": "There is a sofa in the living room.",
+                  "russian": "В гостиной есть диван.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000506002",
+                  "english": "There are two bathrooms in the flat.",
+                  "russian": "В квартире две ванные комнаты.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000506003",
+                  "english": "Is there a garden?",
+                  "russian": "Есть ли сад?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000506004",
+                  "english": "There aren't any curtains.",
+                  "russian": "Штор нет.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Complete: '___ two bathrooms in the flat.'",
+                  "options": [
+                    "There is",
+                    "There are",
+                    "Is there",
+                    "Are there"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "How do you ask about a garden?",
+                  "options": [
+                    "There is a garden?",
+                    "Is there a garden?",
+                    "Are there garden?",
+                    "There is garden?"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Household Chores",
+      "subtopics": [
+        {
+          "title": "4.1 Chores Vocabulary",
+          "lessons": [
+            {
+              "title": "Common Household Chores",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000507000,\"blocks\":[{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Household chores</b> are the jobs we do at home. Here are the most common ones:\"}},{\"id\":\"oP5qR6sT7u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>clean the house</b> — убирать дом\",\"<b>vacuum (the carpet)</b> — пылесосить (ковёр)\",\"<b>mop the floor</b> — мыть пол шваброй\",\"<b>do the washing / laundry</b> — стирать\",\"<b>iron clothes</b> — гладить одежду\",\"<b>wash the dishes</b> — мыть посуду\",\"<b>cook a meal</b> — готовить еду\",\"<b>take out the rubbish</b> — выносить мусор\",\"<b>water the plants</b> — поливать растения\",\"<b>make the bed</b> — застелить кровать\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I vacuum the carpet every week.",
+                      "translation": "Я пылесошу ковёр каждую неделю."
+                    },
+                    {
+                      "text": "She irons clothes on Sundays.",
+                      "translation": "Она гладит одежду по воскресеньям."
+                    },
+                    {
+                      "text": "He takes out the rubbish.",
+                      "translation": "Он выносит мусор."
+                    },
+                    {
+                      "text": "We share the household chores.",
+                      "translation": "Мы делим домашние обязанности."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "vacuum the carpet",
+                      "right": "пылесосить ковёр"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "iron clothes",
+                      "right": "гладить одежду"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "take out the rubbish",
+                      "right": "выносить мусор"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "water the plants",
+                      "right": "поливать растения"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "make the bed",
+                      "right": "застелить кровать"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "On Saturdays I vacuum the carpet and mop the floor. I always make the bed in the morning.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Daily Chores",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Weekly Chores",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "make the bed",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "wash the dishes",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "vacuum the carpet",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "cook a meal",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "iron clothes",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "clean the house",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "vacuum",
+                    "laundry",
+                    "rubbish",
+                    "dishes"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What do you do when you 'take out the rubbish'?",
+                      "options": [
+                        "You clean the floor",
+                        "You put rubbish in the bin outside",
+                        "You wash the dishes",
+                        "You iron clothes"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which chore do you do every morning?",
+                      "options": [
+                        "vacuum the carpet",
+                        "iron clothes",
+                        "make the bed",
+                        "mop the floor"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking About Chores",
+              "weight": 8,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000508000,\"blocks\":[{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"We can talk about chores using these structures:\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Present Simple (habits):</b>\"}},{\"id\":\"jK4lM5nO6p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>vacuum</b> every Saturday.\",\"She <b>does</b> the laundry on Sundays.\"]}},{\"id\":\"qR7sT8uV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Have to (obligation):</b>\"}},{\"id\":\"xY0zA1bC2d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>have to</b> clean the bathroom today. — Мне нужно убрать ванную сегодня.\",\"He <b>has to</b> take out the rubbish.\"]}},{\"id\":\"eF3gH4iJ5k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sharing chores:</b>\"}},{\"id\":\"lM6nO7pQ8r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>do</b> the cooking. My partner <b>does</b> the dishes.\",\"We <b>take turns</b> vacuuming. — Мы пылесосим по очереди.\",\"We <b>share</b> the household chores.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I have to clean the kitchen today. We take turns vacuuming the carpet.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "She ___ to clean her room every week.",
+                      "answers": [
+                        "has",
+                        "have",
+                        "must"
+                      ]
+                    },
+                    {
+                      "sentence": "We ___ turns doing the dishes.",
+                      "answers": [
+                        "take",
+                        "do",
+                        "make"
+                      ]
+                    },
+                    {
+                      "sentence": "He always ___ the laundry on Sundays.",
+                      "answers": [
+                        "does",
+                        "do",
+                        "makes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I have to cleans the bathroom.",
+                      "correctText": "I have to clean the bathroom."
+                    },
+                    {
+                      "text": "She do the laundry.",
+                      "correctText": "She does the laundry."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000508001",
+                      "english": "I have to clean the kitchen today.",
+                      "russian": "Мне нужно убрать кухню сегодня.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000508002",
+                      "english": "We share the household chores.",
+                      "russian": "Мы делим домашние обязанности.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000508003",
+                      "english": "She vacuums every Saturday.",
+                      "russian": "Она пылесосит каждую субботу.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000508004",
+                      "english": "He takes out the rubbish.",
+                      "russian": "Он выносит мусор.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "I have clean the bathroom.",
+                        "I has to clean the bathroom.",
+                        "I have to clean the bathroom.",
+                        "I must to clean the bathroom."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "'We take turns vacuuming' means ___.",
+                      "options": [
+                        "we both vacuum at the same time",
+                        "we vacuum in turn, one after the other",
+                        "we never vacuum",
+                        "only one person vacuums"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Asking About Accommodation",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Renting and Finding a Home",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000509000,\"blocks\":[{\"id\":\"sT9uV0wX1y\",\"type\":\"paragraph\",\"data\":{\"text\":\"When looking for a place to live, you need these words and phrases:\"}},{\"id\":\"zA2bC3dE4f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key vocabulary:</b>\"}},{\"id\":\"gH5iJ6kL7m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>rent</b> — аренда / арендовать\",\"<b>landlord</b> — домовладелец\",\"<b>tenant</b> — арендатор\",\"<b>deposit</b> — залог\",\"<b>furnished / unfurnished</b> — меблированный / немеблированный\",\"<b>bills included</b> — счета включены\",\"<b>available</b> — свободен (доступен)\"]}},{\"id\":\"nO8pQ9rS0t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful questions:</b>\"}},{\"id\":\"uV1wX2yZ3a\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"How much is the <b>rent</b> per month? — Сколько стоит аренда в месяц?\",\"Is it <b>furnished</b>? — Он меблированный?\",\"Are <b>bills</b> included? — Счета включены?\",\"When is it <b>available</b>? — Когда он свободен?\",\"How many <b>rooms</b> are there? — Сколько комнат?\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "How much is the rent per month? Is the flat furnished? Are bills included?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The person who owns the property you rent",
+                  "word": "landlord"
+                },
+                {
+                  "hint": "Money paid in advance as security",
+                  "word": "deposit"
+                },
+                {
+                  "hint": "A flat with furniture already inside",
+                  "word": "furnished"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A: How much is the [rent] per month? B: It's 800 dollars. [Bills] are included. A: Is the flat [furnished]? B: Yes, it has a sofa and a bed. A: Great! When is it [available]? B: From next Monday.",
+              "gaps": [
+                {
+                  "placeholder": "rent",
+                  "answers": [
+                    "rent"
+                  ]
+                },
+                {
+                  "placeholder": "Bills",
+                  "answers": [
+                    "Bills"
+                  ]
+                },
+                {
+                  "placeholder": "furnished",
+                  "answers": [
+                    "furnished"
+                  ]
+                },
+                {
+                  "placeholder": "available",
+                  "answers": [
+                    "available"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "A 'furnished flat' means:",
+                  "options": [
+                    "A flat with no furniture",
+                    "A flat with furniture included",
+                    "A flat that is very cheap",
+                    "A flat near the city"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "What does 'bills included' mean?",
+                  "options": [
+                    "You pay extra for electricity and water",
+                    "Electricity and water are part of the rent",
+                    "Only the phone bill is included",
+                    "Bills are free"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Describing Where You Live",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000510000,\"blocks\":[{\"id\":\"bC4dE5fG6h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here is how to describe <b>where you live</b> in a complete way:\"}},{\"id\":\"iJ7kL8mN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Type of home:</b> I live in a flat / house / studio.\"}},{\"id\":\"pQ0rS1tU2v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Location:</b> It is in the city centre / in the suburbs / near the park.\"}},{\"id\":\"wX3yZ4aB5c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Size:</b> It is large / small / spacious / tiny.\"}},{\"id\":\"dE6fG7hI8j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Rooms:</b> It has two bedrooms, a living room, a kitchen, and a bathroom.\"}},{\"id\":\"kL9mN0oP1q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Features:</b> There is a balcony / garden / parking space.\"}},{\"id\":\"rS2tU3vW4x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example answer:</b>\"}},{\"id\":\"yZ5aB6cD7e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>I live in a <b>two-bedroom flat</b> in the suburbs. It is quite <b>spacious</b> and modern. There is a <b>balcony</b> and the kitchen is very large. I really enjoy living there because it is <b>quiet</b> and comfortable.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Describe where you live",
+                "targetPhrase": "I live in a small flat in the city centre. It has two bedrooms and a modern kitchen."
+              }
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "I live in a two-bedroom flat in the suburbs. It is spacious and modern with a balcony.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000510001",
+                  "english": "I live in a flat in the city centre.",
+                  "russian": "Я живу в квартире в центре города.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000510002",
+                  "english": "The flat has two bedrooms.",
+                  "russian": "В квартире две спальни.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000510003",
+                  "english": "There is a balcony with a great view.",
+                  "russian": "Есть балкон с прекрасным видом.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000510004",
+                  "english": "It is a quiet and comfortable area.",
+                  "russian": "Это тихий и уютный район.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "spacious",
+                    "cosy",
+                    "modern",
+                    "vacuum"
+                  ],
+                  "correctWord": "vacuum"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase describes WHERE you live?",
+                  "options": [
+                    "It has a sofa.",
+                    "I live near the park.",
+                    "The kitchen is modern.",
+                    "There are two beds."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "How do you describe a home that has lots of space?",
+                  "options": [
+                    "tiny",
+                    "noisy",
+                    "spacious",
+                    "furnished"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "title": "Study Skills & First Jobs",
+  "description": "Prepare for academic study and entering the job market in English: writing CVs and cover letters, performing in job interviews, taking effective notes, and managing academic tasks. Designed for B1 learners who are studying or beginning their professional careers.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": true,
+  "preview_image": "Study Skills & First Jobs.jpeg",
+  "topics": [
+    {
+      "title": "Module 1: Studying in English",
+      "subtopics": [
+        {
+          "title": "1.1 Academic Vocabulary",
+          "lessons": [
+            {
+              "title": "Words Every Student Needs",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700070001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Academic English is slightly different from everyday English. Universities and courses use specific vocabulary for tasks and assignments.\"}},{\"id\":\"aD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Common Academic Task Words\",\"level\":3}},{\"id\":\"aG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>analyse</b> — examine in detail\",\"<b>evaluate</b> — judge the value or quality of\",\"<b>summarise</b> — give the main points briefly\",\"<b>compare</b> — show similarities and differences\",\"<b>argue / justify</b> — give reasons for\",\"<b>describe</b> — say what something is like\",\"<b>discuss</b> — present different points of view\"]}},{\"id\":\"aJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Assignment Types\",\"level\":3}},{\"id\":\"aM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>essay</b> — эссе\",\"<b>report</b> — доклад / отчёт\",\"<b>presentation</b> — презентация\",\"<b>research paper</b> — научная работа\",\"<b>case study</b> — разбор конкретного случая\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "analyse",
+                      "right": "examine something in detail"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "evaluate",
+                      "right": "judge the strengths and weaknesses"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "summarise",
+                      "right": "express the main points briefly"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "compare",
+                      "right": "show similarities and differences"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "justify",
+                      "right": "give reasons to support a position"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Your tutor asks you to 'evaluate' a text. What should you do?",
+                      "options": [
+                        "Translate it into your language",
+                        "Judge its strengths and weaknesses",
+                        "Copy the main sentences",
+                        "Find the author's name"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Note-Taking",
+          "lessons": [
+            {
+              "title": "Strategies for Effective Notes",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700070002000,\"blocks\":[{\"id\":\"ntA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Good notes help you study more effectively. The key is to record the <em>main ideas</em>, not every word.\"}},{\"id\":\"ntD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Note-Taking Tips\",\"level\":3}},{\"id\":\"ntG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"Use <b>abbreviations</b>: e.g., w/ (with), b/c (because), → (leads to), + (and/plus)\",\"Write <b>key words</b> only, not full sentences\",\"Use <b>bullet points</b> and <b>numbered lists</b> for clarity\",\"<b>Highlight</b> definitions and examples\",\"<b>Review</b> your notes within 24 hours to improve retention\"]}},{\"id\":\"ntJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Useful Lecture Phrases to Listen For\",\"level\":3}},{\"id\":\"ntM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>'The main point is...'</b> — write this down!\",\"<b>'In other words...'</b> — a simpler explanation follows\",\"<b>'This is important...'</b> — likely to be in the exam\",\"<b>'To summarise...'</b> — the end of a section\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is the best note-taking strategy?",
+                      "options": [
+                        "Write every single word",
+                        "Record key words and main ideas only",
+                        "Draw pictures instead of words",
+                        "Copy the textbook"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "A lecturer says 'The main point is...' What should you do?",
+                      "options": [
+                        "Stop listening",
+                        "Write this information down carefully",
+                        "Check your phone",
+                        "Start a new page"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Your First Job",
+      "subtopics": [
+        {
+          "title": "2.1 Writing a CV",
+          "lessons": [
+            {
+              "title": "CV Structure and Key Language",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700070003000,\"blocks\":[{\"id\":\"cvA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A CV (curriculum vitae) is a document that summarises your education, experience, and skills. In the UK, a standard CV is 1–2 pages.\"}},{\"id\":\"cvD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Sections of a CV\",\"level\":3}},{\"id\":\"cvG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Personal details</b> — name, email, phone, location (no photo needed in UK)\",\"<b>Personal statement / profile</b> — 2–3 sentences about you and your goals\",\"<b>Work experience</b> — most recent job first\",\"<b>Education</b> — most recent qualification first\",\"<b>Skills</b> — languages, IT skills, etc.\",\"<b>References</b> — 'Available on request' is acceptable\"]}},{\"id\":\"cvJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Power Verbs for a CV\",\"level\":3}},{\"id\":\"cvM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"managed, led, developed, achieved, improved, coordinated, delivered, supported\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "guessItems": [
+                    {
+                      "hint": "руководил(а)",
+                      "word": "managed"
+                    },
+                    {
+                      "hint": "достиг(ла)",
+                      "word": "achieved"
+                    },
+                    {
+                      "hint": "координировал(а)",
+                      "word": "coordinated"
+                    },
+                    {
+                      "hint": "реализовал(а); обеспечил(а)",
+                      "word": "delivered"
+                    },
+                    {
+                      "hint": "улучшил(а)",
+                      "word": "improved"
+                    }
+                  ],
+                  "oddItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Job Interviews",
+          "lessons": [
+            {
+              "title": "Common Interview Questions and Answers",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700070004000,\"blocks\":[{\"id\":\"jiA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Job interviews in English follow predictable patterns. Practising your answers to common questions will help you perform much better.\"}},{\"id\":\"jiD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Common Questions\",\"level\":3}},{\"id\":\"jiG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Tell me about yourself.</b> — Give a 2-minute professional summary.\",\"<b>Why do you want this job?</b> — Show you've researched the company.\",\"<b>What are your strengths and weaknesses?</b> — Be honest and balanced.\",\"<b>Where do you see yourself in five years?</b> — Show ambition but be realistic.\",\"<b>Do you have any questions for us?</b> — Always prepare 2–3 questions!\"]}},{\"id\":\"jiJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"The STAR Method (for Behavioural Questions)\",\"level\":3}},{\"id\":\"jiM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Situation</b> — Describe the context\",\"<b>Task</b> — Explain your responsibility\",\"<b>Action</b> — Say what you did\",\"<b>Result</b> — Describe the outcome\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Tell me about yourself. Well, I recently graduated in Business Management and I have six months of internship experience in marketing. I'm very organised and I enjoy working in a team.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "At the end of an interview, the interviewer asks: 'Do you have any questions?' What should you do?",
+                      "options": [
+                        "Say 'No, thank you.'",
+                        "Ask about holidays straight away",
+                        "Ask 1-2 thoughtful questions about the role or company",
+                        "Ask how much money you will earn"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What does STAR stand for in the context of interviews?",
+                      "options": [
+                        "Study, Task, Action, Result",
+                        "Situation, Task, Action, Result",
+                        "Skill, Training, Achievement, Role",
+                        "Strategy, Target, Approach, Review"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

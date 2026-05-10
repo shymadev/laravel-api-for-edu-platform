@@ -1,0 +1,533 @@
+{
+  "title": "Philosophy and Ethics in English",
+  "description": "Engage with fundamental philosophical questions in English — the nature of knowledge, morality, justice, free will, and consciousness — using authentic philosophical texts and arguments. This course develops the vocabulary, analytical skills, and argumentative precision required to participate in philosophical discourse at C1 level.",
+  "language": "en",
+  "difficulty_level": "C1",
+  "is_premium": true,
+  "preview_image": "Philosophy and Ethics in English.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Epistemology — What Can We Know?",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Knowledge, Belief, and Justification",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000091000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Epistemology</b> — the branch of philosophy concerned with the nature, scope, and limits of knowledge — addresses the fundamental question: <em>What can we know, and how can we know it?</em> The classical definition of knowledge, traceable to Plato's <em>Theaetetus</em>, defines knowledge as <b>justified true belief</b> (JTB): a belief counts as knowledge if it is true, held by the believer, and adequately justified.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"The JTB analysis was challenged by Edmund Gettier in a famous 1963 paper in <em>Analysis</em>. Gettier constructed cases where someone has a justified true belief yet we are reluctant to say they have <em>knowledge</em> — because the justification is accidentally connected to the truth. These 'Gettier cases' have driven decades of philosophical debate about what additional condition, if any, can repair the JTB definition.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sceptical challenges</b> to knowledge ask: can we ever be certain of anything? Descartes's <em>method of doubt</em> systematically questioned all potentially fallible beliefs, arriving at the one indubitable certainty — <em>cogito ergo sum</em> ('I think, therefore I am') — as the foundation for rebuilding knowledge. Hume's more radical empirical scepticism questioned whether we can ever justifiably infer causes from observations.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Contemporary epistemologists distinguish between <b>foundationalism</b> (knowledge rests on basic, self-evident beliefs), <b>coherentism</b> (beliefs form a mutually supporting web), and <b>reliabilism</b> (knowledge is produced by reliably truth-tracking cognitive processes). Each view has different implications for how we evaluate the credibility of sources and claims.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The classical definition of knowledge as justified true belief was challenged by Edmund Gettier in 1963.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Justified true belief",
+                  "right": "Classical definition of knowledge (Plato/JTB)"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Gettier problem",
+                  "right": "Counter-example showing JTB is not sufficient for knowledge"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Foundationalism",
+                  "right": "Knowledge rests on basic, self-evident beliefs"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Coherentism",
+                  "right": "Beliefs are justified by their mutual coherence within a web"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Cogito ergo sum",
+                  "right": "Descartes's one indubitable certainty: 'I think, therefore I am'"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the significance of Gettier cases for epistemology?",
+                  "options": [
+                    "They prove that knowledge is impossible.",
+                    "They show that justified true belief is sufficient for knowledge.",
+                    "They demonstrate that justified true belief may not be sufficient for knowledge.",
+                    "They refute Descartes's method of doubt."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Ethics — How Should We Act?",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Three Major Ethical Frameworks",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000092000,\"blocks\":[{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Moral philosophy has produced three dominant normative frameworks that continue to structure ethical debate: <b>consequentialism</b>, <b>deontology</b>, and <b>virtue ethics</b>. Each makes fundamentally different claims about what makes an action right or wrong.\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Consequentialism</b> — most famously articulated by Jeremy Bentham and John Stuart Mill as <em>utilitarianism</em> — holds that the moral worth of an action is determined entirely by its outcomes. An action is right if it maximises overall welfare (or 'utility'). The principle is appealing in its simplicity and focus on real-world impact, but faces serious objections: it seems to permit injustice to minorities if it maximises aggregate welfare, and it is often impossible to calculate consequences in advance.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Deontological ethics</b> — associated with Immanuel Kant's <em>categorical imperative</em> — holds that some actions are intrinsically right or wrong regardless of their consequences. Kant's key formulation: <em>'Act only according to that maxim whereby you can at the same time will that it should become a universal law.'</em> Duties and rights set absolute constraints on action; persons must never be treated merely as means to an end.\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Virtue ethics</b> — rooted in Aristotle's <em>Nicomachean Ethics</em> — focuses not on rules or consequences but on the character of the moral agent. The central question is not 'what should I do?' but 'what kind of person should I be?' Virtues (courage, justice, temperance, practical wisdom) are cultivated through practice and constitute human flourishing (<em>eudaimonia</em>).\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Act only according to that maxim whereby you can at the same time will that it should become a universal law.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Consequentialism",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Deontology",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_3",
+                  "name": "Virtue Ethics",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "The right action is the one that produces the greatest happiness for the greatest number.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Lying is always wrong, even if it would save a life.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "A good person acts from courage and practical wisdom, not merely from rules.",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_4",
+                  "text": "People must be treated as ends in themselves, never merely as means.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "We should calculate the costs and benefits before deciding how to act.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_6",
+                  "text": "The goal of ethics is to cultivate character traits that constitute human flourishing.",
+                  "correctCategory": "cat_3"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Kant's categorical imperative requires that we:",
+                  "options": [
+                    "Act in whatever way produces the best consequences",
+                    "Act only according to principles that we could will to be universal laws",
+                    "Cultivate virtuous character traits through practice",
+                    "Follow the commands of legitimate authority"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which ethical framework is most closely associated with Aristotle?",
+                  "options": [
+                    "Utilitarianism",
+                    "Deontology",
+                    "Virtue ethics",
+                    "Contractarianism"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Political Philosophy — Justice and Society",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Theories of Justice: Rawls, Nozick, and the Social Contract",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000093000,\"blocks\":[{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Political philosophy</b> asks what principles should govern the basic structure of society — the distribution of rights, opportunities, wealth, and power. The central concept is <b>justice</b>, which different thinkers have interpreted in radically different ways.\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"John Rawls's <em>A Theory of Justice</em> (1971) proposed the <b>original position</b> thought experiment: rational agents design the principles of justice from behind a 'veil of ignorance', not knowing their place in society, class, fortune, or intelligence. Rawls argued they would choose two principles: equal basic liberties, and the <b>difference principle</b> (inequalities are only justified if they benefit the least advantaged members of society).\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Robert Nozick's <em>Anarchy, State, and Utopia</em> (1974) presented a libertarian alternative: justice is a matter of respecting individual rights through fair procedures, not achieving particular distributive outcomes. His <b>entitlement theory</b> holds that any distribution is just if it arises through just acquisitions and voluntary transfers — regardless of how unequal the resulting distribution may be.\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>social contract tradition</b> (Hobbes, Locke, Rousseau, and later Rawls) grounds political authority in hypothetical agreement among rational agents. Hobbes justified strong sovereign authority to escape the 'state of nature' (war of all against all); Locke emphasised natural rights and limited government accountable to the people; Rousseau proposed the 'general will' as the principle of legitimate authority.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Rawls argued that rational agents designing principles of justice from behind a veil of ignorance would choose to protect the least advantaged members of society.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Veil of ignorance",
+                  "right": "Rawls's device for designing fair principles without self-interest"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Difference principle",
+                  "right": "Inequalities are just only if they benefit the least advantaged"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Entitlement theory",
+                  "right": "Nozick: justice requires fair procedures, not equal outcomes"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "State of nature",
+                  "right": "Hobbes: pre-political condition of universal conflict"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "General will",
+                  "right": "Rousseau: the collective interest transcending individual preferences"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700093001",
+                  "english": "Rawls's difference principle holds that social and economic inequalities are only justified when they benefit the least advantaged members of society.",
+                  "russian": "Принцип различия Ролза гласит, что социальное и экономическое неравенство оправдано только тогда, когда оно выгодно наименее привилегированным членам общества.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700093002",
+                  "english": "Nozick argues that any patterned principle of distribution will require constant interference with people's voluntary choices.",
+                  "russian": "Нозик утверждает, что любой шаблонный принцип распределения потребует постоянного вмешательства в добровольный выбор людей.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "According to Rawls's difference principle, social inequalities are justified only when:",
+                  "options": [
+                    "They result from equal opportunities",
+                    "They arise through voluntary exchange",
+                    "They benefit the least advantaged members of society",
+                    "They are approved by a majority vote"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Free Will and Moral Responsibility",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Determinism, Compatibilism, and Moral Responsibility",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000094000,\"blocks\":[{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"The problem of <b>free will</b> concerns whether humans are genuinely free to choose their actions, or whether all events — including human decisions — are causally determined by prior causes in an unbroken chain extending back before our birth. This is not merely an abstract metaphysical puzzle: it has direct implications for <b>moral responsibility, punishment, and praise</b>.\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Hard determinism</b> holds that all events are causally determined, and therefore genuine free will is impossible. If our choices are the inevitable result of prior causes, we cannot be held truly responsible for them. This view has radical implications for criminal justice: punishment for desert ('he deserves to suffer for what he did') would be morally incoherent.\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Libertarianism</b> (in the metaphysical, not political sense) holds that some human choices are genuinely undetermined — that human agents possess <em>agent causation</em>, the ability to initiate causal chains that are not themselves determined by prior events. This preserves responsibility but creates difficulties about how mental events can escape physical causation.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Compatibilism</b> — the most widely defended contemporary position — argues that free will and determinism are not mutually exclusive. Freedom, on this view, does not require the absence of causation; it requires that one's actions flow from one's own desires, values, and reasoning processes, without external compulsion. Hume, Kant (in a qualified sense), and Dennett are among the compatibilists.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Compatibilists argue that free will is compatible with determinism: what matters is whether actions flow from one's own values without external compulsion.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Hard Determinism",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Libertarianism (metaphysical)",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_3",
+                  "name": "Compatibilism",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "All events are causally determined; true free will is impossible.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Humans can initiate causal chains not determined by prior events.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Free will is the ability to act according to one's own values without coercion.",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Moral responsibility requires that choices could have been otherwise.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Determinism is true, but this does not undermine moral responsibility.",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_6",
+                  "text": "If determinism is true, praise and blame are ultimately incoherent.",
+                  "correctCategory": "cat_1"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the central claim of compatibilism?",
+                  "options": [
+                    "Free will and determinism cannot both be true",
+                    "Free will requires that our choices are not caused by prior events",
+                    "Free will is compatible with determinism if actions flow from our own values without coercion",
+                    "Moral responsibility is impossible given what neuroscience tells us"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Philosophy of Mind",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Consciousness, Qualia, and the Mind-Body Problem",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000095000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>mind-body problem</b> asks how mental phenomena — thoughts, feelings, perceptions, consciousness — relate to physical processes in the brain. It remains one of the deepest unsolved problems in philosophy and science.\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Substance dualism</b> (Descartes): mind and body are distinct substances — the mind is non-physical. This faces the interaction problem: how can a non-physical mind causally affect a physical body?\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Physicalism / materialism</b>: mental states are identical to physical brain states. This is the dominant view in contemporary philosophy of mind, but faces challenges from <b>qualia</b> — the subjective, first-person character of experience. David Chalmers calls this the 'hard problem of consciousness': even if we fully explain the neural correlates of pain, we haven't explained why there is something it is <em>like</em> to be in pain.\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Functionalism</b> holds that mental states are defined by their functional role — their causal relationships to sensory inputs, behavioural outputs, and other mental states — rather than their physical substrate. This allows the same mental states to be 'multiply realised' in different physical systems (silicon, neurons, etc.), which is important for theories of artificial intelligence and animal cognition.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The hard problem of consciousness asks why there is something it is like to have subjective experience, even if we can fully explain its neural correlates.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The subjective, first-person character of experience — what it feels like to see red or feel pain",
+                  "word": "qualia"
+                },
+                {
+                  "hint": "Chalmers's name for the difficulty of explaining why there is any subjective experience at all",
+                  "word": "hard problem of consciousness"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is Chalmers's 'hard problem of consciousness'?",
+                  "options": [
+                    "The difficulty of identifying which neurons are associated with specific mental states",
+                    "The challenge of explaining why physical brain processes give rise to subjective experience at all",
+                    "The problem of determining whether animals are conscious",
+                    "The impossibility of translating phenomenological descriptions into scientific language"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Applied Ethics",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Bioethics, AI Ethics, and Environmental Ethics",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000096000,\"blocks\":[{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Applied ethics</b> brings the tools and frameworks of moral philosophy to bear on specific, real-world ethical issues. At C1 level, learners should be able to articulate positions on contested ethical issues with philosophical precision, acknowledging the competing values at stake and the limits of any one framework.\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Bioethics</b> addresses ethical issues in medicine, research, and biotechnology. Central principles (Beauchamp and Childress's four principles): <em>autonomy</em> (respect for patients' right to make informed decisions), <em>beneficence</em> (duty to do good), <em>non-maleficence</em> (duty to avoid harm), and <em>justice</em> (fair distribution of benefits and burdens). These principles often conflict: forced psychiatric treatment may be beneficent yet violate autonomy.\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>AI ethics</b> addresses the ethical implications of artificial intelligence: algorithmic bias and fairness, accountability and transparency ('explainability'), autonomous weapons systems, privacy and surveillance, and the long-term risks of artificial general intelligence. Key frameworks: principle-based AI ethics (EU ethics guidelines), and capability-based approaches focusing on concrete harms.\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Environmental ethics</b> asks what moral consideration we owe to the natural world. Anthropocentric views ground environmental duties in human interests; biocentric views extend moral consideration to all living things; ecocentric views hold that ecosystems and species have intrinsic value. Peter Singer's utilitarian argument extends moral consideration to any sentient being capable of suffering.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Beauchamp and Childress's four principles of bioethics are autonomy, beneficence, non-maleficence, and justice.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Autonomy",
+                  "right": "Respect for patients' right to make informed decisions"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Beneficence",
+                  "right": "Duty to act in the patient's best interest"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Non-maleficence",
+                  "right": "Duty to avoid causing harm"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Justice",
+                  "right": "Fair distribution of healthcare benefits and burdens"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Biocentric ethics",
+                  "right": "Extends moral consideration to all living things"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following philosophical claim aloud clearly",
+                "targetPhrase": "If any being is capable of suffering, its suffering ought to be given equal moral weight regardless of species."
+              }
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which bioethical principle is most directly threatened when a patient is treated without their informed consent?",
+                  "options": [
+                    "Beneficence",
+                    "Non-maleficence",
+                    "Justice",
+                    "Autonomy"
+                  ],
+                  "correctOptions": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

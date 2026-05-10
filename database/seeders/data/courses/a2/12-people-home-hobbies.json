@@ -1,0 +1,361 @@
+{
+  "title": "People, Home & Hobbies",
+  "description": "Expand your everyday vocabulary by talking about people's appearances and personalities, describing your home and neighbourhood, and discussing hobbies and free-time activities. Perfect for A2 learners who want to express themselves more naturally in daily conversation.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "People, Home & Hobbies.webp",
+  "topics": [
+    {
+      "title": "Module 1: Describing People",
+      "subtopics": [
+        {
+          "title": "1.1 Appearance",
+          "lessons": [
+            {
+              "title": "What Does She Look Like?",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700020001000,\"blocks\":[{\"id\":\"pA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Describing people is a very common task in English — in stories, conversations, and at work. Let's learn the vocabulary for appearance.\"}},{\"id\":\"pD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Physical Features\",\"level\":3}},{\"id\":\"pG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Height:</b> tall, short, medium height\",\"<b>Build:</b> slim, thin, well-built, overweight\",\"<b>Hair:</b> long/short, straight/curly/wavy, blonde/dark/grey, bald\",\"<b>Eyes:</b> blue/green/brown/dark\",\"<b>Age:</b> young, middle-aged, elderly, in his/her thirties\"]}},{\"id\":\"pJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Useful Patterns\",\"level\":3}},{\"id\":\"pM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>She has long brown hair.</b>\",\"<b>He is tall and slim.</b>\",\"<b>She looks about 30.</b>\",\"<b>He's got blue eyes.</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "guessItems": [
+                    {
+                      "hint": "стройный",
+                      "word": "slim"
+                    },
+                    {
+                      "hint": "кудрявый",
+                      "word": "curly"
+                    },
+                    {
+                      "hint": "лысый",
+                      "word": "bald"
+                    },
+                    {
+                      "hint": "пожилой",
+                      "word": "elderly"
+                    },
+                    {
+                      "hint": "атлетического телосложения",
+                      "word": "well-built"
+                    }
+                  ],
+                  "oddItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is grammatically correct?",
+                      "options": [
+                        "She has a short brown hair.",
+                        "She has short brown hair.",
+                        "She have short brown hair.",
+                        "She is have short brown hair."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What does 'medium height' mean?",
+                      "options": [
+                        "Very tall",
+                        "Very short",
+                        "Neither tall nor short",
+                        "Overweight"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Personality",
+          "lessons": [
+            {
+              "title": "What Is He Like?",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700020002000,\"blocks\":[{\"id\":\"qA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"'<b>What does he look like?</b>' asks about appearance. '<b>What is he like?</b>' asks about personality. These are very different questions!\"}},{\"id\":\"qD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Positive Personality Adjectives\",\"level\":3}},{\"id\":\"qG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>friendly</b> — дружелюбный\",\"<b>kind</b> — добрый\",\"<b>funny / humorous</b> — смешной, с чувством юмора\",\"<b>patient</b> — терпеливый\",\"<b>hard-working</b> — трудолюбивый\",\"<b>honest</b> — честный\"]}},{\"id\":\"qJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Negative Personality Adjectives\",\"level\":3}},{\"id\":\"qM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>lazy</b> — ленивый\",\"<b>rude</b> — грубый\",\"<b>selfish</b> — эгоистичный\",\"<b>impatient</b> — нетерпеливый\",\"<b>arrogant</b> — высокомерный\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "She is very friendly and kind.",
+                      "translation": "Она очень дружелюбная и добрая."
+                    },
+                    {
+                      "text": "He can be a bit impatient.",
+                      "translation": "Он может быть немного нетерпеливым."
+                    },
+                    {
+                      "text": "My brother is really hard-working.",
+                      "translation": "Мой брат очень трудолюбивый."
+                    },
+                    {
+                      "text": "What is your best friend like?",
+                      "translation": "Какой твой лучший друг?"
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "patient",
+                      "right": "waits calmly without getting angry"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "honest",
+                      "right": "always tells the truth"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "selfish",
+                      "right": "only thinks about themselves"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "funny",
+                      "right": "makes people laugh"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "rude",
+                      "right": "speaks or behaves badly to others"
+                    }
+                  ],
+                  "shuffleRight": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Your Home",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Rooms and Furniture",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700020003000,\"blocks\":[{\"id\":\"rA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Can you describe where you live? Let's learn the words for rooms, furniture, and home features.\"}},{\"id\":\"rD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Rooms in a House\",\"level\":3}},{\"id\":\"rG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>living room</b> — гостиная\",\"<b>bedroom</b> — спальня\",\"<b>kitchen</b> — кухня\",\"<b>bathroom</b> — ванная комната\",\"<b>hallway / corridor</b> — коридор\",\"<b>garden / yard</b> — сад / двор\"]}},{\"id\":\"rJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Common Furniture\",\"level\":3}},{\"id\":\"rM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>sofa / couch</b> — диван\",\"<b>wardrobe</b> — шкаф\",\"<b>chest of drawers</b> — комод\",\"<b>bookshelf</b> — книжная полка\",\"<b>rug</b> — ковёр\",\"<b>curtains</b> — шторы\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "guessItems": [
+                {
+                  "hint": "шкаф",
+                  "word": "wardrobe"
+                },
+                {
+                  "hint": "шторы",
+                  "word": "curtains"
+                },
+                {
+                  "hint": "коридор",
+                  "word": "hallway"
+                },
+                {
+                  "hint": "ковёр",
+                  "word": "rug"
+                },
+                {
+                  "hint": "книжная полка",
+                  "word": "bookshelf"
+                }
+              ],
+              "oddItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 3,
+              "type": "fill-gaps",
+              "text": "I live in a flat. There is a big ___ in the living room. My ___ has a large wardrobe. We eat in the ___ every morning.",
+              "gaps": [
+                {
+                  "position": 1,
+                  "answer": "sofa",
+                  "options": [
+                    "sofa",
+                    "rug",
+                    "curtain",
+                    "shelf"
+                  ]
+                },
+                {
+                  "position": 2,
+                  "answer": "bedroom",
+                  "options": [
+                    "bedroom",
+                    "kitchen",
+                    "bathroom",
+                    "hallway"
+                  ]
+                },
+                {
+                  "position": 3,
+                  "answer": "kitchen",
+                  "options": [
+                    "kitchen",
+                    "bedroom",
+                    "garden",
+                    "bathroom"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Describing Your Neighbourhood",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700020004000,\"blocks\":[{\"id\":\"nA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Talking about your neighbourhood is a great conversation topic. Here are the words you need.\"}},{\"id\":\"nD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>quiet / noisy</b> — тихий / шумный\",\"<b>safe / dangerous</b> — безопасный / опасный\",\"<b>lively</b> — оживлённый\",\"<b>convenient</b> — удобный\",\"<b>close to the centre</b> — близко к центру\",\"<b>in the suburbs</b> — в пригороде\",\"<b>in the countryside</b> — за городом\"]}},{\"id\":\"nJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example:</b> I live in a quiet suburb. There's a park nearby and a supermarket around the corner. It's very convenient but sometimes a bit boring.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I live in a small flat in the suburbs. It's quite quiet but there's a bus stop nearby so it's convenient for getting into the city.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'convenient' mean when describing a location?",
+                  "options": [
+                    "Far from everything",
+                    "Easy to reach and use",
+                    "Very noisy",
+                    "Expensive"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Hobbies and Free Time",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Talking About What You Enjoy",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700020005000,\"blocks\":[{\"id\":\"hbA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Hobbies are a popular topic in English. You'll use these phrases in almost every introduction!\"}},{\"id\":\"hbD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Expressing Likes and Dislikes\",\"level\":3}},{\"id\":\"hbG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I love / really enjoy / am into</b> + -ing\",\"<b>I like / don't mind</b> + -ing\",\"<b>I'm not keen on / don't really like</b> + -ing\",\"<b>I hate / can't stand</b> + -ing\"]}},{\"id\":\"hbJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Common Hobbies\",\"level\":3}},{\"id\":\"hbM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"reading, painting, cooking, gardening\",\"playing the guitar / piano\",\"going to the gym / swimming / cycling\",\"watching films / series\",\"playing video games\",\"hiking / travelling\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "phrases",
+              "phrases": [
+                {
+                  "text": "In my free time, I love reading.",
+                  "translation": "В свободное время я люблю читать."
+                },
+                {
+                  "text": "I'm really into cooking at the moment.",
+                  "translation": "В последнее время я очень увлечён(а) кулинарией."
+                },
+                {
+                  "text": "I can't stand watching horror films.",
+                  "translation": "Я не переношу фильмы ужасов."
+                },
+                {
+                  "text": "What do you do in your spare time?",
+                  "translation": "Чем ты занимаешься в свободное время?"
+                }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "fill-gaps",
+              "text": "I ___ really into hiking. I go ___ the mountains every weekend. I also enjoy ___ the guitar in the evenings.",
+              "gaps": [
+                {
+                  "position": 1,
+                  "answer": "am",
+                  "options": [
+                    "am",
+                    "is",
+                    "are",
+                    "was"
+                  ]
+                },
+                {
+                  "position": 2,
+                  "answer": "to",
+                  "options": [
+                    "to",
+                    "in",
+                    "at",
+                    "on"
+                  ]
+                },
+                {
+                  "position": 3,
+                  "answer": "playing",
+                  "options": [
+                    "playing",
+                    "play",
+                    "played",
+                    "to play"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

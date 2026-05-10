@@ -1,0 +1,176 @@
+{
+  "title": "Debating the News",
+  "description": "Develop the skills to discuss current affairs, analyse news stories critically, construct arguments, and engage in structured debates in English. Targeted at B2 learners who want to engage confidently with complex topics in news, politics, and society.",
+  "language": "en",
+  "difficulty_level": "B2",
+  "is_premium": false,
+  "preview_image": "Debating the News.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Reading and Understanding News",
+      "subtopics": [
+        {
+          "title": "1.1 News Vocabulary and Register",
+          "lessons": [
+            {
+              "title": "The Language of News Reporting",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700090001000,\"blocks\":[{\"id\":\"nA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"News English has a distinctive style: concise, formal, and often using specific vocabulary to describe political, social, and economic events.\"}},{\"id\":\"nD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Key News Vocabulary\",\"level\":3}},{\"id\":\"nG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>allegation</b> — обвинение (без доказательств)\",\"<b>controversy</b> — спор, скандал\",\"<b>crackdown</b> — карательные меры\",\"<b>breakthrough</b> — прорыв\",\"<b>initiative</b> — инициатива\",\"<b>backlash</b> — негативная реакция\",\"<b>aftermath</b> — последствия (события)\"]}},{\"id\":\"nJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Headline Grammar\",\"level\":3}},{\"id\":\"nM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Headlines omit articles and auxiliary verbs. They use the present simple for past events and infinitives for future plans:\"}},{\"id\":\"nN1oP2qQ3r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Government launches new education initiative</em> (= has launched)\",\"<em>City to build new hospital</em> (= is going to build)\",\"<em>Protesters clash with police</em> (= clashed yesterday)\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    { "id": "pair_1", "left": "allegation", "right": "a claim that has not been proved" },
+                    { "id": "pair_2", "left": "backlash", "right": "strong negative reaction from the public" },
+                    { "id": "pair_3", "left": "crackdown", "right": "strict action to stop illegal activity" },
+                    { "id": "pair_4", "left": "breakthrough", "right": "an important discovery or achievement" },
+                    { "id": "pair_5", "left": "aftermath", "right": "the situation following a difficult event" }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "The headline reads: 'Government to introduce new climate law.' What tense does this indicate?",
+                      "options": ["It happened in the past", "It is a plan for the future", "It is happening right now", "It happened this morning"],
+                      "correctOptions": [1]
+                    },
+                    {
+                      "text": "What does 'controversy' mean?",
+                      "options": ["A public disagreement or debate", "A new government policy", "A criminal investigation", "A financial crisis"],
+                      "correctOptions": [0]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Constructing Arguments",
+      "subtopics": [
+        {
+          "title": "2.1 Argument Structure",
+          "lessons": [
+            {
+              "title": "Building a Persuasive Argument",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700090002000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A well-constructed argument follows a clear structure: <b>claim → evidence → explanation → conclusion</b>. Let's look at how to build this in English.\"}},{\"id\":\"aD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"The PEEL Structure\",\"level\":3}},{\"id\":\"aG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Point</b> — state your argument clearly\",\"<b>Evidence</b> — provide facts, statistics, or examples\",\"<b>Explain</b> — show how the evidence supports your point\",\"<b>Link</b> — connect back to the main topic or argument\"]}},{\"id\":\"aJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Useful Language\",\"level\":3}},{\"id\":\"aM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>It can be argued that...</b>\",\"<b>The evidence clearly suggests...</b>\",\"<b>A key factor here is...</b>\",\"<b>This demonstrates that...</b>\",\"<b>Critics would argue that... However...</b>\",\"<b>This is supported by the fact that...</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "fill-gaps",
+                  "text": "It can be ___ that social media has a negative effect on mental health. The evidence clearly ___ that heavy users of social media report higher levels of anxiety. This ___ that the design of these platforms actively encourages addictive behaviour. This is closely ___ to wider concerns about digital wellbeing.",
+                  "gaps": [
+                    { "position": 1, "answer": "argued", "options": ["argued", "said", "told", "spoke"] },
+                    { "position": 2, "answer": "suggests", "options": ["suggests", "says", "tells", "claims"] },
+                    { "position": 3, "answer": "demonstrates", "options": ["demonstrates", "proves", "shows", "means"] },
+                    { "position": 4, "answer": "linked", "options": ["linked", "related", "connected", "joined"] }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does PEEL stand for?",
+                      "options": ["Point, Evidence, Explain, Link", "Paragraph, Example, Elaborate, List", "Purpose, Effect, Explain, Language", "Point, Essay, Evaluate, Learn"],
+                      "correctOptions": [0]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Counterarguments",
+          "lessons": [
+            {
+              "title": "Anticipating and Refuting Objections",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700090003000,\"blocks\":[{\"id\":\"cA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Strong debaters don't ignore opposing views — they acknowledge them and then refute them. This approach is called the <b>concession-refutation</b> technique.\"}},{\"id\":\"cD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Concede and Refute\",\"level\":3}},{\"id\":\"cG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Admittedly... / It is true that... / While it may seem that...</b> [concede the counterargument]\",\"<b>However... / Nevertheless... / That said... / Even so...</b> [introduce your refutation]\",\"<b>The key point that opponents overlook is...</b>\",\"<b>This argument fails to take into account...</b>\"]}},{\"id\":\"cJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example:</b> Admittedly, renewable energy sources can be expensive to install. However, the long-term savings and environmental benefits far outweigh the initial costs.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "It is true that a four-day working week might reduce productivity in some sectors. Nevertheless, research from Iceland suggests that productivity actually remained the same or increased in most workplaces that tried it.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is the purpose of a concession-refutation technique?",
+                      "options": ["To agree with the opposing view", "To avoid discussing counterarguments", "To acknowledge an opposing point and then argue against it", "To list all the weaknesses of your own argument"],
+                      "correctOptions": [2]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Structured Debates",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Debate Language and Techniques",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700090004000,\"blocks\":[{\"id\":\"dbA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Structured debates follow specific rules and use formal language. Whether in a classroom, workplace, or public setting, these phrases will help you participate effectively.\"}},{\"id\":\"dbD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Opening Your Position\",\"level\":3}},{\"id\":\"dbG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I would like to argue that...</b>\",\"<b>The motion before us today is... and I strongly support / oppose this.</b>\",\"<b>My position is based on three key points.</b>\"]}},{\"id\":\"dbJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Challenging the Other Side\",\"level\":3}},{\"id\":\"dbM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>My opponent claims... but this ignores the fact that...</b>\",\"<b>With respect, that argument is flawed because...</b>\",\"<b>The evidence does not support that conclusion.</b>\"]}},{\"id\":\"dbN1oP2qQ3r\",\"type\":\"header\",\"data\":{\"text\":\"Closing Your Argument\",\"level\":3}},{\"id\":\"dbO2pP3qQ4r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>In conclusion, I urge you to consider...</b>\",\"<b>The case for [position] is clear and compelling.</b>\",\"<b>I rest my case.</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "phrases",
+              "phrases": [
+                { "text": "I would like to argue that this policy is counterproductive.", "translation": "Я хотел бы утверждать, что эта политика контрпродуктивна." },
+                { "text": "My position is based on three key points.", "translation": "Моя позиция основана на трёх ключевых пунктах." },
+                { "text": "With respect, that argument is flawed.", "translation": "При всём уважении, этот аргумент ошибочен." },
+                { "text": "In conclusion, I urge you to consider the evidence.", "translation": "В заключение я призываю вас рассмотреть доказательства." }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase politely challenges an opposing argument in a formal debate?",
+                  "options": ["You're wrong!", "That's ridiculous.", "With respect, that argument is flawed because...", "No one agrees with you."],
+                  "correctOptions": [2]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

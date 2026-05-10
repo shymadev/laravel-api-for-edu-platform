@@ -1,0 +1,1444 @@
+{
+  "title": "Weather and Seasons",
+  "description": "Expand your everyday vocabulary with weather words, seasonal expressions, and simple descriptions of climate. This course is designed for A1 completers who want to talk confidently about the weather and their seasonal preferences in English.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Weather and Seasons.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Weather Vocabulary",
+      "subtopics": [
+        {
+          "title": "1.1 Basic Weather Words",
+          "lessons": [
+            {
+              "title": "Sun, Rain, and Clouds",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000001000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use adjectives and nouns to describe the weather. Here are the most common words:\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>sunny</b> — the sun is shining (e.g. <em>It's a sunny day.</em>)\",\"<b>cloudy</b> — the sky is covered with clouds\",\"<b>rainy / it's raining</b> — water falls from the sky\",\"<b>windy</b> — there is a lot of wind\",\"<b>foggy</b> — you cannot see far because of fog\",\"<b>stormy</b> — there is a big storm with thunder and lightning\"]}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"We often say: <b>It is + adjective</b> → <em>It is sunny. It is cold.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "It's sunny today.",
+                      "translation": "Сегодня солнечно."
+                    },
+                    {
+                      "text": "It's raining heavily.",
+                      "translation": "Идёт сильный дождь."
+                    },
+                    {
+                      "text": "It's very windy outside.",
+                      "translation": "На улице очень ветрено."
+                    },
+                    {
+                      "text": "The sky is cloudy.",
+                      "translation": "Небо облачное."
+                    },
+                    {
+                      "text": "There is a storm coming.",
+                      "translation": "Надвигается шторм."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "sunny",
+                      "right": "солнечно"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "rainy",
+                      "right": "дождливо"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "cloudy",
+                      "right": "облачно"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "windy",
+                      "right": "ветрено"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "foggy",
+                      "right": "туманно"
+                    },
+                    {
+                      "id": "pair_6",
+                      "left": "stormy",
+                      "right": "штормовая погода"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "sunny",
+                    "cloudy",
+                    "windy",
+                    "foggy"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "audio",
+                  "content": {
+                    "text": "It is a stormy day with thunder and lightning.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "The sky is dark and there is thunder. The weather is ___.",
+                      "options": [
+                        "sunny",
+                        "stormy",
+                        "foggy",
+                        "windy"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "You cannot see the mountains because of thick mist. It is ___.",
+                      "options": [
+                        "rainy",
+                        "cloudy",
+                        "foggy",
+                        "snowy"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "It are sunny.",
+                        "It is sunny.",
+                        "They is sunny.",
+                        "Is sunny."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cold and Hot Weather",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000002000,\"blocks\":[{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use these words to talk about temperature:\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>hot</b> — very warm (30°C+)\",\"<b>warm</b> — pleasantly heated (20–25°C)\",\"<b>cool</b> — a little cold (10–15°C)\",\"<b>cold</b> — low temperature (below 5°C)\",\"<b>freezing</b> — extremely cold (below 0°C)\"]}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"We can also say: <em>It is 20 degrees.</em> or <em>The temperature is minus five.</em>\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tip:</b> In everyday English, people often combine two words: <em>It's cold and windy today.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "It is freezing outside! The temperature is minus ten degrees.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "hot",
+                        "warm",
+                        "freezing",
+                        "cool"
+                      ],
+                      "correctWord": "freezing"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "It is [freezing] outside! Put on your coat. Last week the temperature was [minus] ten degrees. In summer it gets very [hot] — sometimes 35 degrees.",
+                  "gaps": [
+                    {
+                      "placeholder": "freezing",
+                      "answers": [
+                        "freezing"
+                      ]
+                    },
+                    {
+                      "placeholder": "minus",
+                      "answers": [
+                        "minus"
+                      ]
+                    },
+                    {
+                      "placeholder": "hot",
+                      "answers": [
+                        "hot"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000002001",
+                      "english": "It is very cold and windy today.",
+                      "russian": "Сегодня очень холодно и ветрено.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000002002",
+                      "english": "The temperature is minus ten degrees.",
+                      "russian": "Температура минус десять градусов.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000002003",
+                      "english": "It was warm and sunny yesterday.",
+                      "russian": "Вчера было тепло и солнечно.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000002004",
+                      "english": "It is freezing outside!",
+                      "russian": "На улице очень холодно!",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which word means extremely cold (below 0°C)?",
+                      "options": [
+                        "warm",
+                        "cool",
+                        "cold",
+                        "freezing"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    },
+                    {
+                      "text": "What temperature is 'warm'?",
+                      "options": [
+                        "30°C+",
+                        "20–25°C",
+                        "below 5°C",
+                        "below 0°C"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Talking About Weather",
+          "lessons": [
+            {
+              "title": "Describing Weather with 'It is' and 'There is'",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000003000,\"blocks\":[{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English we use two main structures for weather descriptions:\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>It is + adjective:</b><br><em>It is sunny. / It is cold. / It is windy.</em>\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>There is/are + noun:</b><br><em>There is a storm. / There are dark clouds. / There is ice on the road.</em>\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Past tense:</b> Use <b>was/were</b>:<br><em>It was rainy yesterday. / There was a big storm last night.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the sentence aloud",
+                    "targetPhrase": "It was rainy yesterday and there was a big storm last night."
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "Yesterday it ___ very cold and snowy.",
+                      "answers": [
+                        "was",
+                        "is",
+                        "were",
+                        "be"
+                      ]
+                    },
+                    {
+                      "sentence": "There ___ a lot of clouds in the sky this morning.",
+                      "answers": [
+                        "were",
+                        "was",
+                        "is",
+                        "are"
+                      ]
+                    },
+                    {
+                      "sentence": "It ___ raining when I left the house.",
+                      "answers": [
+                        "was",
+                        "is",
+                        "were",
+                        "did"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "It are cloudy today.",
+                      "correctText": "It is cloudy today."
+                    },
+                    {
+                      "text": "There is dark clouds.",
+                      "correctText": "There are dark clouds."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "audio",
+                  "content": {
+                    "text": "There is a storm. It was raining all night.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Choose the correct sentence.",
+                      "options": [
+                        "There is dark clouds.",
+                        "There are a storm.",
+                        "There is a storm.",
+                        "It are cloudy."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Yesterday the weather ___ terrible.",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "were"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: The Four Seasons",
+      "subtopics": [
+        {
+          "title": "2.1 Spring and Summer",
+          "lessons": [
+            {
+              "title": "Spring: New Beginnings",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000004000,\"blocks\":[{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Spring</b> comes after winter (March–May in the Northern Hemisphere). Key vocabulary:\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>mild</b> — not too hot, not too cold\",\"<b>blossom</b> — flowers on a tree\",\"<b>shower</b> — a short period of rain\",\"<b>muddy</b> — wet and dirty ground\",\"<b>fresh</b> — clean, cool air\"]}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example sentences: <em>In spring the weather is mild and fresh. There are often short showers. Trees start to blossom.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "The weather is mild in spring.",
+                      "translation": "Весной погода мягкая."
+                    },
+                    {
+                      "text": "Trees start to blossom.",
+                      "translation": "Деревья начинают цвести."
+                    },
+                    {
+                      "text": "There are short showers.",
+                      "translation": "Бывают короткие ливни."
+                    },
+                    {
+                      "text": "The air smells fresh.",
+                      "translation": "Воздух пахнет свежестью."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "video",
+                  "url": "VIDEO_PLACEHOLDER"
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Flowers that grow on a tree in spring",
+                      "word": "blossom"
+                    },
+                    {
+                      "hint": "Not too hot, not too cold",
+                      "word": "mild"
+                    },
+                    {
+                      "hint": "Wet and dirty ground after rain",
+                      "word": "muddy"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "audio",
+                  "content": {
+                    "text": "In spring the weather is mild and fresh. Trees start to blossom.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 6,
+                  "type": "fill-gaps",
+                  "text": "In [spring] the days get longer. The trees [blossom] and the air smells [fresh]. Sometimes there are short [showers], but it is usually [mild].",
+                  "gaps": [
+                    {
+                      "placeholder": "spring",
+                      "answers": [
+                        "spring"
+                      ]
+                    },
+                    {
+                      "placeholder": "blossom",
+                      "answers": [
+                        "blossom"
+                      ]
+                    },
+                    {
+                      "placeholder": "fresh",
+                      "answers": [
+                        "fresh"
+                      ]
+                    },
+                    {
+                      "placeholder": "showers",
+                      "answers": [
+                        "showers"
+                      ]
+                    },
+                    {
+                      "placeholder": "mild",
+                      "answers": [
+                        "mild"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Summer: Hot Days",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000005000,\"blocks\":[{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Summer</b> is the hottest season (June–August). Useful vocabulary:\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>heatwave</b> — a long period of very hot weather\",\"<b>humid</b> — warm and wet air\",\"<b>thunderstorm</b> — heavy rain with thunder and lightning\",\"<b>drought</b> — a long time without rain\",\"<b>scorching</b> — extremely hot\"]}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Common summer activities: <em>going to the beach, swimming, having a barbecue, going on holiday.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "heatwave",
+                    "humid",
+                    "scorching",
+                    "drought"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "Last summer was very hot and humid. There was a big thunderstorm last night.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000005001",
+                      "english": "Last summer was very hot and humid.",
+                      "russian": "Прошлым летом было очень жарко и влажно.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000005002",
+                      "english": "There was a big thunderstorm last night.",
+                      "russian": "Прошлой ночью была сильная гроза.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000005003",
+                      "english": "We went to the beach every weekend.",
+                      "russian": "Мы ходили на пляж каждые выходные.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A long period of extremely hot weather is called a ___.",
+                      "options": [
+                        "shower",
+                        "heatwave",
+                        "drought",
+                        "blizzard"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which word describes air that is warm and wet?",
+                      "options": [
+                        "freezing",
+                        "mild",
+                        "humid",
+                        "breezy"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which of these is a typical summer activity?",
+                      "options": [
+                        "skiing",
+                        "ice skating",
+                        "having a barbecue",
+                        "sledging"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Autumn and Winter",
+          "lessons": [
+            {
+              "title": "Autumn: Changing Colors",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000006000,\"blocks\":[{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Autumn</b> (British English) / <b>Fall</b> (American English) is September–November. Vocabulary:\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>crisp</b> — cool and fresh (crisp autumn air)\",\"<b>overcast</b> — the whole sky is grey and cloudy\",\"<b>drizzle</b> — very light rain\",\"<b>breeze</b> — a gentle wind\",\"<b>harvest</b> — the time when crops are collected\"]}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"In autumn the leaves change color and fall from trees. The days become shorter and the nights longer.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "In autumn the sky is often overcast and grey. There is a cold breeze in the morning.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Summer",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Autumn",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "scorching heat",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "crisp air",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "leaves falling",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "thunderstorm",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "overcast sky",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "heatwave",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_7",
+                      "text": "harvest time",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_8",
+                      "text": "barbecue",
+                      "correctCategory": "cat_1"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "listen-write",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [
+                    {
+                      "text": "overcast",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "overcast"
+                    },
+                    {
+                      "text": "drizzle",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "drizzle"
+                    },
+                    {
+                      "text": "harvest",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "harvest"
+                    }
+                  ],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "In autumn the sky is often [overcast] and grey. There is usually a cold [breeze] in the morning. Sometimes it [drizzles] all day. The days are shorter than in [summer].",
+                  "gaps": [
+                    {
+                      "placeholder": "overcast",
+                      "answers": [
+                        "overcast"
+                      ]
+                    },
+                    {
+                      "placeholder": "breeze",
+                      "answers": [
+                        "breeze"
+                      ]
+                    },
+                    {
+                      "placeholder": "drizzles",
+                      "answers": [
+                        "drizzles"
+                      ]
+                    },
+                    {
+                      "placeholder": "summer",
+                      "answers": [
+                        "summer"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Winter: Snow and Ice",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000007000,\"blocks\":[{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Winter</b> is December–February — the coldest season. Key vocabulary:\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>blizzard</b> — a very bad snowstorm with strong wind\",\"<b>frost</b> — a thin layer of ice on surfaces\",\"<b>slippery</b> — easy to slip and fall (icy roads are slippery)\",\"<b>below zero</b> — temperature under 0°C\",\"<b>snowfall</b> — when snow falls from the sky\"]}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Winter activities: <em>skiing, ice skating, building a snowman, drinking hot chocolate.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Be careful — the roads are slippery! It was below zero last night.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "A very bad snowstorm with strong wind",
+                      "word": "blizzard"
+                    },
+                    {
+                      "hint": "A thin layer of ice on surfaces",
+                      "word": "frost"
+                    },
+                    {
+                      "hint": "Easy to slip on — describes icy roads",
+                      "word": "slippery"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "Last winter there ___ a terrible blizzard.",
+                      "answers": [
+                        "was",
+                        "is",
+                        "were",
+                        "had"
+                      ]
+                    },
+                    {
+                      "sentence": "The temperature ___ below zero for two weeks.",
+                      "answers": [
+                        "was",
+                        "is",
+                        "were",
+                        "stayed"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000007001",
+                      "english": "It was below zero last night.",
+                      "russian": "Прошлой ночью было ниже нуля.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000007002",
+                      "english": "Be careful — the roads are slippery!",
+                      "russian": "Будьте осторожны — дороги скользкие!",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000007003",
+                      "english": "There was a heavy snowfall yesterday.",
+                      "russian": "Вчера был сильный снегопад.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A very bad snowstorm with strong wind is called a ___.",
+                      "options": [
+                        "shower",
+                        "drizzle",
+                        "blizzard",
+                        "heatwave"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "The roads are dangerous because they are ___.",
+                      "options": [
+                        "humid",
+                        "breezy",
+                        "muddy",
+                        "slippery"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Weather and Activities",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "What Do You Do in Different Weather?",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000008000,\"blocks\":[{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"We can connect weather with activities using <b>when</b> and <b>so</b>:\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>When it is sunny, I go for a walk.</em>\",\"<em>It was raining, so I stayed at home.</em>\",\"<em>When it snowed, we went skiing.</em>\"]}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common weather-related phrases:</b>\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>take an umbrella</b> — carry an umbrella because it might rain\",\"<b>wrap up warm</b> — wear warm clothes\",\"<b>stay indoors</b> — stay inside the house\",\"<b>go out for a walk</b> — leave the house to walk\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read this weather phrase aloud",
+                "targetPhrase": "When it is sunny, I go for a walk. It was raining, so I stayed at home."
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "It's raining heavily.",
+                  "right": "Take an umbrella."
+                },
+                {
+                  "id": "pair_2",
+                  "left": "It's freezing outside.",
+                  "right": "Wrap up warm."
+                },
+                {
+                  "id": "pair_3",
+                  "left": "It's a beautiful sunny day.",
+                  "right": "Go out for a walk."
+                },
+                {
+                  "id": "pair_4",
+                  "left": "There's a big storm.",
+                  "right": "Stay indoors."
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "When it ___ cold, I always drink hot tea.",
+                  "answers": [
+                    "is",
+                    "was",
+                    "are",
+                    "be"
+                  ]
+                },
+                {
+                  "sentence": "It ___ snowing, so we decided to go skiing.",
+                  "answers": [
+                    "was",
+                    "is",
+                    "were",
+                    "did"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "umbrella",
+                "indoors",
+                "outdoors",
+                "weather"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "audio",
+              "content": {
+                "text": "Wrap up warm — it is freezing outside today!",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "'Wrap up warm' means ___.",
+                  "options": [
+                    "go swimming",
+                    "wear warm clothes",
+                    "open the window",
+                    "drink cold water"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Choose the correct sentence.",
+                  "options": [
+                    "It was sunny, so I go to the beach.",
+                    "It was sunny, so I went to the beach.",
+                    "It were sunny, so I went to the beach.",
+                    "It sunny, so I went to the beach."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking About Weather Preferences",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000009000,\"blocks\":[{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"To say what weather you <b>like or dislike</b>, use:\"}},{\"id\":\"oP5qR6sT7u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>I love / like / enjoy + noun/verb-ing</em> → <em>I love sunny days. I enjoy skiing in the snow.</em>\",\"<em>I don't like / I hate + noun/verb-ing</em> → <em>I hate rainy days. I don't like cold weather.</em>\"]}},{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"To say what <b>season</b> you prefer:\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>My favourite season is summer because it is warm and sunny.</em>\",\"<em>I prefer winter because I like snow.</em>\",\"<em>I don't enjoy autumn because it is often grey and cold.</em>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "My favourite season is summer because I love sunny days and warm weather.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "fill-gaps",
+              "text": "My [favourite] season is summer. I [love] hot sunny days. I [enjoy] going to the beach. I [don't] like cold rainy weather.",
+              "gaps": [
+                {
+                  "placeholder": "favourite",
+                  "answers": [
+                    "favourite",
+                    "favorite"
+                  ]
+                },
+                {
+                  "placeholder": "love",
+                  "answers": [
+                    "love"
+                  ]
+                },
+                {
+                  "placeholder": "enjoy",
+                  "answers": [
+                    "enjoy"
+                  ]
+                },
+                {
+                  "placeholder": "don't",
+                  "answers": [
+                    "don't",
+                    "do not"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000009001",
+                  "english": "My favourite season is winter because I love snow.",
+                  "russian": "Мой любимый сезон — зима, потому что я люблю снег.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000009002",
+                  "english": "I don't enjoy rainy weather.",
+                  "russian": "Мне не нравится дождливая погода.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000009003",
+                  "english": "I prefer summer because the days are long and warm.",
+                  "russian": "Я предпочитаю лето, потому что дни длинные и тёплые.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000009004",
+                  "english": "What is your favourite season?",
+                  "russian": "Какой твой любимый сезон?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "summer",
+                    "winter",
+                    "spring",
+                    "umbrella"
+                  ],
+                  "correctWord": "umbrella"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence uses the correct grammar?",
+                  "options": [
+                    "I enjoy to swim in summer.",
+                    "I enjoy swimming in summer.",
+                    "I enjoy swim in summer.",
+                    "I enjoying swimming in summer."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'I prefer winter to summer' means ___.",
+                  "options": [
+                    "I like summer more",
+                    "I like winter more",
+                    "I like both equally",
+                    "I dislike both"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Weather Forecasts",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Reading a Weather Forecast",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000010000,\"blocks\":[{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>weather forecast</b> tells you what the weather will be like in the future. Key phrases used in forecasts:\"}},{\"id\":\"qR7sT8uV9w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>It will be + adjective</b> → <em>It will be sunny tomorrow.</em>\",\"<b>There will be + noun</b> → <em>There will be heavy rain in the afternoon.</em>\",\"<b>Expect + noun</b> → <em>Expect strong winds on Friday.</em>\",\"<b>Highs of / lows of</b> → <em>Highs of 22 degrees, lows of 8 degrees.</em>\"]}},{\"id\":\"xY0zA1bC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Common forecast vocabulary: <b>chance of rain</b>, <b>partly cloudy</b>, <b>clear skies</b>, <b>heavy showers</b>.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Tomorrow it will be partly cloudy. Expect heavy showers in the afternoon. Highs of 15 degrees.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The sky has some clouds but also some sun",
+                  "word": "partly cloudy"
+                },
+                {
+                  "hint": "No clouds, blue sky",
+                  "word": "clear skies"
+                },
+                {
+                  "hint": "The highest temperature of the day",
+                  "word": "highs"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "Tomorrow it [will] be partly [cloudy] in the morning. In the afternoon, [expect] heavy showers. Temperatures will reach [highs] of 15 degrees. On Friday, there [will] be clear skies.",
+              "gaps": [
+                {
+                  "placeholder": "will",
+                  "answers": [
+                    "will"
+                  ]
+                },
+                {
+                  "placeholder": "cloudy",
+                  "answers": [
+                    "cloudy"
+                  ]
+                },
+                {
+                  "placeholder": "expect",
+                  "answers": [
+                    "expect"
+                  ]
+                },
+                {
+                  "placeholder": "highs",
+                  "answers": [
+                    "highs"
+                  ]
+                },
+                {
+                  "placeholder": "will",
+                  "answers": [
+                    "will"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000010001",
+                  "english": "It will be cold and windy tomorrow.",
+                  "russian": "Завтра будет холодно и ветрено.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000010002",
+                  "english": "Expect heavy rain on Thursday.",
+                  "russian": "В четверг ожидаются сильные дожди.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000010003",
+                  "english": "There will be clear skies this weekend.",
+                  "russian": "В эти выходные будет ясное небо.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000010004",
+                  "english": "Highs of 20 degrees on Saturday.",
+                  "russian": "В субботу максимальная температура 20 градусов.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In a weather forecast, 'highs of 25 degrees' means ___.",
+                  "options": [
+                    "the minimum temperature is 25°",
+                    "the maximum temperature is 25°",
+                    "it will rain at 25°",
+                    "the wind speed is 25"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'Partly cloudy' means ___.",
+                  "options": [
+                    "completely cloudy",
+                    "some clouds but also some sun",
+                    "no clouds at all",
+                    "very dark sky"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Complete the forecast sentence: 'There ___ be heavy rain on Saturday.'",
+                  "options": [
+                    "is",
+                    "will",
+                    "was",
+                    "are"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Climate and Geography",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Different Climates Around the World",
+          "weight": 11,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000011000,\"blocks\":[{\"id\":\"eF3gH4iJ5k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Different parts of the world have different <b>climates</b>. A climate is the typical weather pattern in a region over a long time.\"}},{\"id\":\"lM6nO7pQ8r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>tropical climate</b> — hot and humid all year (e.g. Brazil, Thailand)\",\"<b>desert climate</b> — very hot and dry (e.g. Egypt, Australia's outback)\",\"<b>temperate climate</b> — mild temperatures with four seasons (e.g. UK, France)\",\"<b>polar climate</b> — very cold, snow and ice most of the year (e.g. Arctic, Antarctica)\",\"<b>mediterranean climate</b> — warm, dry summers and mild, wet winters (e.g. Spain, Italy)\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "A temperate climate has four seasons: spring, summer, autumn, and winter.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Hot Climate",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Cold Climate",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_3",
+                  "name": "Mild Climate",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "tropical rainforest",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "polar ice cap",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "four seasons",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_4",
+                  "text": "desert heat",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "blizzards every winter",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_6",
+                  "text": "warm summers, mild winters",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_7",
+                  "text": "humid air all year",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_8",
+                  "text": "heavy snowfall in January",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "tropical",
+                    "desert",
+                    "polar",
+                    "sunny"
+                  ],
+                  "correctWord": "sunny"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which country most likely has a tropical climate?",
+                  "options": [
+                    "Canada",
+                    "Norway",
+                    "Brazil",
+                    "Germany"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "A temperate climate usually has ___.",
+                  "options": [
+                    "no seasons",
+                    "only two seasons",
+                    "four seasons",
+                    "only one season"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

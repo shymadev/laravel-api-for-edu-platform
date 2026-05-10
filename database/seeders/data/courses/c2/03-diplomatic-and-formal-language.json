@@ -1,0 +1,424 @@
+{
+  "title": "Diplomatic and Formal Language",
+  "description": "Master the specialised register of diplomatic communication, international protocol, formal oratory, and high-level institutional discourse. This course covers the language of treaties, diplomatic correspondence, international negotiations, ceremonial speeches, and formal procedural communication at C2 level.",
+  "language": "en",
+  "difficulty_level": "C2",
+  "is_premium": true,
+  "preview_image": "Diplomatic and Formal Language.jpg",
+  "topics": [
+    {
+      "title": "Module 1: The Language of Diplomacy",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Diplomatic Communication: Precision, Ambiguity, and Euphemism",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000131000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Diplomatic language</b> operates within a paradox: it demands both extreme <b>precision</b> (to create binding international commitments) and strategic <b>ambiguity</b> (to enable parties with genuinely incompatible positions to reach agreements). This tension defines diplomatic discourse at every level, from bilateral negotiations to UN Security Council resolutions.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Constructive ambiguity</b> — deliberately vague or ambiguous language inserted into agreements to allow each party to interpret the outcome as consistent with its position — is a recognised diplomatic technique. The language of UN Resolution 242 (<em>'withdrawal of Israeli armed forces from territories occupied in the recent conflict'</em> — omitting the definite article 'the' before 'territories') is a famous example.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Diplomatic language is characterised by: <b>formal register</b> (avoiding contractions, colloquialisms, and emotive vocabulary); <b>indirect expression</b> (preference for passive constructions, nominalisations, and impersonal structures); <b>hedging</b> (extensive use of modal verbs and qualifying phrases); and <b>formulaic courtesy</b> (fixed expressions that signal respect while maintaining professional distance).\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Diplomatic euphemisms:</b> Direct accusations are rarely made in formal diplomacy. Instead: <em>'We have concerns about…'</em> (= we strongly object to); <em>'We urge restraint'</em> (= stop doing what you are doing); <em>'frank and candid discussions'</em> (= heated disagreement); <em>'exploratory talks'</em> (= preliminary discussions with no commitment); <em>'a full and frank exchange of views'</em> (= a serious disagreement without resolution).\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Both parties engaged in frank and candid discussions and agreed to continue exploratory talks at the earliest opportunity.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Constructive ambiguity",
+                  "right": "Deliberately vague language allowing different parties to claim success"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "'We have concerns about...'",
+                  "right": "Diplomatic expression meaning: we strongly object to this"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "'Frank and candid discussions'",
+                  "right": "Diplomatic euphemism for heated disagreement"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "'We urge restraint'",
+                  "right": "Diplomatic expression meaning: stop doing what you are doing"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Exploratory talks",
+                  "right": "Preliminary discussions without binding commitments"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is 'constructive ambiguity' in diplomatic language?",
+                  "options": [
+                    "A technique for writing legally binding treaties with precise terms",
+                    "Deliberately vague language that allows different parties to interpret an agreement as consistent with their own positions",
+                    "The use of formal euphemisms to avoid causing offence",
+                    "The practice of providing multiple translations of a key document"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Treaty Language and International Law",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Language of International Agreements and Resolutions",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000132000,\"blocks\":[{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"International treaties and resolutions have a highly formalised linguistic structure. UN Security Council resolutions, for example, follow a strict template: preambular paragraphs (beginning with present participles: <em>Recalling, Noting, Affirming, Welcoming, Alarmed by, Deeply concerned…</em>) followed by operative paragraphs (beginning with verbs in the present tense: <em>Decides, Demands, Urges, Calls upon, Encourages, Authorises…</em>).\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"The operative verb chosen in a Security Council resolution is legally significant. <em>'Decides'</em> creates binding obligations under Chapter VII of the UN Charter; <em>'demands'</em> is strong but not necessarily binding; <em>'urges'</em> and <em>'calls upon'</em> are hortatory rather than binding; <em>'encourages'</em> and <em>'welcomes'</em> are purely exhortatory. Drafting states negotiate these distinctions with great care.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Treaty language features:</b> The operative unit is the article, numbered and containing a single substantive provision. All substantive parties are defined in the opening articles. Obligations are expressed using <em>'shall'</em>; permissions with <em>'may'</em>; prohibitions with <em>'shall not'</em>. Dispute resolution mechanisms specify the procedure (arbitration, ICJ jurisdiction, etc.).\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key treaty vocabulary:</b> ratification (formal domestic approval), accession (joining an existing treaty), reservation (a state's declaration limiting its acceptance of a provision), entry into force (when a treaty becomes legally operative), denunciation (formal withdrawal), derogation (temporary suspension of obligations), jus cogens (peremptory norms from which no derogation is permitted).\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The Security Council decides that all member states shall immediately cease supplying arms to the parties in the conflict.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Legally Binding (Chapter VII)",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Hortatory / Non-binding",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "The Security Council DECIDES that…",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "The Security Council ENCOURAGES member states to…",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "The Security Council CALLS UPON parties to refrain from…",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_4",
+                  "text": "The Security Council DEMANDS the immediate cessation of…",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "The Security Council WELCOMES the efforts of…",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_6",
+                  "text": "The Security Council AUTHORISES member states to use all necessary means…",
+                  "correctCategory": "cat_1"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Formal declaration by a state limiting its acceptance of a specific treaty provision",
+                  "word": "reservation"
+                },
+                {
+                  "hint": "Peremptory norms of international law from which no derogation is permitted",
+                  "word": "jus cogens"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In a UN Security Council resolution, which operative verb creates legally binding obligations under the UN Charter?",
+                  "options": [
+                    "Encourages",
+                    "Calls upon",
+                    "Urges",
+                    "Decides"
+                  ],
+                  "correctOptions": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Formal Speeches and Oratory",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Architecture of Formal Speeches: Rhetoric and Ceremony",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000133000,\"blocks\":[{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Formal oratory — at state occasions, international assemblies, and institutional ceremonies — draws on the oldest traditions of rhetoric while adapting to contemporary standards of formality and decorum. The ability to write and deliver such speeches is a high-level professional skill.\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Classical rhetorical devices</b> that remain central to formal oratory:\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Anaphora</em> — repetition at the beginning of successive clauses: <em>'We shall fight on the beaches, we shall fight on the landing grounds…'</em> (Churchill)\",\"<em>Epistrophe</em> — repetition at the end of successive clauses: <em>'of the people, by the people, for the people'</em> (Lincoln)\",\"<em>Chiasmus</em> — reversal of grammatical structure: <em>'Ask not what your country can do for you — ask what you can do for your country'</em> (Kennedy)\",\"<em>Tricolon</em> — a series of three parallel elements: <em>'Life, liberty, and the pursuit of happiness'</em>\",\"<em>Antithesis</em> — contrasting ideas in parallel structure: <em>'It was the best of times, it was the worst of times'</em> (Dickens)\"]}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Ceremonial speech conventions:</b> Formal speeches at state occasions typically include: acknowledgement of dignitaries (in strict order of protocol), a statement of the occasion's significance, reference to shared values or history, a central substantive argument or narrative, and a forward-looking conclusion expressing commitment or hope.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Ask not what your country can do for you — ask what you can do for your country.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Anaphora",
+                  "right": "Repetition at the beginning of successive clauses"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Epistrophe",
+                  "right": "Repetition at the end of successive clauses"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Chiasmus",
+                  "right": "Reversal of grammatical structure across two clauses"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Tricolon",
+                  "right": "A series of three parallel elements"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Antithesis",
+                  "right": "Contrasting ideas expressed in parallel structure"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "'We shall fight, we shall struggle, and we shall resist' — Identify the rhetorical device. [Wrong answer: antithesis]",
+                  "correctText": "Anaphora — repetition at the beginning of successive clauses ('we shall')"
+                },
+                {
+                  "text": "'The more you learn, the more you realise how little you know' — Identify the device. [Wrong answer: anaphora]",
+                  "correctText": "Antithesis — contrasting ideas expressed in a parallel structure"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which rhetorical device does Kennedy use in 'Ask not what your country can do for you — ask what you can do for your country'?",
+                  "options": [
+                    "Anaphora",
+                    "Tricolon",
+                    "Chiasmus",
+                    "Epistrophe"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Protocol, Ceremonial Language, and Titles",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Diplomatic Protocol: Forms of Address and Ceremonial Conventions",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000134000,\"blocks\":[{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Protocol</b> in diplomacy refers to the system of rules, conventions, and ceremonial procedures governing the conduct of diplomatic relations. Correct forms of address, precedence, and ceremonial language are not mere formalities — they signal respect for the institutions and individuals represented.\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Forms of address (selected):</b>\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Heads of state / presidents: <em>Your Excellency, Mr./Madam President</em>\",\"Prime ministers and senior ministers: <em>Your Excellency, Prime Minister</em>\",\"Ambassadors: <em>Your Excellency, Ambassador</em>\",\"In formal correspondence: <em>I have the honour to inform Your Excellency…</em> / <em>I avail myself of this opportunity to renew to Your Excellency the assurances of my highest consideration.</em> (standard formal valediction)\",\"Monarchs: <em>Your Majesty</em> (on first reference), <em>Sir/Ma'am</em> thereafter\",\"Judges of international courts: <em>The Honourable, President/Judge [Name]</em>\"]}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Note verbale</b> is the most common form of written diplomatic communication: an impersonal third-person note (<em>'The Embassy of [Country] presents its compliments to the Ministry of Foreign Affairs and has the honour to inform…'</em>). The impersonal structure and absence of salutation and signature are defining features of this genre.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The Embassy of the Republic presents its compliments to the Ministry of Foreign Affairs and has the honour to inform it of the following.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700134001",
+                  "english": "I avail myself of this opportunity to renew to Your Excellency the assurances of my highest consideration.",
+                  "russian": "Пользуясь настоящим случаем, прошу Вас, г-н Посол, принять заверения в моём самом высоком уважении.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700134002",
+                  "english": "The Embassy of [Country] presents its compliments to the Ministry of Foreign Affairs and has the honour to transmit the following note verbale.",
+                  "russian": "Посольство [Страны] свидетельствует своё уважение Министерству иностранных дел и имеет честь передать нижеследующую вербальную ноту.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is a 'note verbale' in diplomatic communication?",
+                  "options": [
+                    "An oral communication delivered at a press conference",
+                    "A formal impersonal written diplomatic communication in the third person",
+                    "A personal letter from one foreign minister to another",
+                    "A verbal agreement that has not yet been put in writing"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: High-Level Negotiation Language",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Strategic Language in High-Stakes Diplomatic Negotiations",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000135000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Diplomatic negotiations at the highest level deploy a sophisticated interplay of signalling, ambiguity, face-saving devices, and strategic framing. Understanding the <b>pragmatics</b> of high-level negotiation English — what is meant beyond what is said — is a C2-level skill.\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Face-saving language</b> is essential when parties need to accept compromise without appearing to capitulate. Formulas include: <em>'In the spirit of constructive dialogue…'</em> / <em>'Without prejudice to our fundamental position…'</em> / <em>'We are prepared to consider a creative solution that addresses the core concerns of both parties.'</em>\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Signalling intent without commitment:</b> Diplomats often need to indicate willingness to move without formally committing to a position: <em>'Exploratory conversations have been constructive.'</em> / <em>'We remain open to further discussion on modalities.'</em> / <em>'There may be room for a mutually acceptable arrangement if the concerns of both sides are properly addressed.'</em>\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Managing disagreement without rupture:</b> <em>'We take note of your position, while maintaining our own.'</em> / <em>'We respectfully disagree, and we believe this matter merits further reflection.'</em> / <em>'We are unable to accept the current formulation, but we remain committed to finding a solution.'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "We are prepared to consider a creative solution that adequately addresses the core concerns of both delegations.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following diplomatic phrase aloud with appropriate formal, measured delivery",
+                "targetPhrase": "Without prejudice to our fundamental position, we are prepared to explore possible accommodations that address the concerns of both delegations."
+              }
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700135001",
+                  "english": "We take note of your delegation's position, while maintaining our own long-standing view on this matter.",
+                  "russian": "Мы принимаем к сведению позицию вашей делегации, сохраняя при этом нашу давнюю точку зрения по данному вопросу.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700135002",
+                  "english": "There may be room for a mutually acceptable arrangement, provided the core interests of both parties are adequately addressed.",
+                  "russian": "Возможно, существует пространство для взаимоприемлемого урегулирования при условии надлежащего учёта основных интересов обеих сторон.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the function of 'face-saving language' in diplomatic negotiations?",
+                  "options": [
+                    "To insult the opposing delegation indirectly",
+                    "To allow a party to accept compromise without appearing to capitulate or lose prestige",
+                    "To terminate negotiations without reaching an agreement",
+                    "To disguise the true legal meaning of a treaty provision"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
@@ -11,7 +13,9 @@ use Illuminate\Support\Str;
  */
 class UserFactory extends Factory
 {
-    /** The current password being used by the factory. */
+    /**
+     * The current password being used by the factory.
+     */
     protected static ?string $password;
 
     /**

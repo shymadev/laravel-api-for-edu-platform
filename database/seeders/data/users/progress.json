@@ -1,0 +1,6362 @@
+[
+  {
+    "user_index": 2,
+    "courses": [
+      {
+        "course_title": "Health and the Body",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 3,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 4,
+    "courses": [
+      {
+        "course_title": "Health and the Body",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 5,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 6,
+    "courses": [
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 7,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 8,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 9,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "half"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 10,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 11,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 12,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 13,
+    "courses": [
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 14,
+    "courses": [
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 15,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 16,
+    "courses": [
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 17,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 18,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 19,
+    "courses": [
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "half"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 20,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 21,
+    "courses": [
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 22,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 23,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 24,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 25,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 26,
+    "courses": [
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 27,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 28,
+    "courses": [
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 29,
+    "courses": [
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 30,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 31,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 32,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 33,
+    "courses": [
+      {
+        "course_title": "Social English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "half"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 34,
+    "courses": [
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 35,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 36,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 37,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 38,
+    "courses": [
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "half"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 39,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 40,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 41,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 42,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 43,
+    "courses": [
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 44,
+    "courses": [
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 45,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 46,
+    "courses": [
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 47,
+    "courses": [
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 48,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 49,
+    "courses": [
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 50,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 51,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 52,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 53,
+    "courses": [
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 54,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 55,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 56,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 57,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 58,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 59,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 60,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 61,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 62,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 63,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 64,
+    "courses": [
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 65,
+    "courses": [
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 66,
+    "courses": [
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 67,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 68,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "half"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 69,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 70,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 71,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 72,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 73,
+    "courses": [
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 74,
+    "courses": [
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 75,
+    "courses": [
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 76,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 77,
+    "courses": [
+      {
+        "course_title": "Health and the Body",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 78,
+    "courses": [
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 79,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 80,
+    "courses": [
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 81,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 82,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 83,
+    "courses": [
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 84,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 85,
+    "courses": [
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 86,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 87,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "half"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 88,
+    "courses": [
+      {
+        "course_title": "Social English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 89,
+    "courses": [
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 90,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 91,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 92,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 93,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "half"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 94,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 95,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 96,
+    "courses": [
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 97,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 98,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 99,
+    "courses": [
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 100,
+    "courses": [
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 101,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 102,
+    "courses": [
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 103,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 104,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 105,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 106,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 107,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 108,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 109,
+    "courses": [
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 110,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 111,
+    "courses": [
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 112,
+    "courses": [
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 113,
+    "courses": [
+      {
+        "course_title": "Health and the Body",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 114,
+    "courses": [
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 115,
+    "courses": [
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 116,
+    "courses": [
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 117,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 118,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 119,
+    "courses": [
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 120,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 121,
+    "courses": [
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 122,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 123,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 124,
+    "courses": [
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 125,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 126,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 127,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 128,
+    "courses": [
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 129,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "half"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 130,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 131,
+    "courses": [
+      {
+        "course_title": "Health and the Body",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 132,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 133,
+    "courses": [
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 134,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 135,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 136,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 137,
+    "courses": [
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 138,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 139,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 140,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 141,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 142,
+    "courses": [
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 143,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 144,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 145,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 146,
+    "courses": [
+      {
+        "course_title": "Health and the Body",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 147,
+    "courses": [
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 148,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 149,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 150,
+    "courses": [
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 151,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 152,
+    "courses": [
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 153,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 154,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "half"
+      },
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 155,
+    "courses": [
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 156,
+    "courses": [
+      {
+        "course_title": "Health and the Body",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 157,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 158,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 159,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 160,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 161,
+    "courses": [
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 162,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 163,
+    "courses": [
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 164,
+    "courses": [
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 165,
+    "courses": [
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 166,
+    "courses": [
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 167,
+    "courses": [
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 168,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 169,
+    "courses": [
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Around the City",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 170,
+    "courses": [
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 171,
+    "courses": [
+      {
+        "course_title": "Social English",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 172,
+    "courses": [
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 173,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 174,
+    "courses": [
+      {
+        "course_title": "Body & Health: Essential Vocabulary",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Shopping & Money",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 175,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 176,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English at School: Classroom & Friends",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 177,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 178,
+    "courses": [
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Family & Relationships",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 179,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 180,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 181,
+    "courses": [
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 182,
+    "courses": [
+      {
+        "course_title": "Everyday Greetings & Introductions",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 183,
+    "courses": [
+      {
+        "course_title": "My Daily Routine",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 184,
+    "courses": [
+      {
+        "course_title": "Numbers, Time & Dates",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Food & Drinks",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 185,
+    "courses": [
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 186,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Colors, Shapes & Sizes",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 187,
+    "courses": [
+      {
+        "course_title": "Around the City",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 188,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 189,
+    "courses": [
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 190,
+    "courses": [
+      {
+        "course_title": "Social English",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 191,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 192,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 193,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 194,
+    "courses": [
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 195,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 196,
+    "courses": [
+      {
+        "course_title": "Office English in Action",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 197,
+    "courses": [
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 198,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 199,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 200,
+    "courses": [
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 201,
+    "courses": [
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 202,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 203,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 204,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 205,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 206,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 207,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 208,
+    "courses": [
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 209,
+    "courses": [
+      {
+        "course_title": "Social English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 210,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 211,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 212,
+    "courses": [
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 213,
+    "courses": [
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 214,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 215,
+    "courses": [
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 216,
+    "courses": [
+      {
+        "course_title": "Everyday English: Life in the City",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 217,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 218,
+    "courses": [
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 219,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 220,
+    "courses": [
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 221,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Home & Living",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 222,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 223,
+    "courses": [
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 224,
+    "courses": [
+      {
+        "course_title": "Debating the News",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 225,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 226,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 227,
+    "courses": [
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 228,
+    "courses": [
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 229,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 230,
+    "courses": [
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 231,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 232,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 233,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Travel Smart: Trips & Transport",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 234,
+    "courses": [
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 235,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 236,
+    "courses": [
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 237,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 238,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Social English",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 239,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 240,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 241,
+    "courses": [
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "half"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 242,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Travel and Transport",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 243,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 244,
+    "courses": [
+      {
+        "course_title": "Home & Living",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 245,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 246,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Weather and Seasons",
+        "scenario": "half"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 247,
+    "courses": [
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Work & Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "At the Restaurant",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 248,
+    "courses": [
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 249,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 250,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 251,
+    "courses": [
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 252,
+    "courses": [
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 253,
+    "courses": [
+      {
+        "course_title": "Debating the News",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 254,
+    "courses": [
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 255,
+    "courses": [
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Hobbies and Leisure",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 256,
+    "courses": [
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "half"
+      },
+      {
+        "course_title": "People, Home & Hobbies",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 257,
+    "courses": [
+      {
+        "course_title": "Sports & Fitness Talk",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 258,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 259,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 260,
+    "courses": [
+      {
+        "course_title": "Life Admin & Services",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Sports & Activities",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 261,
+    "courses": [
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 262,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Health and the Body",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 263,
+    "courses": [
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 264,
+    "courses": [
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 265,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 266,
+    "courses": [
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 267,
+    "courses": [
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 268,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 269,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 270,
+    "courses": [
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 271,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 272,
+    "courses": [
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 273,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 274,
+    "courses": [
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 275,
+    "courses": [
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 276,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 277,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 278,
+    "courses": [
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 279,
+    "courses": [
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 280,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 281,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 282,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 283,
+    "courses": [
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 284,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 285,
+    "courses": [
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 286,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 287,
+    "courses": [
+      {
+        "course_title": "Debating the News",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 288,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 289,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 290,
+    "courses": [
+      {
+        "course_title": "Debating the News",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 291,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 292,
+    "courses": [
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 293,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 294,
+    "courses": [
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 295,
+    "courses": [
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 296,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 297,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 298,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 299,
+    "courses": [
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 300,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 301,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 302,
+    "courses": [
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 303,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 304,
+    "courses": [
+      {
+        "course_title": "Environment and Nature",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 305,
+    "courses": [
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 306,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 307,
+    "courses": [
+      {
+        "course_title": "Cultural Diversity",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English Tenses in Depth",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 308,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 309,
+    "courses": [
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 310,
+    "courses": [
+      {
+        "course_title": "Media & Entertainment",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 311,
+    "courses": [
+      {
+        "course_title": "Debating the News",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 312,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 313,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 314,
+    "courses": [
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Culture, Film & the Arts",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 315,
+    "courses": [
+      {
+        "course_title": "Debating the News",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 316,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Technology in Daily Life",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 317,
+    "courses": [
+      {
+        "course_title": "Study Skills & First Jobs",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Business Communication Basics",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Fluency & Interaction",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 318,
+    "courses": [
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 319,
+    "courses": [
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 320,
+    "courses": [
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 321,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 322,
+    "courses": [
+      {
+        "course_title": "Literary Analysis and Criticism",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 323,
+    "courses": [
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 324,
+    "courses": [
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 325,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 326,
+    "courses": [
+      {
+        "course_title": "Debating the News",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 327,
+    "courses": [
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 328,
+    "courses": [
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 329,
+    "courses": [
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 330,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 331,
+    "courses": [
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 332,
+    "courses": [
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 333,
+    "courses": [
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 334,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 335,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 336,
+    "courses": [
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 337,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 338,
+    "courses": [
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 339,
+    "courses": [
+      {
+        "course_title": "Office English in Action",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 340,
+    "courses": [
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 341,
+    "courses": [
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 342,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 343,
+    "courses": [
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 344,
+    "courses": [
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 345,
+    "courses": [
+      {
+        "course_title": "Office English in Action",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 346,
+    "courses": [
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "half"
+      },
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 347,
+    "courses": [
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 348,
+    "courses": [
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 349,
+    "courses": [
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 350,
+    "courses": [
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 351,
+    "courses": [
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 352,
+    "courses": [
+      {
+        "course_title": "Literary Analysis and Criticism",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Office English in Action",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 353,
+    "courses": [
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 354,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 355,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 356,
+    "courses": [
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 357,
+    "courses": [
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 358,
+    "courses": [
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 359,
+    "courses": [
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Literary Analysis and Criticism",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "fifth"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 360,
+    "courses": [
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "fifth"
+      }
+    ]
+  },
+  {
+    "user_index": 361,
+    "courses": [
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 362,
+    "courses": [
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 363,
+    "courses": [
+      {
+        "course_title": "Office English in Action",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "stopped"
+      }
+    ]
+  },
+  {
+    "user_index": 364,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "just_started"
+      }
+    ]
+  },
+  {
+    "user_index": 365,
+    "courses": [
+      {
+        "course_title": "Literature and Storytelling",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Global Issues and Debates",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 366,
+    "courses": [
+      {
+        "course_title": "Academic English Writing",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Debating the News",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "stopped"
+      },
+      {
+        "course_title": "Science & Data for Readers",
+        "scenario": "two_three"
+      }
+    ]
+  },
+  {
+    "user_index": 367,
+    "courses": [
+      {
+        "course_title": "Discourse & Argumentation",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Media Analysis and Criticism",
+        "scenario": "completed"
+      },
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "quarter"
+      }
+    ]
+  },
+  {
+    "user_index": 368,
+    "courses": [
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "completed"
+      }
+    ]
+  },
+  {
+    "user_index": 369,
+    "courses": [
+      {
+        "course_title": "English for Exams: Essays & Speaking",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Professional Writing Skills",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 370,
+    "courses": [
+      {
+        "course_title": "Office English in Action",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 371,
+    "courses": [
+      {
+        "course_title": "Diplomatic and Formal Language",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Legal and Business English",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Advanced Business Negotiations",
+        "scenario": "two_three"
+      },
+      {
+        "course_title": "Philosophy and Ethics in English",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 372,
+    "courses": [
+      {
+        "course_title": "Advanced Grammar Structures",
+        "scenario": "just_started"
+      },
+      {
+        "course_title": "Precision, Tone & Voice",
+        "scenario": "quarter"
+      },
+      {
+        "course_title": "Mastering Idioms and Slang",
+        "scenario": "half"
+      }
+    ]
+  },
+  {
+    "user_index": 373,
+    "courses": [
+      {
+        "course_title": "Critical Thinking in English",
+        "scenario": "half"
+      },
+      {
+        "course_title": "Advanced Writing Techniques",
+        "scenario": "half"
+      }
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+{
+  "title": "Office English in Action",
+  "description": "Master the professional English used in modern workplaces: business meetings, email writing, presentations, negotiations, and office small talk. Aimed at B2 learners who work or plan to work in English-speaking professional environments.",
+  "language": "en",
+  "difficulty_level": "B2",
+  "is_premium": true,
+  "preview_image": "Office English in Action.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Business Communication",
+      "subtopics": [
+        {
+          "title": "1.1 Professional Email Writing",
+          "lessons": [
+            {
+              "title": "Formal and Semi-Formal Emails",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700080001000,\"blocks\":[{\"id\":\"eA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Professional email writing has clear conventions. The register you choose depends on your relationship with the recipient and the purpose of the email.\"}},{\"id\":\"eD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Email Structure\",\"level\":3}},{\"id\":\"eG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Subject line:</b> clear and specific (e.g. 'Meeting request – 15 May')\",\"<b>Salutation:</b> Dear Mr/Ms [Surname] (formal) / Hi [Name] (semi-formal)\",\"<b>Opening line:</b> context or reason for writing\",\"<b>Main body:</b> organised paragraphs\",\"<b>Closing:</b> request/action\",\"<b>Sign-off:</b> Yours sincerely (formal) / Kind regards / Best wishes\"]}},{\"id\":\"eJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Useful Phrases\",\"level\":3}},{\"id\":\"eM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I am writing to enquire about...</b>\",\"<b>Further to our conversation...</b>\",\"<b>I am pleased to inform you that...</b>\",\"<b>I would be grateful if you could...</b>\",\"<b>Please find attached...</b>\",\"<b>I look forward to hearing from you.</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "fill-gaps",
+                  "text": "Dear Ms Johnson,\n\nI ___ writing to enquire about the position advertised on your website. ___ to your job listing, I believe my experience in project management makes me a strong candidate. I would be ___ if you could send me further information.\n\nI look forward ___ hearing from you.\n\nYours sincerely,\nA. Smith",
+                  "gaps": [
+                    { "position": 1, "answer": "am", "options": ["am", "is", "was", "have been"] },
+                    { "position": 2, "answer": "Further", "options": ["Further", "According", "Thanks", "Based"] },
+                    { "position": 3, "answer": "grateful", "options": ["grateful", "happy", "glad", "fine"] },
+                    { "position": 4, "answer": "to", "options": ["to", "for", "at", "about"] }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sign-off is appropriate for a formal email to someone you don't know?",
+                      "options": ["Cheers", "Love", "Yours sincerely", "See ya"],
+                      "correctOptions": [2]
+                    },
+                    {
+                      "text": "Which phrase is most appropriate when sending a document by email?",
+                      "options": ["Here's the file.", "I've attached the thing.", "Please find attached the document.", "Look at this."],
+                      "correctOptions": [2]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Meetings and Conference Calls",
+          "lessons": [
+            {
+              "title": "Running and Participating in Meetings",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700080002000,\"blocks\":[{\"id\":\"mtA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Business meetings have a specific structure and require particular language for opening, managing discussion, and closing.\"}},{\"id\":\"mtD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Opening a Meeting\",\"level\":3}},{\"id\":\"mtG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Let's get started / get down to business.</b>\",\"<b>The purpose of today's meeting is...</b>\",\"<b>We have three items on the agenda today.</b>\"]}},{\"id\":\"mtJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Managing Discussion\",\"level\":3}},{\"id\":\"mtM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Could I just come in here?</b> — interrupting politely\",\"<b>Could we get back to the main point?</b>\",\"<b>That's an interesting point. Does anyone else have a view?</b>\",\"<b>Let's move on to the next agenda item.</b>\"]}},{\"id\":\"mtN1oP2qQ3r\",\"type\":\"header\",\"data\":{\"text\":\"Closing\",\"level\":3}},{\"id\":\"mtO2pP3qQ4r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>To summarise what we've agreed...</b>\",\"<b>The action points are as follows...</b>\",\"<b>I'll send out the minutes by end of day.</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    { "text": "Let's get down to business.", "translation": "Давайте перейдём к делу." },
+                    { "text": "Could I just come in here?", "translation": "Могу я вставить слово?" },
+                    { "text": "Let's move on to the next item.", "translation": "Давайте перейдём к следующему пункту." },
+                    { "text": "I'll send out the minutes.", "translation": "Я разошлю протокол совещания." },
+                    { "text": "The action points are as follows.", "translation": "Задачи следующие." }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase politely interrupts someone in a meeting?",
+                      "options": ["Stop talking!", "Excuse me, could I just come in here?", "Wait, wait, wait.", "Let me speak now."],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Presentations",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Structuring and Delivering a Presentation",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700080003000,\"blocks\":[{\"id\":\"prA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A well-structured presentation is easier to follow and more persuasive. Use signpost language to guide your audience through the content.\"}},{\"id\":\"prD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Signpost Phrases\",\"level\":3}},{\"id\":\"prG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Opening:</b> Good morning everyone. Today I'd like to present... / I'm going to talk about...\",\"<b>Sequencing:</b> First... / Moving on to... / This brings me to...\",\"<b>Referring to visuals:</b> As you can see from this slide... / The graph shows...\",\"<b>Concluding:</b> To sum up... / In conclusion... / I'd like to leave you with the thought that...\",\"<b>Questions:</b> I'd be happy to take any questions now.\"]}},{\"id\":\"prJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Delivery tip:</b> Speak slowly and clearly. Pause after key points. Make eye contact. Don't read from your slides.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "fill-gaps",
+              "text": "Good morning, everyone. Today I'd like ___ talk about our Q3 sales results. First, let's look at the overall figures. ___ you can see from this slide, sales increased by 12%. Moving ___ to regional data, the biggest growth was in the eastern market. To ___ up, we exceeded our targets by a significant margin.",
+              "gaps": [
+                { "position": 1, "answer": "to", "options": ["to", "for", "about", "at"] },
+                { "position": 2, "answer": "As", "options": ["As", "Like", "When", "While"] },
+                { "position": 3, "answer": "on", "options": ["on", "over", "up", "to"] },
+                { "position": 4, "answer": "sum", "options": ["sum", "wrap", "round", "bring"] }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Professional Relationships",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Networking and Office Small Talk",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700080004000,\"blocks\":[{\"id\":\"nwA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Building professional relationships requires a mix of formal communication and informal small talk. This lesson focuses on networking events and everyday office conversation.\"}},{\"id\":\"nwD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Networking Phrases\",\"level\":3}},{\"id\":\"nwG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Hi, I don't think we've met. I'm...</b>\",\"<b>What line of work are you in?</b>\",\"<b>That sounds interesting. How long have you been doing that?</b>\",\"<b>I'd love to stay in touch. Here's my card.</b>\",\"<b>It was great meeting you.</b>\"]}},{\"id\":\"nwJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Office Small Talk Topics\",\"level\":3}},{\"id\":\"nwM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"The weekend / plans\",\"Current projects (briefly)\",\"Office events or announcements\",\"Weather (a classic!)\",\"Sport, films, or news (if you know the person well)\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Hi, I don't think we've met. I'm Sarah from the marketing department. What line of work are you in? Oh, that's really interesting! How long have you been with the company?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which question is a natural networking opener?",
+                  "options": ["How much do you earn?", "Why are you here?", "What line of work are you in?", "Are you married?"],
+                  "correctOptions": [2]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

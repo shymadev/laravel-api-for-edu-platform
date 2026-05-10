@@ -1,0 +1,924 @@
+{
+  "title": "Academic English Writing",
+  "description": "A rigorous course designed to develop mastery of academic writing conventions, from structuring research papers using the IMRAD framework to deploying sophisticated hedging language and proper citation practices. Aimed at advanced learners entering higher education or academic research who need to produce publication-quality written work in English.",
+  "language": "en",
+  "difficulty_level": "C1",
+  "is_premium": true,
+  "preview_image": "Academic English Writing.jpg",
+  "topics": [
+    {
+      "title": "Module 1: The Architecture of Academic Writing",
+      "subtopics": [
+        {
+          "title": "1.1 The IMRAD Framework",
+          "lessons": [
+            {
+              "title": "Introduction to IMRAD: Structuring Research Papers",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000051000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>IMRAD structure</b> (Introduction, Methods, Results, and Discussion) constitutes the dominant organisational paradigm for empirical research papers across the natural sciences, social sciences, and increasingly the humanities. Far from being an arbitrary convention, IMRAD reflects the logical progression of scientific inquiry: it answers, in sequence, <em>Why was the study conducted? How was it conducted? What was found? What do the findings mean?</em>\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>Introduction</b> performs a triple function: it establishes the research territory by reviewing the relevant literature, identifies a gap, problem, or controversy within that territory, and articulates the specific contribution the current study makes. John Swales's <b>Create-A-Research-Space (CARS) model</b> remains the most widely cited analytical framework for understanding how introductions achieve these rhetorical moves.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>Methods</b> section must be sufficiently detailed to permit replication, yet concise enough to avoid redundancy. Passive voice constructions are conventionally employed here — <em>'Participants were recruited via…'</em> rather than <em>'We recruited participants via…'</em> — though first-person narration is increasingly acceptable in certain disciplines and journals.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>Results</b> section presents findings objectively, typically guided by visual aids such as tables and figures. Writers should narrate the most salient trends without interpreting their significance, which is reserved for the Discussion. Finally, the <b>Discussion</b> contextualises findings within existing scholarship, acknowledges limitations, and proposes avenues for future research — often mirroring the funnel-shaped structure of the Introduction in reverse.\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Understanding IMRAD as a <em>rhetorical</em> rather than merely structural device enables writers to make purposeful decisions about emphasis, sequencing, and the strategic deployment of evidence throughout their manuscripts.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Participants were recruited via stratified random sampling and provided written informed consent prior to the study.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "Introduction",
+                      "right": "Establishes the research gap and states the study's purpose"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "Methods",
+                      "right": "Describes procedures in sufficient detail for replication"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "Results",
+                      "right": "Presents findings objectively, guided by tables and figures"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "Discussion",
+                      "right": "Contextualises findings and acknowledges limitations"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "According to Swales's CARS model, which rhetorical move is NOT typically performed in the Introduction of a research paper?",
+                      "options": [
+                        "Establishing the significance of the research territory",
+                        "Identifying a gap or problem in existing research",
+                        "Presenting the raw statistical data from the study",
+                        "Announcing the principal contribution of the current study"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which voice is conventionally favoured in the Methods section of scientific writing, and why?",
+                      "options": [
+                        "Active voice, to assign clear responsibility to the researchers",
+                        "Passive voice, to foreground the procedures rather than the agents",
+                        "Second-person voice, to make the methodology accessible to readers",
+                        "Mixed voice, with no dominant convention"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Crafting the Academic Introduction: The CARS Model",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000052000,\"blocks\":[{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"John Swales's <b>CARS (Create-A-Research-Space) model</b> identifies three hierarchical <em>moves</em> in academic introductions, each subdivided into rhetorical <em>steps</em>. Move 1 (<b>Establishing a Territory</b>) claims the centrality or importance of the field, makes topic generalisations, and reviews prior research. Move 2 (<b>Establishing a Niche</b>) identifies a gap, raises a question, or extends previous research. Move 3 (<b>Occupying the Niche</b>) announces the present study's purpose, outlines its structure, and may state the principal findings.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"The transition from Move 2 to Move 3 is architecturally critical and is typically signalled by <b>adversative</b> or <b>contrastive</b> connectors: <em>'However, to date, no study has…'</em>, <em>'Nevertheless, the relationship between X and Y remains poorly understood…'</em>, <em>'Despite substantial research into X, comparatively little attention has been paid to…'</em>. These formulations simultaneously acknowledge prior scholarship and carve out the legitimacy of the current inquiry.\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Effective introductions calibrate their scope carefully. An introduction that is too narrow risks obscuring the broader relevance of the study; one that is too broad risks undermining its specificity and originality. The metaphor of a <b>funnel</b> — broad at the opening, narrowing progressively to the specific research question — is both pedagogically useful and practically accurate.\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Writers should also attend to <b>tense conventions</b>: the present simple is used for generally accepted truths and to describe the current paper (<em>'This study investigates…'</em>); the present perfect is used to review recent scholarship (<em>'Several researchers have argued…'</em>); the simple past is used to report specific completed studies (<em>'Smith (2019) found…'</em>).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Despite substantial research into vocabulary acquisition, comparatively little attention has been paid to syntactic factors.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "The study [aims] to investigate the relationship between syntactic complexity and reading comprehension. [Despite] extensive research into vocabulary acquisition, comparatively little attention has been paid to syntactic factors. The present paper [seeks] to address this gap by analysing a corpus of 200 undergraduate essays.",
+                  "gaps": [
+                    {
+                      "placeholder": "aims",
+                      "answers": [
+                        "aims",
+                        "seeks",
+                        "intends"
+                      ]
+                    },
+                    {
+                      "placeholder": "Despite",
+                      "answers": [
+                        "Despite",
+                        "Notwithstanding"
+                      ]
+                    },
+                    {
+                      "placeholder": "seeks",
+                      "answers": [
+                        "seeks",
+                        "aims",
+                        "endeavours"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "The transition from Move 2 to Move 3 is typically signalled by ___ connectors such as 'however' or 'nevertheless'.",
+                      "answers": [
+                        "adversative",
+                        "contrastive",
+                        "concessive"
+                      ]
+                    },
+                    {
+                      "sentence": "When describing findings from a specific completed study, academic writers conventionally use the ___ tense.",
+                      "answers": [
+                        "simple past",
+                        "past simple",
+                        "preterite"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Constructing a Thesis Statement",
+          "lessons": [
+            {
+              "title": "Thesis Statements: Arguability, Scope, and Precision",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000053000,\"blocks\":[{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>thesis statement</b> is the central argumentative claim of an academic essay or research paper — the single proposition that the entire text exists to support, qualify, or demonstrate. An effective thesis statement must satisfy three cardinal criteria: it must be <b>arguable</b> (capable of being disputed or supported with evidence), <b>specific</b> (delineated with sufficient precision to be testable), and <b>significant</b> (worth arguing in the first place).\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"A common error at the advanced level is the conflation of a thesis with a <em>topic statement</em>. <em>'Climate change is a pressing global issue'</em> is a topic statement — it announces a subject but makes no disputable claim. A thesis reformulation might read: <em>'Contrary to prevailing policy frameworks, carbon taxation schemes in isolation are insufficient to curtail industrial emissions without complementary regulatory interventions targeting supply chains.'</em> This version is arguable, specific, and substantive.\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"In longer academic texts, the thesis typically appears at the end of the introduction and may be preceded by a <b>roadmap sentence</b> that previews the paper's argumentative structure: <em>'This paper first examines X, before turning to Y, and ultimately argues that Z.'</em> Such sentences establish a contract with the reader, creating expectations of coherence and logical progression that the body of the paper must honour.\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Advanced writers distinguish between <b>analytical theses</b> (which explain or interpret) and <b>argumentative theses</b> (which advocate a position). The appropriate type depends on disciplinary conventions and assignment requirements. In the humanities, argumentative theses are typically expected; in the natural sciences, analytical theses that interpret empirical patterns are more common.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Contrary to prevailing policy frameworks, carbon taxation schemes in isolation are insufficient to curtail industrial emissions without complementary regulatory interventions.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Effective Thesis Statement",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Weak Topic Statement",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "Neoliberal economic policies, while generating aggregate growth, have demonstrably widened income inequality within OECD nations.",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "Many people have different opinions about immigration.",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "The overdiagnosis of ADHD in children reflects systemic pressures within educational institutions rather than genuine clinical need.",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "Technology has changed how we communicate.",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "This essay discusses the history of the European Union.",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which of the following best exemplifies an effective, arguable thesis statement?",
+                      "options": [
+                        "Shakespeare wrote many plays during his lifetime.",
+                        "The French Revolution had both political and social causes.",
+                        "The widespread adoption of mandatory sentencing has exacerbated racial disparities in the criminal justice system rather than deterring violent crime.",
+                        "This essay will discuss the pros and cons of globalisation."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Hedging and Epistemic Stance",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Hedging Language: Expressing Uncertainty and Caution",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000054000,\"blocks\":[{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Hedging</b> refers to the linguistic strategies writers use to express tentativeness, uncertainty, or the limited applicability of claims — a defining feature of academic prose that distinguishes it from journalistic or popular writing. Far from indicating weakness, hedging is an epistemic responsibility: it signals awareness of the limitations of evidence, the complexity of causality, and the provisional nature of knowledge claims.\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"Hedges operate across several grammatical categories. <b>Modal verbs</b> are among the most common: <em>may, might, could, would</em> indicate degrees of epistemic certainty (<em>'This pattern may reflect…'</em>, <em>'The results could suggest…'</em>). <b>Lexical verbs</b> such as <em>appear, seem, tend, suggest, indicate</em> soften assertive force. <b>Adverbs</b> including <em>apparently, seemingly, possibly, perhaps, generally, typically</em> and <b>adjectives</b> like <em>possible, probable, likely, apparent</em> also perform hedging functions.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Beyond individual lexical items, hedges are deployed through <b>attribution structures</b> that locate claims in external sources rather than the writer's own voice: <em>'According to Smith (2020), …'</em>, <em>'As Johnson et al. argue, …'</em>. This distributes epistemic responsibility and situates the writer within a scholarly conversation.\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Writers must also distinguish between hedging and <b>boosting</b> — language that asserts high certainty or importance: <em>clearly, obviously, undoubtedly, it is evident that</em>. Both serve rhetorical purposes, but overuse of boosters in academic writing can appear assertive to the point of intellectual overconfidence, undermining the writer's scholarly credibility. Mastering the calibration between hedging and boosting is one of the hallmarks of advanced academic literacy.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The data suggest that participants may have benefited from the intervention, though further longitudinal studies appear to be needed.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Modal verb hedge",
+                  "right": "The correlation might indicate a causal relationship"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Lexical verb hedge",
+                  "right": "The findings appear to support the hypothesis"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Adverbial hedge",
+                  "right": "This pattern is possibly attributable to sampling bias"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Attribution hedge",
+                  "right": "As Chomsky (1965) suggests, syntactic structures are innate"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Booster",
+                  "right": "It is clear that the intervention was highly effective"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "The data [suggest] that participants in the experimental group [may] have benefited from the intervention, though it [appears] that further longitudinal studies are [needed] to confirm this pattern. These results [could] be attributed to increased metacognitive awareness.",
+              "gaps": [
+                {
+                  "placeholder": "suggest",
+                  "answers": [
+                    "suggest",
+                    "indicate",
+                    "imply"
+                  ]
+                },
+                {
+                  "placeholder": "may",
+                  "answers": [
+                    "may",
+                    "might",
+                    "could"
+                  ]
+                },
+                {
+                  "placeholder": "appears",
+                  "answers": [
+                    "appears",
+                    "seems"
+                  ]
+                },
+                {
+                  "placeholder": "needed",
+                  "answers": [
+                    "needed",
+                    "required",
+                    "warranted"
+                  ]
+                },
+                {
+                  "placeholder": "could",
+                  "answers": [
+                    "could",
+                    "may",
+                    "might"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "The results clearly prove that the new method is superior.",
+                  "correctText": "The results suggest that the new method may be superior, though further validation is warranted."
+                },
+                {
+                  "text": "Obviously, climate change is causing all extreme weather events.",
+                  "correctText": "Current evidence indicates that climate change may be increasing the frequency of extreme weather events."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Boosters, Stance Markers, and Epistemic Positioning",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000055000,\"blocks\":[{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Academic writers do not merely report information — they <em>position themselves</em> epistemically in relation to the claims they make and the sources they cite. Ken Hyland's influential framework of <b>metadiscourse</b> distinguishes between <em>interactive</em> resources (which organise and guide the reader) and <em>interactional</em> resources (which engage the reader and express the writer's stance). Among interactional resources, <b>stance markers</b> include hedges, boosters, attitude markers, and self-mentions.\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Attitude markers</b> express the writer's affective or evaluative stance towards the propositional content: <em>it is noteworthy that, remarkably, crucially, significantly, unfortunately</em>. These differ from hedges in that they do not attenuate certainty but rather signal the writer's appraisal of importance or value.\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"The strategic interplay of hedges and boosters creates a sophisticated <b>rhetorical texture</b>. Consider: <em>'While the correlation between X and Y is admittedly modest, it is nonetheless highly significant given the constraints of the dataset.'</em> Here, the hedge (<em>'admittedly modest'</em>) pre-empts a potential objection, while the booster (<em>'highly significant'</em>) reasserts the claim's importance — a characteristic move of mature academic argument.\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Disciplinary norms govern the acceptable density of hedging. Hard sciences typically favour more hedged language in results and discussion sections; humanities scholarship may admit stronger, more assertive claims where the argument is clearly grounded in textual or theoretical evidence. Writers crossing disciplinary boundaries must recalibrate their hedging strategies accordingly.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "While the correlation is admittedly modest, it is nonetheless highly significant given the constraints of the dataset.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In Hyland's metadiscourse framework, which category does the phrase 'it is noteworthy that' belong to?",
+                  "options": [
+                    "Hedge",
+                    "Booster",
+                    "Attitude marker",
+                    "Frame marker"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Which sentence demonstrates the most sophisticated deployment of hedging in an academic context?",
+                  "options": [
+                    "The drug clearly cures the disease.",
+                    "Maybe the drug works sometimes.",
+                    "The drug appears to reduce symptom severity in a majority of cases, though sample limitations preclude definitive conclusions.",
+                    "We are not sure if the drug does anything."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Citation, Paraphrase, and Academic Integrity",
+      "subtopics": [
+        {
+          "title": "3.1 Paraphrasing and Source Integration",
+          "lessons": [
+            {
+              "title": "The Art of Paraphrase: Beyond Synonym Substitution",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000056000,\"blocks\":[{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Effective <b>paraphrase</b> is among the most demanding skills in academic writing, requiring the writer to comprehend a source fully, reformulate its meaning in their own words, and integrate the resulting text seamlessly into their own argument. Crucially, paraphrase is not synonymous with <em>mosaic paraphrasing</em> — the superficial substitution of individual words with synonyms while retaining the original syntactic structure. This technique, while technically altering surface form, constitutes a form of plagiarism because it borrows the intellectual architecture of the source without proper attribution.\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Genuine paraphrase involves <b>conceptual reconstruction</b>: reading the source, setting it aside, and articulating the idea anew from the writer's own cognitive processing. This typically results in a passage that differs substantially in both vocabulary and syntax from the original. The paraphrase should be followed by a citation that acknowledges the source of the idea, even though the words are the writer's own.\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Advanced writers deploy <b>integral</b> and <b>non-integral</b> citation patterns to vary their prose. An integral citation names the author within the sentence syntax: <em>'As Derrida (1976) argues, the binary opposition between speech and writing is constructed rather than natural.'</em> A non-integral citation places the reference parenthetically: <em>'The privileging of speech over writing is a constructed rather than natural hierarchy (Derrida, 1976).'</em> Each pattern creates different rhetorical effects — integral citations foreground the scholar's authority; non-integral citations foreground the idea itself.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "As Derrida (1976) argues, the binary opposition between speech and writing is constructed rather than natural.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Integral Citation",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Non-integral Citation",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "Foucault (1977) contends that power operates through surveillance rather than direct coercion.",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "Power operates through surveillance rather than direct coercion (Foucault, 1977).",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "As Butler (1990) demonstrates, gender is performative rather than innate.",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "Gender is constituted through repeated performative acts rather than reflecting a pre-existing essence (Butler, 1990).",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which of the following best describes 'mosaic paraphrasing'?",
+                      "options": [
+                        "Quoting directly from a source while providing full citation details",
+                        "Replacing individual words in the original with synonyms while keeping the same sentence structure",
+                        "Reconstructing the source's meaning entirely in the writer's own syntax and vocabulary",
+                        "Synthesising ideas from multiple sources into a single integrated paragraph"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Cohesion and Coherence Devices",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Cohesive Devices: Building Textual Unity",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000057000,\"blocks\":[{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Cohesion</b> refers to the surface linguistic mechanisms that connect sentences and clauses within a text, while <b>coherence</b> refers to the semantic and conceptual unity that makes a text interpretable as a whole. Halliday and Hasan's seminal taxonomy identifies five types of cohesive devices: <b>reference</b> (pronominal and demonstrative), <b>substitution</b>, <b>ellipsis</b>, <b>conjunction</b>, and <b>lexical cohesion</b>.\"}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Lexical cohesion</b> — the most sophisticated of these devices at C1 level — includes <em>reiteration</em> (repetition, synonymy, hyponymy, meronymy) and <em>collocation</em>. Skilled academic writers avoid both excessive repetition and excessive synonymic variation, which can obscure conceptual relationships. The strategic repetition of key terms — particularly technical terminology that lacks adequate synonyms — is entirely appropriate in academic prose.\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Conjunctive cohesion</b> is achieved through discourse markers that signal logical relationships between propositions. These include additive connectors (<em>furthermore, moreover, in addition, equally</em>), adversative connectors (<em>however, nevertheless, notwithstanding, by contrast</em>), causal connectors (<em>consequently, therefore, as a result, hence</em>), and temporal connectors (<em>subsequently, hitherto, concurrently</em>). Overreliance on simple connectors (<em>also, but, so</em>) signals a lower register inappropriate for C1 academic writing.\"}},{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"At the paragraph level, <b>topic sentences</b> perform a crucial cohesive function, announcing each paragraph's controlling idea and linking it backward to the preceding paragraph and forward to the thesis. The final sentence of each paragraph may serve as a <b>clincher</b>, crystallising the paragraph's contribution to the overall argument before the transition to the next unit of thought.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The intervention yielded significant improvements in reading fluency. Furthermore, participants demonstrated enhanced metacognitive awareness.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Additive connector",
+                  "right": "Furthermore, the data reveal a secondary pattern"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Adversative connector",
+                  "right": "Nevertheless, these findings must be interpreted cautiously"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Causal connector",
+                  "right": "Consequently, the null hypothesis was rejected"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Lexical reiteration",
+                  "right": "The algorithm was computationally efficient; this efficiency enabled rapid processing"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "The intervention yielded significant improvements in reading fluency. [Furthermore], participants demonstrated enhanced metacognitive awareness. [However], the gains were not uniformly distributed across ability groups. [Consequently], the findings suggest that differentiated instruction may be [necessary] for optimal outcomes.",
+              "gaps": [
+                {
+                  "placeholder": "Furthermore",
+                  "answers": [
+                    "Furthermore",
+                    "Moreover",
+                    "In addition"
+                  ]
+                },
+                {
+                  "placeholder": "However",
+                  "answers": [
+                    "However",
+                    "Nevertheless",
+                    "Nonetheless"
+                  ]
+                },
+                {
+                  "placeholder": "Consequently",
+                  "answers": [
+                    "Consequently",
+                    "Therefore",
+                    "Hence",
+                    "As a result"
+                  ]
+                },
+                {
+                  "placeholder": "necessary",
+                  "answers": [
+                    "necessary",
+                    "warranted",
+                    "required"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Academic Register and Formal Style",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Mastering Academic Register: Formality, Nominalisation, and Objectivity",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000058000,\"blocks\":[{\"id\":\"oP5qR6sT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Register</b> in linguistics refers to the variety of language appropriate to a specific social situation. Academic English constitutes a high-formality register characterised by <b>nominalisation</b>, syntactic density, <b>impersonality</b>, and lexical precision. Understanding how these features function enables writers to make deliberate choices rather than following conventions blindly.\"}},{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Nominalisation</b> — the process of deriving nouns from verbs or adjectives — is perhaps the most distinctive feature of academic prose. Transforming <em>'we decided to investigate'</em> into <em>'the decision to investigate'</em> or <em>'the investigation was undertaken'</em> simultaneously increases formality, compresses meaning, and allows the nominalized form to serve as a logical subject or complement. However, excessive nominalisation can produce what critics call 'zombie nouns' — abstract, bloodless constructions that obscure agency and impede comprehension.\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Academic register also demands <b>lexical precision</b>: the preference for Latinate vocabulary (<em>utilise, demonstrate, facilitate, enumerate</em>) over Germanic monosyllables (<em>use, show, help, list</em>), though clarity should never be sacrificed for Latinate prestige. Some stylistic guides, notably Orwell's rules in 'Politics and the English Language', explicitly caution against this tendency.\"}},{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Achieving <b>impersonality</b> extends beyond avoiding first-person pronouns. Passive constructions, nominalisations, and the use of 'it' as an expletive subject (<em>'It is argued that…'</em>, <em>'It appears evident that…'</em>) all contribute to the sense that the argument proceeds from logic and evidence rather than personal opinion.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "A systematic analysis of the corpus yielded several statistically significant patterns worthy of further investigation.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "We looked at lots of data and found some interesting stuff.",
+                  "correctText": "A systematic analysis of the dataset yielded several statistically significant patterns."
+                },
+                {
+                  "text": "Our experiment worked and proved what we wanted to show.",
+                  "correctText": "The experimental results corroborated the initial hypothesis, providing empirical support for the theoretical framework."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "We decided to investigate → The ___ to investigate was made. (Nominalise the verb 'decided')",
+                  "answers": [
+                    "decision",
+                    "determination",
+                    "resolution"
+                  ]
+                },
+                {
+                  "sentence": "They analysed the data carefully → A careful ___ of the data was conducted. (Nominalise 'analysed')",
+                  "answers": [
+                    "analysis",
+                    "examination",
+                    "investigation"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which of the following sentences best exemplifies appropriate academic register for a C1 research paper?",
+                  "options": [
+                    "We looked at lots of data and found some interesting stuff.",
+                    "The researcher got lots of good results from the experiment.",
+                    "A systematic analysis of the corpus yielded several statistically significant patterns.",
+                    "Our experiment worked and proved what we wanted to show."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Avoiding Plagiarism and Synthesising Sources",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Source Synthesis and the Avoidance of Plagiarism",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000059000,\"blocks\":[{\"id\":\"qR7sT8uV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Plagiarism</b> in academic contexts encompasses a spectrum of practices ranging from verbatim copying without attribution to the subtler forms of intellectual dishonesty including mosaic paraphrasing, inadequate paraphrase, and <em>self-plagiarism</em> (reusing one's own previously submitted work). Academic institutions apply increasingly sophisticated detection software, but the ethical imperative to acknowledge intellectual debts precedes and exceeds any technological monitoring.\"}},{\"id\":\"xY0zA1bC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Beyond avoidance, advanced academic writers are expected to <b>synthesise</b> multiple sources — to move beyond mere summary of individual scholars' positions towards an integrated account that identifies agreements, tensions, and gaps across the literature. Synthesis is the intellectual operation that distinguishes a literature review from an annotated bibliography.\"}},{\"id\":\"eF3gH4iJ5k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Effective synthesis requires writers to organise their discussion <b>thematically</b> rather than source-by-source. Instead of <em>'Smith (2018) argues X. Jones (2019) argues Y. Brown (2020) argues Z.'</em>, synthetic writing produces: <em>'Scholars broadly agree that X (Smith, 2018; Jones, 2019), though the precise mechanism remains contested: while Smith emphasises structural factors, Jones privileges agentive explanations. Brown (2020) attempts a reconciliation by proposing…'</em>\"}},{\"id\":\"lM6nO7pQ8r\",\"type\":\"paragraph\",\"data\":{\"text\":\"The linguistic markers of synthesis include <b>comparative and contrastive</b> language (<em>similarly, likewise, in contrast, while, whereas</em>), <b>attribution verbs</b> that convey the nature of the cited argument (<em>argues, contends, proposes, questions, challenges, concedes, refutes</em>), and <b>metadiscursive</b> framing sentences that signal the organisational principle of the paragraph.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Scholars broadly agree that structural factors play a role, though the precise mechanism remains contested across the literature.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "argues",
+                  "right": "presents a claim the writer may or may not endorse"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "challenges",
+                  "right": "questions or disputes a previously held position"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "concedes",
+                  "right": "acknowledges the validity of an opposing point"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "proposes",
+                  "right": "puts forward a new theory or framework"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "refutes",
+                  "right": "disproves or definitively counters a claim"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What distinguishes a literature review from an annotated bibliography?",
+                  "options": [
+                    "A literature review includes full citations; an annotated bibliography does not",
+                    "A literature review synthesises sources thematically to reveal patterns and gaps; an annotated bibliography summarises each source individually",
+                    "A literature review is shorter and less formal than an annotated bibliography",
+                    "A literature review focuses only on peer-reviewed sources; an annotated bibliography includes all source types"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 7: Argumentation and Counter-argument",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Constructing and Anticipating Counter-arguments",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000060000,\"blocks\":[{\"id\":\"sT9uV0wX1y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Sophisticated academic argument does not proceed as a unidirectional assertion but as a <b>dialectical</b> process in which the writer anticipates, acknowledges, and responds to potential objections. This <em>concession-refutation</em> structure — acknowledging the merit of opposing positions before reasserting one's own — is a hallmark of intellectual maturity and strengthens rather than weakens the overall argument.\"}},{\"id\":\"zA2bC3dE4f\",\"type\":\"paragraph\",\"data\":{\"text\":\"The concession is typically introduced by <b>concessive conjunctions and phrases</b>: <em>admittedly, granted, it is true that, while it is the case that, one might object that, critics of this view contend that…</em>. The refutation then reasserts the writer's position, typically introduced by adversative connectors: <em>however, nevertheless, yet, even so, this notwithstanding…</em>.\"}},{\"id\":\"gH5iJ6kL7m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Toulmin's model of argument provides a useful analytical framework: every argument consists of a <b>claim</b> (the thesis), <b>grounds</b> (the evidence), a <b>warrant</b> (the logical principle connecting grounds to claim), a <b>backing</b> (support for the warrant), a <b>qualifier</b> (indication of the claim's strength or certainty), and a <b>rebuttal</b> (acknowledgement of limitations or counter-cases). Advanced academic writers operationalise all six components, whether explicitly or implicitly.\"}},{\"id\":\"nO8pQ9rS0t\",\"type\":\"paragraph\",\"data\":{\"text\":\"A particularly important distinction is between <em>substantive</em> and <em>procedural</em> counter-arguments. Substantive counter-arguments dispute the <em>content</em> of a claim; procedural counter-arguments dispute the <em>methodology</em> by which it was arrived at. Addressing both types demonstrates comprehensive scholarly engagement.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Admittedly, the sample size is relatively modest; nevertheless, the depth of qualitative analysis compensates for this limitation to a considerable extent.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The logical principle that connects the evidence (grounds) to the claim in Toulmin's model",
+                  "word": "warrant"
+                },
+                {
+                  "hint": "A structure that acknowledges an opposing view before reasserting one's own position",
+                  "word": "concession-refutation"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "[Admittedly], the sample size in the present study is relatively modest, which [limits] the generalisability of the findings. [Nevertheless], the depth of qualitative analysis [compensates] for this limitation to a considerable extent, and the theoretical implications remain [significant].",
+              "gaps": [
+                {
+                  "placeholder": "Admittedly",
+                  "answers": [
+                    "Admittedly",
+                    "Granted",
+                    "It is true that"
+                  ]
+                },
+                {
+                  "placeholder": "limits",
+                  "answers": [
+                    "limits",
+                    "constrains",
+                    "restricts"
+                  ]
+                },
+                {
+                  "placeholder": "Nevertheless",
+                  "answers": [
+                    "Nevertheless",
+                    "However",
+                    "Nonetheless",
+                    "Yet"
+                  ]
+                },
+                {
+                  "placeholder": "compensates",
+                  "answers": [
+                    "compensates",
+                    "makes up"
+                  ]
+                },
+                {
+                  "placeholder": "significant",
+                  "answers": [
+                    "significant",
+                    "substantial",
+                    "considerable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 8: Writing Abstracts and Conclusions",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Writing Effective Abstracts for Research Papers",
+          "weight": 11,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000061000,\"blocks\":[{\"id\":\"uV1wX2yZ3a\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>abstract</b> is simultaneously the most read and most underestimated component of a research paper. As the primary tool through which readers assess relevance before committing to full-text reading, an abstract must distil the entire research project — its purpose, methodology, key findings, and conclusions — within a conventionally tight word limit (typically 150–300 words for journal articles).\"}},{\"id\":\"bC4dE5fG6h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Structured abstracts, required by many biomedical and social science journals, explicitly label subsections corresponding to IMRAD: <em>Background/Objective, Methods, Results, Conclusions</em>. Unstructured abstracts, more common in the humanities, present the same information without subheadings, requiring tighter organisational discipline.\"}},{\"id\":\"iJ7kL8mN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Several linguistic features distinguish effective abstracts. <b>Tense variation</b> follows a predictable pattern: the present simple introduces the research problem and states the paper's purpose (<em>'This paper examines…'</em>); the simple past reports what was done and found (<em>'Semi-structured interviews were conducted… Thematic analysis revealed…'</em>); the present simple returns for conclusions and implications (<em>'These findings suggest…'</em>). <b>Hedging</b> is typically lighter in abstracts than in the body text — abstracts need to be assertive enough to signal the paper's contribution clearly.\"}},{\"id\":\"pQ0rS1tU2v\",\"type\":\"paragraph\",\"data\":{\"text\":\"A common weakness is the <em>indicative abstract</em> — one that merely announces what the paper does without revealing what it finds: <em>'This paper explores the relationship between X and Y.'</em> An <em>informative abstract</em> is almost always preferred: <em>'Analysis of 500 parliamentary debates reveals that adversative discourse markers increase in frequency during periods of political crisis, suggesting a systematic relationship between institutional conflict and syntactic complexity.'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Analysis of 500 parliamentary debates reveals that adversative discourse markers increase in frequency during periods of political crisis.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700061001",
+                  "english": "This paper examines the sociolinguistic factors underlying code-switching behaviour in bilingual adolescents.",
+                  "russian": "В данной статье рассматриваются социолингвистические факторы, лежащие в основе переключения кодов у двуязычных подростков.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700061002",
+                  "english": "The findings suggest that identity negotiation, rather than lexical gaps, is the primary driver of intra-sentential switching.",
+                  "russian": "Результаты свидетельствуют о том, что именно конструирование идентичности, а не лексические пробелы, является основным движущим фактором внутрифразового переключения.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the key distinction between an indicative abstract and an informative abstract?",
+                  "options": [
+                    "An indicative abstract is longer and more detailed than an informative abstract",
+                    "An informative abstract reveals the findings and conclusions; an indicative abstract merely describes the paper's topic and approach without disclosing results",
+                    "An indicative abstract is required for scientific papers; an informative abstract is used in humanities",
+                    "An informative abstract includes full citations; an indicative abstract does not"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

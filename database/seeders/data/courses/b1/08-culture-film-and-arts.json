@@ -1,0 +1,260 @@
+{
+  "title": "Culture, Film & the Arts",
+  "description": "Explore the language of culture, cinema, music, and the visual arts. Learn to discuss genres, describe artistic works, talk about cultural differences, and express aesthetic preferences. Ideal for B1 learners with an interest in the arts who want to participate in cultural conversations.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": false,
+  "preview_image": "Culture, Film & the Arts.png",
+  "topics": [
+    {
+      "title": "Module 1: Film and Cinema",
+      "subtopics": [
+        {
+          "title": "1.1 Film Genres and Vocabulary",
+          "lessons": [
+            {
+              "title": "Talking About Films",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700060001000,\"blocks\":[{\"id\":\"fA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Discussing films is one of the most common social conversations in English. Let's build the vocabulary you need to describe and evaluate films.\"}},{\"id\":\"fD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Film Genres\",\"level\":3}},{\"id\":\"fG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>action / thriller</b> — боевик / триллер\",\"<b>comedy / romantic comedy</b> — комедия / ромком\",\"<b>drama</b> — драма\",\"<b>science fiction (sci-fi)</b> — научная фантастика\",\"<b>horror</b> — ужасы\",\"<b>documentary</b> — документальный фильм\",\"<b>animated film / animation</b> — мультфильм\"]}},{\"id\":\"fJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Evaluating a Film\",\"level\":3}},{\"id\":\"fM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>The plot is...</b> gripping / predictable / original / slow-paced / fast-paced\",\"<b>The acting is...</b> brilliant / convincing / wooden / over-the-top\",\"<b>The soundtrack is...</b> atmospheric / moving / forgettable\",\"<b>It's worth seeing / a waste of time.</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "guessItems": [
+                    {
+                      "hint": "сюжет",
+                      "word": "plot"
+                    },
+                    {
+                      "hint": "захватывающий",
+                      "word": "gripping"
+                    },
+                    {
+                      "hint": "предсказуемый",
+                      "word": "predictable"
+                    },
+                    {
+                      "hint": "убедительный",
+                      "word": "convincing"
+                    },
+                    {
+                      "hint": "атмосферный",
+                      "word": "atmospheric"
+                    },
+                    {
+                      "hint": "документальный фильм",
+                      "word": "documentary"
+                    }
+                  ],
+                  "oddItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'gripping' mean when describing a film?",
+                      "options": [
+                        "Very slow",
+                        "Very frightening",
+                        "Very exciting and engaging",
+                        "Very long"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which genre features animated characters?",
+                      "options": [
+                        "Thriller",
+                        "Documentary",
+                        "Animation",
+                        "Horror"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Writing a Film Review",
+          "lessons": [
+            {
+              "title": "How to Write a Short Review",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700060002000,\"blocks\":[{\"id\":\"rA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A good film review briefly summarises the film, then evaluates its strengths and weaknesses. Here is a simple structure:\"}},{\"id\":\"rD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Introduction:</b> name, genre, director, main actors\",\"<b>Plot summary:</b> brief (no spoilers!)\",\"<b>Evaluation:</b> acting, plot, visuals, soundtrack\",\"<b>Recommendation:</b> who would enjoy it?\"]}},{\"id\":\"rG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful connectors:</b> However / Although / Despite this / On the other hand / In addition / What's more\"}},{\"id\":\"rJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example opening:</b> <em>Inception</em> (2010), directed by Christopher Nolan, is a mind-bending science fiction thriller starring Leonardo DiCaprio. The plot centres on a team of thieves who enter people's dreams to steal secrets.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "fill-gaps",
+                  "text": "The film is directed ___ Denis Villeneuve. ___ the slow pace in the first act, the second half is incredibly gripping. The acting is convincing, ___ the soundtrack is particularly atmospheric.",
+                  "gaps": [
+                    {
+                      "position": 1,
+                      "answer": "by",
+                      "options": [
+                        "by",
+                        "from",
+                        "with",
+                        "of"
+                      ]
+                    },
+                    {
+                      "position": 2,
+                      "answer": "Despite",
+                      "options": [
+                        "Despite",
+                        "Although",
+                        "Because",
+                        "Since"
+                      ]
+                    },
+                    {
+                      "position": 3,
+                      "answer": "and",
+                      "options": [
+                        "and",
+                        "but",
+                        "or",
+                        "so"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Music",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Describing and Discussing Music",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700060003000,\"blocks\":[{\"id\":\"mA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Music is a universal topic. Here is the vocabulary and phrases for talking about music in English.\"}},{\"id\":\"mD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Music Vocabulary\",\"level\":3}},{\"id\":\"mG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Genres:</b> pop, rock, classical, jazz, hip-hop, electronic, folk, indie\",\"<b>Describing music:</b> upbeat / catchy / soothing / intense / haunting / repetitive\",\"<b>Instruments:</b> guitar, piano, drums, violin, bass, synthesiser\"]}},{\"id\":\"mJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Talking About Music\",\"level\":3}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I'm really into jazz at the moment.</b>\",\"<b>This track has a really catchy melody.</b>\",\"<b>She has an amazing voice — it's quite haunting.</b>\",\"<b>I don't really listen to classical music.</b>\",\"<b>What kind of music do you listen to?</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "catchy",
+                  "right": "easy to remember; stays in your head"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "haunting",
+                  "right": "beautiful but slightly sad; hard to forget"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "upbeat",
+                  "right": "cheerful and energetic"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "soothing",
+                  "right": "calm and relaxing"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "intense",
+                  "right": "very strong; emotionally powerful"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'upbeat' mean when describing music?",
+                  "options": [
+                    "Sad and slow",
+                    "Cheerful and energetic",
+                    "Very quiet",
+                    "Very loud"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Cultural Differences",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Understanding and Discussing Culture",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700060004000,\"blocks\":[{\"id\":\"cA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Culture includes traditions, food, festivals, social norms, and values. Being able to discuss cultural differences is a key B1 skill.\"}},{\"id\":\"cD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Useful Phrases for Cultural Comparison\",\"level\":3}},{\"id\":\"cG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>In my country, we usually...</b>\",\"<b>Whereas in the UK, people tend to...</b>\",\"<b>One of the biggest differences I've noticed is...</b>\",\"<b>I was surprised to find that...</b>\",\"<b>From a cultural perspective...</b>\"]}},{\"id\":\"cJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example:</b> In my country, we usually greet people with a kiss on the cheek. Whereas in the UK, a handshake is more common, especially in professional settings. One difference I noticed is how British people queue — they take it very seriously!\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "One of the biggest cultural differences I've noticed is the attitude to punctuality. In some cultures, arriving fifteen minutes late is totally normal, whereas in Britain it's often considered rude.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase best introduces a cultural comparison?",
+                  "options": [
+                    "Culture is important.",
+                    "Whereas in the UK, people tend to...",
+                    "I like my culture.",
+                    "Cultures are all different."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

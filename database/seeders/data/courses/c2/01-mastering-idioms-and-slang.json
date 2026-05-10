@@ -1,0 +1,552 @@
+{
+  "title": "Mastering Idioms and Slang",
+  "description": "Develop complete command of English idioms, colloquialisms, slang, and culturally embedded expressions. This course covers contemporary informal English, regional and social variation, historical etymology of idioms, and the pragmatic contexts in which each expression is appropriate. Designed for C2 learners who wish to achieve near-native fluency and cultural authenticity.",
+  "language": "en",
+  "difficulty_level": "C2",
+  "is_premium": true,
+  "preview_image": "Mastering Idioms and Slang.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Idioms — Structure, Origin, and Use",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Understanding Idioms: Opacity, Metaphor, and Register",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000111000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"An <b>idiom</b> is a fixed expression whose overall meaning cannot be derived compositionally from the meanings of its individual words. <em>'Kick the bucket'</em> does not mean to literally kick a bucket — it means to die. This <b>semantic opacity</b> is what defines idioms and distinguishes them from transparent figurative language.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Idioms can be classified along two dimensions: <b>transparency</b> (how easily the meaning can be inferred) and <b>fixedness</b> (how much the form can be varied). Some idioms are relatively transparent (<em>'on thin ice'</em> — in a risky situation), while others are fully opaque (<em>'kick the bucket'</em>). Some allow lexical variation (<em>'spill the beans / let the cat out of the bag'</em>); others are frozen (<em>'by and large'</em>).\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Etymological awareness</b> helps decode opaque idioms. <em>'Pulling someone's leg'</em> may derive from a 19th-century street crime of tripping victims. <em>'Bite the bullet'</em> derives from pre-anaesthetic surgery, when patients bit on a bullet to endure pain. <em>'Steal someone's thunder'</em> originated when playwright John Dennis complained that a sound effect he invented for a play was stolen by another production.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Register awareness</b> is critical. Many idioms are informal and would be inappropriate in academic or formal professional contexts: <em>'drop the ball'</em> (make a mistake) or <em>'in a nutshell'</em> (in summary) sit at the informal end of the register spectrum. Others are fully acceptable in business English: <em>'get the ball rolling'</em> or <em>'touch base'</em>. C2 learners should recognise which register each idiom belongs to.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "She really dropped the ball on that presentation — the client was expecting data and she hadn't prepared any.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Kick the bucket",
+                  "right": "To die (informal, sometimes humorous)"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Bite the bullet",
+                  "right": "To endure a painful or difficult situation stoically"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Steal someone's thunder",
+                  "right": "To take credit for or overshadow someone's achievement"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Spill the beans",
+                  "right": "To reveal a secret"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "On thin ice",
+                  "right": "In a risky or precarious situation"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Informal / Colloquial",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Acceptable in Business English",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "Drop the ball",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Touch base",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Kick the bucket",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Get the ball rolling",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Bite the dust",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Move the needle",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'semantic opacity' mean in the context of idioms?",
+                  "options": [
+                    "The idiom has multiple meanings depending on context",
+                    "The idiom's meaning cannot be derived from the literal meanings of its component words",
+                    "The idiom is used exclusively in spoken rather than written English",
+                    "The idiom is only understood by native speakers of one specific dialect"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Body and Animal Idioms",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Body Idioms and Animal Idioms in Context",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000112000,\"blocks\":[{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Body idioms</b> form one of the richest and most productive categories in English. The body serves as a consistent source of metaphors for psychological states, social relationships, and abstract qualities.\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Keep your chin up</em> — stay positive despite difficulties\",\"<em>Have a thick skin</em> — not be easily upset by criticism\",\"<em>Cost an arm and a leg</em> — be extremely expensive\",\"<em>Put your foot in it</em> — say something socially awkward or offensive\",\"<em>Rub someone up the wrong way</em> — irritate or annoy someone\",\"<em>Have butterflies in your stomach</em> — feel nervous anticipation\",\"<em>Get it off your chest</em> — confess something that has been weighing on you\"]}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Animal idioms</b> draw on cultural associations with specific animals, often reflecting historical or agricultural contexts:\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Let the cat out of the bag</em> — accidentally reveal a secret\",\"<em>Hold your horses</em> — slow down, be patient\",\"<em>Smell a rat</em> — suspect that something is wrong\",\"<em>The elephant in the room</em> — an obvious problem that no one wants to address\",\"<em>A wolf in sheep's clothing</em> — someone who appears harmless but is dangerous\",\"<em>Crocodile tears</em> — insincere or false grief\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Nobody wanted to address the elephant in the room — the company had been losing money for two years.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Animal idiom: a serious issue that is obvious but ignored by everyone in the room",
+                  "word": "elephant in the room"
+                },
+                {
+                  "hint": "Body idiom: to accidentally say something socially inappropriate",
+                  "word": "put your foot in it"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700112001",
+                  "english": "Let's not beat around the bush — the project is significantly over budget.",
+                  "russian": "Давайте не будем ходить вокруг да около — проект значительно превышает бюджет.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700112002",
+                  "english": "She has thick skin — she's been in politics long enough not to be rattled by criticism.",
+                  "russian": "У неё толстая кожа — она достаточно долго в политике, чтобы не реагировать на критику.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'a wolf in sheep's clothing' mean?",
+                  "options": [
+                    "Someone who dresses informally but has high authority",
+                    "Someone who appears harmless or friendly but is actually dangerous",
+                    "Someone who pretends to be poor but is actually wealthy",
+                    "An animal rights activist who hunts for food"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Business and Professional Idioms",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Corporate Idioms and the Language of the Office",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000113000,\"blocks\":[{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Business English has developed a rich idiomatic vocabulary drawn from sport, military, and physical action metaphors. C2 learners entering professional environments need to recognise and deploy these expressions fluently — and to use them with the self-aware irony that many native speakers increasingly apply to overused corporate jargon.\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Think outside the box</em> — approach a problem creatively (now considered a cliché)\",\"<em>Move the needle</em> — make a meaningful impact\",\"<em>Low-hanging fruit</em> — easily achievable goals\",\"<em>On the same page</em> — in agreement or sharing the same understanding\",\"<em>Circle back</em> — return to a topic later\",\"<em>Drill down into</em> — examine in detail\",\"<em>Push the envelope</em> — exceed conventional limits\",\"<em>Bandwidth</em> — capacity or availability (used metaphorically for human attention)\",\"<em>Synergy</em> — combined effect greater than the sum of parts (now a cliché)\",\"<em>Boil the ocean</em> — attempt an unnecessarily complex task\"]}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Corporate jargon awareness:</b> Terms like <em>synergy, leverage, paradigm shift, circle back, touch base</em> have been overused to the point of becoming clichés — though they remain widely used in business communication. C2 learners should be aware of their connotations in satirical or critical contexts (see Dilbert cartoons or 'The Office' for cultural reference points).\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Let's circle back on this after lunch and drill down into the numbers before we go to the client.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "synergy",
+                    "bandwidth",
+                    "low-hanging fruit",
+                    "procrastination"
+                  ],
+                  "correctWord": "procrastination"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In business English, what does 'bandwidth' typically refer to when discussing a colleague's workload?",
+                  "options": [
+                    "Their internet connection speed",
+                    "Their available time and mental capacity",
+                    "The size of their team",
+                    "Their level of seniority"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Slang, Colloquialisms, and Informal Register",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Contemporary English Slang: British and American Varieties",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000114000,\"blocks\":[{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Slang</b> is informal vocabulary, often group-specific, associated with social bonding, identity, and in-group membership. Slang evolves rapidly and varies significantly between regions, generations, and social groups. C2 learners must navigate the minefield of slang that is current vs. dated, British vs. American, and appropriate for their social context.\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Selected contemporary British slang:</b> <em>proper</em> (very, genuinely — 'that was proper brilliant'), <em>chuffed</em> (very pleased), <em>gutted</em> (very disappointed), <em>dodgy</em> (unreliable, suspect), <em>cheeky</em> (mildly impertinent), <em>bloke</em> (man), <em>gobsmacked</em> (astonished), <em>mate</em> (friend, also used as address).\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Selected contemporary American slang:</b> <em>sick</em> (excellent), <em>fire</em> (excellent, impressive), <em>lowkey</em> (slightly, secretly), <em>highkey</em> (very much, openly), <em>vibe</em> (atmosphere, feeling), <em>lit</em> (exciting, excellent), <em>salty</em> (bitter, annoyed), <em>ghosting</em> (suddenly ending contact without explanation), <em>FOMO</em> (fear of missing out).\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>A note on generational variation:</b> Slang marks social identity. Using dated slang (e.g. <em>groovy, far-out</em>) in a contemporary context signals inauthenticity. Overusing youth slang as an older speaker can appear condescending. C2 learners should develop passive competence across registers rather than active use of slang they do not inhabit naturally.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I was absolutely gobsmacked when they offered me the job — I thought I'd completely blown the interview.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "British Slang",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "American Slang",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "Gobsmacked (astonished)",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Lowkey (slightly / secretly)",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Chuffed (very pleased)",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Salty (bitter / annoyed)",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Dodgy (suspect / unreliable)",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Fire (excellent / impressive)",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700114001",
+                  "english": "She was absolutely gutted when she found out she hadn't been shortlisted.",
+                  "russian": "Она была совершенно убита горем, когда узнала, что её не включили в список кандидатов.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700114002",
+                  "english": "The vibe at the conference was really awkward after the CEO made that comment.",
+                  "russian": "Атмосфера на конференции стала очень неловкой после того, как генеральный директор сделал этот комментарий.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'ghosting' mean in contemporary informal English?",
+                  "options": [
+                    "Appearing briefly at a social event without staying",
+                    "Suddenly ending all contact with someone without explanation",
+                    "Posting anonymously on social media",
+                    "Wearing a disguise at a party"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Phrasal Verbs at C2 Level",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Advanced Phrasal Verbs: Polysemy and Context",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000115000,\"blocks\":[{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Phrasal verbs</b> — combinations of a verb with one or more particles (prepositions or adverbs) — are notoriously difficult for advanced learners because of their semantic <b>polysemy</b>: a single phrasal verb can have multiple, unrelated meanings depending on context. Compare: <em>'set off'</em> (to begin a journey; to trigger an alarm; to enhance by contrast). C2 proficiency requires mastery not just of common phrasal verbs but of their contextual disambiguation.\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Advanced polysemous phrasal verbs:</b>\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>bring about</em> — to cause or produce; <em>bring forward</em> — to move to an earlier date; <em>bring off</em> — to succeed in doing something difficult; <em>bring round</em> — to persuade; to revive consciousness\",\"<em>come across</em> — to find unexpectedly; to make an impression (<em>'she came across as very confident'</em>)\",\"<em>fall through</em> — (of a plan) to fail to materialise; <em>fall out</em> — to quarrel; to lose hair\",\"<em>pick up</em> — to collect; to learn casually; to improve (<em>'business is picking up'</em>); to resume (<em>'let's pick up where we left off'</em>)\"]}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"At C2 level, learners should also be able to use phrasal verbs with appropriate register sensitivity: many phrasal verbs have Latinate single-word equivalents (<em>bring about → precipitate/cause; put off → postpone/defer; look into → investigate/examine</em>) that are more appropriate in formal written contexts.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The deal fell through at the last minute, which brought about a significant restructuring of the entire project.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Phrasal verb meaning to fail to materialise (of a plan or deal)",
+                  "word": "fall through"
+                },
+                {
+                  "hint": "Phrasal verb meaning to make an impression on others (e.g. 'she __ as very professional')",
+                  "word": "come across"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In the sentence 'The merger fell through at the last stage of negotiations', what does 'fell through' mean?",
+                  "options": [
+                    "Was completed successfully",
+                    "Was delayed until a later date",
+                    "Failed to be completed",
+                    "Was transferred to a different team"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Cultural References and Allusions",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Intertextuality: Shakespeare, the Bible, and Pop Culture",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000116000,\"blocks\":[{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Many English idioms derive from specific cultural sources: the Bible, Shakespeare, classical mythology, and more recently film, television, and popular music. Recognising these <b>intertextual references</b> is a mark of C2 cultural literacy and enables full participation in educated English-language discourse.\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Shakespearean expressions still in common use:</b> <em>break the ice, wild-goose chase, heart of gold, green-eyed monster, wear your heart on your sleeve, the be-all and end-all, in one fell swoop, foregone conclusion, what's done is done, all that glitters is not gold, at one fell swoop, cold comfort, tower of strength</em>.\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Biblical expressions:</b> <em>the writing on the wall, bite the dust, scapegoat, a thorn in one's side, the salt of the earth, a leopard cannot change its spots, the blind leading the blind, cast pearls before swine, by the skin of your teeth, fall from grace, the prodigal son</em>.\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Modern cultural references:</b> In contemporary English, allusions to films (<em>Groundhog Day situation</em> — endlessly repeated), TV shows, and memes function similarly to literary allusions, creating shared cultural bonds. C2 learners should be aware that cultural references date quickly and have generational specificity.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The writing was on the wall for months, but nobody in the boardroom wanted to acknowledge it.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Originates in Shakespeare",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Originates in the Bible",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "The green-eyed monster (jealousy)",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "The writing on the wall",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Wild-goose chase",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_4",
+                  "text": "The salt of the earth",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Break the ice",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_6",
+                  "text": "A scapegoat",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read this sentence containing cultural idioms aloud naturally",
+                "targetPhrase": "The writing was on the wall for months, but they kept chasing wild geese instead of addressing the green-eyed monster in the boardroom."
+              }
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "The phrase 'green-eyed monster' as a metaphor for jealousy originates from:",
+                  "options": [
+                    "The Bible",
+                    "Shakespeare's Othello",
+                    "Greek mythology",
+                    "A 19th-century poem"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

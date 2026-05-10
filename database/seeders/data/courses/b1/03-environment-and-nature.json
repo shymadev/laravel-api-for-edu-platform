@@ -1,0 +1,910 @@
+{
+  "title": "Environment and Nature",
+  "description": "Explore key environmental topics — from climate change and pollution to conservation and renewable energy — while building the vocabulary and language skills needed to discuss global issues. This course targets A2 completers who want to engage with real-world topics in English.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": false,
+  "preview_image": "Environment and Nature.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Climate Change and Global Warming",
+      "subtopics": [
+        {
+          "title": "1.1 Understanding Climate Change Vocabulary",
+          "lessons": [
+            {
+              "title": "Key Terms: Climate Change and Global Warming",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000201000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Climate change</b> refers to long-term shifts in global temperatures and weather patterns. While some climate change is natural, since the 20th century human activities have been the main driver.\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key vocabulary:</b>\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>global warming</b> — the rise in Earth's average temperature due to greenhouse gases\",\"<b>greenhouse gas</b> — gases (CO₂, methane) that trap heat in the atmosphere\",\"<b>carbon footprint</b> — the total CO₂ emissions produced by a person, event, or product\",\"<b>fossil fuels</b> — coal, oil, and gas formed from ancient organisms\",\"<b>emissions</b> — gases released into the air, especially from burning fuel\",\"<b>deforestation</b> — the clearing of forests, which reduces CO₂ absorption\",\"<b>sea level rise</b> — the increase in ocean levels due to melting ice and warmer water\",\"<b>extreme weather events</b> — floods, droughts, hurricanes intensified by climate change\"]}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful phrases for discussing causes:</b>\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'One of the main causes of climate change is the burning of fossil fuels.'\",\"'As a result of deforestation, carbon dioxide levels have increased.'\",\"'This has led to a significant rise in global temperatures.'\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "carbon footprint",
+                      "translation": "углеродный след"
+                    },
+                    {
+                      "text": "greenhouse gas",
+                      "translation": "парниковый газ"
+                    },
+                    {
+                      "text": "deforestation",
+                      "translation": "вырубка лесов"
+                    },
+                    {
+                      "text": "sea level rise",
+                      "translation": "повышение уровня моря"
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "One of the main causes of climate change is the burning of fossil fuels.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "carbon footprint",
+                      "right": "total CO₂ produced by an activity or person"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "deforestation",
+                      "right": "large-scale cutting down of forests"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "greenhouse gas",
+                      "right": "gas that traps heat in the atmosphere"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "fossil fuels",
+                      "right": "coal, oil, and natural gas"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "emissions",
+                      "right": "gases released into the atmosphere"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "emissions",
+                    "deforestation",
+                    "warming",
+                    "atmosphere"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'carbon footprint' mean?",
+                      "options": [
+                        "The amount of carbon found underground",
+                        "The total CO₂ emissions caused by an individual or activity",
+                        "A type of renewable energy",
+                        "The size of a forest"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which of the following is NOT a fossil fuel?",
+                      "options": [
+                        "Coal",
+                        "Oil",
+                        "Natural gas",
+                        "Solar energy"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Cause and Effect Language for Environmental Topics",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000202000,\"blocks\":[{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"When discussing environmental issues, we often need to explain causes and their effects. Here are the key language structures:\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Showing cause:</b>\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Due to / Because of + noun: <em>Due to rising temperatures, glaciers are melting faster.</em>\",\"'As a result of + noun: <em>As a result of deforestation, many species have lost their habitat.</em>\",\"'Since / Because + clause: <em>Because emissions have increased, the atmosphere has warmed.</em>'\"]}},{\"id\":\"yY5zA6bB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Showing effect:</b>\"}},{\"id\":\"cC8dD9eE0f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'This leads to / causes + noun: <em>Pollution leads to serious health problems.</em>'\",\"'As a result, + clause: <em>As a result, many coastal areas are at risk of flooding.</em>'\",\"'This has resulted in + noun: <em>Burning fossil fuels has resulted in higher CO₂ levels.</em>'\"]}},{\"id\":\"fF1gG2hH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Discourse markers for sequencing:</b> <em>firstly, furthermore, in addition, however, on the other hand, in contrast, consequently, therefore, as a consequence</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Due to rising temperatures, Arctic ice is melting rapidly.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "Due to deforestation leads to habitat loss.",
+                      "correctText": "Due to deforestation, many species have lost their habitat."
+                    },
+                    {
+                      "text": "Because of the emissions, so temperatures have risen.",
+                      "correctText": "Because of the emissions, temperatures have risen."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "Due to [rising] temperatures, Arctic ice is melting rapidly. As a result, sea levels [are increasing], which [threatens] many coastal communities. [Furthermore], the loss of ice affects ocean currents and weather patterns around the world.",
+                  "gaps": [
+                    {
+                      "placeholder": "rising",
+                      "answers": [
+                        "rising"
+                      ]
+                    },
+                    {
+                      "placeholder": "are increasing",
+                      "answers": [
+                        "are increasing",
+                        "increase"
+                      ]
+                    },
+                    {
+                      "placeholder": "threatens",
+                      "answers": [
+                        "threatens"
+                      ]
+                    },
+                    {
+                      "placeholder": "Furthermore",
+                      "answers": [
+                        "Furthermore",
+                        "Moreover",
+                        "In addition"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000202001",
+                      "english": "Due to deforestation, many animal species are losing their natural habitat.",
+                      "russian": "Из-за вырубки лесов многие виды животных теряют свою естественную среду обитания.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000202002",
+                      "english": "As a result of rising sea levels, coastal cities are increasingly at risk.",
+                      "russian": "В результате повышения уровня моря прибрежные города подвергаются всё большей угрозе.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Pollution",
+      "subtopics": [
+        {
+          "title": "2.1 Types of Pollution",
+          "lessons": [
+            {
+              "title": "Air, Water, and Soil Pollution",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000203000,\"blocks\":[{\"id\":\"iI4jJ5kK6l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Pollution takes many forms, and each has serious consequences for ecosystems and human health.\"}},{\"id\":\"lL7mM8nN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Air pollution:</b> Caused by vehicle exhaust, industrial emissions, and burning waste. It leads to respiratory diseases (asthma, lung cancer) and contributes to acid rain.\"}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Water pollution:</b> Caused by agricultural runoff (pesticides, fertilisers), industrial waste, and plastic waste. It contaminates drinking water and kills aquatic life.\"}},{\"id\":\"rR3sS4tT5u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Soil pollution:</b> Caused by chemicals, heavy metals, and improper waste disposal. It reduces the fertility of farmland and enters the food chain.\"}},{\"id\":\"uU6vV7wW8x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Noise pollution:</b> Caused by traffic, construction, and industry. It affects mental health and sleep quality.\"}},{\"id\":\"xX9yY0zA1b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key vocabulary:</b>\"}},{\"id\":\"bB2cC3dD4e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>toxic</b> — poisonous\",\"<b>contaminate</b> — to make something impure or unsafe\",\"<b>sewage</b> — waste water from homes and industry\",\"<b>pesticides</b> — chemicals used to kill pests in agriculture\",\"<b>runoff</b> — water that flows off land into rivers and seas\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Air pollution is caused by vehicle exhaust and industrial emissions.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Air Pollution",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Water Pollution",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat3",
+                      "name": "Soil Pollution",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "Vehicle exhaust fumes",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Agricultural pesticide runoff",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Industrial chemicals dumped in fields",
+                      "correctCategory": "cat3"
+                    },
+                    {
+                      "text": "Factory smoke",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Sewage discharged into rivers",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Heavy metal contamination from mining",
+                      "correctCategory": "cat3"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "To make something impure or unsafe",
+                      "word": "contaminate"
+                    },
+                    {
+                      "hint": "Waste water from homes and factories",
+                      "word": "sewage"
+                    },
+                    {
+                      "hint": "Water that flows off land into rivers",
+                      "word": "runoff"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'contaminate' mean?",
+                      "options": [
+                        "To clean something thoroughly",
+                        "To make something impure or dangerous",
+                        "To recycle a material",
+                        "To reduce emissions"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Recycling and Waste",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Reduce, Reuse, Recycle: Waste Management Language",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000204000,\"blocks\":[{\"id\":\"eE5fF6gG7h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Effective waste management is one of the most important environmental challenges. The three core principles are the <b>3Rs: Reduce, Reuse, Recycle</b>.\"}},{\"id\":\"hH8iI9jJ0k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Reduce</b> — using less in the first place: fewer plastic bags, less packaging, less food waste.\"}},{\"id\":\"kK1lL2mM3n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Reuse</b> — using items again instead of throwing them away: refillable water bottles, second-hand clothes.\"}},{\"id\":\"nN4oO5pP6q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Recycle</b> — processing used materials to make new products: glass, paper, metal, plastic.\"}},{\"id\":\"qQ7rR8sS9t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key vocabulary:</b>\"}},{\"id\":\"tT0uU1vV2w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>landfill</b> — an area of land where waste is buried\",\"<b>biodegradable</b> — able to decompose naturally (opposite: non-biodegradable)\",\"<b>compost</b> — organic waste broken down to fertilise soil\",\"<b>single-use plastic</b> — plastic designed to be used once and thrown away\",\"<b>upcycling</b> — creatively reusing materials to make something of higher value\"]}},{\"id\":\"wW3xX4yY5z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Discussing solutions:</b>\"}},{\"id\":\"zA6bB7cC8d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'One effective way to tackle waste is to...'\",\"'Governments should introduce legislation to reduce...'\",\"'Consumers can make a difference by choosing...'\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Plastic bags are not biodegradable and will remain in the environment for hundreds of years.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "landfill",
+                    "compost",
+                    "upcycling",
+                    "recycling"
+                  ],
+                  "correctWord": "landfill"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "m1",
+                  "left": "landfill",
+                  "right": "место захоронения отходов"
+                },
+                {
+                  "id": "m2",
+                  "left": "biodegradable",
+                  "right": "разлагаемый, биоразлагаемый"
+                },
+                {
+                  "id": "m3",
+                  "left": "single-use plastic",
+                  "right": "одноразовый пластик"
+                },
+                {
+                  "id": "m4",
+                  "left": "compost",
+                  "right": "компост — органические отходы для удобрения"
+                },
+                {
+                  "id": "m5",
+                  "left": "upcycling",
+                  "right": "творческая переработка в нечто более ценное"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 5,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "Plastic bags are not ___ and will remain in the environment for hundreds of years.",
+                  "answers": [
+                    "biodegradable",
+                    "recyclable",
+                    "reusable",
+                    "compostable"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Renewable Energy",
+      "subtopics": [
+        {
+          "title": "4.1 Types and Benefits of Renewable Energy",
+          "lessons": [
+            {
+              "title": "Renewable Energy Sources and Their Advantages",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000205000,\"blocks\":[{\"id\":\"dD9eE0fF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Renewable energy</b> comes from sources that are naturally replenished and do not run out. Unlike fossil fuels, they produce little or no greenhouse gas emissions.\"}},{\"id\":\"gG2hH3iI4j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Main types of renewable energy:</b>\"}},{\"id\":\"jJ5kK6lL7m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Solar energy</b> — energy from the sun, captured by solar panels. Clean, increasingly affordable.\",\"<b>Wind energy</b> — energy from wind, captured by turbines. Most efficient offshore.\",\"<b>Hydroelectric power</b> — energy from flowing water (rivers, dams). Reliable but can affect local ecosystems.\",\"<b>Geothermal energy</b> — heat from inside the Earth. Used mainly in volcanic regions (e.g. Iceland).\",\"<b>Biomass energy</b> — energy from organic matter (wood, crops). Can be carbon-neutral.\"]}},{\"id\":\"mM8nN9oO0p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Advantages of renewable energy:</b>\"}},{\"id\":\"pP1qQ2rR3s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Reduces dependence on fossil fuels\",\"Lowers carbon emissions and combats climate change\",\"Creates new jobs in the green economy\",\"Energy security — countries don't need to import fuel\"]}},{\"id\":\"sS4tT5uU6v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Challenges:</b> High initial installation costs, weather dependency (sun, wind), and storage problems for electricity.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Solar panels convert sunlight into electricity without producing any harmful emissions.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "solar",
+                    "turbine",
+                    "geothermal",
+                    "biomass"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000205001",
+                      "english": "Solar panels convert sunlight into electricity without producing any harmful emissions.",
+                      "russian": "Солнечные панели преобразуют солнечный свет в электричество, не производя вредных выбросов.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000205002",
+                      "english": "Switching to renewable energy is one of the most effective ways to fight climate change.",
+                      "russian": "Переход на возобновляемые источники энергии — один из наиболее эффективных способов борьбы с изменением климата.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which type of renewable energy uses the heat from inside the Earth?",
+                      "options": [
+                        "Solar energy",
+                        "Biomass",
+                        "Geothermal energy",
+                        "Wind energy"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What is a disadvantage of solar and wind energy?",
+                      "options": [
+                        "They produce a lot of CO₂.",
+                        "They are not renewable.",
+                        "They depend on weather conditions.",
+                        "They are too expensive to research."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Biodiversity and Conservation",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Protecting Wildlife and Natural Habitats",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000206000,\"blocks\":[{\"id\":\"vV7wW8xX9y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Biodiversity</b> refers to the variety of life on Earth — all species of plants, animals, fungi, and microorganisms. It is vital for healthy ecosystems.\"}},{\"id\":\"yY0zA1bB2c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Threats to biodiversity:</b>\"}},{\"id\":\"cC3dD4eE5f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Habitat destruction</b> — forests cleared for agriculture or development\",\"<b>Overexploitation</b> — overfishing, poaching, excessive hunting\",\"<b>Invasive species</b> — non-native species that outcompete local ones\",\"<b>Climate change</b> — altering habitats and food sources\",\"<b>Pollution</b> — contaminating water and soil\"]}},{\"id\":\"fF6gG7hH8i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Conservation efforts:</b>\"}},{\"id\":\"iI9jJ0kK1l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Establishing <b>national parks</b> and <b>marine reserves</b>\",\"<b>Breeding programmes</b> for endangered species\",\"<b>Reforestation</b> — planting trees to restore forests\",\"<b>International agreements</b> (e.g. the Convention on Biological Diversity)\"]}},{\"id\":\"lL2mM3nN4o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key vocabulary:</b> <em>endangered species, extinct, ecosystem, habitat, wildlife corridor, conservation, sustainable, biodiversity hotspot</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Many animal species are endangered due to habitat destruction and poaching.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "endangered",
+                    "extinct",
+                    "invasive",
+                    "thriving"
+                  ],
+                  "correctWord": "thriving"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "Many animal species are [endangered] due to habitat [destruction] and poaching. Conservation organisations are working to protect [biodiversity] by establishing national parks and running [breeding] programmes for the most vulnerable species.",
+              "gaps": [
+                {
+                  "placeholder": "endangered",
+                  "answers": [
+                    "endangered"
+                  ]
+                },
+                {
+                  "placeholder": "destruction",
+                  "answers": [
+                    "destruction",
+                    "loss"
+                  ]
+                },
+                {
+                  "placeholder": "biodiversity",
+                  "answers": [
+                    "biodiversity"
+                  ]
+                },
+                {
+                  "placeholder": "breeding",
+                  "answers": [
+                    "breeding"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'endangered species' mean?",
+                  "options": [
+                    "A species that has already disappeared",
+                    "A species at risk of becoming extinct",
+                    "A species that is invasive and spreading",
+                    "A species that has recovered from extinction"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Environmental Problems and Solutions",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Discussing Problems and Proposing Solutions",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000207000,\"blocks\":[{\"id\":\"oO5pP6qQ7r\",\"type\":\"paragraph\",\"data\":{\"text\":\"At B1 level, you should be able to discuss environmental problems and propose solutions using appropriate language structures.\"}},{\"id\":\"rR8sS9tT0u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Describing problems:</b>\"}},{\"id\":\"uU1vV2wW3x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'One of the most serious environmental problems is...'\",\"'The situation has become increasingly alarming.'\",\"'This poses a serious threat to...'\",\"'Unless action is taken, the consequences could be devastating.'\"]}},{\"id\":\"xX4yY5zA6b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Proposing solutions:</b>\"}},{\"id\":\"bB7cC8dD9e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'One effective solution would be to...'\",\"'Governments should invest in...'\",\"'Individuals can contribute by...'\",\"'It is essential that we...'\",\"'A possible approach is to...'\"]}},{\"id\":\"eE0fF1gG2h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Expressing necessity:</b>\"}},{\"id\":\"hH3iI4jJ5k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'We must / need to / have to act now.'\",\"'It is vital/crucial/essential that...'\",\"'There is an urgent need for...'\"]}},{\"id\":\"kK6lL7mM8n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Expressing possibility:</b>\"}},{\"id\":\"nN9oO0pP1q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'It may be possible to...'\",\"'This could lead to significant improvements if...'\"]}},{\"id\":\"qQ2rR3sS4t\",\"type\":\"paragraph\",\"data\":{\"text\":\"\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "There is an urgent need for international cooperation to address climate change.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "Unless action is taken, the consequences could be devastate.",
+                  "correctText": "Unless action is taken, the consequences could be devastating."
+                },
+                {
+                  "text": "It is essental that we reduce our carbon footprint.",
+                  "correctText": "It is essential that we reduce our carbon footprint."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "Unless action is taken ___, the consequences for future generations will be severe.",
+                  "answers": [
+                    "now",
+                    "soon",
+                    "immediately",
+                    "quickly"
+                  ]
+                },
+                {
+                  "sentence": "It is ___ that governments reduce their dependence on fossil fuels.",
+                  "answers": [
+                    "essential",
+                    "important",
+                    "vital",
+                    "necessary"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000207001",
+                  "english": "There is an urgent need for international cooperation to address climate change.",
+                  "russian": "Существует острая необходимость в международном сотрудничестве для решения проблемы изменения климата.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000207002",
+                  "english": "Individuals can make a difference by reducing their carbon footprint.",
+                  "russian": "Каждый человек может внести вклад, сократив свой углеродный след.",
+                  "direction": "eng-ru"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 7: Sustainable Living",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "How to Live More Sustainably",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000208000,\"blocks\":[{\"id\":\"tT5uU6vV7w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sustainable living</b> means making choices that reduce your negative impact on the environment and can be maintained long-term without depleting resources.\"}},{\"id\":\"wW8xX9yY0z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sustainable choices in daily life:</b>\"}},{\"id\":\"zA1bB2cC3d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Diet:</b> Eating less meat, buying local and seasonal produce, reducing food waste\",\"<b>Transport:</b> Using public transport, cycling, walking, or driving an electric vehicle\",\"<b>Energy:</b> Using energy-efficient appliances, switching to green energy suppliers\",\"<b>Shopping:</b> Buying second-hand, choosing products with minimal packaging, avoiding fast fashion\",\"<b>Water:</b> Taking shorter showers, collecting rainwater for gardens\"]}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful opinion and recommendation phrases:</b>\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'In my opinion, the most important change individuals can make is...'\",\"'I strongly believe that...'\",\"'It would be a good idea to...'\",\"'I would recommend switching to...'\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I strongly believe that cycling instead of driving is one of the most effective sustainable choices.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "sustainable",
+                "renewable",
+                "efficient",
+                "compost"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat1",
+                  "name": "Individual Action",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat2",
+                  "name": "Government Action",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat3",
+                  "name": "Business Action",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "text": "Taking the bus instead of driving",
+                  "correctCategory": "cat1"
+                },
+                {
+                  "text": "Introducing a carbon tax",
+                  "correctCategory": "cat2"
+                },
+                {
+                  "text": "Switching to renewable energy in factories",
+                  "correctCategory": "cat3"
+                },
+                {
+                  "text": "Reducing food waste at home",
+                  "correctCategory": "cat1"
+                },
+                {
+                  "text": "Banning single-use plastics",
+                  "correctCategory": "cat2"
+                },
+                {
+                  "text": "Offering eco-friendly packaging",
+                  "correctCategory": "cat3"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which option is the most environmentally friendly form of transport for short distances?",
+                  "options": [
+                    "Driving alone",
+                    "Taking a flight",
+                    "Cycling",
+                    "Using a large diesel bus"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 8: Talking About the Environment",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Expressing Opinions on Environmental Issues",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000209000,\"blocks\":[{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Being able to express your opinion and discuss different perspectives on environmental issues is a key B1 skill. Use these structures in discussions and writing tasks.\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Giving your opinion:</b>\"}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'In my view / opinion, the most urgent issue is...'\",\"'I think / believe / feel that...'\",\"'As far as I'm concerned...'\",\"'From my perspective...'\"]}},{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Acknowledging other views:</b>\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Some people argue that..., but...'\",\"'While it is true that..., the fact remains that...'\",\"'On the one hand... On the other hand...'\"]}},{\"id\":\"yY5zA6bB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Making recommendations:</b>\"}},{\"id\":\"cC8dD9eE0f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'The best approach would be to...'\",\"'I strongly recommend...'\",\"'It is worth considering...'\"]}},{\"id\":\"fF1gG2hH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Expressing concern:</b>\"}},{\"id\":\"iI4jJ5kK6l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I am deeply concerned about the state of...'\",\"'It worries me that...'\",\"'The situation is alarming because...'\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "In my view, economic development and environmental protection can go hand in hand.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Express your opinion on climate change aloud",
+                "targetPhrase": "In my opinion, climate change is the most urgent challenge of our time."
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "[In my opinion], climate change is the biggest challenge of our time. [On the one hand], many governments have made progress in reducing emissions. [On the other hand], the pace of change is still too slow. [As far as I'm concerned], individual action is important, but real change requires government policy.",
+              "gaps": [
+                {
+                  "placeholder": "In my opinion",
+                  "answers": [
+                    "In my opinion",
+                    "In my view"
+                  ]
+                },
+                {
+                  "placeholder": "On the one hand",
+                  "answers": [
+                    "On the one hand"
+                  ]
+                },
+                {
+                  "placeholder": "On the other hand",
+                  "answers": [
+                    "On the other hand"
+                  ]
+                },
+                {
+                  "placeholder": "As far as I'm concerned",
+                  "answers": [
+                    "As far as I'm concerned"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000209001",
+                  "english": "In my view, economic development and environmental protection can go hand in hand.",
+                  "russian": "На мой взгляд, экономическое развитие и охрана окружающей среды могут идти рука об руку.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000209002",
+                  "english": "While it is true that technology can help, we also need to change our behaviour.",
+                  "russian": "Хотя технологии действительно могут помочь, нам также необходимо изменить своё поведение.",
+                  "direction": "eng-ru"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

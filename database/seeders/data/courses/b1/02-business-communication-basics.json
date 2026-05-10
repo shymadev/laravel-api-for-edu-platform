@@ -1,0 +1,1034 @@
+{
+  "title": "Business Communication Basics",
+  "description": "Develop the English skills needed to communicate professionally in a workplace environment, including writing emails, participating in meetings, and delivering presentations. This course is ideal for A2 completers entering a professional or academic setting where English is used.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": true,
+  "preview_image": "Business Communication Basics.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Professional Emails",
+      "subtopics": [
+        {
+          "title": "1.1 Structure and Opening Lines",
+          "lessons": [
+            {
+              "title": "How to Start and Structure a Professional Email",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000101000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A professional email has a clear structure. Every business email should include: a <b>subject line</b>, a <b>greeting</b>, a clear <b>body</b>, a <b>closing phrase</b>, and your <b>name/signature</b>.\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Subject line:</b> Be specific and concise. Compare:\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Poor: 'Meeting' &nbsp;&nbsp; Better: 'Request to Reschedule Thursday's Project Meeting'\"]}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Greetings (formal):</b>\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Dear Mr Smith,' / 'Dear Ms Johnson,' — when you know the person's name\",\"'Dear Sir or Madam,' — when you don't know the name\",\"'To Whom It May Concern,' — very formal, for unknown recipients\"]}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Opening lines:</b>\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I am writing to enquire about...' / 'I am writing with reference to...'\",\"'Further to our conversation on Monday, I would like to...'\",\"'I am writing on behalf of [company/person] to...'\"]}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful phrases to introduce your purpose:</b>\"}},{\"id\":\"yY5zA6bB7c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I would like to inform you that...'\",\"'I am pleased to confirm that...'\",\"'I would be grateful if you could...'\"]}},{\"id\":\"cC8dD9eE0f\",\"type\":\"paragraph\",\"data\":{\"text\":\"\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I am writing to enquire about...",
+                      "translation": "Я пишу, чтобы узнать о..."
+                    },
+                    {
+                      "text": "I would be grateful if you could...",
+                      "translation": "Я был бы признателен, если бы вы могли..."
+                    },
+                    {
+                      "text": "I am pleased to confirm that...",
+                      "translation": "Рад подтвердить, что..."
+                    },
+                    {
+                      "text": "Please find attached...",
+                      "translation": "В приложении вы найдёте..."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "I am writing to enquire about the internship programme at your company.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Formal",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Informal",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "I am writing to enquire about the position advertised.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Hey! Just wanted to ask about the job.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Dear Ms Walker, I hope this email finds you well.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Hi Sarah! Hope you're doing well :)",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "I would be grateful if you could send me further information.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Could you send me more info? Thanks!",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Please find attached the documents you requested.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "I've attached the stuff you needed.",
+                      "correctCategory": "cat2"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "enquire",
+                    "attached",
+                    "sincerely",
+                    "grateful"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "fill-gaps",
+                  "text": "Dear Mr Johnson,\n\nI [am writing] to enquire about the internship programme at your company. I came across the advertisement on your website and I [would like] to apply for the summer position. I [have attached] my CV for your consideration. I [look forward] to hearing from you.\n\nYours sincerely,\nAnna Petrova",
+                  "gaps": [
+                    {
+                      "placeholder": "am writing",
+                      "answers": [
+                        "am writing"
+                      ]
+                    },
+                    {
+                      "placeholder": "would like",
+                      "answers": [
+                        "would like"
+                      ]
+                    },
+                    {
+                      "placeholder": "have attached",
+                      "answers": [
+                        "have attached"
+                      ]
+                    },
+                    {
+                      "placeholder": "look forward",
+                      "answers": [
+                        "look forward"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Closing an Email Professionally",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000102000,\"blocks\":[{\"id\":\"fF1gG2hH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"The closing section of an email is just as important as the opening. It leaves a final impression on the reader.\"}},{\"id\":\"iI4jJ5kK6l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Closing phrases before sign-off:</b>\"}},{\"id\":\"lL7mM8nN9o\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I look forward to hearing from you.' (standard and professional)\",\"'Please do not hesitate to contact me if you have any questions.'\",\"'I would appreciate a response at your earliest convenience.'\",\"'Thank you for your time and consideration.'\"]}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sign-off phrases (from most to least formal):</b>\"}},{\"id\":\"rR3sS4tT5u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Yours faithfully,' — when you don't know the person's name (Dear Sir/Madam)\",\"'Yours sincerely,' — when you know the name (Dear Mr/Ms...)\",\"'Kind regards,' — semi-formal, very widely used\",\"'Best regards,' / 'With best wishes,' — friendly but professional\"]}},{\"id\":\"uU6vV7wW8x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common error:</b> Do not use 'Yours faithfully' when you have used the person's name in the greeting — this is a classic mistake. Use 'Yours sincerely' or 'Kind regards' instead.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I look forward to hearing from you. Yours sincerely.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "Dear Sir or Madam,",
+                      "right": "Yours faithfully,"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "Dear Ms Thompson,",
+                      "right": "Yours sincerely,"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "Hi David,",
+                      "right": "Best wishes,"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "To Whom It May Concern,",
+                      "right": "Yours faithfully,"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "Yours faithfully",
+                        "Yours sincerely",
+                        "Kind regards",
+                        "See ya!"
+                      ],
+                      "correctWord": "See ya!"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "You are writing a formal email and you don't know the recipient's name. Which sign-off is correct?",
+                      "options": [
+                        "Yours sincerely,",
+                        "Yours faithfully,",
+                        "Kind regards,",
+                        "Cheers,"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which closing phrase is appropriate for a professional email?",
+                      "options": [
+                        "See ya later!",
+                        "I look forward to hearing from you.",
+                        "Write back soon!",
+                        "Talk to you soon!"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Requests, Apologies, and Complaints",
+          "lessons": [
+            {
+              "title": "Making Requests and Apologies by Email",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000103000,\"blocks\":[{\"id\":\"xX9yY0zA1b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Three common email types in business English are <b>requests</b>, <b>apologies</b>, and <b>complaints</b>. Each requires specific language.\"}},{\"id\":\"bB2cC3dD4e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Making requests:</b>\"}},{\"id\":\"eE5fF6gG7h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I would be grateful if you could...' (very polite)\",\"'Could you please send me...?' (polite)\",\"'I wonder if it would be possible to...' (very polite and tentative)\",\"'Would it be possible to arrange a meeting...?' \"]}},{\"id\":\"hH8iI9jJ0k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Apologising:</b>\"}},{\"id\":\"kK1lL2mM3n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I apologise for any inconvenience caused.'\",\"'I am sorry for the delay in responding.'\",\"'Please accept our sincere apologies for...'\",\"'I regret to inform you that...'\"]}},{\"id\":\"nN4oO5pP6q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Complaining formally:</b>\"}},{\"id\":\"qQ7rR8sS9t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I am writing to express my dissatisfaction with...'\",\"'I was disappointed to find that...'\",\"'I would like to bring to your attention...'\",\"'I would appreciate it if this matter could be resolved promptly.'\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I would be grateful if you could send me the invoice by Friday.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read this formal request aloud",
+                    "targetPhrase": "I wonder if it would be possible to arrange a meeting next week."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000103001",
+                      "english": "I would be grateful if you could send me the invoice by Friday.",
+                      "russian": "Я был бы признателен, если бы вы могли прислать мне счёт до пятницы.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000103002",
+                      "english": "I am writing to express my dissatisfaction with the service I received.",
+                      "russian": "Я пишу, чтобы выразить своё недовольство полученным обслуживанием.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000103003",
+                      "english": "Please accept our sincere apologies for the delay.",
+                      "russian": "Пожалуйста, примите наши искренние извинения за задержку.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase is the most formal way to make a request?",
+                      "options": [
+                        "Can you do this for me?",
+                        "I wonder if it would be possible for you to assist.",
+                        "Please help ASAP.",
+                        "Could you like help me?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Meeting Vocabulary",
+      "subtopics": [
+        {
+          "title": "2.1 Running and Participating in Meetings",
+          "lessons": [
+            {
+              "title": "Key Phrases for Meetings",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000104000,\"blocks\":[{\"id\":\"tT0uU1vV2w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Business meetings follow predictable stages. Knowing the right phrases for each stage will help you participate confidently.\"}},{\"id\":\"wW3xX4yY5z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Opening a meeting:</b>\"}},{\"id\":\"zA6bB7cC8d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Let's get started, shall we?'\",\"'The purpose of today's meeting is to...'\",\"'We have three items on the agenda.'\"]}},{\"id\":\"dD9eE0fF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking for opinions:</b>\"}},{\"id\":\"gG2hH3iI4j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'What do you think about...?'\",\"'I'd like to hear your views on this.'\",\"'Does anyone have any thoughts on...?'\"]}},{\"id\":\"jJ5kK6lL7m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Agreeing and disagreeing:</b>\"}},{\"id\":\"mM8nN9oO0p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I completely agree with that point.'\",\"'That's a good point, but I think we should also consider...'\",\"'I take your point, however...'\",\"'I'm afraid I have to disagree here.'\"]}},{\"id\":\"pP1qQ2rR3s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Interrupting politely:</b>\"}},{\"id\":\"sS4tT5uU6v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Sorry to interrupt, but...'\",\"'Could I just add something here?'\",\"'If I could just come in at this point...'\"]}},{\"id\":\"vV7wW8xX9y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Summarising and closing:</b>\"}},{\"id\":\"yY0zA1bB2c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'To sum up, we've agreed that...'\",\"'The next step will be...'\",\"'I'll send the minutes to everyone by end of day.'\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "Let's get started, shall we?",
+                      "translation": "Давайте начнём, хорошо?"
+                    },
+                    {
+                      "text": "I take your point, however...",
+                      "translation": "Я понимаю вашу точку зрения, однако..."
+                    },
+                    {
+                      "text": "Sorry to interrupt, but...",
+                      "translation": "Извините, что перебиваю, но..."
+                    },
+                    {
+                      "text": "To sum up, we've agreed that...",
+                      "translation": "Подводя итог, мы договорились, что..."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "Sorry to interrupt, but I think we should address the budget issue first.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "Let's get started, shall we?",
+                      "right": "Opening the meeting"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "I take your point, however...",
+                      "right": "Disagreeing politely"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "Sorry to interrupt, but...",
+                      "right": "Interrupting politely"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "To sum up, we've agreed that...",
+                      "right": "Summarising"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "What are your thoughts on this?",
+                      "right": "Asking for opinions"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "Could I just add something here's?",
+                      "correctText": "Could I just add something here?"
+                    },
+                    {
+                      "text": "I'm afraid I have agree here.",
+                      "correctText": "I'm afraid I have to disagree here."
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "___ to interrupt, but I think we should address the budget issue first.",
+                      "answers": [
+                        "Sorry",
+                        "Excuse me",
+                        "Pardon",
+                        "Please"
+                      ]
+                    },
+                    {
+                      "sentence": "I take your ___, however, I'm not sure the timeline is realistic.",
+                      "answers": [
+                        "point",
+                        "idea",
+                        "thought",
+                        "word"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Workplace Vocabulary",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Essential Workplace Phrases and Vocabulary",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000105000,\"blocks\":[{\"id\":\"cC3dD4eE5f\",\"type\":\"paragraph\",\"data\":{\"text\":\"A wide range of vocabulary is used in professional environments. Here are key categories:\"}},{\"id\":\"fF6gG7hH8i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Describing responsibilities:</b>\"}},{\"id\":\"iI9jJ0kK1l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I am responsible for managing the social media accounts.'\",\"'My role involves coordinating with international partners.'\",\"'I report to the head of marketing.'\"]}},{\"id\":\"lL2mM3nN4o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Describing processes:</b>\"}},{\"id\":\"oO5pP6qQ7r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'First, the data is collected and analysed. Then, a report is generated...'\",\"'The approval process consists of three stages.'\"]}},{\"id\":\"rR8sS9tT0u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Talking about problems and solutions:</b>\"}},{\"id\":\"uU1vV2wW3x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'The main challenge we face is...'\",\"'One possible solution would be to...'\",\"'We need to address the issue of...'\"]}},{\"id\":\"xX4yY5zA6b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key workplace nouns:</b> deadline, target, budget, agenda, minutes (= notes of a meeting), proposal, contract, colleague, department, headquarters, branch, performance review, annual report.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I am responsible for managing the social media accounts. My role involves coordinating with international partners.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The latest time by which something must be done",
+                  "word": "deadline"
+                },
+                {
+                  "hint": "Written notes taken during a meeting",
+                  "word": "minutes"
+                },
+                {
+                  "hint": "The main office of a company",
+                  "word": "headquarters"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "m1",
+                  "left": "deadline",
+                  "right": "the latest time by which something must be done"
+                },
+                {
+                  "id": "m2",
+                  "left": "agenda",
+                  "right": "a list of topics to be discussed at a meeting"
+                },
+                {
+                  "id": "m3",
+                  "left": "minutes",
+                  "right": "written notes taken during a meeting"
+                },
+                {
+                  "id": "m4",
+                  "left": "performance review",
+                  "right": "a formal assessment of an employee's work"
+                },
+                {
+                  "id": "m5",
+                  "left": "headquarters",
+                  "right": "the main office of a company"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase describes someone's job role?",
+                  "options": [
+                    "I am responsible for managing client accounts.",
+                    "I will be managing client accounts yesterday.",
+                    "I have been responsible to manage client accounts.",
+                    "My role is involving client accounts."
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Presentations",
+      "subtopics": [
+        {
+          "title": "4.1 Structuring a Presentation",
+          "lessons": [
+            {
+              "title": "How to Structure and Deliver a Presentation",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000106000,\"blocks\":[{\"id\":\"bB7cC8dD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"A good presentation has a clear beginning, middle, and end. Here are phrases for each stage:\"}},{\"id\":\"eE0fF1gG2h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Introduction:</b>\"}},{\"id\":\"hH3iI4jJ5k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Good morning/afternoon, everyone. My name is [Name] and I'm going to be talking about...'\",\"'The aim of this presentation is to...'\",\"'I'll be covering three main points.'\",\"'Please feel free to ask questions at the end.'\"]}},{\"id\":\"kK6lL7mM8n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Signposting (guiding the audience):</b>\"}},{\"id\":\"nN9oO0pP1q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Let's start with...' / 'Moving on to...' / 'As I mentioned earlier...'\",\"'This brings me to my next point...'\",\"'If we look at this chart, we can see that...'\"]}},{\"id\":\"qQ2rR3sS4t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Conclusion:</b>\"}},{\"id\":\"tT5uU6vV7w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'To summarise the main points...'\",\"'In conclusion, I would like to say that...'\",\"'Thank you for your attention. I'm happy to take any questions.'\"]}},{\"id\":\"wW8xX9yY0z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Handling questions:</b>\"}},{\"id\":\"zA1bB2cC3d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'That's a good question. I think...'\",\"'I'm glad you brought that up...'\",\"'I'll come back to that if I may...'\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Good morning, everyone. My name is Anna and I'm going to be talking about our Q3 results.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Practise this presentation opener aloud",
+                    "targetPhrase": "The aim of this presentation is to outline our plan for next quarter."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Introduction",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Signposting",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat3",
+                      "name": "Conclusion",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "Good morning, I'm going to be talking about our Q3 results.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Moving on to the second point...",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "In conclusion, our strategy has been effective.",
+                      "correctCategory": "cat3"
+                    },
+                    {
+                      "text": "The aim of this presentation is to outline our plan.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "This brings me to my next point about costs.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Thank you for your attention. Any questions?",
+                      "correctCategory": "cat3"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "video",
+                  "url": "VIDEO_PLACEHOLDER"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Formal vs Informal Register",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Adapting Your Language to the Situation",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000107000,\"blocks\":[{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, <b>register</b> refers to the level of formality in language. Choosing the right register is critical in professional contexts.\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Formal English features:</b>\"}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Full verb forms (not contractions): 'I am' not 'I'm'\",\"Passive voice: 'The report was submitted on time.'\",\"Complex vocabulary: 'utilise' (not 'use'), 'commence' (not 'start')\",\"Polite modal verbs: 'would', 'could', 'may'\"]}},{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Informal English features:</b>\"}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Contractions: 'I'm, you're, it's'\",\"Phrasal verbs: 'put off', 'look into', 'call off'\",\"Simpler vocabulary: 'use', 'start', 'cancel'\",\"Incomplete sentences and exclamations\"]}},{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Formal vs informal pairs:</b>\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"ask for → request\",\"find out → investigate / ascertain\",\"help → assist / facilitate\",\"sorry → apologise / regret\",\"get → obtain / receive\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "We regret to inform you that the conference has been postponed.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "request",
+                "investigate",
+                "facilitate",
+                "apologise"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000107001",
+                  "english": "I would like to request further information regarding the upcoming event.",
+                  "russian": "Я хотел бы запросить дополнительную информацию о предстоящем мероприятии.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000107002",
+                  "english": "We regret to inform you that the conference has been postponed.",
+                  "russian": "Мы с сожалением сообщаем, что конференция была перенесена.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000107003",
+                  "english": "Could you assist me in completing this form?",
+                  "russian": "Не могли бы вы помочь мне заполнить эту форму?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which is the most formal version of 'We need to look into this problem'?",
+                  "options": [
+                    "We need to investigate this issue.",
+                    "We gotta look at this thing.",
+                    "This problem needs looking at.",
+                    "We should check this out ASAP."
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Phone and Video Call Etiquette",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Professional English for Calls and Video Meetings",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000108000,\"blocks\":[{\"id\":\"yY5zA6bB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Professional communication increasingly happens over phone and video calls. Here are key phrases:\"}},{\"id\":\"cC8dD9eE0f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Answering / starting a call:</b>\"}},{\"id\":\"fF1gG2hH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'[Company name], [Your name] speaking. How can I help you?'\",\"'Good afternoon, this is [Name] from [Department].'\"]}},{\"id\":\"iI4jJ5kK6l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking someone to wait:</b>\"}},{\"id\":\"lL7mM8nN9o\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Could you hold on a moment, please?'\",\"'I'll just put you on hold briefly.'\"]}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Dealing with connection problems:</b>\"}},{\"id\":\"rR3sS4tT5u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I'm afraid there seems to be a bad connection.'\",\"'Could you repeat that? I didn't catch what you said.'\",\"'Your voice keeps breaking up — could you speak a little louder?'\"]}},{\"id\":\"uU6vV7wW8x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Taking a message:</b>\"}},{\"id\":\"xX9yY0zA1b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I'm afraid he's not available at the moment. Can I take a message?'\",\"'Could I ask who's calling, please?'\",\"'I'll make sure he gets your message.'\"]}},{\"id\":\"bB2cC3dD4e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Ending a call:</b>\"}},{\"id\":\"eE5fF6gG7h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Thank you for calling. Have a good day.'\",\"'I'll be in touch. Goodbye.'\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Good morning, Apex Solutions, Maria speaking. How can I help you?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "Could you hold on a moment please is it?",
+                  "correctText": "Could you hold on a moment, please?"
+                },
+                {
+                  "text": "I'm afraid he's not available in the moment.",
+                  "correctText": "I'm afraid he's not available at the moment."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A: Good morning, Apex Solutions, Maria [speaking]. How can I [help] you? B: Hello, I'd like to speak to Mr Peterson, please. A: I'm afraid he's not [available] right now. Can I [take] a message? B: Yes, please. Could you ask him to call me back?",
+              "gaps": [
+                {
+                  "placeholder": "speaking",
+                  "answers": [
+                    "speaking"
+                  ]
+                },
+                {
+                  "placeholder": "help",
+                  "answers": [
+                    "help"
+                  ]
+                },
+                {
+                  "placeholder": "available",
+                  "answers": [
+                    "available"
+                  ]
+                },
+                {
+                  "placeholder": "take",
+                  "answers": [
+                    "take"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "I'm afraid there seems to be a bad ___. Could you repeat that?",
+                  "answers": [
+                    "connection",
+                    "line",
+                    "signal",
+                    "call"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 7: Numbers, Data, and Charts",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Describing Trends and Data in English",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000109000,\"blocks\":[{\"id\":\"hH8iI9jJ0k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Describing charts, graphs, and numerical data is an essential business skill. Learn these structures:\"}},{\"id\":\"kK1lL2mM3n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Describing increases:</b>\"}},{\"id\":\"nN4oO5pP6q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Sales rose sharply / increased significantly in Q2.'\",\"'There was a dramatic rise in profits.'\",\"'The number of users grew steadily throughout the year.'\"]}},{\"id\":\"qQ7rR8sS9t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Describing decreases:</b>\"}},{\"id\":\"tT0uU1vV2w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Revenue fell / dropped / declined by 15%.'\",\"'There was a slight decrease in customer satisfaction.'\"]}},{\"id\":\"wW3xX4yY5z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Describing stability:</b>\"}},{\"id\":\"zA6bB7cC8d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Prices remained stable / stayed the same / levelled off.'\"]}},{\"id\":\"dD9eE0fF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Adverbs of degree:</b> <em>sharply, significantly, dramatically, slightly, gradually, steadily, considerably</em>\"}},{\"id\":\"gG2hH3iI4j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful structures:</b>\"}},{\"id\":\"jJ5kK6lL7m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'As the chart shows...' / 'According to the data...'\",\"'The most significant change was...'\",\"'Compared to last year, ... has increased by...'\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Sales rose sharply in Q2. Revenue declined by fifteen percent.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "rose",
+                    "increased",
+                    "grew",
+                    "declined"
+                  ],
+                  "correctWord": "declined"
+                },
+                {
+                  "words": [
+                    "sharply",
+                    "dramatically",
+                    "significantly",
+                    "slightly"
+                  ],
+                  "correctWord": "slightly"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "m1",
+                  "left": "rose sharply",
+                  "right": "увеличился резко"
+                },
+                {
+                  "id": "m2",
+                  "left": "fell gradually",
+                  "right": "снизился постепенно"
+                },
+                {
+                  "id": "m3",
+                  "left": "remained stable",
+                  "right": "оставался стабильным"
+                },
+                {
+                  "id": "m4",
+                  "left": "levelled off",
+                  "right": "выровнялся / перестал меняться"
+                },
+                {
+                  "id": "m5",
+                  "left": "declined significantly",
+                  "right": "значительно сократился"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence best describes a slow, continuous increase?",
+                  "options": [
+                    "Sales rose dramatically.",
+                    "Sales grew steadily.",
+                    "Sales remained stable.",
+                    "Sales plummeted."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 8: Networking and Small Talk",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Business Small Talk and Networking English",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000110000,\"blocks\":[{\"id\":\"mM8nN9oO0p\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English-speaking business culture, <b>small talk</b> — light, informal conversation — is an important social skill. It builds relationships before and after formal interactions.\"}},{\"id\":\"pP1qQ2rR3s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common small talk topics:</b> weather, travel, weekend plans, recent events, sport (general).\"}},{\"id\":\"sS4tT5uU6v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Starting a conversation at a networking event:</b>\"}},{\"id\":\"vV7wW8xX9y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Is this your first time at this conference?'\",\"'What brings you to the event today?'\",\"'How are you finding the event so far?'\"]}},{\"id\":\"yY0zA1bB2c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Introducing yourself:</b>\"}},{\"id\":\"cC3dD4eE5f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'I'm [Name], I work in [field/company].'\",\"'I'm responsible for [area] at [company].'\",\"'We've been working on some exciting new projects lately.'\"]}},{\"id\":\"fF6gG7hH8i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Showing interest:</b>\"}},{\"id\":\"iI9jJ0kK1l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'That sounds really interesting — could you tell me more about that?'\",\"'What a coincidence — we're working on something similar.'\"]}},{\"id\":\"lL2mM3nN4o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Closing a networking conversation:</b>\"}},{\"id\":\"oO5pP6qQ7r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'It was great meeting you. Let me give you my card.'\",\"'Shall we connect on LinkedIn?'\",\"'I'll look forward to hearing more about your work.'\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "It was great meeting you. I hope we can stay in touch.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "networking",
+                "conference",
+                "colleague",
+                "introduce"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat1",
+                  "name": "Small Talk Starter",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat2",
+                  "name": "Professional Introduction",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat3",
+                  "name": "Closing Conversation",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "text": "Is this your first time at this conference?",
+                  "correctCategory": "cat1"
+                },
+                {
+                  "text": "I'm Anna, I work in supply chain management at a logistics firm.",
+                  "correctCategory": "cat2"
+                },
+                {
+                  "text": "It was great meeting you — let's exchange cards.",
+                  "correctCategory": "cat3"
+                },
+                {
+                  "text": "How are you finding the event so far?",
+                  "correctCategory": "cat1"
+                },
+                {
+                  "text": "I'm responsible for digital marketing at a start-up.",
+                  "correctCategory": "cat2"
+                },
+                {
+                  "text": "Shall we connect on LinkedIn?",
+                  "correctCategory": "cat3"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000110001",
+                  "english": "It was great meeting you. I hope we can stay in touch.",
+                  "russian": "Было приятно познакомиться. Надеюсь, мы сможем поддерживать связь.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000110002",
+                  "english": "What brings you to the event today?",
+                  "russian": "Что привело вас на это мероприятие?",
+                  "direction": "eng-ru"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1215 @@
+{
+  "title": "Numbers, Time & Dates",
+  "description": "Master cardinal and ordinal numbers, learn to tell the time, and talk about days, months, and years in English. Perfect for absolute beginners who want to handle schedules and appointments.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": false,
+  "preview_image": "Numbers, Time & Dates.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Cardinal Numbers",
+      "subtopics": [
+        {
+          "title": "1.1 Numbers 1–20",
+          "lessons": [
+            {
+              "title": "Counting from 1 to 10",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700001001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"The first ten numbers in English are the foundation of all counting. Learn them well!\"}},{\"id\":\"eE4fF5gG6h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>1</b> — one\",\"<b>2</b> — two\",\"<b>3</b> — three\",\"<b>4</b> — four\",\"<b>5</b> — five\",\"<b>6</b> — six\",\"<b>7</b> — seven\",\"<b>8</b> — eight\",\"<b>9</b> — nine\",\"<b>10</b> — ten\"]}},{\"id\":\"iI7jJ8kK9l\",\"type\":\"paragraph\",\"data\":{\"text\":\"These numbers are used every day — for age, prices, phone numbers, and more.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "One, two, three, four, five, six, seven, eight, nine, ten.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "one",
+                      "translation": "один"
+                    },
+                    {
+                      "text": "two",
+                      "translation": "два"
+                    },
+                    {
+                      "text": "five",
+                      "translation": "пять"
+                    },
+                    {
+                      "text": "ten",
+                      "translation": "десять"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700001001001",
+                      "left": "1",
+                      "right": "one"
+                    },
+                    {
+                      "id": "1700001001002",
+                      "left": "3",
+                      "right": "three"
+                    },
+                    {
+                      "id": "1700001001003",
+                      "left": "5",
+                      "right": "five"
+                    },
+                    {
+                      "id": "1700001001004",
+                      "left": "7",
+                      "right": "seven"
+                    },
+                    {
+                      "id": "1700001001005",
+                      "left": "9",
+                      "right": "nine"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "one",
+                    "two",
+                    "three",
+                    "four",
+                    "five"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do you write the number 4 in words?",
+                      "options": [
+                        "fore",
+                        "four",
+                        "for",
+                        "foor"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which number is 'eight'?",
+                      "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What comes after 'six'?",
+                      "options": [
+                        "five",
+                        "eight",
+                        "seven",
+                        "nine"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Counting from 11 to 20",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700001002000,\"blocks\":[{\"id\":\"mM0nN1oO2p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Numbers 11–20 have some special forms. Notice the pattern!\"}},{\"id\":\"qQ3rR4sS5t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>11</b> — eleven\",\"<b>12</b> — twelve\",\"<b>13</b> — thirteen\",\"<b>14</b> — fourteen\",\"<b>15</b> — fifteen\",\"<b>16</b> — sixteen\",\"<b>17</b> — seventeen\",\"<b>18</b> — eighteen\",\"<b>19</b> — nineteen\",\"<b>20</b> — twenty\"]}},{\"id\":\"uU6vV7wW8x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Numbers 13–19 end in <b>-teen</b>. Notice that 13, 15, and 18 have slightly different spellings (thirteen, fifteen, eighteen).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Eleven, twelve, thirteen, fourteen, fifteen.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "The number after ten",
+                      "word": "eleven"
+                    },
+                    {
+                      "hint": "10 + 5",
+                      "word": "fifteen"
+                    },
+                    {
+                      "hint": "10 + 8",
+                      "word": "eighteen"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "11 = [eleven], 12 = [twelve], 15 = [fifteen], 18 = [eighteen], 20 = [twenty].",
+                  "gaps": [
+                    {
+                      "placeholder": "eleven",
+                      "answers": [
+                        "eleven"
+                      ]
+                    },
+                    {
+                      "placeholder": "twelve",
+                      "answers": [
+                        "twelve"
+                      ]
+                    },
+                    {
+                      "placeholder": "fifteen",
+                      "answers": [
+                        "fifteen"
+                      ]
+                    },
+                    {
+                      "placeholder": "eighteen",
+                      "answers": [
+                        "eighteen"
+                      ]
+                    },
+                    {
+                      "placeholder": "twenty",
+                      "answers": [
+                        "twenty"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which number is 'thirteen'?",
+                      "options": [
+                        "12",
+                        "13",
+                        "14",
+                        "30"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you write 19 in words?",
+                      "options": [
+                        "ninety",
+                        "nineteen",
+                        "ninetin",
+                        "ninteen"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Numbers 20–100",
+          "lessons": [
+            {
+              "title": "Tens and Compound Numbers",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700001003000,\"blocks\":[{\"id\":\"yY9zZ0aA1b\",\"type\":\"paragraph\",\"data\":{\"text\":\"The tens in English follow a clear pattern ending in <b>-ty</b>:\"}},{\"id\":\"bB2cC3dD4e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>20</b> — twenty\",\"<b>30</b> — thirty\",\"<b>40</b> — forty\",\"<b>50</b> — fifty\",\"<b>60</b> — sixty\",\"<b>70</b> — seventy\",\"<b>80</b> — eighty\",\"<b>90</b> — ninety\",\"<b>100</b> — one hundred\"]}},{\"id\":\"eE5fF6gG7h\",\"type\":\"paragraph\",\"data\":{\"text\":\"For numbers in between, we combine tens and units with a hyphen:\"}},{\"id\":\"hH8iI9jJ0k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"21 = twenty-<b>one</b>\",\"35 = thirty-<b>five</b>\",\"47 = forty-<b>seven</b>\",\"99 = ninety-<b>nine</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700001003001",
+                      "left": "30",
+                      "right": "thirty"
+                    },
+                    {
+                      "id": "1700001003002",
+                      "left": "40",
+                      "right": "forty"
+                    },
+                    {
+                      "id": "1700001003003",
+                      "left": "50",
+                      "right": "fifty"
+                    },
+                    {
+                      "id": "1700001003004",
+                      "left": "70",
+                      "right": "seventy"
+                    },
+                    {
+                      "id": "1700001003005",
+                      "left": "100",
+                      "right": "one hundred"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "40 = fourty",
+                      "correctText": "40 = forty"
+                    },
+                    {
+                      "text": "90 = ninty",
+                      "correctText": "90 = ninety"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "25 = twenty-[five]. 63 = sixty-[three]. 81 = eighty-[one]. 99 = ninety-[nine].",
+                  "gaps": [
+                    {
+                      "placeholder": "five",
+                      "answers": [
+                        "five"
+                      ]
+                    },
+                    {
+                      "placeholder": "three",
+                      "answers": [
+                        "three"
+                      ]
+                    },
+                    {
+                      "placeholder": "one",
+                      "answers": [
+                        "one"
+                      ]
+                    },
+                    {
+                      "placeholder": "nine",
+                      "answers": [
+                        "nine"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Ordinal Numbers",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "First, Second, Third...",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700001004000,\"blocks\":[{\"id\":\"kK1lL2mM3n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Ordinal numbers</b> show position or order (1st, 2nd, 3rd...).\"}},{\"id\":\"nN4oO5pP6q\",\"type\":\"paragraph\",\"data\":{\"text\":\"The first three are irregular:\"}},{\"id\":\"qQ7rR8sS9t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>1st</b> — first\",\"<b>2nd</b> — second\",\"<b>3rd</b> — third\"]}},{\"id\":\"tT0uU1vV2w\",\"type\":\"paragraph\",\"data\":{\"text\":\"From 4 onward, add <b>-th</b>:\"}},{\"id\":\"wW3xX4yY5z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>4th</b> — fourth\",\"<b>5th</b> — fifth (irregular spelling)\",\"<b>6th</b> — sixth\",\"<b>7th</b> — seventh\",\"<b>8th</b> — eighth (note: no 'e')\",\"<b>9th</b> — ninth\",\"<b>10th</b> — tenth\",\"<b>20th</b> — twentieth\",\"<b>21st</b> — twenty-first\"]}},{\"id\":\"zZ6aA7bB8c\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use ordinal numbers for <em>dates</em>: Today is the <b>first</b> of May.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Today is the first of May. My birthday is on the third of June.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700001004001",
+                  "left": "1st",
+                  "right": "first"
+                },
+                {
+                  "id": "1700001004002",
+                  "left": "2nd",
+                  "right": "second"
+                },
+                {
+                  "id": "1700001004003",
+                  "left": "3rd",
+                  "right": "third"
+                },
+                {
+                  "id": "1700001004004",
+                  "left": "5th",
+                  "right": "fifth"
+                },
+                {
+                  "id": "1700001004005",
+                  "left": "8th",
+                  "right": "eighth"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "first",
+                "second",
+                "third",
+                "fourth",
+                "fifth"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the ordinal form of '3'?",
+                  "options": [
+                    "thirdly",
+                    "threeth",
+                    "third",
+                    "threed"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "How do you say '5th' in words?",
+                  "options": [
+                    "fiveth",
+                    "fiftieth",
+                    "fifth",
+                    "fived"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "We use ordinal numbers for...",
+                  "options": [
+                    "counting objects",
+                    "telling the time",
+                    "dates",
+                    "phone numbers"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Telling the Time",
+      "subtopics": [
+        {
+          "title": "3.1 Hours and Minutes",
+          "lessons": [
+            {
+              "title": "What Time Is It?",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700001005000,\"blocks\":[{\"id\":\"cC9dD0eE1f\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask for the time: <b>What time is it?</b> or <b>What's the time?</b>\"}},{\"id\":\"fF2gG3hH4i\",\"type\":\"paragraph\",\"data\":{\"text\":\"To answer, use these patterns:\"}},{\"id\":\"iI5jJ6kK7l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"It's <b>three o'clock</b>. (3:00)\",\"It's <b>half past four</b>. (4:30)\",\"It's <b>quarter past six</b>. (6:15)\",\"It's <b>quarter to nine</b>. (8:45)\",\"It's <b>ten past two</b>. (2:10)\",\"It's <b>twenty to five</b>. (4:40)\"]}},{\"id\":\"lL8mM9nN0o\",\"type\":\"paragraph\",\"data\":{\"text\":\"We also use <b>am</b> (morning) and <b>pm</b> (afternoon/evening):\"}},{\"id\":\"oO1pP2qQ3r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"It's 9 am = nine o'clock in the morning.\",\"It's 3 pm = three o'clock in the afternoon.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "What time is it? It's half past three.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "What time is it?",
+                      "translation": "Который час?"
+                    },
+                    {
+                      "text": "It's three o'clock.",
+                      "translation": "Три часа."
+                    },
+                    {
+                      "text": "half past four",
+                      "translation": "половина пятого"
+                    },
+                    {
+                      "text": "quarter past six",
+                      "translation": "четверть седьмого"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700001005001",
+                      "left": "3:00",
+                      "right": "three o'clock"
+                    },
+                    {
+                      "id": "1700001005002",
+                      "left": "4:30",
+                      "right": "half past four"
+                    },
+                    {
+                      "id": "1700001005003",
+                      "left": "6:15",
+                      "right": "quarter past six"
+                    },
+                    {
+                      "id": "1700001005004",
+                      "left": "8:45",
+                      "right": "quarter to nine"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do you say 7:30?",
+                      "options": [
+                        "half to seven",
+                        "half past seven",
+                        "quarter past seven",
+                        "seven thirty past"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What time is 'quarter past five'?",
+                      "options": [
+                        "5:00",
+                        "5:15",
+                        "5:30",
+                        "5:45"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you ask for the time?",
+                      "options": [
+                        "What day is it?",
+                        "What time is it?",
+                        "When is it?",
+                        "Which hour?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "AM and PM — Morning, Afternoon, Evening",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700001006000,\"blocks\":[{\"id\":\"rR4sS5tT6u\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, the day is divided into parts. We use them when talking about daily schedules:\"}},{\"id\":\"uU7vV8wW9x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>in the morning</b> — from about 6 am to 12 pm\",\"<b>in the afternoon</b> — from 12 pm to about 6 pm\",\"<b>in the evening</b> — from about 6 pm to midnight\",\"<b>at night</b> — late evening and night time\",\"<b>at noon</b> — exactly 12:00 pm\",\"<b>at midnight</b> — exactly 12:00 am\"]}},{\"id\":\"xX0yY1zZ2a\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples:\"}},{\"id\":\"aA3bB4cC5d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I wake up at 7 o'clock <b>in the morning</b>.\",\"Lunch is at <b>noon</b>.\",\"I watch TV <b>in the evening</b>.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I wake up in the morning and go to bed at night.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "I eat breakfast [in] the morning. School starts [at] 8 am. I play sport [in] the afternoon. I sleep [at] night.",
+                  "gaps": [
+                    {
+                      "placeholder": "in",
+                      "answers": [
+                        "in"
+                      ]
+                    },
+                    {
+                      "placeholder": "at",
+                      "answers": [
+                        "at"
+                      ]
+                    },
+                    {
+                      "placeholder": "in",
+                      "answers": [
+                        "in"
+                      ]
+                    },
+                    {
+                      "placeholder": "at",
+                      "answers": [
+                        "at"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_am",
+                      "name": "AM (Morning)",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_pm",
+                      "name": "PM (Afternoon/Evening)",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "7:00 — wake up",
+                      "correctCategory": "cat_am"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "8:30 — go to school",
+                      "correctCategory": "cat_am"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "1:00 — lunch",
+                      "correctCategory": "cat_pm"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "3:30 — sport",
+                      "correctCategory": "cat_pm"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "6:00 — dinner",
+                      "correctCategory": "cat_pm"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "11:00 — night",
+                      "correctCategory": "cat_pm"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which preposition do we use for specific times like '9 o'clock'?",
+                      "options": [
+                        "in",
+                        "on",
+                        "at",
+                        "by"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "We say 'in the morning'. What do we say for a specific night time activity?",
+                      "options": [
+                        "in the night",
+                        "at night",
+                        "on night",
+                        "by night"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Days of the Week",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Seven Days",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700001007000,\"blocks\":[{\"id\":\"dD6eE7fF8g\",\"type\":\"paragraph\",\"data\":{\"text\":\"There are <b>7 days</b> in a week. In English, they are:\"}},{\"id\":\"gG9hH0iI1j\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Monday</b>\",\"<b>Tuesday</b>\",\"<b>Wednesday</b>\",\"<b>Thursday</b>\",\"<b>Friday</b>\",\"<b>Saturday</b>\",\"<b>Sunday</b>\"]}},{\"id\":\"jJ2kK3lL4m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Weekdays</b> are Monday to Friday. <b>Weekend</b> is Saturday and Sunday.\"}},{\"id\":\"mM5nN6oO7p\",\"type\":\"paragraph\",\"data\":{\"text\":\"To talk about days:\"}},{\"id\":\"pP8qQ9rR0s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Today is <b>Monday</b>.\",\"I work <b>on Monday</b>.\",\"I rest <b>on Saturday</b>.\"]}},{\"id\":\"sS1tT2uU3v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Ask: <b>What day is it today?</b>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700001007001",
+                  "left": "Monday",
+                  "right": "Понедельник"
+                },
+                {
+                  "id": "1700001007002",
+                  "left": "Wednesday",
+                  "right": "Среда"
+                },
+                {
+                  "id": "1700001007003",
+                  "left": "Friday",
+                  "right": "Пятница"
+                },
+                {
+                  "id": "1700001007004",
+                  "left": "Saturday",
+                  "right": "Суббота"
+                },
+                {
+                  "id": "1700001007005",
+                  "left": "Sunday",
+                  "right": "Воскресенье"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "Monday",
+                    "Tuesday",
+                    "Saturday",
+                    "Wednesday"
+                  ],
+                  "correctWord": "Saturday"
+                },
+                {
+                  "words": [
+                    "Friday",
+                    "Thursday",
+                    "Sunday",
+                    "Tuesday"
+                  ],
+                  "correctWord": "Sunday"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which day comes after Wednesday?",
+                  "options": [
+                    "Tuesday",
+                    "Friday",
+                    "Thursday",
+                    "Monday"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Which days are the weekend?",
+                  "options": [
+                    "Monday and Friday",
+                    "Friday and Saturday",
+                    "Saturday and Sunday",
+                    "Sunday and Monday"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Months and Dates",
+      "subtopics": [
+        {
+          "title": "5.1 The Twelve Months",
+          "lessons": [
+            {
+              "title": "Months of the Year",
+              "weight": 8,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700001008000,\"blocks\":[{\"id\":\"vV4wW5xX6y\",\"type\":\"paragraph\",\"data\":{\"text\":\"There are <b>12 months</b> in a year. Learn them in order:\"}},{\"id\":\"yY7zZ8aA9b\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"]}},{\"id\":\"bB0cC1dD2e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Months are always written with a <b>capital letter</b> in English.\"}},{\"id\":\"eE3fF4gG5h\",\"type\":\"paragraph\",\"data\":{\"text\":\"To say when something happens: <b>in January</b>, <b>in March</b>, <b>in October</b>.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "My birthday is in October. What month is your birthday?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_spring",
+                      "name": "Spring (March–May)",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_summer",
+                      "name": "Summer (June–August)",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_autumn",
+                      "name": "Autumn (Sep–Nov)",
+                      "color": "#2e7d32"
+                    },
+                    {
+                      "id": "cat_winter",
+                      "name": "Winter (Dec–Feb)",
+                      "color": "#f57c00"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "March",
+                      "correctCategory": "cat_spring"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "April",
+                      "correctCategory": "cat_spring"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "June",
+                      "correctCategory": "cat_summer"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "July",
+                      "correctCategory": "cat_summer"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "September",
+                      "correctCategory": "cat_autumn"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "October",
+                      "correctCategory": "cat_autumn"
+                    },
+                    {
+                      "id": "item_7",
+                      "text": "December",
+                      "correctCategory": "cat_winter"
+                    },
+                    {
+                      "id": "item_8",
+                      "text": "January",
+                      "correctCategory": "cat_winter"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which month comes after July?",
+                      "options": [
+                        "June",
+                        "September",
+                        "August",
+                        "October"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What is the first month of the year?",
+                      "options": [
+                        "March",
+                        "February",
+                        "December",
+                        "January"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5.2 Saying Dates",
+          "lessons": [
+            {
+              "title": "How to Say and Write Dates",
+              "weight": 9,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700001009000,\"blocks\":[{\"id\":\"hH6iI7jJ8k\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, dates use <b>ordinal numbers</b> and month names.\"}},{\"id\":\"kK9lL0mM1n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>British English:</b> day + month + year → <em>the 5th of March, 2024</em>\"}},{\"id\":\"nN2oO3pP4q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>American English:</b> month + day + year → <em>March 5th, 2024</em>\"}},{\"id\":\"qQ5rR6sS7t\",\"type\":\"paragraph\",\"data\":{\"text\":\"When we say the date out loud:\"}},{\"id\":\"tT8uU9vV0w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"1 May → <b>the first of May</b>\",\"15 June → <b>the fifteenth of June</b>\",\"31 December → <b>the thirty-first of December</b>\"]}},{\"id\":\"wW1xX2yY3z\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask the date: <b>What is the date today?</b> or <b>What's today's date?</b>\"}},{\"id\":\"zZ4aA5bB6c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Common reply: <em>Today is the tenth of April.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Today is the tenth of April. My birthday is on the first of January.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700001009001",
+                      "english": "What is today's date?",
+                      "russian": "Какое сегодня число?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700001009002",
+                      "english": "Today is the first of January.",
+                      "russian": "Сегодня первое января.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700001009003",
+                      "english": "My birthday is in March.",
+                      "russian": "Мой день рождения в марте.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700001009004",
+                      "english": "The meeting is on Friday.",
+                      "russian": "Встреча в пятницу.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "Today is the [third] of [October]. My birthday is [on] the twentieth [of] July.",
+                  "gaps": [
+                    {
+                      "placeholder": "third",
+                      "answers": [
+                        "third"
+                      ]
+                    },
+                    {
+                      "placeholder": "October",
+                      "answers": [
+                        "October"
+                      ]
+                    },
+                    {
+                      "placeholder": "on",
+                      "answers": [
+                        "on"
+                      ]
+                    },
+                    {
+                      "placeholder": "of",
+                      "answers": [
+                        "of"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do you say '15 June' in British English?",
+                      "options": [
+                        "June fifteen",
+                        "the fifteen of June",
+                        "the fifteenth of June",
+                        "fifteen June"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which preposition do we use before dates?",
+                      "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "by"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 6: Simple Schedules",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "My Weekly Schedule",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700001010000,\"blocks\":[{\"id\":\"cC7dD8eE9f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Now you can combine numbers, time, and days to talk about a schedule!\"}},{\"id\":\"fF0gG1hH2i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful prepositions:</b>\"}},{\"id\":\"iI3jJ4kK5l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>at</b> — for specific times: at 8 o'clock, at noon, at midnight\",\"<b>on</b> — for days: on Monday, on Friday, on weekends\",\"<b>in</b> — for months and parts of the day: in January, in the morning\"]}},{\"id\":\"lL6mM7nN8o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example schedule:</b>\"}},{\"id\":\"oO9pP0qQ1r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"On Monday, I have English class <em>at 9 am</em>.\",\"On Wednesday, I go to the gym <em>at 6 pm</em>.\",\"On Saturday, I sleep late and relax.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "On Monday I have class at nine o'clock in the morning.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "I have class ___ Monday.",
+                  "answers": [
+                    "on",
+                    "at",
+                    "in"
+                  ]
+                },
+                {
+                  "sentence": "The lesson starts ___ 9 o'clock.",
+                  "answers": [
+                    "at",
+                    "on",
+                    "in"
+                  ]
+                },
+                {
+                  "sentence": "My birthday is ___ March.",
+                  "answers": [
+                    "in",
+                    "on",
+                    "at"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700001010001",
+                  "english": "I go to school on Monday.",
+                  "russian": "Я хожу в школу в понедельник.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700001010002",
+                  "english": "The lesson starts at nine o'clock.",
+                  "russian": "Урок начинается в девять часов.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700001010003",
+                  "english": "I rest on Saturday and Sunday.",
+                  "russian": "Я отдыхаю в субботу и воскресенье.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700001010004",
+                  "english": "My birthday is in July.",
+                  "russian": "Мой день рождения в июле.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Choose the correct preposition: 'I have class ___ Monday.'",
+                  "options": [
+                    "at",
+                    "in",
+                    "on",
+                    "by"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "How do you say: 'Урок начинается в 9 часов.'",
+                  "options": [
+                    "The lesson starts in 9 o'clock.",
+                    "The lesson starts on 9 o'clock.",
+                    "The lesson starts at 9 o'clock.",
+                    "The lesson starts by 9 o'clock."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

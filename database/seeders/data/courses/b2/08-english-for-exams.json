@@ -1,0 +1,169 @@
+{
+  "title": "English for Exams: Essays & Speaking",
+  "description": "Prepare specifically for B2-level English exams (such as Cambridge B2 First or IELTS Band 5.5–6.5): essay writing techniques, speaking exam strategies, task response, and timed practice. Suitable for learners preparing for internationally recognised English qualifications.",
+  "language": "en",
+  "difficulty_level": "B2",
+  "is_premium": true,
+  "preview_image": "English for Exams: Essays & Speaking.jpeg",
+  "topics": [
+    {
+      "title": "Module 1: Writing Tasks",
+      "subtopics": [
+        {
+          "title": "1.1 Opinion Essays",
+          "lessons": [
+            {
+              "title": "Structuring an Opinion Essay",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700100001000,\"blocks\":[{\"id\":\"oA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"An opinion essay requires you to state and develop a clear position with supporting arguments and a balanced conclusion. In B2 exams, you typically have 140–190 words.\"}},{\"id\":\"oD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Essay Structure\",\"level\":3}},{\"id\":\"oG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Introduction:</b> state the topic and your position (2–3 sentences)\",\"<b>Body paragraph 1:</b> first supporting argument + example\",\"<b>Body paragraph 2:</b> second supporting argument + example (or counterargument + refutation)\",\"<b>Conclusion:</b> restate your position and give a final thought\"]}},{\"id\":\"oJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Key Phrases for an Opinion Essay\",\"level\":3}},{\"id\":\"oM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>In my view, / It is my firm belief that...</b> [introducing opinion]\",\"<b>Furthermore, / In addition, / What is more,...</b> [adding a point]\",\"<b>While some might argue that... I believe...</b> [concede + refute]\",\"<b>In conclusion, / To sum up,...</b> [closing]\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "fill-gaps",
+                  "text": "In my ___, social media has more negative than positive effects on young people. ___ more, research consistently shows that heavy use is linked to anxiety. While ___ might argue that it helps people stay connected, I believe the risks outweigh the benefits. In ___, action is needed to regulate how these platforms target teenagers.",
+                  "gaps": [
+                    { "position": 1, "answer": "view", "options": ["view", "mind", "head", "opinion"] },
+                    { "position": 2, "answer": "What is", "options": ["What is", "Even", "Still", "Also"] },
+                    { "position": 3, "answer": "some", "options": ["some", "people", "anyone", "many"] },
+                    { "position": 4, "answer": "conclusion", "options": ["conclusion", "summary", "end", "closing"] }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "In an exam essay, what should you do in the conclusion?",
+                      "options": ["Introduce a new argument", "Restate your position and give a final thought", "Copy the introduction", "Write as many words as possible"],
+                      "correctOptions": [1]
+                    },
+                    {
+                      "text": "Which phrase is best for adding a second supporting point in an essay?",
+                      "options": ["But also", "Furthermore,", "And also much more", "So there is"],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Formal Letters and Emails",
+          "lessons": [
+            {
+              "title": "Writing Formal Letters in Exams",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700100002000,\"blocks\":[{\"id\":\"lA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A formal letter or email is a common exam writing task. You need to use the correct format, formal register, and appropriate content.\"}},{\"id\":\"lD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Formal Letter/Email Conventions\",\"level\":3}},{\"id\":\"lG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Begin with <b>Dear Sir/Madam</b> (if unknown) or <b>Dear Mr/Ms [Surname]</b>\",\"State your purpose clearly in the first paragraph\",\"Use formal vocabulary (avoid contractions like don't; use do not)\",\"Sign off with <b>Yours faithfully</b> (if unknown) or <b>Yours sincerely</b>\"]}},{\"id\":\"lJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Common Exam Letter Tasks\",\"level\":3}},{\"id\":\"lM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Letter of complaint\",\"Letter of application\",\"Letter requesting information\",\"Letter of recommendation\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "You are writing to an unknown editor of a magazine. How should you begin?",
+                      "options": ["Hi there,", "Hello Editor,", "Dear Sir/Madam,", "To whom,"],
+                      "correctOptions": [2]
+                    },
+                    {
+                      "text": "In a formal letter, how should you write 'don't'?",
+                      "options": ["don't", "do not", "doesnt", "don't"],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Speaking Tasks",
+      "subtopics": [
+        {
+          "title": "2.1 Long Turns and Discussions",
+          "lessons": [
+            {
+              "title": "Performing Well in the Speaking Exam",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700100003000,\"blocks\":[{\"id\":\"spA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"In B2 speaking exams, you are assessed on fluency, vocabulary, grammar, and pronunciation — not just on the accuracy of your information. Here are strategies for each part.\"}},{\"id\":\"spD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Part 1: Personal Questions\",\"level\":3}},{\"id\":\"spG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Expand your answers — never give a one-word reply\",\"Use <b>'and', 'also', 'because', 'which means'</b> to extend\",\"Example: 'Do you like sport?' → 'Yes, I play tennis twice a week, mainly because I find it relaxing and it keeps me fit.'\"]}},{\"id\":\"spJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Part 2: Long Turn (1–2 minutes on a photo/topic)\",\"level\":3}},{\"id\":\"spM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Structure your answer: describe → speculate → evaluate\",\"Useful phrases: <b>'It seems to me that...' / 'I'd imagine that...' / 'On the other hand...'</b>\",\"Fill silences: <b>'What I find particularly interesting is...' / 'Another thing to consider is...'</b>\"]}},{\"id\":\"spN1oP2qQ3r\",\"type\":\"header\",\"data\":{\"text\":\"Pronunciation Tips\",\"level\":3}},{\"id\":\"spO2pP3qQ4r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Stress key words in sentences\",\"Pause after commas and full stops\",\"Link words naturally: 'a lot of' sounds like 'alotta'\",\"Don't rush — clarity is more important than speed\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'd imagine that the people in this photo are on a business trip, mainly because they're wearing formal clothes and seem to be discussing something important. On the other hand, it could be a training day or a conference.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "In the speaking exam, you are asked 'Do you prefer books or films?' You say 'Films.' What should you do?",
+                      "options": ["That answer is perfect.", "Add reasons and examples to expand your answer", "Ask the examiner to repeat the question", "Change the subject"],
+                      "correctOptions": [1]
+                    },
+                    {
+                      "text": "Which phrase is useful to speculate about a photo in the speaking exam?",
+                      "options": ["I have no idea.", "I'd imagine that...", "This is obviously...", "I don't know what this is."],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Exam Strategy",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Managing Time and Avoiding Common Mistakes",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700100004000,\"blocks\":[{\"id\":\"stA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Good exam technique can make a significant difference to your score. Here are the most important strategies.\"}},{\"id\":\"stD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Time Management\",\"level\":3}},{\"id\":\"stG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Read the question carefully</b> before you write anything\",\"<b>Plan your essay</b> in 2–3 minutes before starting\",\"<b>Keep track of time</b> — don't spend too long on one section\",\"<b>Leave 3 minutes</b> to proofread at the end\"]}},{\"id\":\"stJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Common Mistakes to Avoid\",\"level\":3}},{\"id\":\"stM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Writing too little or too much (stay within the word limit)\",\"Not answering all parts of the question\",\"Using informal language in formal writing tasks\",\"Repeating the same vocabulary — use synonyms!\",\"Forgetting to check subject-verb agreement and tenses\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Before starting to write your essay in an exam, what should you do first?",
+                  "options": ["Start writing immediately", "Read the question carefully and plan your answer", "Write the conclusion first", "Write as much as possible"],
+                  "correctOptions": [1]
+                },
+                {
+                  "text": "Why should you use synonyms in a writing exam?",
+                  "options": ["To confuse the examiner", "To demonstrate vocabulary range and avoid repetition", "Because examiners prefer difficult words", "To save time"],
+                  "correctOptions": [1]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "title": "Literature and Storytelling",
+  "description": "Explore literary texts, narrative techniques, and the craft of storytelling in English. This course develops reading comprehension of authentic literary extracts, introduces literary analysis vocabulary, and helps learners write their own creative and analytical responses to fiction, poetry, and drama at B2 level.",
+  "language": "en",
+  "difficulty_level": "B2",
+  "is_premium": true,
+  "preview_image": "Literature and Storytelling.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Narrative Techniques",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Point of View, Voice, and Narrator",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000041000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Narrative perspective</b> refers to the position from which a story is told. The choice of narrator fundamentally shapes how readers experience events, how much they know, and how they feel about characters.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>First person</b> (<em>I, we</em>): The narrator is a character within the story. This creates immediacy and psychological intimacy, but limits the reader's access to other characters' thoughts. Example: <em>I walked into the room and immediately sensed something was wrong.</em>\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Third person limited</b> (<em>he, she, they</em> — following one character's perspective): Provides some emotional distance while still giving access to one character's inner world. Most common in contemporary fiction.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Third person omniscient</b>: The narrator has access to all characters' thoughts and feelings and may also comment directly on events. Common in Victorian novels (Dickens, Tolstoy). The narrator may be intrusive (commenting on events) or unintrusive.\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Second person</b> (<em>you</em>): Unusual; places the reader inside the narrative. Used for stylistic effect in short fiction and experimental writing. Creates an unsettling sense of direct address.\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Unreliable narrator</b>: A narrator whose account of events cannot be fully trusted — due to limited knowledge, self-deception, or deliberate deception. Classic examples: Stevens in <em>The Remains of the Day</em> (Ishiguro), Nick Carraway in <em>The Great Gatsby</em> (Fitzgerald).\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "An unreliable narrator gives an account of events that the reader cannot fully trust.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "First Person",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Third Person Limited",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_3",
+                  "name": "Third Person Omniscient",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "I had never seen the house before, yet it felt familiar.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "She wondered whether he had noticed her absence.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "All around the city, unbeknownst to its inhabitants, a plan was taking shape.",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_4",
+                  "text": "I told him what I thought, but I wasn't sure he was listening.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "He glanced at the letter but did not open it — not yet.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_6",
+                  "text": "While James sat nervously outside the office, the board members inside had already reached their decision.",
+                  "correctCategory": "cat_3"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is an 'unreliable narrator'?",
+                  "options": [
+                    "A narrator who forgets details of the story",
+                    "A narrator whose account cannot be fully trusted",
+                    "A narrator who speaks in second person",
+                    "A narrator who is not a character in the story"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Character and Setting",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Characterisation and the Role of Setting",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000042000,\"blocks\":[{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Characterisation</b> is the way in which a writer creates and develops characters. <b>Direct characterisation</b> involves the author (or narrator) telling us about the character explicitly: <em>'She was proud and imperious.'</em> <b>Indirect characterisation</b> allows readers to infer character from actions, speech, thoughts, and the reactions of others.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Strong characters are often described as <b>round</b> (complex, contradictory, capable of change) or <b>flat</b> (one-dimensional, stereotypical, serving a single narrative function). The writer E.M. Forster introduced this terminology. Most major characters in literary fiction are round; minor characters and archetypal figures tend to be flat.\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Setting</b> in literature is more than a backdrop — it contributes to mood, theme, and character development. Consider how Hardy's Egdon Heath in <em>The Return of the Native</em> mirrors the psychological states of the characters, or how the fog and prison imagery of <em>Great Expectations</em> reflect Pip's confusion about his identity and moral worth.\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Pathetic fallacy</b> — the attribution of human emotions to aspects of the natural world — is a common device: <em>'It was a dark and stormy night as she finally confessed the truth.'</em> The weather mirrors and amplifies the emotional register of the scene.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Setting in literature is more than a backdrop — it contributes to mood, theme, and character development.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Direct characterisation",
+                  "right": "The author explicitly tells us about a character's traits"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Indirect characterisation",
+                  "right": "Character is revealed through actions, speech, and interactions"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Round character",
+                  "right": "Complex, multi-faceted, capable of development"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Flat character",
+                  "right": "One-dimensional, serving a simple narrative function"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Pathetic fallacy",
+                  "right": "Attributing human emotions to nature or the environment"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "A literary device attributing human emotions to nature or weather",
+                  "word": "pathetic fallacy"
+                },
+                {
+                  "hint": "A character who is complex and changes through the course of the narrative",
+                  "word": "round character"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which literary device is being used here: 'The day she died, the rain hadn't stopped for a week'?",
+                  "options": [
+                    "Personification",
+                    "Irony",
+                    "Pathetic fallacy",
+                    "Foreshadowing"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Theme and Symbol",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Identifying Themes and Interpreting Symbols",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000043000,\"blocks\":[{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>theme</b> is a central idea or underlying message explored in a literary text. Unlike a topic (which can be stated as a noun: <em>death, identity</em>), a theme is a statement or proposition about that topic: <em>Human identity is shaped by the stories we tell ourselves about our past.</em>\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Major works typically contain multiple interlocking themes. In <em>1984</em> (Orwell), themes include totalitarianism, language and thought control, psychological manipulation, and the destruction of individual identity. Identifying themes requires reading beyond surface plot.\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>symbol</b> is an object, person, place, or event that carries additional meaning beyond its literal sense. In <em>The Great Gatsby</em>, the green light symbolises Gatsby's longing for the past and the unattainability of the American Dream. The Valley of Ashes symbolises moral decay beneath the surface of prosperity.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Language for literary analysis:</b> <em>The green light can be interpreted as a symbol of... / This image serves to reinforce the theme of... / The recurrence of darkness throughout the novel suggests... / On a symbolic level, X represents...\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "A symbol is an object or image that carries meaning beyond its literal sense.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700043001",
+                  "english": "The recurring image of darkness throughout the novel reinforces the theme of moral ambiguity.",
+                  "russian": "Повторяющийся образ тьмы на протяжении всего романа усиливает тему моральной неоднозначности.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700043002",
+                  "english": "On a symbolic level, the crumbling mansion represents the decay of the aristocratic order.",
+                  "russian": "На символическом уровне разрушающийся особняк олицетворяет упадок аристократического уклада.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the difference between a 'topic' and a 'theme' in literature?",
+                  "options": [
+                    "A topic is abstract; a theme is concrete.",
+                    "A topic can be stated as a noun; a theme is a proposition about that topic.",
+                    "Themes are found in poetry; topics are found in prose.",
+                    "They are effectively the same thing."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Poetry",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Reading and Analysing Poetry",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000044000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Poetry differs from prose not just in form but in its relationship with language itself. Poets exploit every dimension of language — sound, rhythm, syntax, and imagery — to create concentrated meaning.\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"header\",\"data\":{\"text\":\"Key poetic devices:\",\"level\":3}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Imagery</b> — language that appeals to the senses: <em>the chill of winter biting at her skin</em>\",\"<b>Metaphor</b> — direct comparison: <em>Life is a journey without a map</em>\",\"<b>Simile</b> — comparison using <em>like</em> or <em>as</em>: <em>Her voice was like ice cracking</em>\",\"<b>Alliteration</b> — repetition of consonant sounds: <em>The fair breeze blew, the white foam flew</em> (Coleridge)\",\"<b>Assonance</b> — repetition of vowel sounds: <em>Hear the mellow wedding bells</em> (Poe)\",\"<b>Enjambment</b> — a line running over to the next without pause, creating momentum\",\"<b>Caesura</b> — a pause or break within a line of verse, often marked by punctuation\",\"<b>Volta</b> — a turn or shift in argument or perspective, especially in sonnets\"]}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"When analysing a poem, move through the acronym <b>SMILE</b>: <em>Structure, Meaning, Imagery, Language, Effect</em>. Always connect formal choices to meaning: <em>The enjambment mirrors the restless movement of the speaker's mind.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The enjambment in these lines mirrors the restless movement of the speaker's mind.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Metaphor",
+                  "right": "Direct comparison without using 'like' or 'as'"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Alliteration",
+                  "right": "Repetition of consonant sounds at the start of words"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Enjambment",
+                  "right": "A line that runs over into the next without a pause"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Volta",
+                  "right": "A turn or shift in perspective within a poem"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Caesura",
+                  "right": "A pause or break within a line of verse"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "metaphor",
+                    "simile",
+                    "alliteration",
+                    "stanza"
+                  ],
+                  "correctWord": "stanza"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In the sonnet form, what is the 'volta'?",
+                  "options": [
+                    "The final couplet of the poem",
+                    "The rhyme scheme",
+                    "A turn or shift in argument or perspective",
+                    "A repeated refrain at the end of each stanza"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Drama and Stage Language",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Reading and Analysing Drama",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000045000,\"blocks\":[{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Drama is written to be performed. When reading a play as a literary text, you must imaginatively reconstruct what would be experienced on stage — the visual spectacle, the actors' delivery, the spatial dynamics of the set — from what is on the page.\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Stage directions</b> are the playwright's instructions to the director, cast, and designers. They appear in italics or brackets and tell us about setting, movement, tone, and action: <em>(He turns away, unable to meet her gaze.)</em> Reading stage directions carefully is essential to understanding a play's staging intentions.\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Soliloquy</b> — a character speaks their private thoughts aloud to the audience. In Shakespeare, soliloquies are key moments of psychological revelation: Hamlet's 'To be or not to be' is simultaneously a meditation on death and an exploration of paralysis and inaction.\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Dramatic irony</b> — when the audience knows something a character does not. This creates tension, suspense, or tragic effect. In <em>Oedipus Rex</em>, the audience knows Oedipus's true identity long before he does; this sustained irony gives the play much of its power.\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Subtext</b> — what is implied but not said. Much of the power of modern drama (Chekhov, Pinter, Mamet) lies in what characters deliberately avoid saying. <em>What the character says</em> and <em>what they mean</em> are often very different.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Dramatic irony occurs when the audience knows something that a character in the play does not.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Soliloquy",
+                  "right": "A character speaks private thoughts aloud to the audience"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Dramatic irony",
+                  "right": "The audience knows something the character does not"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Stage directions",
+                  "right": "Playwright's instructions for staging, movement, and tone"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Subtext",
+                  "right": "The implied meaning beneath what is actually said"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Aside",
+                  "right": "A brief remark spoken to the audience, unheard by other characters"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is 'subtext' in drama?",
+                  "options": [
+                    "The text printed beneath the stage",
+                    "The implied meaning beneath what characters actually say",
+                    "A secondary plotline running alongside the main story",
+                    "Stage directions written between the lines of dialogue"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Creative Writing",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Techniques for Creative Storytelling",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000046000,\"blocks\":[{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Creative writing at B2 level requires more than good grammar — it requires an understanding of craft: how to create tension, develop character, use sensory detail, and structure a narrative arc.\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"header\",\"data\":{\"text\":\"Core storytelling principles:\",\"level\":3}},{\"id\":\"hI2jK3lM4n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Show, don't tell</b>: Instead of stating emotions, show them through specific detail and action: <em>'She was angry'</em> → <em>'She slammed the folder onto the desk and did not look up.'</em>\",\"<b>Create tension through pacing</b>: Short sentences speed up action; long, subordinate-clause-heavy sentences slow and reflect.\",\"<b>Use sensory detail</b>: Engage all five senses — not just the visual.\",\"<b>Avoid adverb overuse</b>: Replace <em>he said angrily</em> with a verb that conveys the emotion: <em>he snapped</em>.\",\"<b>Narrative arc</b>: Even short stories need exposition, rising action, climax, falling action, and resolution — though not necessarily in order.\"]}},{\"id\":\"oP5qR6sT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Opening sentences matter enormously.</b> Compare: <em>'Once upon a time there was a man.'</em> (flat) vs. <em>'The morning my father disappeared, he left his coffee half-drunk on the kitchen table.'</em> (specific, intriguing, already suggests conflict and loss).\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "She slammed the folder onto the desk and did not look up — an example of showing emotion rather than stating it.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following opening sentence aloud with appropriate dramatic delivery",
+                "targetPhrase": "The morning my father disappeared, he left his coffee half-drunk on the kitchen table."
+              }
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "She walked nervously into the room and looked anxiously around.",
+                  "correctText": "She hovered in the doorway, scanning every corner before stepping forward."
+                },
+                {
+                  "text": "He was very angry and said angrily: 'Get out!'",
+                  "correctText": "He pressed both palms flat on the table. 'Get out,' he said."
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence best demonstrates the 'show, don't tell' principle?",
+                  "options": [
+                    "She was very nervous.",
+                    "She felt anxious about the interview.",
+                    "Her hands wouldn't stop trembling as she waited outside the door.",
+                    "She was nervously waiting for the interviewer."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

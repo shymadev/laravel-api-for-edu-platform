@@ -1,0 +1,1203 @@
+{
+  "title": "Everyday Greetings & Introductions",
+  "description": "Learn how to greet people, introduce yourself, and share basic personal information in English. This course is designed for absolute beginners who want to start real conversations from day one.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": false,
+  "preview_image": "Everyday Greetings & Introductions.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Basic Greetings",
+      "subtopics": [
+        {
+          "title": "1.1 Hello and Goodbye",
+          "lessons": [
+            {
+              "title": "Common Greetings",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000001000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, we use different words to greet people depending on the time of day and the situation.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Hello</b> — a standard, friendly greeting\",\"<b>Hi</b> — informal, used with friends\",\"<b>Good morning</b> — used before noon\",\"<b>Good afternoon</b> — used from noon to 6 pm\",\"<b>Good evening</b> — used after 6 pm\"]}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"To say goodbye, we use: <b>Goodbye</b>, <b>Bye</b>, <b>See you later</b>, or <b>Good night</b> (when someone is going to sleep).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Good morning! How are you?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "Hello",
+                      "translation": "Привет / Здравствуйте"
+                    },
+                    {
+                      "text": "Good morning",
+                      "translation": "Доброе утро"
+                    },
+                    {
+                      "text": "Good evening",
+                      "translation": "Добрый вечер"
+                    },
+                    {
+                      "text": "Goodbye",
+                      "translation": "До свидания"
+                    },
+                    {
+                      "text": "See you later",
+                      "translation": "До встречи"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700000001001",
+                      "left": "Hello",
+                      "right": "Привет"
+                    },
+                    {
+                      "id": "1700000001002",
+                      "left": "Good morning",
+                      "right": "Доброе утро"
+                    },
+                    {
+                      "id": "1700000001003",
+                      "left": "Good afternoon",
+                      "right": "Добрый день"
+                    },
+                    {
+                      "id": "1700000001004",
+                      "left": "Good evening",
+                      "right": "Добрый вечер"
+                    },
+                    {
+                      "id": "1700000001005",
+                      "left": "Goodbye",
+                      "right": "До свидания"
+                    },
+                    {
+                      "id": "1700000001006",
+                      "left": "Good night",
+                      "right": "Спокойной ночи"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "hello",
+                    "goodbye",
+                    "morning",
+                    "evening"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "It is 9:00 in the morning. Which greeting is correct?",
+                      "options": [
+                        "Good evening",
+                        "Good night",
+                        "Good morning",
+                        "Good afternoon"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which greeting is informal and used with friends?",
+                      "options": [
+                        "Good morning",
+                        "Hi",
+                        "Good evening",
+                        "Goodbye"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "You are leaving. What do you say?",
+                      "options": [
+                        "Hello",
+                        "Good morning",
+                        "Hi",
+                        "Bye"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Formal vs Informal Greetings",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000002000,\"blocks\":[{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"English greetings can be <b>formal</b> or <b>informal</b>.\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Formal greetings</b> are used in professional situations, with strangers, or with older people:\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Good morning, Mr. Smith.\",\"Good afternoon, Ms. Johnson.\",\"How do you do?\"]}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Informal greetings</b> are used with friends and family:\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Hey! What's up?\",\"Hi! How are you?\",\"Long time no see!\"]}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"A common reply to <em>How are you?</em> is: <b>I'm fine, thank you.</b> or <b>I'm good, thanks!</b>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Good morning, Mr. Smith. How do you do?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_formal",
+                      "name": "Formal",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_informal",
+                      "name": "Informal",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "Good morning, Sir",
+                      "correctCategory": "cat_formal"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "Hey! What's up?",
+                      "correctCategory": "cat_informal"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "How do you do?",
+                      "correctCategory": "cat_formal"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "Hi there!",
+                      "correctCategory": "cat_informal"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "Good afternoon, Ms. Lee",
+                      "correctCategory": "cat_formal"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "See you later!",
+                      "correctCategory": "cat_informal"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "Good morning, Sir",
+                        "How do you do?",
+                        "Hey! What's up?"
+                      ],
+                      "correctWord": "Hey! What's up?"
+                    },
+                    {
+                      "words": [
+                        "Hi there!",
+                        "Long time no see!",
+                        "Good afternoon, Ms. Lee"
+                      ],
+                      "correctWord": "Good afternoon, Ms. Lee"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "A: Good morning! [How] are you? B: I'm [fine], thank you. And you? A: I'm good, [thanks]!",
+                  "gaps": [
+                    {
+                      "placeholder": "How",
+                      "answers": [
+                        "How"
+                      ]
+                    },
+                    {
+                      "placeholder": "fine",
+                      "answers": [
+                        "fine",
+                        "good",
+                        "well"
+                      ]
+                    },
+                    {
+                      "placeholder": "thanks",
+                      "answers": [
+                        "thanks",
+                        "thank you"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Asking How Someone Is",
+          "lessons": [
+            {
+              "title": "Asking and Answering 'How Are You?'",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000003000,\"blocks\":[{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"A very common exchange in English is asking how someone is feeling. Here are useful phrases:\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking:</b>\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"How are you?\",\"How are you doing?\",\"How's it going?\"]}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Positive answers:</b>\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I'm fine, thank you.\",\"I'm great!\",\"Very well, thanks.\",\"Not bad.\"]}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Negative answers:</b>\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I'm tired.\",\"Not so good.\",\"I'm a little sick.\"]}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Always remember to ask back: <b>And you?</b> or <b>What about you?</b>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "How are you? I'm fine, thank you!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the following sentence aloud",
+                    "targetPhrase": "How are you? I'm fine, thank you!"
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "How ___ you?",
+                      "answers": [
+                        "are",
+                        "is",
+                        "am"
+                      ]
+                    },
+                    {
+                      "sentence": "I ___ fine, thank you.",
+                      "answers": [
+                        "am",
+                        "is",
+                        "are"
+                      ]
+                    },
+                    {
+                      "sentence": "She ___ great today.",
+                      "answers": [
+                        "is",
+                        "am",
+                        "are"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000003001",
+                      "english": "How are you?",
+                      "russian": "Как дела?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000003002",
+                      "english": "I'm fine, thank you.",
+                      "russian": "Я в порядке, спасибо.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000003003",
+                      "english": "Not bad, and you?",
+                      "russian": "Неплохо, а ты?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000003004",
+                      "english": "I'm a little tired.",
+                      "russian": "Я немного устал(а).",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Introducing Yourself",
+      "subtopics": [
+        {
+          "title": "2.1 Your Name and Origin",
+          "lessons": [
+            {
+              "title": "Saying Your Name",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000004000,\"blocks\":[{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"To introduce yourself, you can say:\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>My name is Anna.</b>\",\"<b>I'm Tom.</b>\",\"<b>My name's Kate.</b> (contraction of 'My name is')\"]}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask someone's name:\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>What is your name?</b>\",\"<b>What's your name?</b> (informal)\"]}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"To respond to a name introduction:\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Nice to meet you!</b>\",\"<b>Pleased to meet you.</b> (formal)\",\"<b>Good to meet you!</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "My name is Anna. Nice to meet you!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "My name is ...",
+                      "translation": "Меня зовут ..."
+                    },
+                    {
+                      "text": "What's your name?",
+                      "translation": "Как тебя зовут?"
+                    },
+                    {
+                      "text": "Nice to meet you!",
+                      "translation": "Приятно познакомиться!"
+                    },
+                    {
+                      "text": "Pleased to meet you.",
+                      "translation": "Рад(а) познакомиться."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: Hi! [What's] your name? B: [My] name is Sarah. Nice to [meet] you! A: Nice to meet you [too]!",
+                  "gaps": [
+                    {
+                      "placeholder": "What's",
+                      "answers": [
+                        "What's",
+                        "What is"
+                      ]
+                    },
+                    {
+                      "placeholder": "My",
+                      "answers": [
+                        "My"
+                      ]
+                    },
+                    {
+                      "placeholder": "meet",
+                      "answers": [
+                        "meet"
+                      ]
+                    },
+                    {
+                      "placeholder": "too",
+                      "answers": [
+                        "too"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do you say your name in English?",
+                      "options": [
+                        "I am name Tom.",
+                        "My name is Tom.",
+                        "Name I Tom.",
+                        "Tom name my."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What do you say when you meet someone for the first time?",
+                      "options": [
+                        "Goodbye!",
+                        "See you later!",
+                        "Nice to meet you!",
+                        "Good night!"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Where Are You From?",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000005000,\"blocks\":[{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"To talk about your country or city, use these phrases:\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I am from Russia.</b> (I'm from Russia.)\",\"<b>I live in Moscow.</b>\",\"<b>I come from Belarus.</b>\"]}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask where someone is from:\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Where are you from?</b>\",\"<b>Where do you come from?</b>\",\"<b>Where do you live?</b>\"]}},{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples:\"}},{\"id\":\"oP5qR6sT7u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I'm from the USA.\",\"I'm from France. I live in Paris.\",\"She is from Japan.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Where are you from? I'm from Belarus.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700000005001",
+                      "left": "Where are you from?",
+                      "right": "Откуда ты?"
+                    },
+                    {
+                      "id": "1700000005002",
+                      "left": "I am from Russia.",
+                      "right": "Я из России."
+                    },
+                    {
+                      "id": "1700000005003",
+                      "left": "I live in London.",
+                      "right": "Я живу в Лондоне."
+                    },
+                    {
+                      "id": "1700000005004",
+                      "left": "She is from France.",
+                      "right": "Она из Франции."
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the following sentence aloud",
+                    "targetPhrase": "Where are you from? I'm from England."
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I ___ from Spain.",
+                      "answers": [
+                        "am",
+                        "is",
+                        "are"
+                      ]
+                    },
+                    {
+                      "sentence": "She ___ from Japan.",
+                      "answers": [
+                        "is",
+                        "am",
+                        "are"
+                      ]
+                    },
+                    {
+                      "sentence": "They ___ from Canada.",
+                      "answers": [
+                        "are",
+                        "am",
+                        "is"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Age and Personal Details",
+          "lessons": [
+            {
+              "title": "Talking About Your Age",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000006000,\"blocks\":[{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"To say your age in English:\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I am 25 years old.</b>\",\"<b>I'm 18.</b> (informal)\"]}},{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask someone's age:\"}},{\"id\":\"qR7sT8uV9w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>How old are you?</b>\"]}},{\"id\":\"xY0zA1bC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Other useful personal details:\"}},{\"id\":\"eF3gH4iJ5k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I am a student.</b> — talking about your job/role\",\"<b>I am a teacher.</b>\",\"<b>I speak English and Russian.</b> — talking about languages\"]}},{\"id\":\"lM6nO7pQ8r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Remember: use <b>am</b> with <em>I</em>, use <b>is</b> with <em>he/she/it</em>, use <b>are</b> with <em>you/we/they</em>.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "How old are you? I am twenty-two years old.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I am have 20 years old.",
+                      "correctText": "I am 20 years old."
+                    },
+                    {
+                      "text": "How old is you?",
+                      "correctText": "How old are you?"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "My name [is] Anna. I [am] 22 years old. I am [from] Belarus. I am a [student].",
+                  "gaps": [
+                    {
+                      "placeholder": "is",
+                      "answers": [
+                        "is"
+                      ]
+                    },
+                    {
+                      "placeholder": "am",
+                      "answers": [
+                        "am"
+                      ]
+                    },
+                    {
+                      "placeholder": "from",
+                      "answers": [
+                        "from"
+                      ]
+                    },
+                    {
+                      "placeholder": "student",
+                      "answers": [
+                        "student"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000006001",
+                      "english": "How old are you?",
+                      "russian": "Сколько тебе лет?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000006002",
+                      "english": "I am 20 years old.",
+                      "russian": "Мне 20 лет.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000006003",
+                      "english": "I am a student.",
+                      "russian": "Я студент(ка).",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000006004",
+                      "english": "I speak English.",
+                      "russian": "Я говорю по-английски.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: The Alphabet and Spelling",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The English Alphabet",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000007000,\"blocks\":[{\"id\":\"sT9uV0wX1y\",\"type\":\"paragraph\",\"data\":{\"text\":\"The English alphabet has <b>26 letters</b>: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.\"}},{\"id\":\"zA2bC3dE4f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Knowing the alphabet helps you spell your name and understand others when they spell words for you.\"}},{\"id\":\"gH5iJ6kL7m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful phrases for spelling:</b>\"}},{\"id\":\"nO8pQ9rS0t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>How do you spell that?</b> — asking someone to spell a word\",\"<b>Can you spell your name?</b>\",\"A: My name is Kate. B: How do you spell that? A: K - A - T - E.\"]}},{\"id\":\"uV1wX2yZ3a\",\"type\":\"paragraph\",\"data\":{\"text\":\"Vowels are: <b>A, E, I, O, U</b>. All other letters are consonants.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "How do you spell that? K - A - T - E.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "A",
+                    "E",
+                    "B",
+                    "I"
+                  ],
+                  "correctWord": "B"
+                },
+                {
+                  "words": [
+                    "O",
+                    "U",
+                    "T",
+                    "A"
+                  ],
+                  "correctWord": "T"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_vowels",
+                  "name": "Vowels",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_consonants",
+                  "name": "Consonants",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "A",
+                  "correctCategory": "cat_vowels"
+                },
+                {
+                  "id": "item_2",
+                  "text": "B",
+                  "correctCategory": "cat_consonants"
+                },
+                {
+                  "id": "item_3",
+                  "text": "E",
+                  "correctCategory": "cat_vowels"
+                },
+                {
+                  "id": "item_4",
+                  "text": "M",
+                  "correctCategory": "cat_consonants"
+                },
+                {
+                  "id": "item_5",
+                  "text": "I",
+                  "correctCategory": "cat_vowels"
+                },
+                {
+                  "id": "item_6",
+                  "text": "T",
+                  "correctCategory": "cat_consonants"
+                },
+                {
+                  "id": "item_7",
+                  "text": "O",
+                  "correctCategory": "cat_vowels"
+                },
+                {
+                  "id": "item_8",
+                  "text": "S",
+                  "correctCategory": "cat_consonants"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "How many letters are in the English alphabet?",
+                  "options": [
+                    "24",
+                    "25",
+                    "26",
+                    "28"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Which of these is a vowel?",
+                  "options": [
+                    "B",
+                    "C",
+                    "E",
+                    "T"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "How do you ask someone to spell a word?",
+                  "options": [
+                    "What is your name?",
+                    "How do you spell that?",
+                    "Where are you from?",
+                    "How old are you?"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Numbers in Introductions",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Phone Numbers and Simple Info",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000008000,\"blocks\":[{\"id\":\"bC4dE5fG6h\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you introduce yourself or fill in forms, you often need to share basic numbers and details.\"}},{\"id\":\"iJ7kL8mN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sharing a phone number:</b>\"}},{\"id\":\"pQ0rS1tU2v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"My phone number is <em>0-7-9-3-5-5-1-2-3-4</em>. (we say each digit separately)\"]}},{\"id\":\"wX3yZ4aB5c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common questions on forms:</b>\"}},{\"id\":\"dE6fG7hI8j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>What is your name?</b> — My name is ...\",\"<b>What is your age?</b> — I am ... years old.\",\"<b>What is your email?</b> — My email is ...\",\"<b>What is your phone number?</b> — My number is ...\"]}},{\"id\":\"kL9mN0oP1q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Practice saying your own phone number digit by digit in English!\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "My phone number is zero seven nine three five.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700000008001",
+                  "left": "What is your name?",
+                  "right": "My name is John."
+                },
+                {
+                  "id": "1700000008002",
+                  "left": "How old are you?",
+                  "right": "I am 25 years old."
+                },
+                {
+                  "id": "1700000008003",
+                  "left": "Where are you from?",
+                  "right": "I am from Ukraine."
+                },
+                {
+                  "id": "1700000008004",
+                  "left": "What do you do?",
+                  "right": "I am a student."
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "Hello! [My] name is Peter. I [am] from Germany. I am [twenty]-three years old. I am a [teacher].",
+              "gaps": [
+                {
+                  "placeholder": "My",
+                  "answers": [
+                    "My"
+                  ]
+                },
+                {
+                  "placeholder": "am",
+                  "answers": [
+                    "am"
+                  ]
+                },
+                {
+                  "placeholder": "twenty",
+                  "answers": [
+                    "twenty"
+                  ]
+                },
+                {
+                  "placeholder": "teacher",
+                  "answers": [
+                    "teacher"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "When giving a phone number in English, how do you say each digit?",
+                  "options": [
+                    "In groups of three",
+                    "All at once",
+                    "One by one",
+                    "Only even numbers"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Which sentence is correct?",
+                  "options": [
+                    "I am from Germany.",
+                    "I is from Germany.",
+                    "I are from Germany.",
+                    "From Germany I am."
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Practice Conversations",
+      "subtopics": [
+        {
+          "title": "5.1 Full Introduction Dialogue",
+          "lessons": [
+            {
+              "title": "A Complete Introduction",
+              "weight": 9,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000009000,\"blocks\":[{\"id\":\"rS2tU3vW4x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Now let's put everything together! Here is a complete introduction dialogue:\"}},{\"id\":\"yZ5aB6cD7e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> Hi! Good morning!\"}},{\"id\":\"fG8hI9jK0l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tom:</b> Good morning! How are you?\"}},{\"id\":\"mN1oP2qR3s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> I'm fine, thank you! What's your name?\"}},{\"id\":\"tU4vW5xY6z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tom:</b> My name is Tom. Nice to meet you!\"}},{\"id\":\"aB7cD8eF9g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> Nice to meet you too! I'm Anna. Where are you from?\"}},{\"id\":\"hI0jK1lM2n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tom:</b> I'm from England. And you?\"}},{\"id\":\"oP3qR4sT5u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> I'm from Belarus. How old are you?\"}},{\"id\":\"vW6xY7zA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tom:</b> I'm 24. And you?\"}},{\"id\":\"cD9eF0gH1i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Anna:</b> I'm 22. Bye, Tom!\"}},{\"id\":\"jK2lM3nO4p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tom:</b> Goodbye, Anna! See you later!\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Nice to meet you! I'm from England.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "video",
+                  "url": "VIDEO_PLACEHOLDER"
+                },
+                {
+                  "order": 4,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the following sentence aloud",
+                    "targetPhrase": "Hi! My name is Anna. I'm from Belarus. Nice to meet you!"
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000009001",
+                      "english": "Nice to meet you!",
+                      "russian": "Приятно познакомиться!",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000009002",
+                      "english": "Where are you from?",
+                      "russian": "Откуда ты?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000009003",
+                      "english": "See you later!",
+                      "russian": "До встречи!",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000009004",
+                      "english": "How old are you?",
+                      "russian": "Сколько тебе лет?",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "In the dialogue, where is Tom from?",
+                      "options": [
+                        "Belarus",
+                        "England",
+                        "France",
+                        "Germany"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How old is Anna in the dialogue?",
+                      "options": [
+                        "20",
+                        "21",
+                        "22",
+                        "24"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "How does Anna say goodbye?",
+                      "options": [
+                        "Good night!",
+                        "See you later!",
+                        "Bye, Tom!",
+                        "Good evening!"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5.2 Review and Practice",
+          "lessons": [
+            {
+              "title": "Greetings Review Quiz",
+              "weight": 10,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000010000,\"blocks\":[{\"id\":\"qR5sT6uV7w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's review everything you have learned in this course!\"}},{\"id\":\"xY8zA9bC0d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key phrases to remember:</b>\"}},{\"id\":\"eF1gH2iJ3k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Hello / Hi / Good morning / Good afternoon / Good evening\",\"How are you? — I'm fine, thank you.\",\"What's your name? — My name is ...\",\"Where are you from? — I'm from ...\",\"How old are you? — I'm ... years old.\",\"Nice to meet you! / Goodbye! / See you later!\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Good morning! My name is Lisa. Nice to meet you!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "listen-write",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [
+                    {
+                      "text": "Hello",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "Hello"
+                    },
+                    {
+                      "text": "Goodbye",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "Goodbye"
+                    },
+                    {
+                      "text": "Good morning",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "Good morning"
+                    }
+                  ],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: [Good] morning! B: Good morning! [How] are you? A: I'm [fine], thanks! My name [is] Lisa. B: Nice to [meet] you, Lisa!",
+                  "gaps": [
+                    {
+                      "placeholder": "Good",
+                      "answers": [
+                        "Good"
+                      ]
+                    },
+                    {
+                      "placeholder": "How",
+                      "answers": [
+                        "How"
+                      ]
+                    },
+                    {
+                      "placeholder": "fine",
+                      "answers": [
+                        "fine",
+                        "good",
+                        "great",
+                        "well"
+                      ]
+                    },
+                    {
+                      "placeholder": "is",
+                      "answers": [
+                        "is"
+                      ]
+                    },
+                    {
+                      "placeholder": "meet",
+                      "answers": [
+                        "meet"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "My name are Peter.",
+                        "My name is Peter.",
+                        "I name is Peter.",
+                        "Name my Peter."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "You meet your teacher at 8 am. What do you say?",
+                      "options": [
+                        "Good night!",
+                        "Good evening!",
+                        "Good morning!",
+                        "Bye!"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "How do you ask someone's age politely?",
+                      "options": [
+                        "What age you?",
+                        "How old are you?",
+                        "You old how?",
+                        "Age what is you?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    }
+  ]
+}

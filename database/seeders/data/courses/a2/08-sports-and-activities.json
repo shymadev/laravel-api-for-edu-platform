@@ -1,0 +1,1413 @@
+{
+  "title": "Sports & Activities",
+  "description": "Covers sports vocabulary, talking about sports you play or watch (I play football, I go swimming), health benefits of exercise, and activity schedules. For elementary learners interested in active lifestyle topics.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Sports & Activities.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Sports Vocabulary",
+      "subtopics": [
+        {
+          "title": "1.1 Team Sports and Individual Sports",
+          "lessons": [
+            {
+              "title": "Names of Sports",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000701000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's learn the names of popular <b>sports</b> in English:\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Team sports (командные виды спорта):</b>\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>football / soccer</b> — футбол\",\"<b>basketball</b> — баскетбол\",\"<b>volleyball</b> — волейбол\",\"<b>hockey</b> — хоккей\",\"<b>baseball</b> — бейсбол\",\"<b>rugby</b> — регби\"]}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Individual sports (индивидуальные):</b>\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>tennis</b> — теннис\",\"<b>swimming</b> — плавание\",\"<b>running / jogging</b> — бег / пробежка\",\"<b>cycling</b> — езда на велосипеде\",\"<b>gymnastics</b> — гимнастика\",\"<b>boxing</b> — бокс\",\"<b>skiing</b> — катание на лыжах\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I play football every weekend.",
+                      "translation": "Я играю в футбол каждые выходные."
+                    },
+                    {
+                      "text": "She goes swimming twice a week.",
+                      "translation": "Она ходит плавать два раза в неделю."
+                    },
+                    {
+                      "text": "He does gymnastics.",
+                      "translation": "Он занимается гимнастикой."
+                    },
+                    {
+                      "text": "We go cycling in the park.",
+                      "translation": "Мы катаемся на велосипеде в парке."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Team Sports",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Individual Sports",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "football",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "swimming",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "basketball",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "running",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "volleyball",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "boxing",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "football",
+                      "right": "футбол"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "swimming",
+                      "right": "плавание"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "tennis",
+                      "right": "теннис"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "cycling",
+                      "right": "езда на велосипеде"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "skiing",
+                      "right": "катание на лыжах"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "audio",
+                  "content": {
+                    "text": "I play football and basketball. I also go swimming and cycling.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 6,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "football",
+                    "tennis",
+                    "swimming",
+                    "cycling"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sport is a TEAM sport?",
+                      "options": [
+                        "swimming",
+                        "running",
+                        "volleyball",
+                        "boxing"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which sport is an INDIVIDUAL sport?",
+                      "options": [
+                        "basketball",
+                        "football",
+                        "volleyball",
+                        "tennis"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sports Equipment",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000702000,\"blocks\":[{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Each sport uses different <b>equipment</b> (снаряжение / инвентарь):\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>ball</b> — мяч (football, basketball, tennis)\",\"<b>racket</b> — ракетка (tennis, badminton)\",\"<b>bat</b> — бита (baseball, cricket)\",\"<b>goal / net</b> — ворота / сетка\",\"<b>helmet</b> — шлем (cycling, hockey)\",\"<b>gloves</b> — перчатки (boxing, hockey)\",\"<b>skis</b> — лыжи\",\"<b>goggles</b> — очки (swimming, skiing)\",\"<b>swimsuit</b> — купальник / плавки\",\"<b>trainers / sneakers</b> — кроссовки\"]}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Example: To play tennis you need a <b>racket</b> and a <b>ball</b>.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "tennis",
+                      "right": "racket"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "boxing",
+                      "right": "gloves"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "skiing",
+                      "right": "skis"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "swimming",
+                      "right": "goggles"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "football",
+                      "right": "ball"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "To play tennis you need a racket and a ball. Boxers wear gloves.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "racket",
+                        "gloves",
+                        "skis",
+                        "office"
+                      ],
+                      "correctWord": "office"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What do you need to play tennis?",
+                      "options": [
+                        "skis and goggles",
+                        "a racket and a ball",
+                        "gloves and a helmet",
+                        "a bat and a net"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "A boxer wears...",
+                      "options": [
+                        "a swimsuit",
+                        "a helmet",
+                        "gloves",
+                        "skis"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Talking About Sports You Play",
+      "subtopics": [
+        {
+          "title": "2.1 Play, Go, Do — Sport Verbs",
+          "lessons": [
+            {
+              "title": "Play, Go, or Do?",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000703000,\"blocks\":[{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, we use three different verbs to talk about doing sport. The verb depends on the type of sport:\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>PLAY</b> — used with ball sports and competitive games:\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>play</b> football / basketball / tennis / volleyball / chess.\"]}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>GO</b> — used with activities ending in <b>-ing</b>:\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>go</b> swimming / running / cycling / skiing / jogging.\"]}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>DO</b> — used with martial arts, gymnastics, and individual activities:\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>do</b> gymnastics / boxing / yoga / karate / exercise.\"]}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Tip: When in doubt, try to remember: <b>play</b> a game, <b>go</b> + -ing activity, <b>do</b> a discipline.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I play football. I go swimming. I do yoga. She plays tennis. He goes cycling.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "PLAY",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "GO",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_3",
+                      "name": "DO",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "play football",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "go swimming",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "do yoga",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "play tennis",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "go cycling",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "do karate",
+                      "correctCategory": "cat_3"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I go football every weekend.",
+                      "correctText": "I play football every weekend."
+                    },
+                    {
+                      "text": "She plays swimming twice a week.",
+                      "correctText": "She goes swimming twice a week."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I ___ football every weekend.",
+                      "answers": [
+                        "play",
+                        "go",
+                        "do"
+                      ]
+                    },
+                    {
+                      "sentence": "She ___ swimming three times a week.",
+                      "answers": [
+                        "goes",
+                        "plays",
+                        "does"
+                      ]
+                    },
+                    {
+                      "sentence": "He ___ yoga every morning.",
+                      "answers": [
+                        "does",
+                        "plays",
+                        "goes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which verb do we use with 'basketball'?",
+                      "options": [
+                        "go",
+                        "do",
+                        "play",
+                        "run"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which verb do we use with 'jogging'?",
+                      "options": [
+                        "play",
+                        "go",
+                        "do",
+                        "make"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which verb do we use with 'karate'?",
+                      "options": [
+                        "play",
+                        "go",
+                        "do",
+                        "run"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking About How Often",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000704000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"We often say <b>how often</b> we do sport. Use these phrases:\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>every day</b> — каждый день\",\"<b>twice a week</b> — два раза в неделю\",\"<b>three times a week</b> — три раза в неделю\",\"<b>once a month</b> — раз в месяц\",\"<b>at weekends</b> — в выходные\",\"<b>in summer / in winter</b> — летом / зимой\"]}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Examples:</b>\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>play</b> tennis <b>twice a week</b>.\",\"She <b>goes</b> running <b>every morning</b>.\",\"We <b>do</b> yoga <b>at weekends</b>.\",\"He <b>goes</b> skiing <b>in winter</b>.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I play tennis twice a week. She goes running every morning. We go skiing in winter.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Say how often you do sport",
+                    "targetPhrase": "I play football twice a week. I also go swimming at weekends."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I [play] football [twice] a week, on Tuesday and Thursday. My friend [goes] running every [morning]. At weekends, we [do] yoga together. In winter, I [go] skiing in the mountains.",
+                  "gaps": [
+                    {
+                      "placeholder": "play",
+                      "answers": [
+                        "play"
+                      ]
+                    },
+                    {
+                      "placeholder": "twice",
+                      "answers": [
+                        "twice"
+                      ]
+                    },
+                    {
+                      "placeholder": "goes",
+                      "answers": [
+                        "goes"
+                      ]
+                    },
+                    {
+                      "placeholder": "morning",
+                      "answers": [
+                        "morning"
+                      ]
+                    },
+                    {
+                      "placeholder": "do",
+                      "answers": [
+                        "do"
+                      ]
+                    },
+                    {
+                      "placeholder": "go",
+                      "answers": [
+                        "go"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000704001",
+                      "english": "I play basketball twice a week.",
+                      "russian": "Я играю в баскетбол два раза в неделю.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000704002",
+                      "english": "She goes running every morning.",
+                      "russian": "Она бегает каждое утро.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000704003",
+                      "english": "We go skiing in winter.",
+                      "russian": "Мы катаемся на лыжах зимой.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000704004",
+                      "english": "He does yoga at weekends.",
+                      "russian": "Он занимается йогой в выходные.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "twice a week",
+                        "every day",
+                        "once a month",
+                        "swimming"
+                      ],
+                      "correctWord": "swimming"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "'Twice a week' means ___.",
+                      "options": [
+                        "every day",
+                        "2 times a week",
+                        "once a week",
+                        "every two weeks"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "I go football twice a week.",
+                        "I play swimming twice a week.",
+                        "I play football twice a week.",
+                        "I do football twice a week."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Sports You Watch",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Watching Sport",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000705000,\"blocks\":[{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Many people love to <b>watch</b> sport. Here is the vocabulary:\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>People:</b>\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>team</b> — команда\",\"<b>player</b> — игрок\",\"<b>athlete</b> — спортсмен\",\"<b>coach</b> — тренер\",\"<b>referee / umpire</b> — судья\",\"<b>fan / supporter</b> — болельщик\",\"<b>spectator</b> — зритель\"]}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Events:</b>\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>match / game</b> — матч / игра\",\"<b>championship</b> — чемпионат\",\"<b>tournament</b> — турнир\",\"<b>Olympics</b> — Олимпийские игры\"]}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key phrases:</b>\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"My favourite team <b>won</b> / <b>lost</b>.\",\"The score is <b>2-0</b> (two nil).\",\"It was a <b>great match</b>!\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "coach",
+                  "right": "тренер"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "referee",
+                  "right": "судья"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "fan",
+                  "right": "болельщик"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "tournament",
+                  "right": "турнир"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "champion",
+                  "right": "чемпион"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "My favourite team won the championship! The referee made a great decision.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "referee",
+                "champion",
+                "tournament",
+                "spectator"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What do you call the person who decides the rules during a football match?",
+                  "options": [
+                    "coach",
+                    "fan",
+                    "referee",
+                    "player"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "How do you say 'команда' in English?",
+                  "options": [
+                    "player",
+                    "team",
+                    "fan",
+                    "stadium"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking About Sport Preferences",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000706000,\"blocks\":[{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here is how to talk about sports you like to <b>watch or support</b>:\"}},{\"id\":\"oP5qR6sT7u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"My <b>favourite sport</b> is football. — Мой любимый вид спорта — футбол.\",\"I love <b>watching</b> tennis on TV.\",\"I support the <b>national team</b>.\",\"I am a big <b>fan</b> of basketball.\",\"I prefer <b>watching</b> to <b>playing</b>.\"]}},{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking about preferences:</b>\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"What is your favourite sport?\",\"Do you prefer playing or watching?\",\"Which team do you support?\"]}},{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example:</b> <em>I am a big <b>fan</b> of football. I support the national team and watch every <b>match</b> on TV. My favourite player is...</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Talk about your sports preferences",
+                "targetPhrase": "I am a big fan of football. My favourite team is Barcelona. I watch every match on TV."
+              }
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "I am a big fan of football. I support the national team and watch every match on TV.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A: What is your [favourite] sport? B: I love football. I'm a big [fan]. A: Do you [play] or just watch? B: I prefer [watching] — I go to the [stadium] every month.",
+              "gaps": [
+                {
+                  "placeholder": "favourite",
+                  "answers": [
+                    "favourite",
+                    "favorite"
+                  ]
+                },
+                {
+                  "placeholder": "fan",
+                  "answers": [
+                    "fan"
+                  ]
+                },
+                {
+                  "placeholder": "play",
+                  "answers": [
+                    "play"
+                  ]
+                },
+                {
+                  "placeholder": "watching",
+                  "answers": [
+                    "watching"
+                  ]
+                },
+                {
+                  "placeholder": "stadium",
+                  "answers": [
+                    "stadium"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "My ___ sport is tennis.",
+                  "answers": [
+                    "favourite",
+                    "favorite",
+                    "best"
+                  ]
+                },
+                {
+                  "sentence": "I am a big ___ of basketball.",
+                  "answers": [
+                    "fan",
+                    "player",
+                    "coach"
+                  ]
+                },
+                {
+                  "sentence": "Which team do you ___?",
+                  "answers": [
+                    "support",
+                    "play",
+                    "watch"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "How do you say you like a sport more than another?",
+                  "options": [
+                    "I support tennis.",
+                    "I prefer tennis to football.",
+                    "I watch tennis always.",
+                    "I fan tennis."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which sentence is correct?",
+                  "options": [
+                    "I am big fan of basketball.",
+                    "I am a big fan of basketball.",
+                    "I am a big fans of basketball.",
+                    "I am fan basketball."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Health Benefits of Exercise",
+      "subtopics": [
+        {
+          "title": "4.1 Why Sport Is Good for You",
+          "lessons": [
+            {
+              "title": "Benefits of Exercise",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000707000,\"blocks\":[{\"id\":\"qR7sT8uV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Exercise is good for your <b>health</b>. Here is how to talk about the benefits:\"}},{\"id\":\"xY0zA1bC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Physical benefits (физическая польза):</b>\"}},{\"id\":\"eF3gH4iJ5k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Exercise <b>keeps you fit</b>. — Упражнения поддерживают форму.\",\"It <b>strengthens</b> your muscles. — Укрепляет мышцы.\",\"Sport <b>improves</b> your heart health. — Улучшает здоровье сердца.\",\"It <b>helps you lose weight</b>. — Помогает похудеть.\",\"You feel <b>more energetic</b>. — Чувствуешь себя энергичнее.\"]}},{\"id\":\"lM6nO7pQ8r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Mental benefits (психическая польза):</b>\"}},{\"id\":\"sT9uV0wX1y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Exercise <b>reduces stress</b>. — Снижает стресс.\",\"It <b>improves your mood</b>. — Улучшает настроение.\",\"Sport <b>helps you sleep better</b>. — Помогает лучше спать.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Exercise keeps you fit and reduces stress. It also improves your mood and helps you sleep better.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Physical Benefit",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Mental Benefit",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "strengthens muscles",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "reduces stress",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "helps you lose weight",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "improves your mood",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "improves heart health",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "helps you sleep better",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Exercise makes this feeling less — you feel calmer",
+                      "word": "stress"
+                    },
+                    {
+                      "hint": "Exercise makes your muscles bigger and stronger",
+                      "word": "strengthens"
+                    },
+                    {
+                      "hint": "The feeling of being full of energy",
+                      "word": "energetic"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'exercise reduces stress' mean?",
+                      "options": [
+                        "Exercise makes you tired",
+                        "Exercise makes stress less",
+                        "Exercise causes stress",
+                        "Exercise stops exercise"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which is a PHYSICAL benefit of exercise?",
+                      "options": [
+                        "Improves mood",
+                        "Reduces stress",
+                        "Strengthens muscles",
+                        "Helps you sleep"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking About Health and Fitness",
+              "weight": 8,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000708000,\"blocks\":[{\"id\":\"zA2bC3dE4f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here is how to talk about <b>health and fitness</b>:\"}},{\"id\":\"gH5iJ6kL7m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Being healthy:</b>\"}},{\"id\":\"nO8pQ9rS0t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I try to <b>stay fit</b>. — Я стараюсь оставаться в форме.\",\"I eat <b>healthy food</b>. — Я ем здоровую пищу.\",\"I exercise <b>regularly</b>. — Я регулярно занимаюсь спортом.\"]}},{\"id\":\"uV1wX2yZ3a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful adjectives:</b>\"}},{\"id\":\"bC4dE5fG6h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>fit</b> — в хорошей физической форме\",\"<b>healthy</b> — здоровый\",\"<b>active</b> — активный\",\"<b>energetic</b> — энергичный\",\"<b>tired</b> — усталый\",\"<b>unfit</b> — не в форме\"]}},{\"id\":\"iJ7kL8mN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Example: I go running twice a week. I feel much <b>healthier</b> and more <b>energetic</b>!</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I try to stay fit.",
+                      "translation": "Я стараюсь оставаться в форме."
+                    },
+                    {
+                      "text": "She eats healthy food.",
+                      "translation": "Она ест здоровую пищу."
+                    },
+                    {
+                      "text": "He exercises regularly.",
+                      "translation": "Он регулярно занимается спортом."
+                    },
+                    {
+                      "text": "I feel energetic after a workout.",
+                      "translation": "После тренировки я чувствую себя энергичным."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "I try to stay fit. I eat healthy food and exercise regularly. I feel energetic!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I try to stay on fit.",
+                      "correctText": "I try to stay fit."
+                    },
+                    {
+                      "text": "She eats health food.",
+                      "correctText": "She eats healthy food."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000708001",
+                      "english": "I try to stay fit.",
+                      "russian": "Я стараюсь оставаться в форме.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000708002",
+                      "english": "Exercise makes you feel energetic.",
+                      "russian": "Упражнения делают тебя энергичным.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000708003",
+                      "english": "She eats healthy food.",
+                      "russian": "Она ест здоровую пищу.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000708004",
+                      "english": "He is very active and fit.",
+                      "russian": "Он очень активный и в форме.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "fill-gaps",
+                  "text": "Sport is good for your [health]. It keeps you [fit] and [energetic]. I try to exercise [regularly] — about three times a [week]. I also eat [healthy] food and drink lots of water.",
+                  "gaps": [
+                    {
+                      "placeholder": "health",
+                      "answers": [
+                        "health"
+                      ]
+                    },
+                    {
+                      "placeholder": "fit",
+                      "answers": [
+                        "fit"
+                      ]
+                    },
+                    {
+                      "placeholder": "energetic",
+                      "answers": [
+                        "energetic",
+                        "active"
+                      ]
+                    },
+                    {
+                      "placeholder": "regularly",
+                      "answers": [
+                        "regularly"
+                      ]
+                    },
+                    {
+                      "placeholder": "week",
+                      "answers": [
+                        "week"
+                      ]
+                    },
+                    {
+                      "placeholder": "healthy",
+                      "answers": [
+                        "healthy"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "'Stay fit' means ___.",
+                      "options": [
+                        "become very tired",
+                        "maintain good physical health",
+                        "stop exercising",
+                        "gain weight"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which word means the OPPOSITE of 'energetic'?",
+                      "options": [
+                        "active",
+                        "fit",
+                        "tired",
+                        "healthy"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Activity Schedules and Plans",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Planning Sports Activities",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000709000,\"blocks\":[{\"id\":\"pQ0rS1tU2v\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use the <b>Present Simple</b> for regular schedules and <b>going to</b> for future plans:\"}},{\"id\":\"wX3yZ4aB5c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Present Simple (regular routine):</b>\"}},{\"id\":\"dE6fG7hI8j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>go</b> to the gym every Monday.\",\"She <b>plays</b> tennis on Fridays.\"]}},{\"id\":\"kL9mN0oP1q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Going to (future plan):</b>\"}},{\"id\":\"rS2tU3vW4x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>am going to</b> play football this Saturday.\",\"We <b>are going to</b> go cycling at the weekend.\"]}},{\"id\":\"yZ5aB6cD7e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Want to / Would like to (wishes):</b>\"}},{\"id\":\"fG8hI9jK0l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>want to</b> try yoga. — Я хочу попробовать йогу.\",\"I <b>would like to</b> learn to ski. — Я хотел бы научиться кататься на лыжах.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I am going to play football this Saturday. I would like to try yoga next month.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "I am going play football tomorrow.",
+                  "correctText": "I am going to play football tomorrow."
+                },
+                {
+                  "text": "I would like try yoga.",
+                  "correctText": "I would like to try yoga."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "I am ___ to go swimming this weekend.",
+                  "answers": [
+                    "going",
+                    "planning",
+                    "wanting"
+                  ]
+                },
+                {
+                  "sentence": "She ___ to the gym every Tuesday.",
+                  "answers": [
+                    "goes",
+                    "is going",
+                    "go"
+                  ]
+                },
+                {
+                  "sentence": "I would like ___ try rock climbing.",
+                  "answers": [
+                    "to",
+                    "a",
+                    "at"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000709001",
+                  "english": "I am going to play football on Saturday.",
+                  "russian": "В субботу я собираюсь играть в футбол.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000709002",
+                  "english": "She goes to the gym every Monday.",
+                  "russian": "Она ходит в спортзал каждый понедельник.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000709003",
+                  "english": "I would like to learn to ski.",
+                  "russian": "Я хотел бы научиться кататься на лыжах.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence describes a FUTURE plan?",
+                  "options": [
+                    "I play tennis every week.",
+                    "I am going to join a gym.",
+                    "She always goes running.",
+                    "He likes swimming."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "How do you say you want to try a new sport?",
+                  "options": [
+                    "I always try sport.",
+                    "I would like to try yoga.",
+                    "I tried sport.",
+                    "I go yoga."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inviting Someone to Do Sport",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000710000,\"blocks\":[{\"id\":\"mN1oP2qR3s\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, we use these phrases to <b>invite</b> someone to do sport with us:\"}},{\"id\":\"tU4vW5xY6z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Inviting:</b>\"}},{\"id\":\"aB7cD8eF9g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Would you like to</b> play tennis? — Хочешь сыграть в теннис?\",\"<b>Do you want to</b> go for a run? — Хочешь пробежаться?\",\"<b>How about</b> going to the gym? — Как насчёт спортзала?\",\"<b>Let's</b> go cycling! — Давай поедем на велосипеде!\"]}},{\"id\":\"hI0jK1lM2n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Accepting:</b>\"}},{\"id\":\"oP3qR4sT5u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Sure! / Great idea! / That sounds fun!\",\"I'd love to! — Я бы с удовольствием!\"]}},{\"id\":\"vW6xY7zA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Declining:</b>\"}},{\"id\":\"cD9eF0gH1i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Sorry, I can't. I'm busy. — Извини, не могу. Я занят.\",\"Maybe next time. — Может, в следующий раз.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Practise inviting a friend to play sport",
+                "targetPhrase": "Would you like to go swimming today? I'd love to! What time?"
+              }
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "Would you like to go swimming? That sounds great! Let's meet at the pool at 5 pm.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A: [Would] you like to go swimming today? B: That [sounds] great! What time? A: How [about] 5 pm? B: Perfect! Let's [meet] at the pool.",
+              "gaps": [
+                {
+                  "placeholder": "Would",
+                  "answers": [
+                    "Would"
+                  ]
+                },
+                {
+                  "placeholder": "sounds",
+                  "answers": [
+                    "sounds"
+                  ]
+                },
+                {
+                  "placeholder": "about",
+                  "answers": [
+                    "about"
+                  ]
+                },
+                {
+                  "placeholder": "meet",
+                  "answers": [
+                    "meet"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "A polite way to say you cannot come",
+                  "word": "I'm afraid I can't"
+                },
+                {
+                  "hint": "You say this when you agree to do something with enthusiasm",
+                  "word": "I'd love to"
+                },
+                {
+                  "hint": "A way to suggest an activity: How ___ going to the gym?",
+                  "word": "about"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000710001",
+                  "english": "Would you like to go for a run?",
+                  "russian": "Хочешь пробежаться?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000710002",
+                  "english": "I'd love to!",
+                  "russian": "Я бы с удовольствием!",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000710003",
+                  "english": "Let's play football on Saturday.",
+                  "russian": "Давай сыграем в футбол в субботу.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000710004",
+                  "english": "Sorry, maybe next time.",
+                  "russian": "Извини, может, в следующий раз.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase is an INVITATION to do sport?",
+                  "options": [
+                    "I play tennis.",
+                    "Would you like to play tennis?",
+                    "I love tennis.",
+                    "She plays tennis well."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "A polite way to decline an invitation is ___.",
+                  "options": [
+                    "No!",
+                    "I don't want.",
+                    "Maybe next time.",
+                    "Never."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

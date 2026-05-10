@@ -1,0 +1,1080 @@
+{
+  "title": "Around the City",
+  "description": "Learn the names of places in a city, how to ask for and give simple directions, and essential prepositions of place. Ideal for beginners preparing for travel or living in an English-speaking city.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": true,
+  "preview_image": "Around the City.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Places in the City",
+      "subtopics": [
+        {
+          "title": "1.1 Essential City Places",
+          "lessons": [
+            {
+              "title": "Common Places Around Town",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700005001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the most important places you will find in a city:\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Public buildings:</b>\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>bank</b> — банк\",\"<b>hospital</b> — больница\",\"<b>school</b> — школа\",\"<b>library</b> — библиотека\",\"<b>post office</b> — почта\",\"<b>police station</b> — полицейский участок\"]}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Transport:</b>\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>bus stop</b> — автобусная остановка\",\"<b>train station</b> — железнодорожная станция\",\"<b>airport</b> — аэропорт\"]}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Leisure and shopping:</b>\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>park</b> — парк\",\"<b>supermarket</b> — супермаркет\",\"<b>cinema</b> — кино\",\"<b>restaurant</b> — ресторан\",\"<b>café</b> — кафе\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Excuse me, where is the bank? It's next to the supermarket.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "bank",
+                      "translation": "банк"
+                    },
+                    {
+                      "text": "hospital",
+                      "translation": "больница"
+                    },
+                    {
+                      "text": "library",
+                      "translation": "библиотека"
+                    },
+                    {
+                      "text": "supermarket",
+                      "translation": "супермаркет"
+                    },
+                    {
+                      "text": "bus stop",
+                      "translation": "автобусная остановка"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700005001001",
+                      "left": "bank",
+                      "right": "банк"
+                    },
+                    {
+                      "id": "1700005001002",
+                      "left": "hospital",
+                      "right": "больница"
+                    },
+                    {
+                      "id": "1700005001003",
+                      "left": "library",
+                      "right": "библиотека"
+                    },
+                    {
+                      "id": "1700005001004",
+                      "left": "park",
+                      "right": "парк"
+                    },
+                    {
+                      "id": "1700005001005",
+                      "left": "airport",
+                      "right": "аэропорт"
+                    },
+                    {
+                      "id": "1700005001006",
+                      "left": "supermarket",
+                      "right": "супермаркет"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "You go here to borrow books",
+                      "word": "library"
+                    },
+                    {
+                      "hint": "You go here when you are sick",
+                      "word": "hospital"
+                    },
+                    {
+                      "hint": "You catch planes here",
+                      "word": "airport"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Where do you go to borrow books?",
+                      "options": [
+                        "supermarket",
+                        "library",
+                        "bank",
+                        "cinema"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "You need to catch a train. Where do you go?",
+                      "options": [
+                        "bus stop",
+                        "airport",
+                        "train station",
+                        "park"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which place is for emergencies and sick people?",
+                      "options": [
+                        "post office",
+                        "hospital",
+                        "school",
+                        "café"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Places and Activities",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700005002000,\"blocks\":[{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"We can talk about what people do at different places. Use the verb <b>go to</b> + place:\"}},{\"id\":\"yY5zZ6aA7b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I go to the <b>park</b> to relax.\",\"She goes to the <b>supermarket</b> to buy food.\",\"He goes to the <b>library</b> to read books.\",\"We go to the <b>cinema</b> to watch films.\"]}},{\"id\":\"bB8cC9dD0e\",\"type\":\"paragraph\",\"data\":{\"text\":\"You can also use <b>at</b>:\"}},{\"id\":\"eE1fF2gG3h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I am <b>at</b> the bank.\",\"She is <b>at</b> school.\"]}},{\"id\":\"hH4iI5jJ6k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Note: we say <em>go to school/work/hospital</em> (no 'the') when talking about the general activity. But <em>go to the park/cinema/bank</em> (with 'the') for specific places.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I go to the park every Sunday. She is at school now.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "I go [to] the supermarket [to] buy food. She is [at] school. He goes to [the] cinema on Saturdays.",
+                  "gaps": [
+                    {
+                      "placeholder": "to",
+                      "answers": [
+                        "to"
+                      ]
+                    },
+                    {
+                      "placeholder": "to",
+                      "answers": [
+                        "to"
+                      ]
+                    },
+                    {
+                      "placeholder": "at",
+                      "answers": [
+                        "at"
+                      ]
+                    },
+                    {
+                      "placeholder": "the",
+                      "answers": [
+                        "the"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700005002001",
+                      "english": "I go to the park every Sunday.",
+                      "russian": "Я хожу в парк каждое воскресенье.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700005002002",
+                      "english": "She is at the hospital.",
+                      "russian": "Она в больнице.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700005002003",
+                      "english": "Where is the nearest bank?",
+                      "russian": "Где ближайший банк?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700005002004",
+                      "english": "I go to school by bus.",
+                      "russian": "Я езжу в школу на автобусе.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Complete: 'I go ___ the supermarket to buy food.'",
+                      "options": [
+                        "at",
+                        "to",
+                        "in",
+                        "on"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "She is ___ school. (general activity)",
+                      "options": [
+                        "to the",
+                        "in",
+                        "at",
+                        "on"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Prepositions of Place",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "In, On, At, Next to, Opposite",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700005003000,\"blocks\":[{\"id\":\"kK7lL8mM9n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Prepositions of place</b> tell us where something is located:\"}},{\"id\":\"nN0oO1pP2q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>in</b> — inside something: <em>in the building, in the park</em>\",\"<b>on</b> — on a surface: <em>on the street, on the table</em>\",\"<b>at</b> — at a point or place: <em>at the bus stop, at the corner</em>\",\"<b>next to</b> — beside: <em>The café is <b>next to</b> the bank.</em>\",\"<b>opposite</b> — facing: <em>The school is <b>opposite</b> the park.</em>\",\"<b>near / close to</b> — not far: <em>The hospital is <b>near</b> here.</em>\",\"<b>between</b> — in the middle of two things: <em>The library is <b>between</b> the park and the school.</em>\",\"<b>behind</b> — at the back: <em>The car park is <b>behind</b> the cinema.</em>\",\"<b>in front of</b> — facing, before: <em>The bus stop is <b>in front of</b> the hotel.</em>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The café is next to the bank. The park is opposite the school.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700005003001",
+                  "left": "next to",
+                  "right": "рядом с"
+                },
+                {
+                  "id": "1700005003002",
+                  "left": "opposite",
+                  "right": "напротив"
+                },
+                {
+                  "id": "1700005003003",
+                  "left": "between",
+                  "right": "между"
+                },
+                {
+                  "id": "1700005003004",
+                  "left": "behind",
+                  "right": "позади"
+                },
+                {
+                  "id": "1700005003005",
+                  "left": "in front of",
+                  "right": "перед"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "The café is [next to] the bank. The park is [opposite] the school. The bus stop is [in front of] the hotel. The car park is [behind] the cinema.",
+              "gaps": [
+                {
+                  "placeholder": "next to",
+                  "answers": [
+                    "next to"
+                  ]
+                },
+                {
+                  "placeholder": "opposite",
+                  "answers": [
+                    "opposite"
+                  ]
+                },
+                {
+                  "placeholder": "in front of",
+                  "answers": [
+                    "in front of"
+                  ]
+                },
+                {
+                  "placeholder": "behind",
+                  "answers": [
+                    "behind"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "The library is ___ the park and the school.",
+                  "options": [
+                    "opposite",
+                    "behind",
+                    "between",
+                    "on"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "The bus stop is ___ the hotel. (facing the hotel)",
+                  "options": [
+                    "behind",
+                    "in front of",
+                    "next to",
+                    "in"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Describing Location",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700005004000,\"blocks\":[{\"id\":\"qQ3rR4sS5t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's practice describing where places are in the city using prepositions.\"}},{\"id\":\"tT6uU7vV8w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example city layout:\"}},{\"id\":\"wW9xX0yY1z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"The <b>bank</b> is <em>on</em> Main Street.\",\"The <b>supermarket</b> is <em>next to</em> the bank.\",\"The <b>park</b> is <em>opposite</em> the school.\",\"The <b>café</b> is <em>between</em> the bank and the library.\"]}},{\"id\":\"zA2bB3cC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful question: <b>Where is the ...?</b>\"}},{\"id\":\"dD5eE6fF7g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful answer: <em>It is on the left / on the right / straight ahead.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Where is the bank? It is next to the supermarket, on the left.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700005004001",
+                  "english": "The bank is next to the supermarket.",
+                  "russian": "Банк находится рядом с супермаркетом.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700005004002",
+                  "english": "The park is opposite the school.",
+                  "russian": "Парк находится напротив школы.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700005004003",
+                  "english": "The café is between the library and the cinema.",
+                  "russian": "Кафе находится между библиотекой и кинотеатром.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700005004004",
+                  "english": "Where is the nearest hospital?",
+                  "russian": "Где ближайшая больница?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "The cinema is ___ the park and the school.",
+                  "options": [
+                    "opposite",
+                    "behind",
+                    "between",
+                    "on"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "The bus stop is ___ the hotel. (facing the hotel)",
+                  "options": [
+                    "behind",
+                    "in front of",
+                    "next to",
+                    "in"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Asking for Directions",
+      "subtopics": [
+        {
+          "title": "3.1 Asking the Way",
+          "lessons": [
+            {
+              "title": "How to Ask for Directions",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700005005000,\"blocks\":[{\"id\":\"gG8hH9iI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you don't know the way somewhere, you can ask someone for directions. Here are polite ways to ask:\"}},{\"id\":\"jJ1kK2lL3m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Excuse me, where is the bank?</b>\",\"<b>Excuse me, how do I get to the train station?</b>\",\"<b>Could you tell me the way to the park?</b>\",\"<b>Is there a supermarket near here?</b>\"]}},{\"id\":\"mM4nN5oO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Always start with <b>Excuse me</b> — it is polite to get someone's attention this way before asking a question.\"}},{\"id\":\"pP7qQ8rR9s\",\"type\":\"paragraph\",\"data\":{\"text\":\"If you don't understand, you can say:\"}},{\"id\":\"sS0tT1uU2v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Could you repeat that, please?</b>\",\"<b>I'm sorry, I don't understand.</b>\",\"<b>Can you speak more slowly, please?</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Excuse me! How do I get to the train station?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the following sentence aloud",
+                    "targetPhrase": "Excuse me, where is the nearest bank?"
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "[Excuse] me! [How] do I get to the bus stop? — It's just around the [corner], on the [right].",
+                  "gaps": [
+                    {
+                      "placeholder": "Excuse",
+                      "answers": [
+                        "Excuse"
+                      ]
+                    },
+                    {
+                      "placeholder": "How",
+                      "answers": [
+                        "How"
+                      ]
+                    },
+                    {
+                      "placeholder": "corner",
+                      "answers": [
+                        "corner"
+                      ]
+                    },
+                    {
+                      "placeholder": "right",
+                      "answers": [
+                        "right"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is a polite way to get someone's attention before asking directions?",
+                      "options": [
+                        "Hey!",
+                        "Excuse me!",
+                        "Hello there!",
+                        "Stop!"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "You didn't understand the directions. What do you say?",
+                      "options": [
+                        "Goodbye!",
+                        "Thank you!",
+                        "Could you repeat that, please?",
+                        "I know."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3.2 Giving Directions",
+          "lessons": [
+            {
+              "title": "Direction Vocabulary",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700005006000,\"blocks\":[{\"id\":\"vV3wW4xX5y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the key words and phrases for giving directions:\"}},{\"id\":\"yY6zZ7aA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Direction words:</b>\"}},{\"id\":\"bB9cC0dD1e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>straight ahead / straight on</b> — прямо\",\"<b>turn left</b> — поверните налево\",\"<b>turn right</b> — поверните направо\",\"<b>go past</b> — пройдите мимо\",\"<b>take the first/second left</b> — первый/второй поворот налево\"]}},{\"id\":\"eE2fF3gG4h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Landmarks:</b>\"}},{\"id\":\"hH5iI6jJ7k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>at the corner</b> — на углу\",\"<b>at the traffic lights</b> — на светофоре\",\"<b>at the crossroads</b> — на перекрёстке\"]}},{\"id\":\"kK8lL9mM0n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Distance:</b>\"}},{\"id\":\"nN1oO2pP3q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"It's about <b>5 minutes' walk</b>.\",\"It's not far.\",\"It's on the left / on the right.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Go straight ahead. At the traffic lights, turn right. The bank is on the left.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700005006001",
+                      "left": "straight ahead",
+                      "right": "прямо"
+                    },
+                    {
+                      "id": "1700005006002",
+                      "left": "turn left",
+                      "right": "поверните налево"
+                    },
+                    {
+                      "id": "1700005006003",
+                      "left": "turn right",
+                      "right": "поверните направо"
+                    },
+                    {
+                      "id": "1700005006004",
+                      "left": "at the corner",
+                      "right": "на углу"
+                    },
+                    {
+                      "id": "1700005006005",
+                      "left": "at the traffic lights",
+                      "right": "на светофоре"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "Go straight to the traffic lights, then turn straight.",
+                      "correctText": "Go straight ahead. At the traffic lights, turn right."
+                    },
+                    {
+                      "text": "The bank is on the left and on the right.",
+                      "correctText": "The bank is on the left."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "Go [straight] ahead. At the traffic [lights], turn [right]. Go [past] the park. The bank is on the [left].",
+                  "gaps": [
+                    {
+                      "placeholder": "straight",
+                      "answers": [
+                        "straight"
+                      ]
+                    },
+                    {
+                      "placeholder": "lights",
+                      "answers": [
+                        "lights"
+                      ]
+                    },
+                    {
+                      "placeholder": "right",
+                      "answers": [
+                        "right"
+                      ]
+                    },
+                    {
+                      "placeholder": "past",
+                      "answers": [
+                        "past"
+                      ]
+                    },
+                    {
+                      "placeholder": "left",
+                      "answers": [
+                        "left"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'turn left' mean?",
+                      "options": [
+                        "поверните направо",
+                        "поверните налево",
+                        "идите прямо",
+                        "вернитесь"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "At the ___ , turn right.",
+                      "options": [
+                        "park",
+                        "traffic lights",
+                        "supermarket",
+                        "hospital"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "A Directions Dialogue",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700005007000,\"blocks\":[{\"id\":\"qQ4rR5sS6t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here is a complete dialogue about asking for and giving directions:\"}},{\"id\":\"tT7uU8vV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tourist:</b> Excuse me! Is there a bank near here?\"}},{\"id\":\"wW0xX1yY2z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Local:</b> Yes! Go straight ahead along this street. At the traffic lights, turn left. The bank is on the right, next to the supermarket.\"}},{\"id\":\"zA3bB4cC5d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tourist:</b> Is it far?\"}},{\"id\":\"dD6eE7fF8g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Local:</b> No, it's about 5 minutes' walk.\"}},{\"id\":\"gG9hH0iI1j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tourist:</b> Thank you very much!\"}},{\"id\":\"jJ2kK3lL4m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Local:</b> You're welcome. Have a good day!\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Go straight ahead. At the traffic lights, turn left. The bank is on the right.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "video",
+                  "url": "VIDEO_PLACEHOLDER"
+                },
+                {
+                  "order": 4,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the following sentence aloud",
+                    "targetPhrase": "Excuse me, how do I get to the train station?"
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "In the dialogue, where does the tourist turn?",
+                      "options": [
+                        "at the park",
+                        "at the bank",
+                        "at the traffic lights",
+                        "at the corner"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "How far is the bank?",
+                      "options": [
+                        "10 minutes",
+                        "5 minutes' walk",
+                        "3 minutes by bus",
+                        "very far"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What is next to the bank?",
+                      "options": [
+                        "the park",
+                        "the school",
+                        "the library",
+                        "the supermarket"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Transport in the City",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Getting Around by Bus, Train and More",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700005008000,\"blocks\":[{\"id\":\"mM5nN6oO7p\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English cities, there are many ways to travel:\"}},{\"id\":\"pP8qQ9rR0s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>by bus</b> — на автобусе\",\"<b>by train</b> — на поезде\",\"<b>by taxi / cab</b> — на такси\",\"<b>by underground / metro</b> — на метро\",\"<b>on foot / walk</b> — пешком\",\"<b>by bike / bicycle</b> — на велосипеде\"]}},{\"id\":\"sS1tT2uU3v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful questions:\"}},{\"id\":\"vV4wW5xX6y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Which bus goes to the city centre?</b>\",\"<b>Where is the nearest bus stop?</b>\",\"<b>How long does it take?</b>\"]}},{\"id\":\"yY7zZ8aA9b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example: <em>I go to work <b>by bus</b>. It takes about 20 minutes.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I go to school by bus. It takes about twenty minutes.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "bus",
+                "train",
+                "taxi",
+                "metro"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "I go to school [by] bus. My friend goes [on] foot. It takes 10 [minutes]. The bus stop is [near] here.",
+              "gaps": [
+                {
+                  "placeholder": "by",
+                  "answers": [
+                    "by"
+                  ]
+                },
+                {
+                  "placeholder": "on",
+                  "answers": [
+                    "on"
+                  ]
+                },
+                {
+                  "placeholder": "minutes",
+                  "answers": [
+                    "minutes"
+                  ]
+                },
+                {
+                  "placeholder": "near",
+                  "answers": [
+                    "near",
+                    "close to"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700005008001",
+                  "english": "I go to work by bus.",
+                  "russian": "Я езжу на работу на автобусе.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700005008002",
+                  "english": "How long does it take?",
+                  "russian": "Сколько времени это занимает?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700005008003",
+                  "english": "The train station is not far.",
+                  "russian": "Железнодорожная станция недалеко.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700005008004",
+                  "english": "I walk to school every day.",
+                  "russian": "Я хожу в школу пешком каждый день.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "How do you say 'пешком' in English?",
+                  "options": [
+                    "by bus",
+                    "by car",
+                    "on foot",
+                    "by bike"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Complete: I go to work ___ bus.",
+                  "options": [
+                    "on",
+                    "by",
+                    "at",
+                    "in"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: City Vocabulary Review",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Around the City — Final Review",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700005009000,\"blocks\":[{\"id\":\"bB0cC1dD2e\",\"type\":\"paragraph\",\"data\":{\"text\":\"In this course, you learned:\"}},{\"id\":\"eE3fF4gG5h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Names of places: bank, hospital, library, park, supermarket, cinema...\",\"Prepositions of place: next to, opposite, between, behind, in front of...\",\"Asking for directions: Excuse me, how do I get to...?\",\"Giving directions: Go straight ahead. Turn left. Turn right. It's on the left.\",\"Transport: by bus, by train, on foot, by bike...\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Excuse me! Go straight ahead and turn left at the traffic lights.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_public",
+                  "name": "Public Buildings",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_leisure",
+                  "name": "Leisure & Shopping",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_transport",
+                  "name": "Transport",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "library",
+                  "correctCategory": "cat_public"
+                },
+                {
+                  "id": "item_2",
+                  "text": "hospital",
+                  "correctCategory": "cat_public"
+                },
+                {
+                  "id": "item_3",
+                  "text": "cinema",
+                  "correctCategory": "cat_leisure"
+                },
+                {
+                  "id": "item_4",
+                  "text": "supermarket",
+                  "correctCategory": "cat_leisure"
+                },
+                {
+                  "id": "item_5",
+                  "text": "bus stop",
+                  "correctCategory": "cat_transport"
+                },
+                {
+                  "id": "item_6",
+                  "text": "train station",
+                  "correctCategory": "cat_transport"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "listen-write",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [
+                {
+                  "text": "bank",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "bank"
+                },
+                {
+                  "text": "hospital",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "hospital"
+                },
+                {
+                  "text": "supermarket",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "supermarket"
+                }
+              ],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Choose the correct preposition: The café is ___ the bank and the library.",
+                  "options": [
+                    "opposite",
+                    "behind",
+                    "between",
+                    "next"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "You want to ask a stranger for directions. What do you say first?",
+                  "options": [
+                    "Where is?",
+                    "Excuse me!",
+                    "Hello, give me directions!",
+                    "Hey you!"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which phrase means 'прямо'?",
+                  "options": [
+                    "turn left",
+                    "turn right",
+                    "go back",
+                    "straight ahead"
+                  ],
+                  "correctOptions": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "title": "Life Admin & Services",
+  "description": "Master the practical English needed for everyday administration: opening a bank account, visiting the doctor, contacting customer service, and dealing with official forms. Essential for A2 learners living or studying in an English-speaking environment.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Life Admin & Services.png",
+  "topics": [
+    {
+      "title": "Module 1: Health Services",
+      "subtopics": [
+        {
+          "title": "1.1 At the Doctor's",
+          "lessons": [
+            {
+              "title": "Booking and Visiting the Doctor",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700030001000,\"blocks\":[{\"id\":\"dA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Going to the doctor in a foreign country can be stressful. Knowing the right phrases will help you explain your symptoms and understand the doctor's advice.\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Describing Symptoms\",\"level\":3}},{\"id\":\"dG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I have a headache / sore throat / stomachache.</b>\",\"<b>I feel dizzy / sick / tired.</b>\",\"<b>I've got a temperature / fever.</b>\",\"<b>I've been coughing / sneezing a lot.</b>\",\"<b>It hurts here.</b>\"]}},{\"id\":\"dJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"What the Doctor Might Ask\",\"level\":3}},{\"id\":\"dM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Where does it hurt?</b>\",\"<b>How long have you had this?</b>\",\"<b>Are you allergic to any medicines?</b>\",\"<b>I'll prescribe some antibiotics.</b>\",\"<b>Take two tablets three times a day.</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'd like to make an appointment to see a doctor, please. I have a sore throat and I've had a temperature since yesterday.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I'd like to make an appointment.",
+                      "translation": "Я хотел(а) бы записаться на приём."
+                    },
+                    {
+                      "text": "I have a sore throat.",
+                      "translation": "У меня болит горло."
+                    },
+                    {
+                      "text": "How long have you had this?",
+                      "translation": "Как давно у вас это?"
+                    },
+                    {
+                      "text": "Take one tablet twice a day.",
+                      "translation": "Принимайте по одной таблетке два раза в день."
+                    },
+                    {
+                      "text": "Are you allergic to penicillin?",
+                      "translation": "У вас аллергия на пенициллин?"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence correctly describes a symptom?",
+                      "options": [
+                        "I am having headache.",
+                        "I have a headache.",
+                        "I has headache.",
+                        "I am headache."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "The doctor says 'Take two tablets three times a day.' How many tablets do you take in total per day?",
+                      "options": [
+                        "2",
+                        "3",
+                        "5",
+                        "6"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Banking and Money",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Opening a Bank Account",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700030002000,\"blocks\":[{\"id\":\"bA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Understanding banking vocabulary is essential for everyday life. Let's look at common bank services and how to talk about them.\"}},{\"id\":\"bD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Key Banking Terms\",\"level\":3}},{\"id\":\"bG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>current account</b> — текущий счёт\",\"<b>savings account</b> — сберегательный счёт\",\"<b>PIN number</b> — ПИН-код\",\"<b>direct debit</b> — прямое дебетование\",\"<b>bank statement</b> — выписка со счёта\",\"<b>overdraft</b> — овердрафт (перерасход)\",\"<b>standing order</b> — постоянное платёжное поручение\"]}},{\"id\":\"bJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Common Requests\",\"level\":3}},{\"id\":\"bM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I'd like to open a current account.</b>\",\"<b>Can I check my balance, please?</b>\",\"<b>I'd like to transfer money to this account.</b>\",\"<b>I think there's an error on my statement.</b>\",\"<b>I've lost my card. I need to cancel it.</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "guessItems": [
+                {
+                  "hint": "остаток на счёте",
+                  "word": "balance"
+                },
+                {
+                  "hint": "овердрафт",
+                  "word": "overdraft"
+                },
+                {
+                  "hint": "перевод / перевести",
+                  "word": "transfer"
+                },
+                {
+                  "hint": "выписка",
+                  "word": "statement"
+                },
+                {
+                  "hint": "ПИН-код",
+                  "word": "PIN"
+                }
+              ],
+              "oddItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "current account",
+                  "right": "used for everyday payments"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "savings account",
+                  "right": "for putting money aside"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "bank statement",
+                  "right": "list of all transactions"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "direct debit",
+                  "right": "automatic regular payment"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "overdraft",
+                  "right": "spending more than you have in the account"
+                }
+              ],
+              "shuffleRight": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Customer Service",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Complaining and Asking for Help",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700030003000,\"blocks\":[{\"id\":\"csA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Dealing with customer service — whether by phone, online, or in person — requires specific vocabulary and a polite but assertive tone.\"}},{\"id\":\"csD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Making a Complaint Politely\",\"level\":3}},{\"id\":\"csG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I'm calling / writing about a problem with...</b>\",\"<b>I ordered X but received Y.</b>\",\"<b>I'm afraid this isn't what I expected.</b>\",\"<b>Could you look into this for me?</b>\",\"<b>I'd like a refund / replacement / explanation.</b>\"]}},{\"id\":\"csJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Useful Phrases on the Phone\",\"level\":3}},{\"id\":\"csM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Could you put me through to the manager?</b>\",\"<b>Can I leave a message?</b>\",\"<b>Could you speak more slowly, please?</b>\",\"<b>I'm sorry, I didn't catch that.</b>\",\"<b>Let me give you my reference number.</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Hello, I'm calling about an order I placed last week. I'm afraid I received the wrong item. Could you help me arrange a return and refund please?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase politely asks for help from customer service?",
+                  "options": [
+                    "Give me my money back now!",
+                    "Could you look into this for me?",
+                    "This is wrong, fix it.",
+                    "I need help. Fast."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "You didn't understand something on the phone. What do you say?",
+                  "options": [
+                    "Say it again.",
+                    "I'm sorry, I didn't catch that. Could you repeat that?",
+                    "What?",
+                    "I don't understand you."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

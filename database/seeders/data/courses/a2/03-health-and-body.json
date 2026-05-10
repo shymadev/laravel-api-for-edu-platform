@@ -1,0 +1,1283 @@
+{
+  "title": "Health and the Body",
+  "description": "Build essential vocabulary for talking about body parts, describing common illnesses and symptoms, and communicating at the doctor's. Ideal for A1 completers who want to handle health situations confidently in English.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Health and the Body.jpg",
+  "topics": [
+    {
+      "title": "Module 1: The Human Body",
+      "subtopics": [
+        {
+          "title": "1.1 Parts of the Body",
+          "lessons": [
+            {
+              "title": "Head, Neck, and Face",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000201000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's learn the parts of the <b>head and face</b>:\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>head</b> — the top part of your body\",\"<b>forehead</b> — the part above your eyes\",\"<b>eye</b> — what you see with (plural: eyes)\",\"<b>ear</b> — what you hear with (plural: ears)\",\"<b>nose</b> — what you smell and breathe with\",\"<b>mouth</b> — what you eat and speak with\",\"<b>tooth</b> — hard white thing in your mouth (plural: <b>teeth</b>)\",\"<b>chin</b> — the bottom of your face\",\"<b>cheek</b> — the side of your face\",\"<b>neck</b> — connects your head to your body\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "My tooth hurts.",
+                      "translation": "У меня болит зуб."
+                    },
+                    {
+                      "text": "She has big blue eyes.",
+                      "translation": "У неё большие голубые глаза."
+                    },
+                    {
+                      "text": "My neck is stiff.",
+                      "translation": "У меня затёкла шея."
+                    },
+                    {
+                      "text": "He has a red cheek.",
+                      "translation": "У него красная щека."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "forehead",
+                      "right": "лоб"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "chin",
+                      "right": "подбородок"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "cheek",
+                      "right": "щека"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "tooth",
+                      "right": "зуб"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "neck",
+                      "right": "шея"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "My forehead, cheeks, chin, and neck are all parts of your head and face.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "forehead",
+                    "cheek",
+                    "chin",
+                    "tooth"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "The plural of 'tooth' is ___.",
+                      "options": [
+                        "tooths",
+                        "teeth",
+                        "toothes",
+                        "teeths"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "You use your ___ to hear sounds.",
+                      "options": [
+                        "eyes",
+                        "nose",
+                        "ears",
+                        "mouth"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Body, Arms, and Legs",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000202000,\"blocks\":[{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Now let's learn the rest of the body:\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>shoulder</b> — connects your arm to your body\",\"<b>arm</b> — from shoulder to hand\",\"<b>elbow</b> — the joint in the middle of your arm\",\"<b>wrist</b> — connects your hand to your arm\",\"<b>hand</b> — at the end of your arm\",\"<b>finger</b> — you have 5 on each hand\",\"<b>chest</b> — the front of your body above the stomach\",\"<b>back</b> — the rear side of your body\",\"<b>stomach</b> — where food goes when you eat\",\"<b>knee</b> — the joint in the middle of your leg\",\"<b>ankle</b> — connects your foot to your leg\",\"<b>foot</b> — at the end of your leg (plural: <b>feet</b>)\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "shoulder",
+                      "right": "плечо"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "elbow",
+                      "right": "локоть"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "wrist",
+                      "right": "запястье"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "knee",
+                      "right": "колено"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "ankle",
+                      "right": "лодыжка"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "I hurt my knee when I fell. She broke her wrist playing tennis.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "listen-write",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [
+                    {
+                      "text": "shoulder",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "shoulder"
+                    },
+                    {
+                      "text": "elbow",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "elbow"
+                    },
+                    {
+                      "text": "wrist",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "wrist"
+                    }
+                  ],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "I hurt my [knee] when I fell down the stairs. The doctor looked at my [back] and said I needed to rest. She broke her [wrist] playing tennis. He has a pain in his [chest].",
+                  "gaps": [
+                    {
+                      "placeholder": "knee",
+                      "answers": [
+                        "knee"
+                      ]
+                    },
+                    {
+                      "placeholder": "back",
+                      "answers": [
+                        "back"
+                      ]
+                    },
+                    {
+                      "placeholder": "wrist",
+                      "answers": [
+                        "wrist"
+                      ]
+                    },
+                    {
+                      "placeholder": "chest",
+                      "answers": [
+                        "chest"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "The plural of 'foot' is ___.",
+                      "options": [
+                        "foots",
+                        "feets",
+                        "feet",
+                        "feetes"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "The joint in the middle of your leg is called the ___.",
+                      "options": [
+                        "ankle",
+                        "elbow",
+                        "knee",
+                        "wrist"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Illnesses and Symptoms",
+      "subtopics": [
+        {
+          "title": "2.1 Common Illnesses",
+          "lessons": [
+            {
+              "title": "Colds, Flu, and Fever",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000203000,\"blocks\":[{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are common illnesses and how to talk about them:\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>a cold</b> — a common illness with a runny nose and sore throat\",\"<b>the flu / influenza</b> — a more serious illness, like a bad cold with fever\",\"<b>a fever</b> — a high body temperature (above 38°C)\",\"<b>a cough</b> — you make a loud sound from your throat\",\"<b>a sore throat</b> — your throat hurts when you swallow\",\"<b>a runny nose</b> — liquid coming out of your nose\"]}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Grammar — 'have' for illnesses:</b><br><em>I have a cold. / She has the flu. / He had a fever last night.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I have a cold.",
+                      "translation": "У меня простуда."
+                    },
+                    {
+                      "text": "She has a sore throat.",
+                      "translation": "У неё болит горло."
+                    },
+                    {
+                      "text": "He had a fever last night.",
+                      "translation": "Прошлой ночью у него была температура."
+                    },
+                    {
+                      "text": "I have a runny nose and a cough.",
+                      "translation": "У меня насморк и кашель."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "I have a cold. I have a sore throat and a runny nose.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000203001",
+                      "english": "I have a cold.",
+                      "russian": "У меня простуда.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000203002",
+                      "english": "She has a sore throat.",
+                      "russian": "У неё болит горло.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000203003",
+                      "english": "He had a fever last night.",
+                      "russian": "Прошлой ночью у него была температура.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000203004",
+                      "english": "I have a runny nose and a cough.",
+                      "russian": "У меня насморк и кашель.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "cold",
+                        "fever",
+                        "flu",
+                        "elbow"
+                      ],
+                      "correctWord": "elbow"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A high body temperature is called a ___.",
+                      "options": [
+                        "cold",
+                        "cough",
+                        "fever",
+                        "flu"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "When your throat hurts, you have ___.",
+                      "options": [
+                        "a fever",
+                        "a runny nose",
+                        "a sore throat",
+                        "a broken arm"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "The correct sentence is ___.",
+                      "options": [
+                        "I am have a cold.",
+                        "I have a cold.",
+                        "I have cold.",
+                        "I am cold disease."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Aches and Pains",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000204000,\"blocks\":[{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"We describe pain with the word <b>ache</b> or <b>pain</b>. Common expressions:\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>headache</b> — pain in your head\",\"<b>stomachache / stomach ache</b> — pain in your stomach\",\"<b>backache / back pain</b> — pain in your back\",\"<b>toothache</b> — pain in your tooth\",\"<b>earache</b> — pain in your ear\"]}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"We also use: <b>My [body part] hurts / aches</b><br><em>My back hurts. / My head aches. / My knee is painful.</em>\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Past simple:</b> <em>My stomach hurt all night. / I had a terrible headache yesterday.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "headache",
+                      "right": "головная боль"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "stomachache",
+                      "right": "боль в животе"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "backache",
+                      "right": "боль в спине"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "toothache",
+                      "right": "зубная боль"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "earache",
+                      "right": "боль в ухе"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "I have a terrible headache. My back hurts and I have a stomachache.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "headache",
+                    "backache",
+                    "toothache",
+                    "earache"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I couldn't sleep last night because I had a terrible ___.",
+                      "answers": [
+                        "headache",
+                        "toothache",
+                        "stomachache",
+                        "backache"
+                      ]
+                    },
+                    {
+                      "sentence": "My back ___ after I lifted those heavy boxes.",
+                      "answers": [
+                        "hurt",
+                        "hurts",
+                        "ached",
+                        "pain"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Pain in your head is called a ___.",
+                      "options": [
+                        "earache",
+                        "backache",
+                        "headache",
+                        "toothache"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "My back paining.",
+                        "My back is aching.",
+                        "My back hurts.",
+                        "My back is hurt."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Other Health Problems",
+          "lessons": [
+            {
+              "title": "Injuries and Accidents",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000205000,\"blocks\":[{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Sometimes we injure ourselves in accidents. Learn this vocabulary:\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>cut</b> — a sharp wound on the skin\",\"<b>bruise</b> — a dark mark on the skin after a hit\",\"<b>sprain</b> — a stretched or torn muscle around a joint (e.g. sprained ankle)\",\"<b>fracture / broken bone</b> — a bone is cracked or broken\",\"<b>burn</b> — skin damaged by heat or fire\",\"<b>bleed</b> — blood comes out of a wound\"]}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Past simple of injury verbs:</b><br>cut → <b>cut</b> (same!), break → <b>broke</b>, sprain → <b>sprained</b>, burn → <b>burned/burnt</b>\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Example: She fell and broke her ankle. / He cut his finger while cooking.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "She fell and broke her ankle. He cut his finger while cooking dinner.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "A dark mark on the skin after a hit",
+                      "word": "bruise"
+                    },
+                    {
+                      "hint": "A bone is cracked or broken",
+                      "word": "fracture"
+                    },
+                    {
+                      "hint": "Skin damaged by heat or fire",
+                      "word": "burn"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I [cut] my finger while I was cooking dinner. She [sprained] her ankle playing football. He [broke] his arm when he fell off his bike. The wound [bled] for ten minutes.",
+                  "gaps": [
+                    {
+                      "placeholder": "cut",
+                      "answers": [
+                        "cut"
+                      ]
+                    },
+                    {
+                      "placeholder": "sprained",
+                      "answers": [
+                        "sprained"
+                      ]
+                    },
+                    {
+                      "placeholder": "broke",
+                      "answers": [
+                        "broke"
+                      ]
+                    },
+                    {
+                      "placeholder": "bled",
+                      "answers": [
+                        "bled"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "The past tense of 'break' is ___.",
+                      "options": [
+                        "breaked",
+                        "broken",
+                        "broke",
+                        "broked"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "A 'bruise' is ___.",
+                      "options": [
+                        "a broken bone",
+                        "a dark mark on the skin after a hit",
+                        "a cut",
+                        "a burn"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: At the Doctor's",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Describing Your Symptoms",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000206000,\"blocks\":[{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you visit a doctor, you need to describe how you feel. Use these structures:\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Describing symptoms:</b>\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>I feel...</em> → I feel dizzy / sick / tired / weak.\",\"<em>I have...</em> → I have a fever / a cough / a rash.\",\"<em>My [body part] hurts / aches.</em> → My chest hurts.\",\"<em>I can't...</em> → I can't sleep / breathe well / walk properly.\"]}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful adjectives:</b>\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>dizzy</b> — the room seems to be spinning\",\"<b>nauseous</b> — feeling like you want to vomit\",\"<b>exhausted</b> — extremely tired\",\"<b>swollen</b> — bigger than normal (swollen ankle)\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Practise telling the doctor your symptoms",
+                "targetPhrase": "I feel dizzy and nauseous. My chest hurts and I can't breathe well."
+              }
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "I feel dizzy and nauseous. My knee is swollen and I can't walk properly.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000206001",
+                  "english": "I feel dizzy and nauseous.",
+                  "russian": "Я чувствую головокружение и тошноту.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000206002",
+                  "english": "My knee is swollen.",
+                  "russian": "Моё колено опухло.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000206003",
+                  "english": "I can't breathe well.",
+                  "russian": "Мне тяжело дышать.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000206004",
+                  "english": "I have had a fever since yesterday.",
+                  "russian": "У меня температура со вчерашнего дня.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "I feel myself dizzy.",
+                  "correctText": "I feel dizzy."
+                },
+                {
+                  "text": "My knee is swell.",
+                  "correctText": "My knee is swollen."
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "'Dizzy' means ___.",
+                  "options": [
+                    "very tired",
+                    "in a lot of pain",
+                    "feeling like things are spinning",
+                    "very angry"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "'Swollen' means ___.",
+                  "options": [
+                    "broken",
+                    "bigger than normal",
+                    "very painful",
+                    "infected"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Doctor's Appointment Dialogue",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000207000,\"blocks\":[{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Read this typical dialogue at the doctor's:\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Doctor:</b> Good morning. What seems to be the problem?<br><b>Patient:</b> I don't feel well. I have a terrible headache and a sore throat.<br><b>Doctor:</b> How long have you had these symptoms?<br><b>Patient:</b> Since yesterday morning. I also have a fever — 38.5 degrees.<br><b>Doctor:</b> Let me examine you. Open your mouth, please. Yes, your throat looks red and inflamed.<br><b>Patient:</b> Is it serious?<br><b>Doctor:</b> No, it's a throat infection. I'll prescribe some antibiotics. Take them three times a day with food.<br><b>Patient:</b> Thank you, doctor. How long will it take to get better?<br><b>Doctor:</b> You should feel better in 3–4 days. Get plenty of rest and drink a lot of water.\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key vocabulary from the dialogue:</b> <em>symptoms, inflamed, prescribe, antibiotics, get better.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "video",
+              "url": "VIDEO_PLACEHOLDER"
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Practise the patient's opening line at the doctor's",
+                "targetPhrase": "I don't feel well. I have a terrible headache and a sore throat."
+              }
+            },
+            {
+              "order": 4,
+              "type": "audio",
+              "content": {
+                "text": "What seems to be the problem? How long have you had these symptoms?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 5,
+              "type": "fill-gaps",
+              "text": "Doctor: What seems to be the [problem]? Patient: I have a sore [throat] and a [fever]. Doctor: How long have you had these [symptoms]? I'll [prescribe] you some medicine.",
+              "gaps": [
+                {
+                  "placeholder": "problem",
+                  "answers": [
+                    "problem"
+                  ]
+                },
+                {
+                  "placeholder": "throat",
+                  "answers": [
+                    "throat"
+                  ]
+                },
+                {
+                  "placeholder": "fever",
+                  "answers": [
+                    "fever"
+                  ]
+                },
+                {
+                  "placeholder": "symptoms",
+                  "answers": [
+                    "symptoms"
+                  ]
+                },
+                {
+                  "placeholder": "prescribe",
+                  "answers": [
+                    "prescribe"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "The patient has been sick since ___.",
+                  "options": [
+                    "this morning",
+                    "yesterday morning",
+                    "last week",
+                    "two days ago"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "The doctor says the patient has ___.",
+                  "options": [
+                    "the flu",
+                    "a cold",
+                    "a throat infection",
+                    "a broken jaw"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "'Prescribe' means ___.",
+                  "options": [
+                    "to examine a patient",
+                    "to give medicine instructions",
+                    "to take medicine",
+                    "to rest"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Health Advice",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Giving and Receiving Health Advice",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000208000,\"blocks\":[{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use <b>should / shouldn't</b> to give health advice:\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>You should drink more water.</em> (это хорошая идея)\",\"<em>You shouldn't eat junk food.</em> (это плохая идея)\",\"<em>You should get more sleep.</em>\",\"<em>You shouldn't drink too much coffee.</em>\"]}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"We also use <b>had better</b> for stronger advice:\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>You had better see a doctor.</em> (= you really need to)\"]}},{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common health advice vocabulary:</b>\"}},{\"id\":\"oP5qR6sT7u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>exercise regularly</b> — do physical activity often\",\"<b>eat a balanced diet</b> — eat different healthy foods\",\"<b>get enough sleep</b> — sleep 7–8 hours a night\",\"<b>avoid stress</b> — try not to worry too much\",\"<b>stay hydrated</b> — drink enough water\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "phrases",
+              "phrases": [
+                {
+                  "text": "You should drink more water.",
+                  "translation": "Тебе следует пить больше воды."
+                },
+                {
+                  "text": "You shouldn't eat junk food.",
+                  "translation": "Тебе не следует есть вредную еду."
+                },
+                {
+                  "text": "You had better see a doctor.",
+                  "translation": "Тебе лучше обратиться к врачу."
+                },
+                {
+                  "text": "Try to get enough sleep.",
+                  "translation": "Старайся достаточно спать."
+                }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "You should exercise regularly and eat a balanced diet. You shouldn't eat too much junk food.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "You ___ eat more fruit and vegetables.",
+                  "answers": [
+                    "should",
+                    "shouldn't",
+                    "had",
+                    "must"
+                  ]
+                },
+                {
+                  "sentence": "You ___ smoke — it is very bad for your health.",
+                  "answers": [
+                    "shouldn't",
+                    "should",
+                    "had better",
+                    "can"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "fill-gaps",
+              "text": "To stay healthy, you [should] exercise [regularly]. You [shouldn't] eat too much sugar. Try to [get] enough sleep every night. It is also important to [stay] hydrated.",
+              "gaps": [
+                {
+                  "placeholder": "should",
+                  "answers": [
+                    "should"
+                  ]
+                },
+                {
+                  "placeholder": "regularly",
+                  "answers": [
+                    "regularly"
+                  ]
+                },
+                {
+                  "placeholder": "shouldn't",
+                  "answers": [
+                    "shouldn't",
+                    "should not"
+                  ]
+                },
+                {
+                  "placeholder": "get",
+                  "answers": [
+                    "get"
+                  ]
+                },
+                {
+                  "placeholder": "stay",
+                  "answers": [
+                    "stay"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000208001",
+                  "english": "You should drink more water.",
+                  "russian": "Тебе следует пить больше воды.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000208002",
+                  "english": "You shouldn't eat junk food.",
+                  "russian": "Тебе не следует есть вредную еду.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000208003",
+                  "english": "You had better see a doctor.",
+                  "russian": "Тебе лучше обратиться к врачу.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000208004",
+                  "english": "Try to get enough sleep every night.",
+                  "russian": "Старайся достаточно спать каждую ночь.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence gives positive health advice?",
+                  "options": [
+                    "You shouldn't exercise.",
+                    "You should eat more vegetables.",
+                    "You can't sleep well.",
+                    "You don't need water."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'Stay hydrated' means ___.",
+                  "options": [
+                    "stay at home",
+                    "drink enough water",
+                    "avoid all food",
+                    "take medicine"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Medicine and Pharmacy",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000209000,\"blocks\":[{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you are ill, you may need to go to a <b>pharmacy (chemist's)</b>. Useful vocabulary:\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>tablet / pill</b> — a small solid medicine you swallow\",\"<b>capsule</b> — a pill in a soft shell\",\"<b>syrup</b> — liquid medicine\",\"<b>cream / ointment</b> — medicine you apply to the skin\",\"<b>painkiller</b> — medicine that reduces pain\",\"<b>prescription</b> — a doctor's written order for medicine\",\"<b>dosage</b> — how much medicine to take and how often\",\"<b>side effects</b> — unwanted effects of a medicine\"]}},{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common instructions:</b><br><em>Take two tablets three times a day. / Apply the cream twice daily. / Do not take more than four tablets in 24 hours.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Take two tablets three times a day. Do not exceed the dosage.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Forms of Medicine",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Medicine Instructions",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "tablet",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "take twice a day",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "syrup",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_4",
+                  "text": "apply to the skin",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "capsule",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_6",
+                  "text": "do not exceed the dose",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_7",
+                  "text": "cream",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_8",
+                  "text": "take with food",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Medicine that reduces pain",
+                  "word": "painkiller"
+                },
+                {
+                  "hint": "A doctor's written order for medicine",
+                  "word": "prescription"
+                },
+                {
+                  "hint": "How much medicine to take and how often",
+                  "word": "dosage"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "A 'painkiller' is a medicine that ___.",
+                  "options": [
+                    "helps you sleep",
+                    "reduces pain",
+                    "stops a cough",
+                    "brings down fever only"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'Dosage' means ___.",
+                  "options": [
+                    "the name of the medicine",
+                    "how much medicine to take and how often",
+                    "side effects of medicine",
+                    "a doctor's note"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Healthy Lifestyle",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Food, Exercise, and Wellbeing",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000210000,\"blocks\":[{\"id\":\"qR7sT8uV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>healthy lifestyle</b> includes good food, regular exercise, and positive habits. Key vocabulary:\"}},{\"id\":\"xY0zA1bC2d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>nutrition</b> — the food and drink that you take in\",\"<b>calories</b> — a unit that measures energy in food\",\"<b>vitamins</b> — nutrients that keep your body healthy\",\"<b>protein</b> — found in meat, fish, eggs — helps build muscles\",\"<b>fibre</b> — found in vegetables and fruit — helps digestion\",\"<b>junk food</b> — unhealthy food like fast food, crisps, sweets\",\"<b>workout</b> — a session of physical exercise\",\"<b>wellbeing</b> — overall health of body and mind\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I try to eat a balanced diet. I exercise three times a week to stay healthy.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "vitamins",
+                    "protein",
+                    "fibre",
+                    "blizzard"
+                  ],
+                  "correctWord": "blizzard"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000210001",
+                  "english": "I try to eat a balanced diet.",
+                  "russian": "Я стараюсь питаться сбалансированно.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000210002",
+                  "english": "He works out three times a week.",
+                  "russian": "Он тренируется три раза в неделю.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000210003",
+                  "english": "Eating more vegetables is good for your wellbeing.",
+                  "russian": "Есть больше овощей полезно для здоровья.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which food is high in protein?",
+                  "options": [
+                    "chips",
+                    "chocolate",
+                    "eggs",
+                    "sweets"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "What does 'junk food' mean?",
+                  "options": [
+                    "healthy food",
+                    "unhealthy food like fast food",
+                    "organic food",
+                    "expensive food"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

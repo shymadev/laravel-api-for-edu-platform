@@ -1,8 +1,11 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Database\Seeders;
 
 use App\Models\Education\Phrase;
+use App\Services\EspokeTranscriptionService;
 use App\Services\Storage\AudioStorageService;
 use App\Services\TTSService;
 use Illuminate\Database\Seeder;
@@ -14,11 +17,13 @@ class PhraseSeeder extends Seeder
 
     protected AudioStorageService $audioStorage;
 
+    protected EspokeTranscriptionService $espokeTranscriptionService;
+
     public function __construct()
     {
         $this->ttsService = new TTSService();
         $this->audioStorage = new AudioStorageService();
-
+        $this->espokeTranscriptionService = new EspokeTranscriptionService();
     }
 
     /**
@@ -28,9 +33,20 @@ class PhraseSeeder extends Seeder
     {
         $this->command->info('Starting phrase seeding...');
 
+        $difficultyLevels = \App\Models\Education\DifficultyLevel::pluck('id', 'name');
+        $levelIdMap = [
+            1 => $difficultyLevels['A1'] ?? null, // A0 → A1 (no A0 in DB)
+            2 => $difficultyLevels['A1'] ?? null,
+            3 => $difficultyLevels['A2'] ?? null,
+            4 => $difficultyLevels['B1'] ?? null,
+            5 => $difficultyLevels['B2'] ?? null,
+            6 => $difficultyLevels['C1'] ?? null,
+            7 => $difficultyLevels['C2'] ?? null,
+        ];
+
         $ttsAvailable = $this->ttsService->isHealthy();
 
-        if (! $ttsAvailable) {
+        if (!$ttsAvailable) {
             $this->command->warn('TTS service is not available. Phrases will be created without audio.');
         }
 
@@ -52,12 +68,15 @@ class PhraseSeeder extends Seeder
                     $audioPath = $this->audioStorage->upload($audio, 'phrases');
                 }
 
+                $transcription = $this->espokeTranscriptionService->transcribe($phraseData['text']);
+
                 Phrase::create([
                     'text' => $phraseData['text'],
                     'translation' => $phraseData['translation'],
-                    'difficulty_level_id' => $phraseData['difficulty_level'],
+                    'difficulty_level_id' => $levelIdMap[$phraseData['difficulty_level']] ?? null,
                     'topic' => $phraseData['topic'],
                     'audio' => $audioPath,
+                    'transcription' => $transcription,
                 ]);
 
                 $created++;
@@ -76,15 +95,13 @@ class PhraseSeeder extends Seeder
         $progressBar->finish();
         $this->command->newLine(2);
 
-        $this->command->info("Seeding finished:");
+        $this->command->info('Seeding finished:');
         $this->command->info("Created: {$created} / {$total}");
         $this->command->warn("Failed: {$failed}");
     }
 
     /**
      * Get all phrases organized by difficulty level and topic.
-     *
-     * @return array
      */
     protected function getPhrases(): array
     {
@@ -95,7 +112,7 @@ class PhraseSeeder extends Seeder
             $this->getB1Phrases(),
             $this->getB2Phrases(),
             $this->getC1Phrases(),
-            $this->getC2Phrases()
+            $this->getC2Phrases(),
         );
     }
 

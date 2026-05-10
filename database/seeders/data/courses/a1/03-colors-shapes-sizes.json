@@ -1,0 +1,1013 @@
+{
+  "title": "Colors, Shapes & Sizes",
+  "description": "Learn the names of basic colors, geometric shapes, and size adjectives in English. This course teaches you to describe everyday objects and understand simple descriptions.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": false,
+  "preview_image": "Colors, Shapes & Sizes.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Basic Colors",
+      "subtopics": [
+        {
+          "title": "1.1 Primary and Secondary Colors",
+          "lessons": [
+            {
+              "title": "Learning Color Names",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700002001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Colors are very useful for describing the world around you. Here are the most common English color names:\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Primary colors:</b>\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>red</b> — красный\",\"<b>blue</b> — синий\",\"<b>yellow</b> — жёлтый\"]}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Secondary colors:</b>\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>green</b> — зелёный\",\"<b>orange</b> — оранжевый\",\"<b>purple</b> — фиолетовый\"]}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Neutral colors:</b>\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>white</b> — белый\",\"<b>black</b> — чёрный\",\"<b>grey</b> — серый\",\"<b>brown</b> — коричневый\",\"<b>pink</b> — розовый\"]}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"To describe an object: adjective + noun → <em>a <b>red</b> apple</em>, <em>a <b>blue</b> sky</em>.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The sky is blue. The grass is green. The apple is red.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "red",
+                      "translation": "красный"
+                    },
+                    {
+                      "text": "blue",
+                      "translation": "синий"
+                    },
+                    {
+                      "text": "green",
+                      "translation": "зелёный"
+                    },
+                    {
+                      "text": "yellow",
+                      "translation": "жёлтый"
+                    },
+                    {
+                      "text": "black",
+                      "translation": "чёрный"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700002001001",
+                      "left": "red",
+                      "right": "красный"
+                    },
+                    {
+                      "id": "1700002001002",
+                      "left": "blue",
+                      "right": "синий"
+                    },
+                    {
+                      "id": "1700002001003",
+                      "left": "green",
+                      "right": "зелёный"
+                    },
+                    {
+                      "id": "1700002001004",
+                      "left": "yellow",
+                      "right": "жёлтый"
+                    },
+                    {
+                      "id": "1700002001005",
+                      "left": "white",
+                      "right": "белый"
+                    },
+                    {
+                      "id": "1700002001006",
+                      "left": "black",
+                      "right": "чёрный"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "red",
+                    "blue",
+                    "green",
+                    "yellow",
+                    "black"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What color is the sky on a sunny day?",
+                      "options": [
+                        "red",
+                        "blue",
+                        "green",
+                        "brown"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What color is grass?",
+                      "options": [
+                        "purple",
+                        "orange",
+                        "green",
+                        "pink"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which word means 'чёрный' in English?",
+                      "options": [
+                        "white",
+                        "grey",
+                        "brown",
+                        "black"
+                      ],
+                      "correctOptions": [
+                        3
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Colors in Sentences",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700002002000,\"blocks\":[{\"id\":\"yY5zZ6aA7b\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, adjectives like colors come <b>before the noun</b> they describe.\"}},{\"id\":\"bB8cC9dD0e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples:\"}},{\"id\":\"eE1fF2gG3h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"a <b>red</b> car\",\"a <b>blue</b> shirt\",\"a <b>yellow</b> banana\",\"a <b>green</b> tree\"]}},{\"id\":\"hH4iI5jJ6k\",\"type\":\"paragraph\",\"data\":{\"text\":\"We can also use colors after the verb <b>to be</b>:\"}},{\"id\":\"kK7lL8mM9n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"The car <b>is red</b>.\",\"Her eyes <b>are blue</b>.\",\"The sky <b>is grey</b> today.\"]}},{\"id\":\"nN0oO1pP2q\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask about color: <b>What color is it?</b> or <b>What color are they?</b>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "What color is it? It is a red car.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "The apple is [red]. The sky is [blue]. The grass is [green]. The sun is [yellow]. Snow is [white].",
+                  "gaps": [
+                    {
+                      "placeholder": "red",
+                      "answers": [
+                        "red"
+                      ]
+                    },
+                    {
+                      "placeholder": "blue",
+                      "answers": [
+                        "blue"
+                      ]
+                    },
+                    {
+                      "placeholder": "green",
+                      "answers": [
+                        "green"
+                      ]
+                    },
+                    {
+                      "placeholder": "yellow",
+                      "answers": [
+                        "yellow"
+                      ]
+                    },
+                    {
+                      "placeholder": "white",
+                      "answers": [
+                        "white"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "What color ___ the car?",
+                      "answers": [
+                        "is",
+                        "are",
+                        "am"
+                      ]
+                    },
+                    {
+                      "sentence": "The flowers ___ yellow.",
+                      "answers": [
+                        "are",
+                        "is",
+                        "am"
+                      ]
+                    },
+                    {
+                      "sentence": "My bag ___ black.",
+                      "answers": [
+                        "is",
+                        "are",
+                        "am"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which word order is correct?",
+                      "options": [
+                        "a car red",
+                        "a red car",
+                        "red a car",
+                        "car a red"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you ask about color?",
+                      "options": [
+                        "What size is it?",
+                        "What color is it?",
+                        "What shape is it?",
+                        "How big is it?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Basic Shapes",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Common Shapes",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700002003000,\"blocks\":[{\"id\":\"qQ3rR4sS5t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the most common shapes in English:\"}},{\"id\":\"tT6uU7vV8w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>circle</b> — круг (e.g. a coin, the sun)\",\"<b>square</b> — квадрат (e.g. a tile, a window)\",\"<b>triangle</b> — треугольник (e.g. a road sign, a pizza slice)\",\"<b>rectangle</b> — прямоугольник (e.g. a door, a book)\",\"<b>star</b> — звезда\",\"<b>heart</b> — сердце\",\"<b>oval</b> — овал (e.g. an egg)\"]}},{\"id\":\"wW9xX0yY1z\",\"type\":\"paragraph\",\"data\":{\"text\":\"To describe shape: <em>The table is <b>rectangular</b>.</em> or <em>It is a <b>round</b> table.</em>\"}},{\"id\":\"zZ2aA3bB4c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Shape adjectives: circle → <b>round/circular</b>, square → <b>square</b>, triangle → <b>triangular</b>.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "A circle is round. A triangle has three sides.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700002003001",
+                  "left": "circle",
+                  "right": "круг"
+                },
+                {
+                  "id": "1700002003002",
+                  "left": "square",
+                  "right": "квадрат"
+                },
+                {
+                  "id": "1700002003003",
+                  "left": "triangle",
+                  "right": "треугольник"
+                },
+                {
+                  "id": "1700002003004",
+                  "left": "rectangle",
+                  "right": "прямоугольник"
+                },
+                {
+                  "id": "1700002003005",
+                  "left": "star",
+                  "right": "звезда"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "A shape with three sides",
+                  "word": "triangle"
+                },
+                {
+                  "hint": "A perfectly round shape",
+                  "word": "circle"
+                },
+                {
+                  "hint": "A shape with four equal sides",
+                  "word": "square"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "An egg has the shape of a...",
+                  "options": [
+                    "square",
+                    "triangle",
+                    "oval",
+                    "star"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "How many sides does a triangle have?",
+                  "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "A square has four equal sides. True or false?",
+                  "options": [
+                    "True",
+                    "False"
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Describing Objects by Shape",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700002004000,\"blocks\":[{\"id\":\"cC5dD6eE7f\",\"type\":\"paragraph\",\"data\":{\"text\":\"We can describe everyday objects using shape words. Look at these examples:\"}},{\"id\":\"fF8gG9hH0i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"The <b>clock</b> is round (circular).\",\"The <b>door</b> is rectangular.\",\"The <b>pizza slice</b> is triangular.\",\"The <b>window</b> is square.\"]}},{\"id\":\"iI1jJ2kK3l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful question: <b>What shape is it?</b>\"}},{\"id\":\"lL4mM5nN6o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful answer: <em>It is a circle. / It is round. / It has a rectangular shape.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "What shape is it? It is round. The clock is circular.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_round",
+                  "name": "Round",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_rect",
+                  "name": "Rectangle/Square",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_tri",
+                  "name": "Triangle",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "coin",
+                  "correctCategory": "cat_round"
+                },
+                {
+                  "id": "item_2",
+                  "text": "wheel",
+                  "correctCategory": "cat_round"
+                },
+                {
+                  "id": "item_3",
+                  "text": "book",
+                  "correctCategory": "cat_rect"
+                },
+                {
+                  "id": "item_4",
+                  "text": "door",
+                  "correctCategory": "cat_rect"
+                },
+                {
+                  "id": "item_5",
+                  "text": "pizza slice",
+                  "correctCategory": "cat_tri"
+                },
+                {
+                  "id": "item_6",
+                  "text": "road sign",
+                  "correctCategory": "cat_tri"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A coin is [round]. A book is [rectangular]. A pizza slice is [triangular]. A window can be [square].",
+              "gaps": [
+                {
+                  "placeholder": "round",
+                  "answers": [
+                    "round",
+                    "circular"
+                  ]
+                },
+                {
+                  "placeholder": "rectangular",
+                  "answers": [
+                    "rectangular"
+                  ]
+                },
+                {
+                  "placeholder": "triangular",
+                  "answers": [
+                    "triangular"
+                  ]
+                },
+                {
+                  "placeholder": "square",
+                  "answers": [
+                    "square",
+                    "rectangular"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which object is NOT round?",
+                  "options": [
+                    "coin",
+                    "wheel",
+                    "door",
+                    "ball"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "What shape is a typical door?",
+                  "options": [
+                    "circular",
+                    "triangular",
+                    "rectangular",
+                    "oval"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Size Adjectives",
+      "subtopics": [
+        {
+          "title": "3.1 Big and Small",
+          "lessons": [
+            {
+              "title": "Describing Size",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700002005000,\"blocks\":[{\"id\":\"oO7pP8qQ9r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Size adjectives help us describe how large or small something is.\"}},{\"id\":\"rR0sS1tT2u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Basic size adjectives:</b>\"}},{\"id\":\"uU3vV4wW5x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>big / large</b> — большой\",\"<b>small / little</b> — маленький\",\"<b>tall</b> — высокий (for people or things that are high)\",\"<b>short</b> — короткий / низкий\",\"<b>long</b> — длинный\",\"<b>wide</b> — широкий\",\"<b>narrow</b> — узкий\",\"<b>thick</b> — толстый\",\"<b>thin</b> — тонкий/худой\"]}},{\"id\":\"xX6yY7zZ8a\",\"type\":\"paragraph\",\"data\":{\"text\":\"Adjectives go <b>before the noun</b>: a <em>big</em> house, a <em>small</em> cat, a <em>tall</em> building.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "An elephant is big. A mouse is small. A giraffe is very tall.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "big / large",
+                      "translation": "большой"
+                    },
+                    {
+                      "text": "small / little",
+                      "translation": "маленький"
+                    },
+                    {
+                      "text": "tall",
+                      "translation": "высокий"
+                    },
+                    {
+                      "text": "long",
+                      "translation": "длинный"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700002005001",
+                      "left": "big",
+                      "right": "большой"
+                    },
+                    {
+                      "id": "1700002005002",
+                      "left": "small",
+                      "right": "маленький"
+                    },
+                    {
+                      "id": "1700002005003",
+                      "left": "tall",
+                      "right": "высокий"
+                    },
+                    {
+                      "id": "1700002005004",
+                      "left": "short",
+                      "right": "короткий"
+                    },
+                    {
+                      "id": "1700002005005",
+                      "left": "long",
+                      "right": "длинный"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "An elephant is... and a mouse is...",
+                      "options": [
+                        "small and big",
+                        "big and small",
+                        "tall and short",
+                        "long and short"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which adjective describes a giraffe best?",
+                      "options": [
+                        "short",
+                        "narrow",
+                        "tall",
+                        "small"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3.2 Opposites",
+          "lessons": [
+            {
+              "title": "Opposite Size Adjectives",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700002006000,\"blocks\":[{\"id\":\"aA9bB0cC1d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Learning adjectives in <b>opposite pairs</b> is a great way to remember them!\"}},{\"id\":\"dD2eE3fF4g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"big ↔ small\",\"tall ↔ short\",\"long ↔ short\",\"wide ↔ narrow\",\"thick ↔ thin\",\"heavy ↔ light\"]}},{\"id\":\"gG5hH6iI7j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Note: <em>short</em> can be the opposite of both <em>tall</em> (height) and <em>long</em> (length).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Big and small. Tall and short. Long and short. Wide and narrow.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700002006001",
+                      "left": "big",
+                      "right": "small"
+                    },
+                    {
+                      "id": "1700002006002",
+                      "left": "tall",
+                      "right": "short"
+                    },
+                    {
+                      "id": "1700002006003",
+                      "left": "long",
+                      "right": "short"
+                    },
+                    {
+                      "id": "1700002006004",
+                      "left": "wide",
+                      "right": "narrow"
+                    },
+                    {
+                      "id": "1700002006005",
+                      "left": "heavy",
+                      "right": "light"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "The opposite of tall is long.",
+                      "correctText": "The opposite of tall is short."
+                    },
+                    {
+                      "text": "The opposite of wide is thick.",
+                      "correctText": "The opposite of wide is narrow."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "A cat is [small], but a horse is [big]. A skyscraper is [tall], but a cottage is [short]. A river is [wide], but a stream is [narrow].",
+                  "gaps": [
+                    {
+                      "placeholder": "small",
+                      "answers": [
+                        "small",
+                        "little"
+                      ]
+                    },
+                    {
+                      "placeholder": "big",
+                      "answers": [
+                        "big",
+                        "large"
+                      ]
+                    },
+                    {
+                      "placeholder": "tall",
+                      "answers": [
+                        "tall"
+                      ]
+                    },
+                    {
+                      "placeholder": "short",
+                      "answers": [
+                        "short"
+                      ]
+                    },
+                    {
+                      "placeholder": "wide",
+                      "answers": [
+                        "wide"
+                      ]
+                    },
+                    {
+                      "placeholder": "narrow",
+                      "answers": [
+                        "narrow"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is the opposite of 'wide'?",
+                      "options": [
+                        "big",
+                        "narrow",
+                        "tall",
+                        "short"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "A big small car.",
+                        "A car big.",
+                        "A big car.",
+                        "Big car a."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Describing Objects",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Color + Shape + Size Together",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700002007000,\"blocks\":[{\"id\":\"jJ8kK9lL0m\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, when we use multiple adjectives, they follow a specific order:\"}},{\"id\":\"mM1nN2oO3p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Size → Color → Shape → Noun</b>\"}},{\"id\":\"pP4qQ5rR6s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples:\"}},{\"id\":\"sS7tT8uU9v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"a <b>big red</b> ball\",\"a <b>small blue</b> circle\",\"a <b>long yellow</b> banana\",\"a <b>small round</b> coin\"]}},{\"id\":\"vV0wW1xX2y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Questions to describe things:\"}},{\"id\":\"yY3zZ4aA5b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>What color is it?</b> — It is blue.\",\"<b>What shape is it?</b> — It is round.\",\"<b>How big is it?</b> — It is small.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "It is a small red ball. What color is it? It is red.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "big",
+                    "small",
+                    "red",
+                    "tall"
+                  ],
+                  "correctWord": "red"
+                },
+                {
+                  "words": [
+                    "circle",
+                    "square",
+                    "triangle",
+                    "blue"
+                  ],
+                  "correctWord": "blue"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700002007001",
+                  "english": "It is a small red ball.",
+                  "russian": "Это маленький красный мяч.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700002007002",
+                  "english": "What color is your bag?",
+                  "russian": "Какого цвета твоя сумка?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700002007003",
+                  "english": "The table is big and brown.",
+                  "russian": "Стол большой и коричневый.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700002007004",
+                  "english": "She has long black hair.",
+                  "russian": "У неё длинные чёрные волосы.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence uses adjectives in the correct order?",
+                  "options": [
+                    "a red big apple",
+                    "a big red apple",
+                    "a apple big red",
+                    "an apple red big"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "How do you ask about the color of an object?",
+                  "options": [
+                    "What shape is it?",
+                    "How big is it?",
+                    "What color is it?",
+                    "What size is it?"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Colors and Clothes",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Describing What You Wear",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700002008000,\"blocks\":[{\"id\":\"bB6cC7dD8e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Colors are very useful when talking about clothes! Here are common clothing items:\"}},{\"id\":\"eE9fF0gG1h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>T-shirt</b> — футболка\",\"<b>shirt</b> — рубашка\",\"<b>trousers / pants</b> — брюки\",\"<b>dress</b> — платье\",\"<b>shoes</b> — туфли / обувь\",\"<b>jacket</b> — куртка\",\"<b>hat</b> — шапка / шляпа\"]}},{\"id\":\"hH2iI3jJ4k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Describing clothes:\"}},{\"id\":\"kK5lL6mM7n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I am wearing a <b>blue shirt</b>.\",\"She has a <b>red dress</b>.\",\"He is wearing <b>black trousers</b>.\"]}},{\"id\":\"nN8oO9pP0q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Question: <b>What are you wearing?</b>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I am wearing a blue shirt and black trousers.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following sentence aloud",
+                "targetPhrase": "I am wearing a blue shirt and black trousers."
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "I am [wearing] a green [shirt] and black [trousers]. My shoes are [brown].",
+              "gaps": [
+                {
+                  "placeholder": "wearing",
+                  "answers": [
+                    "wearing"
+                  ]
+                },
+                {
+                  "placeholder": "shirt",
+                  "answers": [
+                    "shirt"
+                  ]
+                },
+                {
+                  "placeholder": "trousers",
+                  "answers": [
+                    "trousers",
+                    "pants"
+                  ]
+                },
+                {
+                  "placeholder": "brown",
+                  "answers": [
+                    "brown"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "How do you say 'синяя рубашка'?",
+                  "options": [
+                    "red shirt",
+                    "blue dress",
+                    "blue shirt",
+                    "black jacket"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Complete: She is wearing a ___ dress.",
+                  "options": [
+                    "red",
+                    "reds",
+                    "redly",
+                    "redding"
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

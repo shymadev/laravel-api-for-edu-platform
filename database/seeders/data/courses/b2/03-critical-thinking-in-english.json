@@ -1,0 +1,561 @@
+{
+  "title": "Critical Thinking in English",
+  "description": "Develop analytical reasoning, argument evaluation, and persuasive communication skills in English. This course trains learners to construct and deconstruct arguments, identify logical fallacies, engage with complex texts, and express nuanced opinions in writing and discussion.",
+  "language": "en",
+  "difficulty_level": "B2",
+  "is_premium": true,
+  "preview_image": "Critical Thinking in English.jpg",
+  "topics": [
+    {
+      "title": "Module 1: What is an Argument?",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Claims, Evidence, and Reasoning",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000021000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"In critical thinking, an <b>argument</b> is not a disagreement or a quarrel — it is a set of reasons offered in support of a conclusion. Understanding the structure of arguments is fundamental to both constructing persuasive communication and evaluating the reasoning of others.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Every argument consists of at least two components: <b>premises</b> (the reasons or evidence) and a <b>conclusion</b> (the claim being supported). A third component, <b>reasoning</b>, refers to how the premises connect to the conclusion — whether that connection is logically valid.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example: <em>'All mammals are warm-blooded. Whales are mammals. Therefore, whales are warm-blooded.'</em> The first two statements are premises; the third is the conclusion drawn from them. This is a <b>deductive</b> argument.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"An <b>inductive</b> argument, in contrast, draws a general conclusion from specific observations: <em>'Every swan I have ever seen has been white; therefore all swans are white.'</em> Inductive arguments can be strong or weak — but never definitively proven or disproven by logic alone.\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"In academic and professional English, recognising argument structure helps you identify when a writer has strong evidence, when a claim is unsupported, and when a logical leap has been made.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Every argument consists of premises, reasoning, and a conclusion.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Premise",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Conclusion",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "All humans are mortal.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Socrates is human.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Therefore, Socrates is mortal.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_4",
+                  "text": "The unemployment rate has risen for three consecutive quarters.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Hence, economic policy needs to be revised.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Studies show that increased screen time correlates with reduced sleep quality.",
+                  "correctCategory": "cat_1"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In a logical argument, what is a 'premise'?",
+                  "options": [
+                    "The conclusion of the argument",
+                    "A reason or piece of evidence used to support the conclusion",
+                    "A logical fallacy",
+                    "An opinion that cannot be tested"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which of the following best describes an inductive argument?",
+                  "options": [
+                    "It reaches a conclusion that must be true if the premises are true.",
+                    "It draws a general conclusion from specific observations.",
+                    "It is always logically valid.",
+                    "It begins with a general rule and applies it to a specific case."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Logical Fallacies",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Recognising Flawed Arguments",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000022000,\"blocks\":[{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>logical fallacy</b> is an error in reasoning that makes an argument invalid or less persuasive. Fallacies can be accidental (errors of careless thinking) or deliberate (used to manipulate an audience). Identifying fallacies is a core critical thinking skill.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"header\",\"data\":{\"text\":\"Common logical fallacies:\",\"level\":3}},{\"id\":\"xY2zA3bC4d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Ad hominem</b> — attacking the person rather than the argument: <em>'You can't trust her views on climate change — she failed biology.'</em>\",\"<b>Straw man</b> — misrepresenting an opponent's argument to make it easier to attack: <em>'She wants to reduce defence spending, so apparently she wants us to be defenceless.'</em>\",\"<b>False dilemma</b> — presenting only two options when more exist: <em>'You're either with us or against us.'</em>\",\"<b>Slippery slope</b> — claiming one step inevitably leads to extreme consequences: <em>'If we allow this, soon we'll have complete anarchy.'</em>\",\"<b>Appeal to authority</b> — citing an irrelevant authority as evidence: <em>'This celebrity endorses this diet, so it must work.'</em>\",\"<b>Circular reasoning</b> — using the conclusion as a premise: <em>'The Bible is true because it says so in the Bible.'</em>\"]}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Being able to name and explain fallacies in English is a valuable academic and professional skill, particularly in debate, written essays, and critical media analysis.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "A straw man fallacy misrepresents the opponent's argument to make it easier to attack.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Ad hominem",
+                  "right": "Attacking the person, not the argument"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "False dilemma",
+                  "right": "Offering only two options when more exist"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Straw man",
+                  "right": "Distorting the opponent's argument"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Slippery slope",
+                  "right": "Assuming one event inevitably causes extreme consequences"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Circular reasoning",
+                  "right": "Using the conclusion as its own premise"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Fallacy that attacks the person making the argument rather than their reasoning",
+                  "word": "ad hominem"
+                },
+                {
+                  "hint": "Fallacy where the conclusion is used as a premise to support itself",
+                  "word": "circular reasoning"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Identify the fallacy: 'If we allow students to retake exams, soon no one will bother studying.'",
+                  "options": [
+                    "Ad hominem",
+                    "False dilemma",
+                    "Slippery slope",
+                    "Circular reasoning"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Identify the fallacy: 'She can't make good business decisions — she's never run a company herself.'",
+                  "options": [
+                    "Straw man",
+                    "Ad hominem",
+                    "Appeal to authority",
+                    "False dilemma"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Evaluating Sources and Evidence",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Assessing Credibility and Bias",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000023000,\"blocks\":[{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Critical thinking requires evaluating not just <em>what</em> is said, but <em>who</em> is saying it and <em>why</em>. Source evaluation is especially important in the digital age, when misinformation, selective reporting, and ideologically motivated content are widespread.\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"header\",\"data\":{\"text\":\"The CRAAP test (a useful evaluative framework):\",\"level\":3}},{\"id\":\"zA4bC5dE6f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Currency</b> — How recent is the information?\",\"<b>Relevance</b> — Does it address your specific question?\",\"<b>Authority</b> — Who produced it? What are their credentials?\",\"<b>Accuracy</b> — Is the information supported by evidence?\",\"<b>Purpose</b> — Why was it written? To inform, persuade, or sell?\"]}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Bias</b> does not automatically make a source unreliable, but it must be acknowledged. Academic journals undergo peer review; opinion articles, social media posts, and think-tank reports may reflect specific political or commercial interests. Triangulating information across multiple credible sources is essential.\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Language clues to bias: loaded vocabulary (<em>terrorist</em> vs. <em>militant</em>), selective statistics, omission of contradicting evidence, and appeals to emotion over logic.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Evaluating the authority, accuracy, and purpose of a source is essential to critical thinking.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "High Credibility",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Requires Caution",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "A peer-reviewed article in a medical journal",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "An anonymous blog post with no references",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "A WHO report on global health statistics",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_4",
+                  "text": "A social media post about vaccine side effects",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "A government statistical bulletin",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_6",
+                  "text": "A product review site funded by manufacturers",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which CRAAP criterion asks 'Why was this content produced?'",
+                  "options": [
+                    "Currency",
+                    "Accuracy",
+                    "Relevance",
+                    "Purpose"
+                  ],
+                  "correctOptions": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Expressing and Defending Opinions",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Language for Expressing Nuanced Opinions",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000024000,\"blocks\":[{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"Advanced English speakers do not simply state opinions — they <b>qualify</b> them, <b>defend</b> them, <b>acknowledge opposing views</b>, and <b>hedge</b> where appropriate. This shows intellectual sophistication and increases persuasive credibility.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"header\",\"data\":{\"text\":\"Expressing opinions with nuance:\",\"level\":3}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Strong position:</b> <em>It is clear that... / The evidence strongly suggests... / There can be little doubt that...</em>\",\"<b>Moderate position:</b> <em>It would appear that... / The evidence tends to suggest... / On balance, it seems...</em>\",\"<b>Tentative position:</b> <em>It is possible that... / One might argue... / There is some evidence to suggest...</em>\",\"<b>Acknowledging counter-views:</b> <em>While some scholars argue... / Critics contend that... / Admittedly, there are those who maintain...</em>\",\"<b>Refuting:</b> <em>However, this overlooks... / This argument fails to account for... / The evidence does not support this claim...\"]}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Avoid the extremes of either never committing to a view (which appears evasive) or always asserting certainty (which appears dogmatic and naive in complex matters).\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "While some scholars argue that economic growth is the primary driver of inequality, the evidence tends to suggest that policy choices play a more decisive role.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700024001",
+                  "english": "While critics contend that remote work reduces productivity, the evidence tends to suggest the opposite.",
+                  "russian": "Хотя критики утверждают, что удалённая работа снижает производительность, данные, как правило, свидетельствуют об обратном.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700024002",
+                  "english": "It is possible that stricter regulations would have unintended consequences for small businesses.",
+                  "russian": "Вполне возможно, что более жёсткие нормы регулирования могут иметь непреднамеренные последствия для малого бизнеса.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following sentence aloud, paying attention to formal intonation",
+                "targetPhrase": "While some scholars argue otherwise, the evidence tends to suggest that intervention is necessary."
+              }
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase expresses the most tentative (least certain) opinion?",
+                  "options": [
+                    "It is clear that...",
+                    "There is overwhelming evidence that...",
+                    "One might argue that...",
+                    "The data conclusively shows that..."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Analysing Written Arguments",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Close Reading and Text Analysis",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000025000,\"blocks\":[{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Close reading</b> is the careful, detailed analysis of a text, focusing not just on meaning but on <em>how</em> meaning is constructed — through word choice, sentence structure, rhetorical devices, and the organisation of ideas.\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Rhetorical analysis</b> considers the writer's purpose, audience, and techniques: <em>ethos</em> (appeal to authority/credibility), <em>pathos</em> (appeal to emotion), and <em>logos</em> (appeal to logic/evidence). Skilled writers typically blend all three.\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"When analysing a text, consider: What is the main claim? What evidence is provided? Is the reasoning valid? What assumptions does the writer make? What is left unsaid or contested? Is language neutral or loaded?\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Academic critical writing should: <b>summarise</b> the argument neutrally, then <b>evaluate</b> its strengths and weaknesses, then offer your own <b>assessment</b>. Avoid merely paraphrasing — evaluation requires judgement.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Ethos, pathos, and logos are the three classical modes of persuasion identified by Aristotle.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Ethos",
+                  "right": "Appeal to the writer's credibility or authority"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Pathos",
+                  "right": "Appeal to the reader's emotions"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Logos",
+                  "right": "Appeal to logic, data, or reasoned argument"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Loaded language",
+                  "right": "Words chosen to influence emotions rather than describe facts"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Assumption",
+                  "right": "An unstated premise that the argument depends on"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "ethos",
+                    "pathos",
+                    "logos",
+                    "thesis"
+                  ],
+                  "correctWord": "thesis"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "A writer quotes statistics from a government report to support their claim. Which rhetorical appeal is this primarily?",
+                  "options": [
+                    "Ethos",
+                    "Pathos",
+                    "Logos",
+                    "Irony"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "A journalist uses the phrase 'innocent victims' to describe protesters who were arrested. Which technique is this?",
+                  "options": [
+                    "Logos",
+                    "Circular reasoning",
+                    "Loaded language",
+                    "Ethos"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Debate and Discussion Strategies",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Participating in and Leading Academic Discussion",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000026000,\"blocks\":[{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Academic and professional discussions require strategic listening and speaking skills. Effective participants do not simply wait for their turn to speak — they engage actively with what others say, building on or challenging contributions in a structured way.\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"header\",\"data\":{\"text\":\"Useful phrases for discussion:\",\"level\":3}},{\"id\":\"mN3oP4qR5s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Building on a point:</b> <em>That is a valid point, and I would add that...</em>\",\"<b>Politely disagreeing:</b> <em>I take your point, but I would argue that...</em> / <em>With respect, I think the evidence suggests otherwise.</em>\",\"<b>Asking for clarification:</b> <em>Could you clarify what you mean by...?</em> / <em>Are you suggesting that...?</em>\",\"<b>Redirecting:</b> <em>That's an interesting point, but perhaps we could return to the main question...</em>\",\"<b>Summarising:</b> <em>So, if I understand correctly, your argument is that...</em>\"]}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Hedging and qualification</b> are also important in discussion: <em>I may be wrong, but...</em> / <em>I think I recall reading that...</em> This shows intellectual honesty rather than weakness.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I take your point, but I would argue that the evidence suggests a different conclusion.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following discussion phrase aloud clearly",
+                "targetPhrase": "With respect, I think the evidence suggests otherwise."
+              }
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700026001",
+                  "english": "Could you clarify what you mean by 'systemic failure' in this context?",
+                  "russian": "Не могли бы вы пояснить, что вы имеете в виду под «системным сбоем» в данном контексте?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700026002",
+                  "english": "So, if I understand correctly, your argument is that increased regulation would reduce innovation?",
+                  "russian": "Итак, если я правильно понимаю, ваш аргумент состоит в том, что усиление регулирования снизит инновационный потенциал?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase most effectively signals polite disagreement in academic discussion?",
+                  "options": [
+                    "That's completely wrong.",
+                    "I take your point, but I would argue that the evidence suggests otherwise.",
+                    "No, you're mistaken about that.",
+                    "I disagree entirely with everything you said."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

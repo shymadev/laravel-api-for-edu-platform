@@ -1,0 +1,167 @@
+{
+  "title": "Science & Data for Readers",
+  "description": "Develop the advanced reading and analytical skills needed to engage with scientific texts, data visualisations, and academic research. Covers the language of scientific reasoning, evaluating sources, interpreting statistics, and writing evidence-based arguments. Designed for C1 learners in STEM or research-adjacent fields.",
+  "language": "en",
+  "difficulty_level": "C1",
+  "is_premium": true,
+  "preview_image": "Science & Data for Readers.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Reading Scientific Texts",
+      "subtopics": [
+        {
+          "title": "1.1 Structure of Scientific Writing",
+          "lessons": [
+            {
+              "title": "How Academic Papers Are Organised",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700110001000,\"blocks\":[{\"id\":\"sA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Academic scientific papers follow the <b>IMRAD</b> structure. Understanding this structure helps you read efficiently and extract key information.\"}},{\"id\":\"sD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"IMRAD Structure\",\"level\":3}},{\"id\":\"sG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Introduction</b> — background, research question, hypothesis\",\"<b>Methods</b> — how the study was conducted; participants, instruments, procedure\",\"<b>Results</b> — what was found; data presented in tables, graphs, figures\",\"<b>And Discussion</b> — interpretation of results, limitations, conclusions\"]}},{\"id\":\"sJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Reading strategy:</b> For a quick overview, read the <em>Abstract</em>, <em>Introduction</em>, and <em>Conclusion</em> first. Read the Methods and Results sections only if you need methodological detail.\"}},{\"id\":\"sM3nN4oO5p\",\"type\":\"header\",\"data\":{\"text\":\"Key Vocabulary\",\"level\":3}},{\"id\":\"sN1oP2qQ3r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>hypothesis</b> — a testable prediction\",\"<b>variable</b> — a factor that can change in an experiment\",\"<b>correlation</b> — a relationship between two variables\",\"<b>causation</b> — one variable directly causes another\",\"<b>peer review</b> — expert evaluation before publication\",\"<b>replication</b> — repeating a study to verify results\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    { "id": "pair_1", "left": "hypothesis", "right": "a testable prediction about what will happen" },
+                    { "id": "pair_2", "left": "correlation", "right": "a relationship between two variables (not necessarily causal)" },
+                    { "id": "pair_3", "left": "peer review", "right": "evaluation by other experts before publication" },
+                    { "id": "pair_4", "left": "replication", "right": "repeating a study to check whether results hold" },
+                    { "id": "pair_5", "left": "causation", "right": "one thing directly causing another" }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does IMRAD stand for?",
+                      "options": ["Introduction, Methods, Results, And Discussion", "Index, Main idea, References, Abstract, Data", "Introduction, Measurement, Research, Analysis, Description", "Idea, Methodology, Report, Appendix, Data"],
+                      "correctOptions": [0]
+                    },
+                    {
+                      "text": "Two variables are correlated. Does this mean one causes the other?",
+                      "options": ["Yes, always", "No — correlation does not imply causation", "Only if the study is peer-reviewed", "Only in medical research"],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Hedging Language in Science",
+          "lessons": [
+            {
+              "title": "How Scientists Express Uncertainty",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700110002000,\"blocks\":[{\"id\":\"hA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Scientific writing rarely makes absolute claims. Instead, it uses <b>hedging language</b> to express degrees of certainty and avoid overgeneralisation.\"}},{\"id\":\"hD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Hedging Devices\",\"level\":3}},{\"id\":\"hG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Modal verbs:</b> may, might, could, should, would\",\"<b>Epistemic adverbs:</b> possibly, probably, arguably, apparently, seemingly\",\"<b>Verb phrases:</b> seems to / tends to / appears to / is likely to\",\"<b>Approximators:</b> approximately, around, roughly, up to\",\"<b>Limiting expressions:</b> in most cases, under certain conditions, to some extent\"]}},{\"id\":\"hJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Compare:</b><br>❌ 'Social media causes depression.' (too strong — unhedged)<br>✅ 'The evidence suggests that heavy social media use may be associated with increased rates of depression in adolescents.' (hedged)\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "fill-gaps",
+                  "text": "The results ___ suggest that the intervention had a positive effect on cognitive performance. Participants ___ showed improved scores, although this ___ be due to practice effects rather than the treatment itself. The findings ___ need to be replicated in larger samples.",
+                  "gaps": [
+                    { "position": 1, "answer": "appear to", "options": ["appear to", "definitely", "always", "clearly"] },
+                    { "position": 2, "answer": "generally", "options": ["generally", "never", "absolutely", "certainly"] },
+                    { "position": 3, "answer": "could", "options": ["could", "must", "does", "will"] },
+                    { "position": 4, "answer": "would", "options": ["would", "must", "always", "definitely"] }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Why do scientists use hedging language?",
+                      "options": ["To make texts harder to understand", "To avoid making claims that go beyond what the evidence supports", "To impress other scientists", "Because English grammar requires it"],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Interpreting Data",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Describing Graphs, Charts, and Statistics",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700110003000,\"blocks\":[{\"id\":\"gA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Interpreting data visually and verbally is a core C1 skill for academic and professional contexts. Here is the language for describing trends and statistics.\"}},{\"id\":\"gD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Describing Trends\",\"level\":3}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Upward trend:</b> rose, increased, grew, climbed, surged, peaked at\",\"<b>Downward trend:</b> fell, declined, dropped, decreased, plummeted\",\"<b>Stable:</b> remained stable / steady / constant at; levelled off; plateaued\",\"<b>Fluctuation:</b> fluctuated, varied, oscillated between X and Y\"]}},{\"id\":\"gJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Key Statistical Terms\",\"level\":3}},{\"id\":\"gM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>mean</b> — average (sum ÷ number of values)\",\"<b>median</b> — middle value in an ordered set\",\"<b>sample size (n)</b> — number of participants/observations\",\"<b>statistically significant</b> — result unlikely to be due to chance (typically p < 0.05)\",\"<b>margin of error</b> — range within which the true value likely falls\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "As shown in Figure 2, global average temperatures rose steadily between 1980 and 2020, peaking at 1.2 degrees Celsius above pre-industrial levels. The data show some fluctuation in the 1990s, but the overall upward trend is statistically significant.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "fill-gaps",
+              "text": "As shown in the graph, sales ___ steadily throughout Q1, then ___ sharply in April following the product recall. By June, figures had ___ off at around 40 units per day, a level that ___ stable for the remainder of the year.",
+              "gaps": [
+                { "position": 1, "answer": "rose", "options": ["rose", "dropped", "fell", "crashed"] },
+                { "position": 2, "answer": "declined", "options": ["declined", "increased", "surged", "climbed"] },
+                { "position": 3, "answer": "levelled", "options": ["levelled", "risen", "fell", "gone"] },
+                { "position": 4, "answer": "remained", "options": ["remained", "grew", "changed", "dropped"] }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Evaluating Sources",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Critical Evaluation of Research",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700110004000,\"blocks\":[{\"id\":\"evA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Not all sources are equally reliable. Critical readers evaluate sources based on methodology, sample quality, potential bias, and reproducibility.\"}},{\"id\":\"evD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Questions to Ask When Evaluating a Source\",\"level\":3}},{\"id\":\"evG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Who conducted the study?</b> — Academic institution or commercial sponsor?\",\"<b>What was the sample size?</b> — Small samples are less reliable.\",\"<b>Was there a control group?</b> — Essential for establishing causation.\",\"<b>Has it been peer-reviewed?</b> — Peer-reviewed journals have higher credibility.\",\"<b>Has it been replicated?</b> — One study is not enough to establish a fact.\",\"<b>Could there be confounding variables?</b> — Other factors that could explain the results.\"]}},{\"id\":\"evJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Language for Critical Evaluation\",\"level\":3}},{\"id\":\"evM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>A significant limitation of this study is...</b>\",\"<b>The findings must be interpreted with caution because...</b>\",\"<b>The study suffers from a relatively small sample size.</b>\",\"<b>Potential confounding variables include...</b>\",\"<b>Further research is needed to establish whether...</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "A study has a sample size of 12 people. What is the main concern?",
+                  "options": ["The topic is not interesting", "Small samples reduce the reliability and generalisability of results", "It hasn't been translated into English", "The researchers are not qualified"],
+                  "correctOptions": [1]
+                },
+                {
+                  "text": "What is a confounding variable?",
+                  "options": ["The main variable being studied", "A variable that the researcher controls", "An uncontrolled factor that could influence the results", "A statistical error in the data"],
+                  "correctOptions": [2]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

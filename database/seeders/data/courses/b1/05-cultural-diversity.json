@@ -1,0 +1,1340 @@
+{
+  "title": "Cultural Diversity",
+  "description": "Explores vocabulary and structures for discussing cultural differences, customs and traditions, cross-cultural misunderstandings, and sensitivity in international settings. For A2 completers working or studying in multicultural environments.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": true,
+  "preview_image": "Cultural Diversity.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Talking About Your Culture",
+      "subtopics": [
+        {
+          "title": "1.1 Describing Your Cultural Background",
+          "lessons": [
+            {
+              "title": "Key Vocabulary for Describing Culture",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000401000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Culture</b> refers to the shared beliefs, values, customs, and social behaviours of a group of people. Being able to talk about your own culture and ask about others' is an important communication skill at B1 level.\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key vocabulary:\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>tradition</b> — a custom that has been practised for a long time\",\"<b>heritage</b> — the cultural practices and values passed down through generations\",\"<b>identity</b> — the sense of who you are, including your cultural background\",\"<b>customs</b> — accepted ways of behaving in a particular society\",\"<b>values</b> — principles or standards that a culture considers important\",\"<b>community</b> — a group of people who share common characteristics or interests\"]}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful phrases:\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>In my culture, it is common to...</em>\",\"<em>Where I come from, people usually...</em>\",\"<em>One tradition that is very important to us is...</em>\",\"<em>I grew up in a family where...</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "In my culture, it is common to...",
+                      "translation": "В моей культуре принято..."
+                    },
+                    {
+                      "text": "One tradition that is very important to us is...",
+                      "translation": "Одна традиция, которая очень важна для нас, — это..."
+                    },
+                    {
+                      "text": "I grew up in a family where...",
+                      "translation": "Я вырос в семье, где..."
+                    },
+                    {
+                      "text": "Where I come from, people usually...",
+                      "translation": "Там, откуда я родом, люди обычно..."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "In my culture, it is common to remove your shoes before entering a home.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "tradition",
+                      "right": "a long-standing custom passed through generations"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "heritage",
+                      "right": "cultural practices and values inherited from ancestors"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "identity",
+                      "right": "a sense of who you are, including your background"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "customs",
+                      "right": "accepted social behaviours in a community"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "values",
+                      "right": "principles a culture considers important"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "tradition",
+                    "heritage",
+                    "customs",
+                    "identity"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "fill-gaps",
+                  "text": "In my culture, it is [common] to greet elders by kissing their hand as a sign of [respect]. One [tradition] that is very important to us is gathering as a family for Sunday lunch. Our [heritage] includes folk music, traditional dances, and local festivals.",
+                  "gaps": [
+                    {
+                      "placeholder": "common",
+                      "answers": [
+                        "common",
+                        "normal",
+                        "usual"
+                      ]
+                    },
+                    {
+                      "placeholder": "respect",
+                      "answers": [
+                        "respect"
+                      ]
+                    },
+                    {
+                      "placeholder": "tradition",
+                      "answers": [
+                        "tradition",
+                        "custom"
+                      ]
+                    },
+                    {
+                      "placeholder": "heritage",
+                      "answers": [
+                        "heritage",
+                        "culture"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 7,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000401001",
+                      "english": "One tradition that is very important to us is celebrating the New Year with family.",
+                      "russian": "Одна из наших важных традиций — встречать Новый год в кругу семьи.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000401002",
+                      "english": "In my culture, it is common to remove your shoes before entering a home.",
+                      "russian": "В моей культуре принято снимать обувь перед входом в дом.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000401003",
+                      "english": "I grew up in a family where showing respect for elders was essential.",
+                      "russian": "Я вырос в семье, где уважение к старшим было обязательным.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Comparing Cultures",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000402000,\"blocks\":[{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Comparing cultures requires careful use of language to avoid generalisations and show respect. At B1 level, use comparison structures and softening language.\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Comparison structures:</b>\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>In [Country A], people tend to..., whereas in [Country B]...</em>\",\"<em>One difference between ... and ... is that...</em>\",\"<em>Unlike in my country, in Japan it is customary to...</em>\"]}},{\"id\":\"yY5zA6bB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Softening language (to avoid stereotypes):</b>\"}},{\"id\":\"cC8dD9eE0f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>In general... / Generally speaking...</em>\",\"<em>Many people in ... tend to...</em>\",\"<em>It is often said that... / There is a perception that...</em>\",\"<em>Of course, this varies from person to person.</em>\"]}},{\"id\":\"fF1gG2hH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example: <em>Generally speaking, in Japan there is a strong emphasis on punctuality and social harmony. In contrast, in some Mediterranean cultures, social interactions tend to be more relaxed and flexible. Of course, this varies from person to person.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Generally speaking, in Japan there is a strong emphasis on punctuality and social harmony.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "All people in Japan always bow deeply.",
+                      "correctText": "Generally speaking, many people in Japan tend to bow when greeting someone."
+                    },
+                    {
+                      "text": "Everyone in Germany never is late.",
+                      "correctText": "Generally speaking, punctuality is highly valued in Germany."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "Generally ___, in Scandinavian cultures work-life balance is considered very important.",
+                      "answers": [
+                        "speaking",
+                        "said"
+                      ]
+                    },
+                    {
+                      "sentence": "Unlike in my country, in the UK it is ___ to queue patiently.",
+                      "answers": [
+                        "customary",
+                        "common",
+                        "normal",
+                        "usual"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase is best for softening a cultural generalisation?",
+                      "options": [
+                        "All people in Japan always...",
+                        "Generally speaking, many people in Japan tend to...",
+                        "Japanese people never...",
+                        "Everyone in Japan is..."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which word correctly completes this sentence: 'In Japan, it is customary to bow, ___ in Western countries people usually shake hands.'",
+                      "options": [
+                        "and",
+                        "because",
+                        "whereas",
+                        "so"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Customs and Traditions Around the World",
+      "subtopics": [
+        {
+          "title": "2.1 Greetings and Social Customs",
+          "lessons": [
+            {
+              "title": "How Greetings Differ Across Cultures",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000403000,\"blocks\":[{\"id\":\"iI4jJ5kK6l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Greetings are one of the most visible aspects of culture. They vary greatly between countries and contexts.\"}},{\"id\":\"lL7mM8nN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples of greeting customs around the world:\"}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>UK / USA</b> — handshake in formal settings; hug or wave between friends\",\"<b>France</b> — cheek kisses (la bise) — usually two, sometimes four\",\"<b>Japan</b> — bow; the deeper the bow, the more respectful\",\"<b>Middle East</b> — handshake, often holding hands for a moment as a sign of warmth\",\"<b>New Zealand (Maori)</b> — hongi: pressing noses and foreheads together\"]}},{\"id\":\"rR3sS4tT5u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Modal verbs for describing customs:\"}},{\"id\":\"uU6vV7wW8x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>In Japan, you <b>should</b> bow when greeting someone.</em>\",\"<em>You <b>shouldn't</b> use someone's first name unless invited to.</em>\",\"<em>It is considered rude to...</em>\",\"<em>It is expected that you will...</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "In Japan, you should bow when greeting someone. The deeper the bow, the more respectful.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Formal",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Informal",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "Firm handshake at a business meeting",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Hug when meeting an old friend",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Deep bow when meeting a senior colleague",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "A wave across the street",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Exchanging business cards with both hands",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "A fist bump with a friend",
+                      "correctCategory": "cat2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "A Maori greeting involving pressing noses and foreheads together",
+                      "word": "hongi"
+                    },
+                    {
+                      "hint": "French cheek kisses as a greeting",
+                      "word": "la bise"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "In Japan, what is the most common formal greeting?",
+                      "options": [
+                        "A handshake",
+                        "A hug",
+                        "A bow",
+                        "Cheek kisses"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which modal verb is correct? 'In formal situations in the UK, you ___ use someone's first name without being invited to.'",
+                      "options": [
+                        "should",
+                        "must",
+                        "shouldn't",
+                        "might"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Table Manners and Food Customs",
+          "lessons": [
+            {
+              "title": "Eating Customs Around the World",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000404000,\"blocks\":[{\"id\":\"xX9yY0zA1b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Food customs are deeply connected to culture. What is considered polite at the dinner table in one country may be rude in another.\"}},{\"id\":\"bB2cC3dD4e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples of food customs:\"}},{\"id\":\"eE5fF6gG7h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Japan</b> — it is considered polite to say <em>itadakimasu</em> before eating; slurping noodles is acceptable and even complimentary\",\"<b>China</b> — leaving a small amount of food on your plate can signal that you are full and satisfied; finishing everything might imply you were not given enough\",\"<b>Middle East / India</b> — eating with your right hand is traditional; the left hand is considered unclean\",\"<b>Turkey</b> — it is common to share dishes rather than order individual meals\",\"<b>UK</b> — placing your cutlery together after eating signals you have finished\"]}},{\"id\":\"hH8iI9jJ0k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key vocabulary: <em>cutlery, host, portion, to serve, course (starter / main / dessert), to compliment the host, to toast</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "In many cultures, it is polite to compliment the host on the food they have prepared.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "cutlery",
+                      "right": "knives, forks, and spoons"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "host",
+                      "right": "the person who invites guests and serves food"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "to toast",
+                      "right": "to raise a glass and wish good health"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "portion",
+                      "right": "the amount of food served to one person"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "course",
+                      "right": "a part of a meal (starter, main, dessert)"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "starter",
+                        "main course",
+                        "dessert",
+                        "cutlery"
+                      ],
+                      "correctWord": "cutlery"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "In many Middle Eastern cultures, it is [traditional] to eat with your right hand. In Japan, it is [polite] to say a phrase of gratitude before your meal. In China, leaving a small amount of food on your plate [signals] that you are full and satisfied with the meal.",
+                  "gaps": [
+                    {
+                      "placeholder": "traditional",
+                      "answers": [
+                        "traditional",
+                        "customary",
+                        "common"
+                      ]
+                    },
+                    {
+                      "placeholder": "polite",
+                      "answers": [
+                        "polite",
+                        "customary",
+                        "respectful"
+                      ]
+                    },
+                    {
+                      "placeholder": "signals",
+                      "answers": [
+                        "signals",
+                        "shows",
+                        "indicates"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Cross-Cultural Communication",
+      "subtopics": [
+        {
+          "title": "3.1 Communication Styles",
+          "lessons": [
+            {
+              "title": "Direct and Indirect Communication",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000405000,\"blocks\":[{\"id\":\"kK1lL2mM3n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Different cultures have different communication styles. Understanding whether a culture uses <b>direct</b> or <b>indirect</b> communication can prevent misunderstandings.\"}},{\"id\":\"nN4oO5pP6q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Direct communication cultures</b> (e.g. Germany, Netherlands, USA): people say exactly what they mean. Clarity is valued over politeness.\"}},{\"id\":\"qQ7rR8sS9t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>'I disagree with your proposal.'</em>\",\"<em>'This is not what we agreed on.'</em>\"]}},{\"id\":\"tT0uU1vV2w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Indirect communication cultures</b> (e.g. Japan, Korea, many Arab countries): people imply meaning and avoid open disagreement. Harmony is prioritised.\"}},{\"id\":\"wW3xX4yY5z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>'That could be difficult to implement...'</em> (meaning: no)\",\"<em>'I see...'</em> (meaning: I'm not sure I agree)\"]}},{\"id\":\"zA6bB7cC8d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key vocabulary: <em>to imply, to hint at, to read between the lines, to be straightforward, to beat around the bush, face-saving</em>\"}},{\"id\":\"dD9eE0fF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"At B1 level, you should recognise these styles and adapt your language for different audiences.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "In indirect cultures, people often imply their meaning rather than stating it directly.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Direct",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Indirect",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "I disagree with your idea.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "That might be a little challenging to arrange.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "This report has several errors that need fixing.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "There are perhaps one or two areas we could look at again.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "The deadline is tomorrow. No exceptions.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "It would be wonderful if we could try to finish soon.",
+                      "correctCategory": "cat2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "To understand the hidden meaning behind what someone says",
+                      "word": "read between the lines"
+                    },
+                    {
+                      "hint": "To avoid getting to the main point directly",
+                      "word": "beat around the bush"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000405001",
+                      "english": "In indirect cultures, people often imply their meaning rather than stating it directly.",
+                      "russian": "В культурах с косвенной коммуникацией люди часто подразумевают своё мнение, не выражая его прямо.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000405002",
+                      "english": "It is important to read between the lines when communicating with people from different backgrounds.",
+                      "russian": "Важно улавливать скрытый смысл при общении с людьми из разных культурных традиций.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3.2 Misunderstandings and How to Resolve Them",
+          "lessons": [
+            {
+              "title": "Handling Cross-Cultural Misunderstandings",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000406000,\"blocks\":[{\"id\":\"gG2hH3iI4j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Misunderstandings happen in cross-cultural communication. Knowing how to respond appropriately is a key B1 skill.\"}},{\"id\":\"jJ5kK6lL7m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common causes of misunderstandings:</b>\"}},{\"id\":\"mM8nN9oO0p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Different expectations about personal space or eye contact\",\"Different meanings of silence or pauses in conversation\",\"Gestures that mean different things in different cultures\",\"Different attitudes to punctuality and deadlines\"]}},{\"id\":\"pP1qQ2rR3s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful language for clarifying and resolving misunderstandings:</b>\"}},{\"id\":\"sS4tT5uU6v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>I'm sorry, I'm not sure I understood correctly — did you mean...?</em>\",\"<em>Could you clarify what you meant by...?</em>\",\"<em>I apologise if I gave the wrong impression. What I meant was...</em>\",\"<em>I think there may have been a misunderstanding — let me explain.</em>\",\"<em>In my culture, this gesture/phrase usually means..., but I realise it may be different here.</em>\"]}},{\"id\":\"vV7wW8xX9y\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>past perfect</b> is useful for explaining what had happened before a misunderstanding: <em>I hadn't realised that arriving late was considered rude.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I apologise if I gave the wrong impression. I hadn't realised that this gesture could be considered rude.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Practise resolving a misunderstanding aloud",
+                    "targetPhrase": "I think there may have been a misunderstanding. Could you clarify what you meant?"
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I [apologise] if I gave the wrong impression earlier. I [hadn't realised] that refusing food could be seen as rude in your culture. What I [meant] was that I was simply not hungry at the time. In the future, I will try to be more [aware] of cultural differences.",
+                  "gaps": [
+                    {
+                      "placeholder": "apologise",
+                      "answers": [
+                        "apologise",
+                        "apologize",
+                        "am sorry"
+                      ]
+                    },
+                    {
+                      "placeholder": "hadn't realised",
+                      "answers": [
+                        "hadn't realised",
+                        "hadn't realized",
+                        "didn't realise"
+                      ]
+                    },
+                    {
+                      "placeholder": "meant",
+                      "answers": [
+                        "meant"
+                      ]
+                    },
+                    {
+                      "placeholder": "aware",
+                      "answers": [
+                        "aware",
+                        "mindful"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence uses the past perfect correctly to explain a misunderstanding?",
+                      "options": [
+                        "I didn't realise it was rude until someone told me.",
+                        "I hadn't realised it was considered rude before he explained.",
+                        "I don't realise it was rude at the time.",
+                        "I have not realised it was rude."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which phrase is best for clarifying a misunderstanding politely?",
+                      "options": [
+                        "You're completely wrong.",
+                        "I didn't say that.",
+                        "Could you clarify what you meant by that?",
+                        "That's not what I think."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Stereotypes and Cultural Sensitivity",
+      "subtopics": [
+        {
+          "title": "4.1 What Are Stereotypes?",
+          "lessons": [
+            {
+              "title": "Understanding and Challenging Stereotypes",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000407000,\"blocks\":[{\"id\":\"yY0zA1bB2c\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>stereotype</b> is a fixed, oversimplified idea about a particular group of people. Stereotypes can be positive or negative, but both are harmful because they ignore individual differences.\"}},{\"id\":\"cC3dD4eE5f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key vocabulary:\"}},{\"id\":\"fF6gG7hH8i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>prejudice</b> — an unfair negative opinion formed without full knowledge\",\"<b>discrimination</b> — treating people unfairly because of who they are\",\"<b>bias</b> — an unfair preference for or against something\",\"<b>assumption</b> — something you believe without evidence\",\"<b>inclusive</b> — welcoming and respectful of all people\"]}},{\"id\":\"iI9jJ0kK1l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Language for challenging stereotypes:\"}},{\"id\":\"lL2mM3nN4o\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>That's a common misconception, but in reality...</em>\",\"<em>While some people may... it's important to remember that individuals vary greatly.</em>\",\"<em>It's not fair to generalise about all [nationality/group] based on...</em>\",\"<em>This stereotype doesn't reflect the diversity within the culture.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "That's a common misconception, but in reality individuals vary greatly within every culture.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "stereotype",
+                      "right": "a fixed, oversimplified belief about a group"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "prejudice",
+                      "right": "an unfair negative opinion without full knowledge"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "discrimination",
+                      "right": "treating people unfairly based on who they are"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "bias",
+                      "right": "an unfair preference for or against something"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "assumption",
+                      "right": "believing something without evidence"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "stereotype",
+                        "prejudice",
+                        "discrimination",
+                        "tolerance"
+                      ],
+                      "correctWord": "tolerance"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is the problem with positive stereotypes?",
+                      "options": [
+                        "They are always true.",
+                        "They still ignore individual differences and can create unfair expectations.",
+                        "They help people understand other cultures better.",
+                        "They are never harmful."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which phrase best challenges a stereotype politely?",
+                      "options": [
+                        "That's completely false.",
+                        "You're wrong about that.",
+                        "That's a common misconception, but in reality individuals vary greatly.",
+                        "Nobody thinks that."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4.2 Being Culturally Sensitive",
+          "lessons": [
+            {
+              "title": "Showing Respect in Multicultural Settings",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000408000,\"blocks\":[{\"id\":\"oO5pP6qQ7r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Cultural sensitivity</b> means being aware of and respectful towards cultural differences. It is an essential skill in international workplaces, schools, and communities.\"}},{\"id\":\"rR8sS9tT0u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Principles of cultural sensitivity:\"}},{\"id\":\"uU1vV2wW3x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Listen actively</b> — pay full attention without interrupting\",\"<b>Avoid assumptions</b> — don't assume everyone shares your values\",\"<b>Ask respectfully</b> — if unsure, ask politely rather than guessing\",\"<b>Acknowledge differences</b> — recognise that differences exist without judging them\",\"<b>Adapt your behaviour</b> — adjust your communication style when needed\"]}},{\"id\":\"xX4yY5zA6b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Polite questions to learn about someone's culture:\"}},{\"id\":\"bB7cC8dD9e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Could you tell me a bit about how you celebrate...?</em>\",\"<em>I hope you don't mind me asking — is it customary to...?</em>\",\"<em>I'd love to learn more about your traditions. Could you explain...?</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I hope you don't mind me asking — is it customary to remove shoes before entering your home?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "sensitivity",
+                    "assumption",
+                    "inclusive",
+                    "acknowledge"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I hope you don't ___ me asking — is it customary to remove shoes at the door?",
+                      "answers": [
+                        "mind",
+                        "care about"
+                      ]
+                    },
+                    {
+                      "sentence": "Could you tell me a bit ___ how you celebrate this festival?",
+                      "answers": [
+                        "about",
+                        "more about"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000408001",
+                      "english": "Cultural sensitivity means being aware of and respectful towards cultural differences.",
+                      "russian": "Культурная чувствительность означает осознание культурных различий и уважение к ним.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000408002",
+                      "english": "I'd love to learn more about your traditions — could you explain the significance of this celebration?",
+                      "russian": "Я бы с удовольствием узнал больше о ваших традициях — не могли бы вы объяснить значение этого праздника?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000408003",
+                      "english": "It's important not to make assumptions about someone's values based on their nationality.",
+                      "russian": "Важно не делать предположений о чьих-то ценностях на основе их национальности.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Food and Culture",
+      "subtopics": [
+        {
+          "title": "5.1 Food as Cultural Identity",
+          "lessons": [
+            {
+              "title": "Talking About Food and Cultural Meaning",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000409000,\"blocks\":[{\"id\":\"eE0fF1gG2h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Food is one of the most powerful expressions of cultural identity. What people eat, how they prepare it, and who they share it with all carry deep cultural meaning.\"}},{\"id\":\"hH3iI4jJ5k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Ways food reflects culture:\"}},{\"id\":\"kK6lL7mM8n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Ingredients reflect the <b>geography and climate</b> of a region\",\"Recipes are passed down through <b>generations</b> as part of heritage\",\"Sharing meals is central to <b>social bonding</b> in many cultures\",\"Certain foods carry <b>religious or spiritual significance</b>\",\"Street food and markets reflect the <b>daily life and economy</b> of a place\"]}},{\"id\":\"nN9oO0pP1q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Describing food culturally:\"}},{\"id\":\"qQ2rR3sS4t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>This dish is traditionally made during...</em>\",\"<em>It has been a staple food in [country] for centuries.</em>\",\"<em>The recipe has been passed down through generations in my family.</em>\",\"<em>It is usually eaten during festivals / religious celebrations / family gatherings.</em>\"]}},{\"id\":\"tT5uU6vV7w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Vocabulary: <em>staple food, cuisine, ingredient, recipe, to prepare, to serve, to be associated with, to symbolise</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Rice has been a staple food in many Asian cultures for centuries.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "cuisine",
+                    "ingredient",
+                    "symbolise",
+                    "heritage"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "Rice has been a [staple food] in many Asian cultures for centuries. The recipe for this dish has been [passed down] through generations in my grandmother's family. It is [traditionally] prepared during the New Year festival and [symbolises] prosperity and good luck.",
+                  "gaps": [
+                    {
+                      "placeholder": "staple food",
+                      "answers": [
+                        "staple food",
+                        "staple"
+                      ]
+                    },
+                    {
+                      "placeholder": "passed down",
+                      "answers": [
+                        "passed down",
+                        "handed down"
+                      ]
+                    },
+                    {
+                      "placeholder": "traditionally",
+                      "answers": [
+                        "traditionally",
+                        "usually",
+                        "typically"
+                      ]
+                    },
+                    {
+                      "placeholder": "symbolises",
+                      "answers": [
+                        "symbolises",
+                        "symbolizes",
+                        "represents"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'staple food' mean?",
+                      "options": [
+                        "A food that is very expensive",
+                        "A food that forms the basis of a diet and is eaten regularly",
+                        "A food only eaten at special celebrations",
+                        "A foreign food that is recently popular"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which phrase means a recipe was taught from parents to children over time?",
+                      "options": [
+                        "The recipe was invented recently.",
+                        "The recipe has been passed down through generations.",
+                        "The recipe was discovered by accident.",
+                        "The recipe is available online."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5.2 Dietary Habits and Restrictions",
+          "lessons": [
+            {
+              "title": "Discussing Dietary Choices and Restrictions",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000410000,\"blocks\":[{\"id\":\"wW8xX9yY0z\",\"type\":\"paragraph\",\"data\":{\"text\":\"In multicultural environments, it is important to understand and respect dietary choices and restrictions. Some are based on religion, others on health or personal values.\"}},{\"id\":\"zA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Common dietary types:\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Vegetarian</b> — does not eat meat or fish\",\"<b>Vegan</b> — avoids all animal products including dairy and eggs\",\"<b>Halal</b> — food prepared according to Islamic law\",\"<b>Kosher</b> — food prepared according to Jewish dietary laws\",\"<b>Gluten-free</b> — avoids gluten, often due to coeliac disease\",\"<b>Lactose intolerant</b> — cannot digest dairy products\"]}},{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Polite phrases for discussing food restrictions:\"}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>I should mention that I'm vegetarian — I hope that's not a problem.</em>\",\"<em>Could you let me know if there are any meat-free options?</em>\",\"<em>Do you happen to know if this dish contains...?</em>\",\"<em>I'm afraid I can't eat... for religious/health reasons.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I should mention that I follow a halal diet. Do you happen to know if this dish contains any pork?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Religious",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Health-based",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat3",
+                      "name": "Personal choice",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "Halal diet",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Gluten-free diet due to coeliac disease",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Vegan diet for environmental reasons",
+                      "correctCategory": "cat3"
+                    },
+                    {
+                      "text": "Kosher diet",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Lactose-free diet due to intolerance",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Vegetarian for animal welfare reasons",
+                      "correctCategory": "cat3"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I'm afraid I can't eating pork for religious reasons.",
+                      "correctText": "I'm afraid I can't eat pork for religious reasons."
+                    },
+                    {
+                      "text": "Could you let me know if they are any vegetarian options?",
+                      "correctText": "Could you let me know if there are any vegetarian options?"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000410001",
+                      "english": "I should mention that I follow a halal diet — I hope that's not a problem.",
+                      "russian": "Должен упомянуть, что я придерживаюсь халяльного питания — надеюсь, это не создаст затруднений.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000410002",
+                      "english": "Do you happen to know if this dish contains any dairy products?",
+                      "russian": "Не знаете ли вы случайно, содержит ли это блюдо молочные продукты?",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 6: Celebrations and Festivals",
+      "subtopics": [
+        {
+          "title": "6.1 World Festivals",
+          "lessons": [
+            {
+              "title": "Describing Celebrations Around the World",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000411000,\"blocks\":[{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Festivals and celebrations are windows into a culture's values, beliefs, and history. At B1 level, you should be able to describe a festival, explain its significance, and compare it with others.\"}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Famous festivals around the world:\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Diwali (India)</b> — the festival of lights; celebrates the victory of light over darkness with candles, fireworks, and sweets\",\"<b>Carnival (Brazil)</b> — a lively street festival with music, costumes, and dancing before Lent\",\"<b>Chinese New Year</b> — a two-week celebration with dragon dances, fireworks, and family gatherings\",\"<b>Oktoberfest (Germany)</b> — a traditional Bavarian festival celebrating autumn with food, music, and beer\",\"<b>Eid al-Fitr (Muslim world)</b> — a religious holiday marking the end of Ramadan with prayers, feasting, and gifts\"]}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful language:\"}},{\"id\":\"yY5zA6bB7c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>The festival takes place every year in...</em>\",\"<em>It is celebrated to mark...</em>\",\"<em>One of the most important aspects of the festival is...</em>\",\"<em>People come together to...</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Diwali is the festival of lights, celebrated to mark the victory of light over darkness.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "Diwali",
+                      "right": "festival of lights celebrated in India"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "Carnival",
+                      "right": "a colourful street festival in Brazil"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "Chinese New Year",
+                      "right": "celebrated with dragon dances and fireworks"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "Oktoberfest",
+                      "right": "Bavarian autumn festival in Germany"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "Eid al-Fitr",
+                      "right": "marks the end of Ramadan in Muslim communities"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "celebration",
+                    "festival",
+                    "tradition",
+                    "fireworks"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "Diwali [takes place] every year in autumn and is celebrated to [mark] the victory of light over darkness. One of the most important [aspects] of the festival is lighting oil lamps called diyas. Families [come together] to share sweets and watch fireworks.",
+                  "gaps": [
+                    {
+                      "placeholder": "takes place",
+                      "answers": [
+                        "takes place",
+                        "occurs",
+                        "happens"
+                      ]
+                    },
+                    {
+                      "placeholder": "mark",
+                      "answers": [
+                        "mark",
+                        "celebrate",
+                        "commemorate"
+                      ]
+                    },
+                    {
+                      "placeholder": "aspects",
+                      "answers": [
+                        "aspects",
+                        "parts",
+                        "elements"
+                      ]
+                    },
+                    {
+                      "placeholder": "come together",
+                      "answers": [
+                        "come together",
+                        "gather"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "6.2 Participating in Celebrations",
+          "lessons": [
+            {
+              "title": "Talking About Your Own Celebrations",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000412000,\"blocks\":[{\"id\":\"cC8dD9eE0f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Being able to describe your own cultural celebrations in English is an important communication skill. Use a mix of tenses and descriptive language.\"}},{\"id\":\"fF1gG2hH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Present simple</b> for regular customs: <em>Every year, we decorate our homes with lights and flowers.</em>\"}},{\"id\":\"iI4jJ5kK6l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Present perfect</b> for lifelong traditions: <em>My family has always celebrated this festival together.</em>\"}},{\"id\":\"lL7mM8nN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Past simple</b> for specific memories: <em>Last year, we had a huge gathering with over fifty relatives.</em>\"}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Descriptive vocabulary for celebrations:\"}},{\"id\":\"rR3sS4tT5u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>colourful, lively, joyful, solemn, meaningful, spectacular</em>\",\"<em>to decorate, to gather, to feast on, to exchange gifts, to light candles, to perform rituals</em>\"]}},{\"id\":\"uU6vV7wW8x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Sharing personal experience: <em>For me, the most special part of the celebration is... / What I love most about this festival is... / It always reminds me of...</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "What I love most about this celebration is that it brings the whole community together.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Describe a celebration from your culture aloud",
+                    "targetPhrase": "Every year, my family gathers together to celebrate and exchange gifts."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "My family always celebrating this festival together.",
+                      "correctText": "My family has always celebrated this festival together."
+                    },
+                    {
+                      "text": "Last year, we have had a huge gathering.",
+                      "correctText": "Last year, we had a huge gathering."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000412001",
+                      "english": "Every year, we gather as a family and exchange gifts during the New Year celebration.",
+                      "russian": "Каждый год мы собираемся всей семьёй и обмениваемся подарками на Новый год.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000412002",
+                      "english": "My family has always celebrated this festival with a large meal and traditional music.",
+                      "russian": "Моя семья всегда отмечала этот праздник большим застольем и традиционной музыкой.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000412003",
+                      "english": "What I love most about this celebration is that it brings the whole community together.",
+                      "russian": "Больше всего мне нравится в этом празднике то, что он объединяет всё сообщество.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which tense is correct for describing a tradition you have always followed?",
+                      "options": [
+                        "My family always celebrate last year.",
+                        "My family has always celebrated this festival.",
+                        "My family always will celebrate this festival.",
+                        "My family celebrating this every year."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which adjective best describes a festival full of colour and energy?",
+                      "options": [
+                        "solemn",
+                        "lively",
+                        "quiet",
+                        "formal"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    }
+  ]
+}

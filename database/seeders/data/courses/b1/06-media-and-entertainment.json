@@ -1,0 +1,1376 @@
+{
+  "title": "Media & Entertainment",
+  "description": "Covers types of media, discussing films, music and books, giving opinions and recommendations, and key media vocabulary. For A2 completers who want to talk about their favourite entertainment in English.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": false,
+  "preview_image": "Media & Entertainment.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Types of Media",
+      "subtopics": [
+        {
+          "title": "1.1 Traditional and Digital Media",
+          "lessons": [
+            {
+              "title": "Media Vocabulary: Traditional vs Digital",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000501000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Media</b> refers to the channels through which information and entertainment are communicated to the public. At B1 level, you should know the key types of media and be able to compare them.\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Traditional media:</b>\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Newspapers and magazines</b> — printed publications with news, features, and opinions\",\"<b>Television</b> — broadcast programmes including news, drama, documentaries\",\"<b>Radio</b> — audio broadcasts of news, music, and talk shows\",\"<b>Books and libraries</b> — printed or physical knowledge resources\"]}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Digital / new media:</b>\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Online news sites</b> — digital versions of newspapers; updated in real time\",\"<b>Podcasts</b> — on-demand audio content on any topic\",\"<b>Social media platforms</b> — user-generated content shared online\",\"<b>Streaming services</b> — on-demand video or music (e.g. Netflix, Spotify)\",\"<b>Blogs / vlogs</b> — written or video content created by individuals\"]}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key vocabulary: <em>broadcast, publish, subscribe, stream, audience, viewer, listener, circulation</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "streaming service",
+                      "translation": "стриминговый сервис"
+                    },
+                    {
+                      "text": "on-demand content",
+                      "translation": "контент по запросу"
+                    },
+                    {
+                      "text": "broadcast",
+                      "translation": "трансляция / вещание"
+                    },
+                    {
+                      "text": "circulation",
+                      "translation": "тираж / распространение"
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "Streaming services have largely replaced physical DVDs and CDs.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Traditional Media",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Digital Media",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "Newspaper",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Podcast",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Television",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Streaming service",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Radio",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Blog",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Printed magazine",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Social media platform",
+                      "correctCategory": "cat2"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "podcast",
+                        "vlog",
+                        "blog",
+                        "newspaper"
+                      ],
+                      "correctWord": "newspaper"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000501001",
+                      "english": "Streaming services have largely replaced physical DVDs and CDs.",
+                      "russian": "Стриминговые сервисы в значительной мере вытеснили физические DVD и CD.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000501002",
+                      "english": "Traditional newspapers still have a loyal readership, despite the rise of online news.",
+                      "russian": "У традиционных газет по-прежнему есть лояльная читательская аудитория, несмотря на рост популярности онлайн-новостей.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is a podcast?",
+                      "options": [
+                        "A type of television programme",
+                        "On-demand audio content available online",
+                        "A printed news publication",
+                        "A video shared on social media"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which word describes the people who watch a television programme?",
+                      "options": [
+                        "readers",
+                        "listeners",
+                        "viewers",
+                        "subscribers"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 News and Journalism",
+          "lessons": [
+            {
+              "title": "Understanding News and Media Bias",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000502000,\"blocks\":[{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Consuming news critically is an important skill. At B1 level, you should understand key journalism vocabulary and be able to discuss the reliability of media sources.\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key journalism terms:\"}},{\"id\":\"yY5zA6bB7c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>headline</b> — the title of a news article, written to attract attention\",\"<b>article / report</b> — a piece of written journalism\",\"<b>editorial</b> — an opinion piece written by the editor expressing the publication's view\",\"<b>journalist / reporter</b> — a person who gathers and writes news\",\"<b>source</b> — where a journalist gets their information\",\"<b>bias</b> — when reporting favours one side over another\",\"<b>fake news</b> — false information presented as real news\",\"<b>fact-checking</b> — the process of verifying the accuracy of information\"]}},{\"id\":\"cC8dD9eE0f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Discussing media critically:\"}},{\"id\":\"fF1gG2hH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>It is important to read news from different sources to get a balanced view.</em>\",\"<em>This article seems to be biased towards...</em>\",\"<em>I always try to check whether the source is reliable before sharing information.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "It is important to read news from different sources to get a balanced view.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "headline",
+                      "right": "the title of a news article"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "bias",
+                      "right": "when reporting unfairly favours one side"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "editorial",
+                      "right": "an opinion piece by the editor"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "fake news",
+                      "right": "false information presented as real news"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "fact-checking",
+                      "right": "verifying the accuracy of information"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "This article seems to be bias towards one side.",
+                      "correctText": "This article seems to be biased towards one side."
+                    },
+                    {
+                      "text": "I always try to check if the source is reliability.",
+                      "correctText": "I always try to check whether the source is reliable."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "Before you share a news story, it is important to [check] whether the source is [reliable]. This article seems to be [biased] towards one political party and does not present a balanced view. I always try to read news from [different] sources to form my own opinion.",
+                  "gaps": [
+                    {
+                      "placeholder": "check",
+                      "answers": [
+                        "check",
+                        "verify"
+                      ]
+                    },
+                    {
+                      "placeholder": "reliable",
+                      "answers": [
+                        "reliable",
+                        "trustworthy",
+                        "credible"
+                      ]
+                    },
+                    {
+                      "placeholder": "biased",
+                      "answers": [
+                        "biased"
+                      ]
+                    },
+                    {
+                      "placeholder": "different",
+                      "answers": [
+                        "different",
+                        "multiple",
+                        "various"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Talking About Films",
+      "subtopics": [
+        {
+          "title": "2.1 Film Genres and Vocabulary",
+          "lessons": [
+            {
+              "title": "Film Genres and How to Describe Them",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000503000,\"blocks\":[{\"id\":\"iI4jJ5kK6l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Talking about films is a common conversation topic. At B1 level, you should know a range of film genres and be able to describe plots and characters accurately.\"}},{\"id\":\"lL7mM8nN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Film genres:</b>\"}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Action</b> — fast-paced films with fight scenes, chases, and excitement\",\"<b>Comedy</b> — films designed to make you laugh\",\"<b>Drama</b> — serious films exploring human emotions and relationships\",\"<b>Thriller / Suspense</b> — films that create tension and excitement\",\"<b>Horror</b> — films designed to frighten the audience\",\"<b>Science fiction (Sci-fi)</b> — set in the future or alternate worlds with advanced technology\",\"<b>Documentary</b> — non-fiction films presenting real events or topics\",\"<b>Romance</b> — films centred on love and relationships\",\"<b>Animation</b> — films made using animated images or drawings\"]}},{\"id\":\"rR3sS4tT5u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Describing a film plot: <em>The film is set in... / It revolves around... / It tells the story of... / The main character is...</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The film tells the story of a young detective who discovers a hidden conspiracy.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "thriller",
+                    "documentary",
+                    "animation",
+                    "romance"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "thriller",
+                      "right": "creates tension, suspense, and excitement"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "documentary",
+                      "right": "non-fiction film about real events or topics"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "animation",
+                      "right": "film made using animated images or drawings"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "drama",
+                      "right": "serious film exploring human emotions"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "comedy",
+                      "right": "film designed to entertain and make you laugh"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which genre best describes a film set in the year 2350 with robots and space travel?",
+                      "options": [
+                        "Horror",
+                        "Romance",
+                        "Science fiction",
+                        "Documentary"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which phrase introduces a film's plot?",
+                      "options": [
+                        "The film was directed by...",
+                        "The film tells the story of a young detective who...",
+                        "The film won three awards at...",
+                        "The film was released in..."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Reviewing and Recommending Films",
+          "lessons": [
+            {
+              "title": "Writing and Giving Film Reviews",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000504000,\"blocks\":[{\"id\":\"uU6vV7wW8x\",\"type\":\"paragraph\",\"data\":{\"text\":\"A film review gives your opinion about a film and helps others decide whether to watch it. Good reviews describe the film's content and evaluate its quality.\"}},{\"id\":\"xX9yY0zA1b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Structure of a film review:</b>\"}},{\"id\":\"bB2cC3dD4e\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Introduction</b> — title, director, genre, release year\",\"<b>Plot summary</b> — a brief description without spoilers\",\"<b>Evaluation</b> — what you liked and disliked\",\"<b>Recommendation</b> — who would enjoy it and why\"]}},{\"id\":\"eE5fF6gG7h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful language:\"}},{\"id\":\"hH8iI9jJ0k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>The film is directed by... and stars...</em>\",\"<em>It revolves around / The plot follows...</em>\",\"<em>One of the highlights is... / The weakest aspect is...</em>\",\"<em>The acting is outstanding / convincing / disappointing.</em>\",\"<em>I would highly recommend it to anyone who enjoys...</em>\",\"<em>I wouldn't recommend it if you are looking for...</em>\"]}},{\"id\":\"kK1lL2mM3n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Adjectives for film reviews: <em>gripping, thought-provoking, predictable, original, moving, terrifying, hilarious, slow-paced, well-crafted</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I would highly recommend this film to anyone who enjoys thought-provoking science fiction.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Recommend a film aloud using review language",
+                    "targetPhrase": "I would highly recommend this film to anyone who enjoys gripping thrillers."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Positive",
+                      "color": "#2e7d32"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Negative",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "gripping",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "predictable",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "thought-provoking",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "slow-paced",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "outstanding acting",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "disappointing ending",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "well-crafted plot",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "unconvincing characters",
+                      "correctCategory": "cat2"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "The film is [directed] by Christopher Nolan and [stars] Leonardo DiCaprio. The plot [revolves around] a thief who enters people's dreams to steal secrets. One of the [highlights] is the stunning visual effects. I would [highly recommend] it to anyone who enjoys thought-provoking science fiction.",
+                  "gaps": [
+                    {
+                      "placeholder": "directed",
+                      "answers": [
+                        "directed"
+                      ]
+                    },
+                    {
+                      "placeholder": "stars",
+                      "answers": [
+                        "stars",
+                        "features"
+                      ]
+                    },
+                    {
+                      "placeholder": "revolves around",
+                      "answers": [
+                        "revolves around",
+                        "follows",
+                        "centres on"
+                      ]
+                    },
+                    {
+                      "placeholder": "highlights",
+                      "answers": [
+                        "highlights",
+                        "strengths"
+                      ]
+                    },
+                    {
+                      "placeholder": "highly recommend",
+                      "answers": [
+                        "highly recommend",
+                        "strongly recommend"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Music and Concerts",
+      "subtopics": [
+        {
+          "title": "3.1 Music Genres and Vocabulary",
+          "lessons": [
+            {
+              "title": "Talking About Music Styles",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000505000,\"blocks\":[{\"id\":\"nN4oO5pP6q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Music is a universal language, but talking about it in English requires specific vocabulary. At B1 level, you should be able to describe genres, express preferences, and discuss how music makes you feel.\"}},{\"id\":\"qQ7rR8sS9t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common music genres:</b>\"}},{\"id\":\"tT0uU1vV2w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Pop</b> — popular, mainstream music with catchy melodies\",\"<b>Rock</b> — guitar-based music, often with powerful rhythms\",\"<b>Jazz</b> — improvisational music with complex harmonies\",\"<b>Classical</b> — orchestral and composed music from the European tradition\",\"<b>Hip-hop / Rap</b> — rhythmic spoken word over a beat\",\"<b>Electronic / EDM</b> — music produced using electronic instruments and software\",\"<b>Folk</b> — traditional music reflecting a region's culture and history\",\"<b>R&B (Rhythm and Blues)</b> — soulful music combining rhythm and vocals\"]}},{\"id\":\"wW3xX4yY5z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Vocabulary for discussing music: <em>melody, rhythm, lyrics, beat, tempo, harmony, vocals, instrument, album, track</em>\"}},{\"id\":\"zA6bB7cC8d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Expressing preferences: <em>I'm really into... / I can't get enough of... / ... has never really appealed to me. / What I love about [genre] is the...</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'm really into jazz — I find the improvisation and complex harmonies fascinating.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "melody",
+                    "rhythm",
+                    "harmony",
+                    "tempo"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I'm really ___ jazz — I find the improvisation fascinating.",
+                      "answers": [
+                        "into",
+                        "keen on",
+                        "fond of"
+                      ]
+                    },
+                    {
+                      "sentence": "What I love about classical music is the incredible ___ of instruments working together.",
+                      "answers": [
+                        "harmony",
+                        "blend",
+                        "combination"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What are 'lyrics' in music?",
+                      "options": [
+                        "The instruments used in a song",
+                        "The words of a song",
+                        "The speed of a song",
+                        "The beat of a song"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which genre is known for improvisation and complex harmonies?",
+                      "options": [
+                        "Pop",
+                        "Jazz",
+                        "EDM",
+                        "Folk"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3.2 Concerts and Live Events",
+          "lessons": [
+            {
+              "title": "Describing a Concert Experience",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000506000,\"blocks\":[{\"id\":\"dD9eE0fF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Describing a concert or live event is a great opportunity to use past tenses, descriptive adjectives, and emotional language at B1 level.\"}},{\"id\":\"gG2hH3iI4j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key vocabulary for concerts:\"}},{\"id\":\"jJ5kK6lL7m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>venue</b> — the place where the event is held\",\"<b>set list</b> — the list of songs performed\",\"<b>encore</b> — extra songs performed after the main show\",\"<b>crowd / audience</b> — the people attending the event\",\"<b>atmosphere</b> — the mood and feeling of the event\",\"<b>front row</b> — the closest seats to the stage\",\"<b>to perform / to play live</b> — to give a live performance\"]}},{\"id\":\"mM8nN9oO0p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Narrative tenses for describing events:\"}},{\"id\":\"pP1qQ2rR3s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Past simple</b> for completed actions: <em>The band played for two hours without a break.</em>\",\"<b>Past continuous</b> for ongoing background: <em>Everyone was singing along by the third song.</em>\",\"<b>Past perfect</b> for earlier events: <em>By the time we arrived, the support act had already finished.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The atmosphere was absolutely electric — the crowd was singing along to every song.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Extra songs performed after the main show ends",
+                      "word": "encore"
+                    },
+                    {
+                      "hint": "The place where a concert or event is held",
+                      "word": "venue"
+                    },
+                    {
+                      "hint": "The mood and feeling at a live event",
+                      "word": "atmosphere"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "Last summer, I [went] to see my favourite band at a huge outdoor venue. By the time we arrived, the support act [had already finished]. The atmosphere [was] absolutely electric — everyone [was singing] along to every song. When the band [played] their most famous song as an encore, the whole crowd went wild.",
+                  "gaps": [
+                    {
+                      "placeholder": "went",
+                      "answers": [
+                        "went"
+                      ]
+                    },
+                    {
+                      "placeholder": "had already finished",
+                      "answers": [
+                        "had already finished"
+                      ]
+                    },
+                    {
+                      "placeholder": "was",
+                      "answers": [
+                        "was"
+                      ]
+                    },
+                    {
+                      "placeholder": "was singing",
+                      "answers": [
+                        "was singing",
+                        "were singing"
+                      ]
+                    },
+                    {
+                      "placeholder": "played",
+                      "answers": [
+                        "played"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000506001",
+                      "english": "The atmosphere was absolutely electric — the crowd was singing along to every song.",
+                      "russian": "Атмосфера была поистине электрической — толпа подпевала каждой песне.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000506002",
+                      "english": "By the time we arrived, the support act had already finished their set.",
+                      "russian": "К тому времени, как мы прибыли, группа на разогреве уже закончила своё выступление.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000506003",
+                      "english": "The band performed for over two hours and even came back for an encore.",
+                      "russian": "Группа выступала более двух часов и даже вернулась для биса.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Books and Reading",
+      "subtopics": [
+        {
+          "title": "4.1 Book Genres and Vocabulary",
+          "lessons": [
+            {
+              "title": "Types of Books and Literary Vocabulary",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000507000,\"blocks\":[{\"id\":\"sS4tT5uU6v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Reading books in English — or discussing books you have read — is an excellent way to develop your language skills. At B1 level, you should know key literary vocabulary and be able to describe plots and characters.\"}},{\"id\":\"vV7wW8xX9y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Book genres:</b>\"}},{\"id\":\"yY0zA1bB2c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Novel</b> — a long work of fiction\",\"<b>Short story</b> — a brief piece of fiction\",\"<b>Biography / Autobiography</b> — the story of a real person's life (by someone else / by themselves)\",\"<b>Non-fiction</b> — factual books about real topics (history, science, self-help)\",\"<b>Fantasy</b> — fiction set in imaginary worlds with magic\",\"<b>Mystery / Crime</b> — fiction involving crimes and their solutions\",\"<b>Historical fiction</b> — fiction set in a real historical period\"]}},{\"id\":\"cC3dD4eE5f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Literary vocabulary: <em>plot, character, setting, theme, narrator, chapter, dialogue, protagonist, antagonist, climax, ending</em>\"}},{\"id\":\"fF6gG7hH8i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Phrases for talking about books: <em>The novel is set in... / The main character is... / The plot revolves around... / The book raises important questions about...</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The novel is set in Victorian London and revolves around a mysterious detective.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "protagonist",
+                      "right": "the main character in a story"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "antagonist",
+                      "right": "the character who opposes the protagonist"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "climax",
+                      "right": "the most exciting or important moment of the story"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "setting",
+                      "right": "the time and place where a story takes place"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "theme",
+                      "right": "the central idea or message of a book"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "protagonist",
+                    "climax",
+                    "narrator",
+                    "setting"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is an 'autobiography'?",
+                      "options": [
+                        "A story written about someone else's life",
+                        "A story about a fictional character",
+                        "A story written by a person about their own life",
+                        "A factual book about science"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which genre would feature dragons, magic, and imaginary kingdoms?",
+                      "options": [
+                        "Non-fiction",
+                        "Fantasy",
+                        "Biography",
+                        "Mystery"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4.2 Recommending Books",
+          "lessons": [
+            {
+              "title": "How to Recommend a Book",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000508000,\"blocks\":[{\"id\":\"iI9jJ0kK1l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Recommending a book is a skill that combines summary, evaluation, and persuasion. At B1 level, you should be able to describe a book clearly and explain why someone else might enjoy it.\"}},{\"id\":\"lL2mM3nN4o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>How to recommend a book — structure:</b>\"}},{\"id\":\"oO5pP6qQ7r\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"Name the book and author\",\"Describe the genre and setting\",\"Give a short plot summary (no spoilers)\",\"Explain what makes it special\",\"Say who you would recommend it to\"]}},{\"id\":\"rR8sS9tT0u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful language:\"}},{\"id\":\"uU1vV2wW3x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>I recently read ... by ... and I absolutely loved it.</em>\",\"<em>If you enjoy [genre], you should definitely read...</em>\",\"<em>What makes it special is that...</em>\",\"<em>I couldn't put it down.</em>\",\"<em>It's a real page-turner.</em>\",\"<em>I would recommend it to anyone who...</em>\"]}},{\"id\":\"xX4yY5zA6b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Present perfect for recent reading: <em>I've just finished reading..., and it's one of the best books I've read in years.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I couldn't put it down — it was a real page-turner from start to finish.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I recently readed this book and absolutely loved it.",
+                      "correctText": "I recently read this book and absolutely loved it."
+                    },
+                    {
+                      "text": "What makes it special is how it exploring human relationships.",
+                      "correctText": "What makes it special is the way it explores human relationships."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I [have recently read] 'The Midnight Library' by Matt Haig and I absolutely [loved] it. The novel is [set] in a magical library between life and death. What makes it [special] is the way it explores regret and the choices we make in life. I [would recommend] it to anyone who enjoys thought-provoking fiction.",
+                  "gaps": [
+                    {
+                      "placeholder": "have recently read",
+                      "answers": [
+                        "have recently read",
+                        "recently read"
+                      ]
+                    },
+                    {
+                      "placeholder": "loved",
+                      "answers": [
+                        "loved",
+                        "enjoyed"
+                      ]
+                    },
+                    {
+                      "placeholder": "set",
+                      "answers": [
+                        "set"
+                      ]
+                    },
+                    {
+                      "placeholder": "special",
+                      "answers": [
+                        "special",
+                        "unique",
+                        "outstanding"
+                      ]
+                    },
+                    {
+                      "placeholder": "would recommend",
+                      "answers": [
+                        "would recommend",
+                        "highly recommend"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000508001",
+                      "english": "I couldn't put it down — it was a real page-turner from start to finish.",
+                      "russian": "Я не мог оторваться — это был настоящий захватывающий роман от начала до конца.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000508002",
+                      "english": "I would recommend this book to anyone who enjoys historical fiction.",
+                      "russian": "Я бы порекомендовал эту книгу всем, кто любит исторические романы.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000508003",
+                      "english": "What makes this novel special is the way it explores complex human relationships.",
+                      "russian": "Особенность этого романа в том, как он исследует сложные человеческие отношения.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Giving Opinions and Recommendations",
+      "subtopics": [
+        {
+          "title": "5.1 Opinion Language",
+          "lessons": [
+            {
+              "title": "Expressing and Justifying Opinions",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000509000,\"blocks\":[{\"id\":\"bB7cC8dD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Giving well-structured opinions is a key B1 skill. It's not enough to say 'I like it' — you need to explain why and support your view with reasons.\"}},{\"id\":\"eE0fF1gG2h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Opinion phrases — from strong to hedged:</b>\"}},{\"id\":\"hH3iI4jJ5k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>I strongly believe that... / I am absolutely convinced that...</em> (strong)\",\"<em>In my opinion... / I think that... / I feel that...</em> (neutral)\",\"<em>It seems to me that... / I get the impression that...</em> (hedged)\",\"<em>I'm not entirely sure, but I think...</em> (uncertain)\"]}},{\"id\":\"kK6lL7mM8n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Justifying your opinion:</b>\"}},{\"id\":\"nN9oO0pP1q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>This is because...</em>\",\"<em>The reason I think this is...</em>\",\"<em>For example, / For instance,...</em>\",\"<em>This is supported by the fact that...</em>\"]}},{\"id\":\"qQ2rR3sS4t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Contrasting opinions:</b>\"}},{\"id\":\"tT5uU6vV7w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>On the other hand,... / However,... / That said,...</em>\",\"<em>While I understand that..., I still think...</em>\",\"<em>Although some people believe..., in my view...</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I strongly believe that streaming services have made entertainment more accessible than ever before.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Strong Opinion",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Hedged Opinion",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "I am absolutely convinced that social media is changing society.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "It seems to me that streaming has mostly positive effects.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "I strongly believe that print newspapers will disappear.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "I'm not entirely sure, but I think younger audiences prefer video content.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "There is no doubt that online media is growing rapidly.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "I get the impression that podcasts are becoming more popular.",
+                      "correctCategory": "cat2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "I strongly believe",
+                        "I am absolutely convinced",
+                        "There is no doubt that",
+                        "It seems to me"
+                      ],
+                      "correctWord": "It seems to me"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase introduces a contrasting point?",
+                      "options": [
+                        "In addition,",
+                        "Furthermore,",
+                        "That said,",
+                        "As a result,"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which phrase expresses an uncertain or hedged opinion?",
+                      "options": [
+                        "I am absolutely convinced that...",
+                        "I strongly believe...",
+                        "I'm not entirely sure, but I think...",
+                        "There is no doubt that..."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5.2 Making Recommendations",
+          "lessons": [
+            {
+              "title": "How to Recommend Entertainment",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000510000,\"blocks\":[{\"id\":\"wW8xX9yY0z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Recommending films, music, or books in English requires specific phrases and structures. At B1 level, you should use conditional sentences and modal verbs to make suggestions persuasively.\"}},{\"id\":\"zA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Recommendation phrases:</b>\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>You should definitely watch / read / listen to...</em>\",\"<em>If you enjoy [genre], I'd highly recommend...</em>\",\"<em>Have you seen / heard / read...? It's brilliant.</em>\",\"<em>You won't be disappointed — it's really worth it.</em>\",\"<em>It's not really my kind of thing, but if you like..., you might enjoy it.</em>\"]}},{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Using conditionals for recommendations:\"}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>If you liked [X], you'll love [Y].</em> (First conditional — likely outcome)\",\"<em>If you want something thought-provoking, I'd suggest...</em>\",\"<em>If I were you, I'd start with the first film before watching the sequel.</em> (Second conditional — advice)\"]}},{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Asking for recommendations: <em>Can you recommend a good...? / What would you suggest for someone who enjoys...? / Is it worth watching?</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "If you enjoy psychological thrillers, I'd highly recommend this film.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Make a recommendation using a conditional sentence aloud",
+                    "targetPhrase": "If you liked that series, you'll definitely love this one."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "If you liked the first series, you ___ love the second one even more.",
+                      "answers": [
+                        "will",
+                        "'ll",
+                        "would"
+                      ]
+                    },
+                    {
+                      "sentence": "If I ___ you, I'd start with the director's earlier films.",
+                      "answers": [
+                        "were",
+                        "was"
+                      ]
+                    },
+                    {
+                      "sentence": "You should ___ watch this documentary — it's absolutely fascinating.",
+                      "answers": [
+                        "definitely",
+                        "really",
+                        "absolutely"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000510001",
+                      "english": "If you enjoy psychological thrillers, I'd highly recommend this film.",
+                      "russian": "Если вы любите психологические триллеры, я очень рекомендую этот фильм.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000510002",
+                      "english": "If I were you, I'd read the book before watching the film adaptation.",
+                      "russian": "На вашем месте я бы сначала прочитал книгу, прежде чем смотреть экранизацию.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000510003",
+                      "english": "You won't be disappointed — it's really worth your time.",
+                      "russian": "Вы не разочаруетесь — оно действительно стоит вашего времени.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 6: Media and Society",
+      "subtopics": [
+        {
+          "title": "6.1 The Influence of Media",
+          "lessons": [
+            {
+              "title": "How Media Shapes Our Views",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000511000,\"blocks\":[{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Media has a powerful influence on how people perceive the world, form opinions, and make decisions. At B1 level, you should be able to discuss this influence critically.\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Ways media influences society:\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Agenda-setting</b> — media decides which stories are important by choosing what to cover\",\"<b>Framing</b> — the way a story is presented affects how audiences interpret it\",\"<b>Advertising</b> — media shapes consumer behaviour and desires\",\"<b>Role models</b> — celebrities and influencers affect people's lifestyles and values\",\"<b>Social norms</b> — media reflects and reinforces what is considered 'normal'\"]}},{\"id\":\"yY5zA6bB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Discussing media influence:\"}},{\"id\":\"cC8dD9eE0f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>The media has a significant influence on...</em>\",\"<em>Many people form their opinions based on what they see in the news.</em>\",\"<em>Advertising can create unrealistic expectations about...</em>\",\"<em>It is important to consume media critically and question what we read.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "It is important to consume media critically and question what we read.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "The way a news story is presented, affecting how audiences interpret it",
+                      "word": "framing"
+                    },
+                    {
+                      "hint": "When media decides which stories are important to cover",
+                      "word": "agenda-setting"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "The media has a [significant] influence on how people form their opinions. Many people [base] their views on what they read in the news without questioning the source. Advertising can [create] unrealistic expectations about beauty and success. It is important to [consume] media critically and always look for different perspectives.",
+                  "gaps": [
+                    {
+                      "placeholder": "significant",
+                      "answers": [
+                        "significant",
+                        "powerful",
+                        "major",
+                        "strong"
+                      ]
+                    },
+                    {
+                      "placeholder": "base",
+                      "answers": [
+                        "base",
+                        "form"
+                      ]
+                    },
+                    {
+                      "placeholder": "create",
+                      "answers": [
+                        "create",
+                        "build",
+                        "generate"
+                      ]
+                    },
+                    {
+                      "placeholder": "consume",
+                      "answers": [
+                        "consume",
+                        "use",
+                        "read"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'framing' mean in the context of media?",
+                      "options": [
+                        "Choosing which stories to publish",
+                        "The way a story is presented, which affects how it is interpreted",
+                        "Adding images to news articles",
+                        "Checking facts before publishing"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which phrase means 'to look at media with a critical and questioning eye'?",
+                      "options": [
+                        "To consume media blindly",
+                        "To avoid media entirely",
+                        "To consume media critically",
+                        "To follow media trends"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "6.2 Screen Time and Digital Wellbeing",
+          "lessons": [
+            {
+              "title": "Balancing Media Consumption",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000512000,\"blocks\":[{\"id\":\"fF1gG2hH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"In a world saturated with media, managing screen time and maintaining digital wellbeing has become increasingly important.\"}},{\"id\":\"iI4jJ5kK6l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key concepts:</b>\"}},{\"id\":\"lL7mM8nN9o\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>screen time</b> — the amount of time spent looking at screens\",\"<b>digital detox</b> — a period of deliberately avoiding screens and social media\",\"<b>doom-scrolling</b> — endlessly scrolling through negative news content\",\"<b>notification overload</b> — receiving too many alerts from apps\",\"<b>media literacy</b> — the ability to understand and evaluate media critically\"]}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Using modal verbs and conditionals for advice:\"}},{\"id\":\"rR3sS4tT5u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>You should set limits on how much time you spend online each day.</em>\",\"<em>If you find yourself doom-scrolling, you ought to take a break.</em>\",\"<em>It might be worth doing a digital detox once in a while.</em>\",\"<em>You could try turning off notifications to reduce distractions.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "It might be worth doing a digital detox to improve your mental wellbeing.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "detox",
+                    "wellbeing",
+                    "literacy",
+                    "notification"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "screen time",
+                      "right": "time spent looking at devices and screens"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "digital detox",
+                      "right": "deliberately avoiding screens for a period"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "doom-scrolling",
+                      "right": "endlessly consuming negative news online"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "media literacy",
+                      "right": "the ability to evaluate media critically"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "notification overload",
+                      "right": "receiving too many app alerts at once"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000512001",
+                      "english": "It might be worth doing a digital detox to improve your mental wellbeing.",
+                      "russian": "Возможно, стоит провести цифровую детоксикацию, чтобы улучшить психическое состояние.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000512002",
+                      "english": "If you find yourself doom-scrolling, you should take a break from your phone.",
+                      "russian": "Если вы замечаете, что бесконечно листаете плохие новости, вам следует сделать перерыв от телефона.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000512003",
+                      "english": "Media literacy is an essential skill in today's information-saturated world.",
+                      "russian": "Медиаграмотность — это важнейший навык в современном мире, перенасыщенном информацией.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    }
+  ]
+}

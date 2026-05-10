@@ -1,0 +1,1386 @@
+{
+  "title": "Work & Jobs",
+  "description": "Covers job titles, workplace vocabulary, talking about your job (I work as a..., My job involves...), and simple job interview phrases. For elementary learners entering or discussing the workplace.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": true,
+  "preview_image": "Work & Jobs.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Job Titles Vocabulary",
+      "subtopics": [
+        {
+          "title": "1.1 Common Professions",
+          "lessons": [
+            {
+              "title": "Jobs and Professions",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000601000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the most common <b>job titles</b> in English:\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Healthcare:</b>\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>doctor</b> — врач\",\"<b>nurse</b> — медсестра / медбрат\",\"<b>dentist</b> — стоматолог\"]}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Education:</b>\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>teacher</b> — учитель\",\"<b>professor</b> — профессор\"]}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Business:</b>\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>manager</b> — менеджер\",\"<b>accountant</b> — бухгалтер\",\"<b>engineer</b> — инженер\"]}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Services:</b>\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>chef / cook</b> — шеф-повар / повар\",\"<b>waiter / waitress</b> — официант / официантка\",\"<b>driver</b> — водитель\",\"<b>police officer</b> — сотрудник полиции\",\"<b>firefighter</b> — пожарный\"]}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>IT:</b>\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>programmer / developer</b> — программист\",\"<b>designer</b> — дизайнер\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "She is a doctor.",
+                      "translation": "Она врач."
+                    },
+                    {
+                      "text": "He works as an engineer.",
+                      "translation": "Он работает инженером."
+                    },
+                    {
+                      "text": "I am a programmer.",
+                      "translation": "Я программист."
+                    },
+                    {
+                      "text": "They are teachers.",
+                      "translation": "Они учителя."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "doctor",
+                      "right": "врач"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "teacher",
+                      "right": "учитель"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "engineer",
+                      "right": "инженер"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "chef",
+                      "right": "шеф-повар"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "programmer",
+                      "right": "программист"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "She is a doctor. He works as an engineer. I am a programmer.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Healthcare",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Education",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_3",
+                      "name": "IT",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "doctor",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "nurse",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "teacher",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "professor",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "programmer",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "designer",
+                      "correctCategory": "cat_3"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "doctor",
+                    "teacher",
+                    "engineer",
+                    "manager"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which profession works in a hospital?",
+                      "options": [
+                        "teacher",
+                        "chef",
+                        "doctor",
+                        "designer"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "A 'programmer' is also called a ___.",
+                      "options": [
+                        "driver",
+                        "developer",
+                        "designer",
+                        "dentist"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking About Your Job",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000602000,\"blocks\":[{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"To say what your job is, use these structures:\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I am a</b> teacher. — Я учитель.\",\"<b>I work as a</b> nurse. — Я работаю медсестрой.\",\"<b>I work in</b> a school / hospital / company. — Я работаю в школе / больнице / компании.\",\"<b>I work for</b> Google / a small firm. — Я работаю в Google / небольшой фирме.\"]}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Questions about job:</b>\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"What do you <b>do</b>? — Кем вы работаете? (Чем занимаетесь?)\",\"What is your <b>job</b>? — Какова ваша работа?\",\"Where do you <b>work</b>? — Где вы работаете?\"]}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Note: Use <b>a/an</b> with job titles: I am <b>a</b> teacher. She is <b>an</b> engineer.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "What do you do? I work as a teacher. I work in a secondary school.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I am a engineer.",
+                      "correctText": "I am an engineer."
+                    },
+                    {
+                      "text": "She works as doctor.",
+                      "correctText": "She works as a doctor."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I work ___ a school in the city.",
+                      "answers": [
+                        "in",
+                        "at",
+                        "for"
+                      ]
+                    },
+                    {
+                      "sentence": "She works ___ a nurse at the hospital.",
+                      "answers": [
+                        "as",
+                        "like",
+                        "in"
+                      ]
+                    },
+                    {
+                      "sentence": "He is ___ engineer.",
+                      "answers": [
+                        "an",
+                        "a",
+                        "the"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "A: What do you [do]? B: I [work] as a teacher. I work [in] a secondary school. A: Do you like your [job]? B: Yes, I love [it]!",
+                  "gaps": [
+                    {
+                      "placeholder": "do",
+                      "answers": [
+                        "do"
+                      ]
+                    },
+                    {
+                      "placeholder": "work",
+                      "answers": [
+                        "work"
+                      ]
+                    },
+                    {
+                      "placeholder": "in",
+                      "answers": [
+                        "in",
+                        "at"
+                      ]
+                    },
+                    {
+                      "placeholder": "job",
+                      "answers": [
+                        "job",
+                        "work"
+                      ]
+                    },
+                    {
+                      "placeholder": "it",
+                      "answers": [
+                        "it"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "When asking about someone's job, you say ___.",
+                      "options": [
+                        "What do you want?",
+                        "What do you do?",
+                        "Where are you from?",
+                        "How old are you?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "She is a engineer.",
+                        "She is an engineer.",
+                        "She works like engineer.",
+                        "She works a engineer."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Workplace Vocabulary",
+      "subtopics": [
+        {
+          "title": "2.1 Places of Work",
+          "lessons": [
+            {
+              "title": "Workplaces",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000603000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Different jobs take place in different <b>workplaces</b>:\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>office</b> — офис\",\"<b>factory</b> — завод / фабрика\",\"<b>hospital</b> — больница\",\"<b>school / university</b> — школа / университет\",\"<b>restaurant / café</b> — ресторан / кафе\",\"<b>shop / store</b> — магазин\",\"<b>bank</b> — банк\",\"<b>laboratory</b> — лаборатория\",\"<b>studio</b> — студия\",\"<b>farm</b> — ферма\",\"<b>construction site</b> — строительная площадка\"]}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example:</b> <em>A doctor works in a <b>hospital</b>. A teacher works in a <b>school</b>.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "doctor",
+                      "right": "hospital"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "teacher",
+                      "right": "school"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "chef",
+                      "right": "restaurant"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "programmer",
+                      "right": "office"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "farmer",
+                      "right": "farm"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "A doctor works in a hospital. A teacher works in a school. A chef works in a restaurant.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Where you go to learn and study",
+                      "word": "school"
+                    },
+                    {
+                      "hint": "A place where products are made",
+                      "word": "factory"
+                    },
+                    {
+                      "hint": "Where scientists do experiments",
+                      "word": "laboratory"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Where does a nurse work?",
+                      "options": [
+                        "office",
+                        "farm",
+                        "hospital",
+                        "school"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "A chef works in a...",
+                      "options": [
+                        "bank",
+                        "restaurant",
+                        "laboratory",
+                        "studio"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Office and Workplace Items",
+          "lessons": [
+            {
+              "title": "Things at Work",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000604000,\"blocks\":[{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"These are common things you find in a <b>workplace</b>:\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Office items:</b>\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>desk</b> — рабочий стол\",\"<b>computer</b> — компьютер\",\"<b>printer</b> — принтер\",\"<b>telephone</b> — телефон\",\"<b>folder</b> — папка\",\"<b>report</b> — отчёт\",\"<b>meeting room</b> — переговорная комната\",\"<b>colleague</b> — коллега\",\"<b>boss / manager</b> — начальник / менеджер\"]}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Verbs at work:</b>\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>attend a meeting</b> — участвовать в совещании\",\"<b>send an email</b> — отправить email\",\"<b>make a phone call</b> — сделать звонок\",\"<b>finish a report</b> — закончить отчёт\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I sit at my desk, check my emails, and attend a morning meeting.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "meeting",
+                    "colleague",
+                    "report",
+                    "printer"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000604001",
+                      "english": "I have a meeting at 10 o'clock.",
+                      "russian": "У меня совещание в 10 часов.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000604002",
+                      "english": "She is finishing her report.",
+                      "russian": "Она заканчивает свой отчёт.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000604003",
+                      "english": "Can you send me an email?",
+                      "russian": "Можете прислать мне email?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000604004",
+                      "english": "My colleague works from home.",
+                      "russian": "Мой коллега работает из дома.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "I sit at my [desk] and start my computer. First I check my [emails]. Then I have a [meeting] with my team. After lunch, I write a [report] and send it to my [boss].",
+                  "gaps": [
+                    {
+                      "placeholder": "desk",
+                      "answers": [
+                        "desk"
+                      ]
+                    },
+                    {
+                      "placeholder": "emails",
+                      "answers": [
+                        "emails",
+                        "email"
+                      ]
+                    },
+                    {
+                      "placeholder": "meeting",
+                      "answers": [
+                        "meeting"
+                      ]
+                    },
+                    {
+                      "placeholder": "report",
+                      "answers": [
+                        "report"
+                      ]
+                    },
+                    {
+                      "placeholder": "boss",
+                      "answers": [
+                        "boss",
+                        "manager"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A 'colleague' is ___.",
+                      "options": [
+                        "your boss",
+                        "a person you work with",
+                        "a client",
+                        "your employee"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What do you do when you 'attend a meeting'?",
+                      "options": [
+                        "write a report",
+                        "send an email",
+                        "go to a group discussion at work",
+                        "call a client"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Talking About Your Job",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Describing Job Responsibilities",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000605000,\"blocks\":[{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"To describe what your job involves, use these phrases:\"}},{\"id\":\"tU6vW7xY8z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>My job involves...</b> — Моя работа включает...\",\"<b>I am responsible for...</b> — Я отвечаю за...\",\"<b>My main task is to...</b> — Моя главная задача — ...\",\"<b>I deal with...</b> — Я занимаюсь...\",\"<b>I help people to...</b> — Я помогаю людям...\"]}},{\"id\":\"aB9cD0eF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Examples:</b>\"}},{\"id\":\"hI2jK3lM4n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"My job <b>involves</b> writing reports and attending meetings.\",\"I am <b>responsible for</b> the social media accounts.\",\"I <b>deal with</b> customer questions every day.\",\"My <b>main task</b> is to manage the sales team.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Describe your job responsibilities",
+                "targetPhrase": "My job involves writing reports and attending meetings. I am responsible for customer service."
+              }
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "My job involves writing reports and attending meetings. I am responsible for customer service.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "My job ___ writing reports and sending emails.",
+                  "answers": [
+                    "involves",
+                    "include",
+                    "is"
+                  ]
+                },
+                {
+                  "sentence": "I am responsible ___ customer service.",
+                  "answers": [
+                    "for",
+                    "of",
+                    "to"
+                  ]
+                },
+                {
+                  "sentence": "I ___ with problems every day.",
+                  "answers": [
+                    "deal",
+                    "help",
+                    "work"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "My job ___ teaching students every day",
+                  "word": "involves"
+                },
+                {
+                  "hint": "I am ___ for the team's performance",
+                  "word": "responsible"
+                },
+                {
+                  "hint": "I ___ with difficult clients",
+                  "word": "deal"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase means 'I take care of something at work'?",
+                  "options": [
+                    "I enjoy my job.",
+                    "I am responsible for...",
+                    "I work in...",
+                    "I am a manager."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "How do you say your work includes something?",
+                  "options": [
+                    "My job involves...",
+                    "My job is...",
+                    "I work because...",
+                    "I go to work..."
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Likes and Dislikes at Work",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000606000,\"blocks\":[{\"id\":\"oP5qR6sT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here is how to express what you like or dislike about your job:\"}},{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Positive:</b>\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>enjoy</b> working with people.\",\"I <b>love</b> my job because it is creative.\",\"The best part is <b>helping</b> customers.\",\"I find my work very <b>interesting / rewarding</b>.\"]}},{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Negative:</b>\"}},{\"id\":\"qR7sT8uV9w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I don't like <b>working overtime</b>. — Мне не нравится работать сверхурочно.\",\"The worst part is <b>traffic</b> on the way to work.\",\"It can be <b>stressful</b> sometimes.\"]}},{\"id\":\"xY0zA1bC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful adjectives for jobs:</b> interesting, boring, stressful, rewarding, creative, well-paid, challenging\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "phrases",
+              "phrases": [
+                {
+                  "text": "I enjoy working with people.",
+                  "translation": "Мне нравится работать с людьми."
+                },
+                {
+                  "text": "My job is very stressful.",
+                  "translation": "Моя работа очень стрессовая."
+                },
+                {
+                  "text": "I find my work interesting.",
+                  "translation": "Я считаю свою работу интересной."
+                },
+                {
+                  "text": "I don't like working overtime.",
+                  "translation": "Мне не нравится работать сверхурочно."
+                }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "I enjoy working with people. My job is creative and rewarding but sometimes stressful.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "stressful",
+                    "rewarding",
+                    "interesting",
+                    "hospital"
+                  ],
+                  "correctWord": "hospital"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "fill-gaps",
+              "text": "I work as a designer. I [love] my job because it is very [creative]. The best part is working with my [colleagues]. Sometimes it can be [stressful], but I find it very [rewarding].",
+              "gaps": [
+                {
+                  "placeholder": "love",
+                  "answers": [
+                    "love",
+                    "enjoy",
+                    "like"
+                  ]
+                },
+                {
+                  "placeholder": "creative",
+                  "answers": [
+                    "creative"
+                  ]
+                },
+                {
+                  "placeholder": "colleagues",
+                  "answers": [
+                    "colleagues",
+                    "team"
+                  ]
+                },
+                {
+                  "placeholder": "stressful",
+                  "answers": [
+                    "stressful"
+                  ]
+                },
+                {
+                  "placeholder": "rewarding",
+                  "answers": [
+                    "rewarding",
+                    "interesting"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000606001",
+                  "english": "I enjoy working with people.",
+                  "russian": "Мне нравится работать с людьми.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000606002",
+                  "english": "My job is very stressful.",
+                  "russian": "Моя работа очень стрессовая.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000606003",
+                  "english": "I find my work interesting.",
+                  "russian": "Я считаю свою работу интересной.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000606004",
+                  "english": "I don't like working overtime.",
+                  "russian": "Мне не нравится работать сверхурочно.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "'Rewarding' work means ___.",
+                  "options": [
+                    "very tiring work",
+                    "well-paid work only",
+                    "work that gives you satisfaction",
+                    "boring work"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Which adjective has a NEGATIVE meaning?",
+                  "options": [
+                    "rewarding",
+                    "interesting",
+                    "creative",
+                    "stressful"
+                  ],
+                  "correctOptions": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Simple Job Interview",
+      "subtopics": [
+        {
+          "title": "4.1 Interview Questions",
+          "lessons": [
+            {
+              "title": "Common Interview Questions",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000607000,\"blocks\":[{\"id\":\"eF3gH4iJ5k\",\"type\":\"paragraph\",\"data\":{\"text\":\"In a <b>job interview</b>, the interviewer asks questions. Here are the most common ones and how to answer:\"}},{\"id\":\"lM6nO7pQ8r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Q: Tell me about yourself.</b>\"}},{\"id\":\"sT9uV0wX1y\",\"type\":\"paragraph\",\"data\":{\"text\":\"A: My name is... I have experience in... I am currently working as a...\"}},{\"id\":\"zA2bC3dE4f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Q: Why do you want this job?</b>\"}},{\"id\":\"gH5iJ6kL7m\",\"type\":\"paragraph\",\"data\":{\"text\":\"A: I am interested in this position because... I want to develop my skills in...\"}},{\"id\":\"nO8pQ9rS0t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Q: What are your strengths?</b>\"}},{\"id\":\"uV1wX2yZ3a\",\"type\":\"paragraph\",\"data\":{\"text\":\"A: I am hardworking / organised / a good team player.\"}},{\"id\":\"bC4dE5fG6h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Q: Do you have any experience?</b>\"}},{\"id\":\"iJ7kL8mN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"A: Yes, I have 2 years of experience as a... / I worked at... for... years.\"}},{\"id\":\"pQ0rS1tU2v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Q: When can you start?</b>\"}},{\"id\":\"wX3yZ4aB5c\",\"type\":\"paragraph\",\"data\":{\"text\":\"A: I can start immediately. / I can start on the 1st of May.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Practise answering a common interview question",
+                    "targetPhrase": "I am hardworking and organised. I have two years of experience as a teacher."
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "Tell me about yourself.",
+                      "right": "My name is Anna. I work as a teacher."
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "Why do you want this job?",
+                      "right": "I want to develop my skills."
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "What are your strengths?",
+                      "right": "I am organised and hardworking."
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "Do you have experience?",
+                      "right": "Yes, I have 3 years of experience."
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "When can you start?",
+                      "right": "I can start immediately."
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "I am hardworking and organised. I can start immediately.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Something you do well — a positive quality",
+                      "word": "strength"
+                    },
+                    {
+                      "hint": "Knowledge and skills you have from working",
+                      "word": "experience"
+                    },
+                    {
+                      "hint": "The meeting where you are asked questions for a job",
+                      "word": "interview"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "The interviewer asks: 'What are your strengths?' What is the best answer?",
+                      "options": [
+                        "I want more money.",
+                        "I am hardworking and organised.",
+                        "I don't have any.",
+                        "I like my job."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you say you can start tomorrow?",
+                      "options": [
+                        "I started yesterday.",
+                        "I can start immediately.",
+                        "I was working before.",
+                        "I have experience."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Interview Vocabulary",
+              "weight": 8,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000608000,\"blocks\":[{\"id\":\"dE6fG7hI8j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key vocabulary for job interviews:\"}},{\"id\":\"kL9mN0oP1q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>CV / resume</b> — резюме\",\"<b>cover letter</b> — сопроводительное письмо\",\"<b>experience</b> — опыт\",\"<b>qualification</b> — квалификация\",\"<b>skill</b> — навык\",\"<b>salary</b> — зарплата\",\"<b>part-time</b> — неполный рабочий день\",\"<b>full-time</b> — полный рабочий день\",\"<b>contract</b> — контракт\",\"<b>apply for a job</b> — подавать заявку на работу\",\"<b>be hired / get the job</b> — быть нанятым / получить работу\"]}},{\"id\":\"rS2tU3vW4x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Example: I applied for a <b>full-time</b> position. My CV shows my <b>experience</b> and <b>qualifications</b>.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I sent my CV and cover letter to the company. I hope I get the job!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "salary",
+                    "contract",
+                    "qualification",
+                    "skill"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I sent my [CV] and [cover] letter to the company. The [interview] was on Monday. They asked about my [experience] and [skills]. I hope I get the [job]!",
+                  "gaps": [
+                    {
+                      "placeholder": "CV",
+                      "answers": [
+                        "CV",
+                        "resume"
+                      ]
+                    },
+                    {
+                      "placeholder": "cover",
+                      "answers": [
+                        "cover"
+                      ]
+                    },
+                    {
+                      "placeholder": "interview",
+                      "answers": [
+                        "interview"
+                      ]
+                    },
+                    {
+                      "placeholder": "experience",
+                      "answers": [
+                        "experience"
+                      ]
+                    },
+                    {
+                      "placeholder": "skills",
+                      "answers": [
+                        "skills"
+                      ]
+                    },
+                    {
+                      "placeholder": "job",
+                      "answers": [
+                        "job",
+                        "position"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000608001",
+                      "english": "I applied for a full-time job.",
+                      "russian": "Я подал заявку на работу с полным рабочим днём.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000608002",
+                      "english": "What is the salary?",
+                      "russian": "Какова зарплата?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000608003",
+                      "english": "I have good communication skills.",
+                      "russian": "У меня хорошие навыки общения.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000608004",
+                      "english": "She got the job!",
+                      "russian": "Она получила работу!",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A 'CV' is ___.",
+                      "options": [
+                        "a job interview",
+                        "a document with your work history and skills",
+                        "a work contract",
+                        "a salary offer"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "'Part-time' work means ___.",
+                      "options": [
+                        "working 40 hours a week",
+                        "working fewer hours than a standard working week",
+                        "working from home",
+                        "working on weekends only"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Work Schedules and Routines",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Work Hours and Schedules",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000609000,\"blocks\":[{\"id\":\"yZ5aB6cD7e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's learn how to talk about <b>work schedules</b>:\"}},{\"id\":\"fG8hI9jK0l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Working hours:</b>\"}},{\"id\":\"mN1oP2qR3s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I work from 9 to 5.</b> — Я работаю с 9 до 5.\",\"<b>I work shifts.</b> — Я работаю посменно.\",\"<b>I work nights.</b> — Я работаю в ночную смену.\",\"<b>I work part-time / full-time.</b>\",\"<b>I work from home / remotely.</b> — Я работаю из дома / дистанционно.\"]}},{\"id\":\"tU4vW5xY6z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Days off:</b>\"}},{\"id\":\"aB7cD8eF9g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>day off</b> — выходной день\",\"<b>annual leave / holiday</b> — отпуск\",\"<b>sick leave</b> — больничный\",\"<b>public holiday</b> — государственный праздник\"]}},{\"id\":\"hI0jK1lM2n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Example: I work Monday to Friday, from 9 am to 6 pm. I have two days off on weekends.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I work from 9 to 5, Monday to Friday. I have my annual leave in August.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Working at different times — mornings, evenings, or nights",
+                  "word": "shifts"
+                },
+                {
+                  "hint": "A holiday period each year when you don't work",
+                  "word": "annual leave"
+                },
+                {
+                  "hint": "Working from your house instead of the office",
+                  "word": "working remotely"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "I work ___ 9 to 5, Monday to Friday.",
+                  "answers": [
+                    "from",
+                    "at",
+                    "since"
+                  ]
+                },
+                {
+                  "sentence": "She has a ___ off on Sundays.",
+                  "answers": [
+                    "day",
+                    "time",
+                    "week"
+                  ]
+                },
+                {
+                  "sentence": "He works ___ — he doesn't go to the office.",
+                  "answers": [
+                    "remotely",
+                    "full-time",
+                    "alone"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'work shifts' mean?",
+                  "options": [
+                    "Work from home",
+                    "Work at different times (morning/evening/night)",
+                    "Work 8 hours a day",
+                    "Work for a manager"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "What is 'annual leave'?",
+                  "options": [
+                    "A day off each week",
+                    "Working overtime",
+                    "A holiday period each year",
+                    "A sick day"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "A Typical Work Day",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000610000,\"blocks\":[{\"id\":\"oP3qR4sT5u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here is how to describe a <b>typical work day</b>:\"}},{\"id\":\"vW6xY7zA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>I usually <b>arrive</b> at work at 9 am. First, I check my emails and plan my day. At 11, I have a <b>team meeting</b>. Then I work on my tasks until <b>lunch</b> at 1 pm. In the afternoon, I attend a client <b>call</b> and finish my <b>report</b>. I usually <b>leave</b> the office at 6 pm.</em>\"}},{\"id\":\"cD9eF0gH1i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful verbs for work routines:</b>\"}},{\"id\":\"jK2lM3nO4p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>arrive at work</b> — приходить на работу\",\"<b>check emails</b> — проверять почту\",\"<b>attend a meeting</b> — участвовать в совещании\",\"<b>take a lunch break</b> — брать обеденный перерыв\",\"<b>finish work</b> — заканчивать работу\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Describe your typical work day",
+                "targetPhrase": "I arrive at work at nine. I check my emails and then attend a team meeting."
+              }
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "I arrive at the office at 9 am. I check my emails and then have a team meeting.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "I [arrive] at the office at 9 am. I [check] my emails and then have a team [meeting]. I take a lunch [break] at 1 pm. I usually [finish] work at 6 pm and go home.",
+              "gaps": [
+                {
+                  "placeholder": "arrive",
+                  "answers": [
+                    "arrive",
+                    "get"
+                  ]
+                },
+                {
+                  "placeholder": "check",
+                  "answers": [
+                    "check",
+                    "read"
+                  ]
+                },
+                {
+                  "placeholder": "meeting",
+                  "answers": [
+                    "meeting"
+                  ]
+                },
+                {
+                  "placeholder": "break",
+                  "answers": [
+                    "break"
+                  ]
+                },
+                {
+                  "placeholder": "finish",
+                  "answers": [
+                    "finish",
+                    "leave"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000610001",
+                  "english": "I arrive at work at nine.",
+                  "russian": "Я прихожу на работу в девять.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000610002",
+                  "english": "She takes a lunch break at noon.",
+                  "russian": "Она берёт обеденный перерыв в полдень.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000610003",
+                  "english": "We have a team meeting every Monday.",
+                  "russian": "У нас встреча команды каждый понедельник.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000610004",
+                  "english": "He finishes work at six o'clock.",
+                  "russian": "Он заканчивает работу в шесть часов.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "I arrive to work at nine.",
+                  "correctText": "I arrive at work at nine."
+                },
+                {
+                  "text": "She takes lunch break at noon.",
+                  "correctText": "She takes a lunch break at noon."
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which verb do we use for arriving at work?",
+                  "options": [
+                    "go to work",
+                    "arrive at work",
+                    "come work",
+                    "reach work"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "A 'lunch break' is ___.",
+                  "options": [
+                    "working through lunch",
+                    "a short holiday",
+                    "a pause in the middle of the day to eat",
+                    "a meeting at lunchtime"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

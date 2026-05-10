@@ -1,0 +1,1153 @@
+{
+  "title": "Social English",
+  "description": "Covers everyday social situations: making and responding to invitations, small talk topics, expressing opinions politely, apologising and giving excuses. Ideal for elementary learners who want to communicate more naturally in social settings.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Social English: Friends & Neighbours.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Small Talk",
+      "subtopics": [
+        {
+          "title": "1.1 Starting a Conversation",
+          "lessons": [
+            {
+              "title": "How to Start Small Talk",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009101000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Small talk</b> is light, friendly conversation — not about serious topics. It helps you connect with people!\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common small talk topics:</b>\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Weather</b> — Nice weather today, isn't it?\",\"<b>Weekend / holidays</b> — Did you have a good weekend?\",\"<b>Work / school</b> — How is work going?\",\"<b>News / sport</b> — Did you see the game last night?\"]}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful openers:</b>\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>How are you?</b> — Как дела?\",\"<b>How's it going?</b> — Как идут дела?\",\"<b>What have you been up to?</b> — Чем занимался?\",\"<b>Long time no see!</b> — Сто лет не виделись!\",\"<b>What a lovely day!</b> — Какой прекрасный день!\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Hi! Long time no see! How's it going? What have you been up to?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "How are you?",
+                      "translation": "Как дела?"
+                    },
+                    {
+                      "text": "How's it going?",
+                      "translation": "Как идут дела?"
+                    },
+                    {
+                      "text": "Long time no see!",
+                      "translation": "Сто лет не виделись!"
+                    },
+                    {
+                      "text": "What have you been up to?",
+                      "translation": "Чем ты занимался?"
+                    },
+                    {
+                      "text": "Nice weather today!",
+                      "translation": "Хорошая сегодня погода!"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700009101001",
+                      "left": "How are you?",
+                      "right": "Как дела?"
+                    },
+                    {
+                      "id": "1700009101002",
+                      "left": "Long time no see!",
+                      "right": "Сто лет не виделись!"
+                    },
+                    {
+                      "id": "1700009101003",
+                      "left": "How's it going?",
+                      "right": "Как идут дела?"
+                    },
+                    {
+                      "id": "1700009101004",
+                      "left": "What a lovely day!",
+                      "right": "Какой прекрасный день!"
+                    },
+                    {
+                      "id": "1700009101005",
+                      "left": "What have you been up to?",
+                      "right": "Чем ты занимался?"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase do you use when you haven't seen someone for a long time?",
+                      "options": [
+                        "How's it going?",
+                        "Long time no see!",
+                        "Nice weather today!",
+                        "Did you see the game?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which topic is NOT typical for small talk?",
+                      "options": [
+                        "the weather",
+                        "the weekend",
+                        "personal debt",
+                        "sport"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Responding in Small Talk",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009102000,\"blocks\":[{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Small talk is a two-way conversation. Learn to <b>respond</b> naturally:\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"A: How are you? — B: <b>Fine, thanks. And you?</b>\",\"A: Did you have a good weekend? — B: <b>Yes, it was great! I went to the cinema.</b>\",\"A: Nice weather today! — B: <b>Yes, it's lovely, isn't it!</b>\",\"A: How's work going? — B: <b>Not bad, quite busy actually.</b>\"]}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Showing interest:</b>\"}},{\"id\":\"yY5zZ6aA7b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Really?</b> — Правда?\",\"<b>That's great!</b> — Это здорово!\",\"<b>Oh, I see.</b> — Понятно.\",\"<b>Tell me more!</b> — Расскажи подробнее!\",\"<b>How interesting!</b> — Как интересно!\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "A: How are you? B: Fine, thanks. And you? A: Not bad! Did you have a good weekend? B: Yes, it was great!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "A: Hi! How are you? B: [Fine], thanks. And you? A: Not bad. Did you have a good [weekend]? B: Yes, it was [great]! I went to the cinema. A: [Really]? What did you see?",
+                  "gaps": [
+                    {
+                      "placeholder": "Fine",
+                      "answers": [
+                        "Fine",
+                        "Great",
+                        "Good"
+                      ]
+                    },
+                    {
+                      "placeholder": "weekend",
+                      "answers": [
+                        "weekend"
+                      ]
+                    },
+                    {
+                      "placeholder": "great",
+                      "answers": [
+                        "great",
+                        "good",
+                        "lovely"
+                      ]
+                    },
+                    {
+                      "placeholder": "Really",
+                      "answers": [
+                        "Really"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "Really?",
+                        "That's great!",
+                        "How interesting!",
+                        "Goodbye!"
+                      ],
+                      "correctWord": "Goodbye!"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Someone says 'I got a promotion at work!' What is a good response?",
+                      "options": [
+                        "Oh, I see.",
+                        "That's great! Congratulations!",
+                        "Not bad.",
+                        "Tell me more about the weather."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which phrase shows you are listening and interested?",
+                      "options": [
+                        "Goodbye!",
+                        "Not really.",
+                        "Really? Tell me more!",
+                        "I don't care."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Invitations and Plans",
+      "subtopics": [
+        {
+          "title": "2.1 Making and Responding to Invitations",
+          "lessons": [
+            {
+              "title": "Inviting Someone Out",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009103000,\"blocks\":[{\"id\":\"bB8cC9dD0e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Learn how to <b>invite</b> someone to do something:\"}},{\"id\":\"eE1fF2gG3h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Would you like to</b> come to my party? — Хочешь прийти на мою вечеринку?\",\"<b>Do you want to</b> go for a coffee? — Хочешь выпить кофе?\",\"<b>How about</b> going to the cinema on Saturday? — Как насчёт кино в субботу?\",\"<b>Let's</b> have dinner together! — Давай поужинаем вместе!\",\"<b>Are you free</b> on Friday evening? — Ты свободен в пятницу вечером?\"]}},{\"id\":\"hH4iI5jJ6k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Accepting:</b>\"}},{\"id\":\"kK7lL8mM9n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Sure! That sounds great!</b>\",\"<b>I'd love to!</b> — Я бы с удовольствием!\",\"<b>Great idea! What time?</b>\"]}},{\"id\":\"nN0oO1pP2q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Declining politely:</b>\"}},{\"id\":\"qQ3rR4sS5t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Sorry, I can't. I'm busy.</b> — Извини, не могу. Я занят.\",\"<b>I'd love to, but I have plans.</b> — Я бы хотел, но у меня планы.\",\"<b>Maybe next time!</b> — Может, в следующий раз!\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Would you like to go for a coffee? I'd love to! What time? How about three o'clock?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_invite",
+                      "name": "Inviting",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_accept",
+                      "name": "Accepting",
+                      "color": "#2e7d32"
+                    },
+                    {
+                      "id": "cat_decline",
+                      "name": "Declining",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "Would you like to come?",
+                      "correctCategory": "cat_invite"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "I'd love to!",
+                      "correctCategory": "cat_accept"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "Sorry, I can't.",
+                      "correctCategory": "cat_decline"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "How about Saturday?",
+                      "correctCategory": "cat_invite"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "That sounds great!",
+                      "correctCategory": "cat_accept"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "Maybe next time!",
+                      "correctCategory": "cat_decline"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: Are you [free] on Saturday evening? B: Yes, I think so! A: [Would] you like to go to a concert? B: I'd [love] to! What time does it start? A: It starts at [eight] o'clock.",
+                  "gaps": [
+                    {
+                      "placeholder": "free",
+                      "answers": [
+                        "free"
+                      ]
+                    },
+                    {
+                      "placeholder": "Would",
+                      "answers": [
+                        "Would"
+                      ]
+                    },
+                    {
+                      "placeholder": "love",
+                      "answers": [
+                        "love"
+                      ]
+                    },
+                    {
+                      "placeholder": "eight",
+                      "answers": [
+                        "eight"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Practise inviting a friend",
+                    "targetPhrase": "Would you like to go for a coffee on Saturday? I'd love to!"
+                  }
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase is a polite way to DECLINE an invitation?",
+                      "options": [
+                        "I'd love to!",
+                        "That sounds great!",
+                        "I'd love to, but I have plans.",
+                        "Sure, what time?"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "How do you ask if someone is available?",
+                      "options": [
+                        "Do you want to go?",
+                        "Are you free on Friday?",
+                        "Let's go!",
+                        "How about going?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Making Plans and Arrangements",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009104000,\"blocks\":[{\"id\":\"tT6uU7vV8w\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you accept an invitation, you need to <b>make arrangements</b> — agree on where and when:\"}},{\"id\":\"wW9xX0yY1z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Where shall we meet?</b> — Где мы встретимся?\",\"<b>What time?</b> — В котором часу?\",\"<b>Let's meet at the café.</b> — Давай встретимся в кафе.\",\"<b>Is seven o'clock OK?</b> — Семь часов подходит?\",\"<b>That works for me!</b> — Мне подходит!\",\"<b>See you then!</b> — Тогда до встречи!\",\"<b>Don't forget!</b> — Не забудь!\"]}},{\"id\":\"zA2bB3cC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Useful prepositions: <b>at</b> + time (at 7pm), <b>on</b> + day (on Saturday), <b>in</b> + place (in the café)</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Where shall we meet? Let's meet at the park. Is six o'clock OK? That works for me! See you then!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "A: Great! So where [shall] we meet? B: Let's meet [at] the cinema entrance. A: Is half past six [OK]? B: Perfect. That [works] for me! See you [then]!",
+                  "gaps": [
+                    {
+                      "placeholder": "shall",
+                      "answers": [
+                        "shall"
+                      ]
+                    },
+                    {
+                      "placeholder": "at",
+                      "answers": [
+                        "at"
+                      ]
+                    },
+                    {
+                      "placeholder": "OK",
+                      "answers": [
+                        "OK",
+                        "okay"
+                      ]
+                    },
+                    {
+                      "placeholder": "works",
+                      "answers": [
+                        "works"
+                      ]
+                    },
+                    {
+                      "placeholder": "then",
+                      "answers": [
+                        "then"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700009104001",
+                      "english": "Where shall we meet?",
+                      "russian": "Где мы встретимся?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700009104002",
+                      "english": "Let's meet at the café.",
+                      "russian": "Давай встретимся в кафе.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700009104003",
+                      "english": "Is seven o'clock OK?",
+                      "russian": "Семь часов подходит?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700009104004",
+                      "english": "See you then!",
+                      "russian": "Тогда до встречи!",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What do you say when you agree on a plan?",
+                      "options": [
+                        "I can't come.",
+                        "That works for me!",
+                        "Long time no see!",
+                        "How about you?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Complete: 'Let's meet ___ the park entrance ___ 3pm.'",
+                      "options": [
+                        "in / on",
+                        "at / at",
+                        "on / in",
+                        "to / at"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Expressing Opinions",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Agreeing and Disagreeing",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700009105000,\"blocks\":[{\"id\":\"dD5eE6fF7g\",\"type\":\"paragraph\",\"data\":{\"text\":\"In social conversations, we often share and respond to <b>opinions</b>. Here are useful phrases:\"}},{\"id\":\"gG8hH9iI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Giving an opinion:</b>\"}},{\"id\":\"jJ1kK2lL3m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I think</b> the film is great. — Я думаю, фильм отличный.\",\"<b>In my opinion,</b> it is boring. — По-моему, это скучно.\",\"<b>I feel that</b> it was too long. — Мне кажется, это было слишком долго.\"]}},{\"id\":\"mM4nN5oO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Agreeing:</b>\"}},{\"id\":\"pP7qQ8rR9s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I agree!</b> — Я согласен!\",\"<b>Exactly!</b> — Именно!\",\"<b>That's right.</b> — Верно.\",\"<b>Me too!</b> — Я тоже!\"]}},{\"id\":\"sS0tT1uU2v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Disagreeing politely:</b>\"}},{\"id\":\"vV3wW4xX5y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I'm not sure about that.</b> — Я в этом не уверен.\",\"<b>I don't think so.</b> — Я так не думаю.\",\"<b>Actually, I disagree.</b> — На самом деле, я не согласен.\",\"<b>That's an interesting point, but...</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I think the film is great. I agree! In my opinion it was too long. I'm not sure about that.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_agree",
+                  "name": "Agreeing",
+                  "color": "#2e7d32"
+                },
+                {
+                  "id": "cat_disagree",
+                  "name": "Disagreeing",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_opinion",
+                  "name": "Giving Opinion",
+                  "color": "#1976d2"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "I agree!",
+                  "correctCategory": "cat_agree"
+                },
+                {
+                  "id": "item_2",
+                  "text": "I don't think so.",
+                  "correctCategory": "cat_disagree"
+                },
+                {
+                  "id": "item_3",
+                  "text": "I think it is great.",
+                  "correctCategory": "cat_opinion"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Exactly!",
+                  "correctCategory": "cat_agree"
+                },
+                {
+                  "id": "item_5",
+                  "text": "In my opinion...",
+                  "correctCategory": "cat_opinion"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Actually, I disagree.",
+                  "correctCategory": "cat_disagree"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "In my opinion, I think the film is bored.",
+                  "correctText": "In my opinion, the film is boring."
+                },
+                {
+                  "text": "I am agree with you.",
+                  "correctText": "I agree with you."
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase is a polite way to disagree?",
+                  "options": [
+                    "Exactly!",
+                    "I agree!",
+                    "I'm not sure about that.",
+                    "Me too!"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Complete: '___ my opinion, the restaurant was excellent.'",
+                  "options": [
+                    "At",
+                    "In",
+                    "On",
+                    "By"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking About Likes and Preferences",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700009106000,\"blocks\":[{\"id\":\"yY6zZ7aA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Use these phrases to talk about what you <b>like</b> and <b>prefer</b>:\"}},{\"id\":\"bB9cC0dD1e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Preferences:</b>\"}},{\"id\":\"eE2fF3gG4h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>prefer</b> coffee to tea. — Я предпочитаю кофе чаю.\",\"I <b>would rather</b> stay at home. — Я бы лучше остался дома.\",\"I <b>like</b> jazz, but I <b>love</b> classical music.\",\"I'm not keen on horror films. — Я не очень люблю фильмы ужасов.\"]}},{\"id\":\"hH5iI6jJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking about preferences:</b>\"}},{\"id\":\"kK8lL9mM0n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Which do you prefer</b> — coffee or tea? — Что ты предпочитаешь — кофе или чай?\",\"<b>What kind of music do you like?</b>\",\"<b>Do you enjoy</b> cooking? — Тебе нравится готовить?\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I prefer coffee to tea. I'm not keen on horror films. Which do you prefer?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "I prefer jazz ___ pop music.",
+                  "answers": [
+                    "to",
+                    "than",
+                    "or"
+                  ]
+                },
+                {
+                  "sentence": "I ___ rather go to the café than cook at home.",
+                  "answers": [
+                    "would",
+                    "will",
+                    "could"
+                  ]
+                },
+                {
+                  "sentence": "She is not keen ___ action films.",
+                  "answers": [
+                    "on",
+                    "in",
+                    "at"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700009106001",
+                  "english": "I prefer coffee to tea.",
+                  "russian": "Я предпочитаю кофе чаю.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009106002",
+                  "english": "I'm not keen on horror films.",
+                  "russian": "Я не очень люблю фильмы ужасов.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009106003",
+                  "english": "Which do you prefer — jazz or classical?",
+                  "russian": "Что ты предпочитаешь — джаз или классику?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009106004",
+                  "english": "I would rather stay at home.",
+                  "russian": "Я бы лучше остался дома.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Complete: 'I prefer staying home ___ going to parties.'",
+                  "options": [
+                    "than",
+                    "to",
+                    "from",
+                    "over"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "What does 'I'm not keen on' mean?",
+                  "options": [
+                    "I love very much",
+                    "I don't really like",
+                    "I prefer",
+                    "I would rather"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Apologising and Giving Excuses",
+      "subtopics": [
+        {
+          "title": "4.1 Saying Sorry",
+          "lessons": [
+            {
+              "title": "Apologies and Excuses",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009107000,\"blocks\":[{\"id\":\"nN1oO2pP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"In social situations, we sometimes need to <b>apologise</b> (say sorry). Here is how:\"}},{\"id\":\"qQ4rR5sS6t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Apologising:</b>\"}},{\"id\":\"tT7uU8vV9w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Sorry!</b> — Извини!\",\"<b>I'm sorry.</b> — Мне жаль.\",\"<b>I'm really sorry.</b> — Мне очень жаль.\",\"<b>I apologise.</b> — Приношу свои извинения.\",\"<b>I'm sorry I'm late.</b> — Извини, что опоздал.\"]}},{\"id\":\"wW0xX1yY2z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Giving an excuse:</b>\"}},{\"id\":\"zA3bB4cC5d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I missed the bus.</b> — Я пропустил автобус.\",\"<b>The traffic was terrible.</b> — Были ужасные пробки.\",\"<b>I forgot.</b> — Я забыл.\",\"<b>Something came up.</b> — Кое-что случилось.\"]}},{\"id\":\"dD6eE7fF8g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Accepting an apology:</b>\"}},{\"id\":\"gG9hH0iI1j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>That's OK!</b> — Всё в порядке!\",\"<b>No problem.</b> — Не проблема.\",\"<b>Don't worry about it.</b> — Не переживай.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'm really sorry I'm late. The traffic was terrible. That's OK, don't worry about it!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700009107001",
+                      "left": "I'm sorry.",
+                      "right": "Мне жаль."
+                    },
+                    {
+                      "id": "1700009107002",
+                      "left": "I missed the bus.",
+                      "right": "Я пропустил автобус."
+                    },
+                    {
+                      "id": "1700009107003",
+                      "left": "Don't worry about it.",
+                      "right": "Не переживай."
+                    },
+                    {
+                      "id": "1700009107004",
+                      "left": "Something came up.",
+                      "right": "Кое-что случилось."
+                    },
+                    {
+                      "id": "1700009107005",
+                      "left": "No problem.",
+                      "right": "Не проблема."
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: You're half an hour late! B: I'm so [sorry]! The traffic was [terrible]. A: That's [OK]. Next time, please [call] me. B: Of course. It won't happen [again].",
+                  "gaps": [
+                    {
+                      "placeholder": "sorry",
+                      "answers": [
+                        "sorry"
+                      ]
+                    },
+                    {
+                      "placeholder": "terrible",
+                      "answers": [
+                        "terrible",
+                        "awful",
+                        "bad"
+                      ]
+                    },
+                    {
+                      "placeholder": "OK",
+                      "answers": [
+                        "OK",
+                        "okay",
+                        "fine"
+                      ]
+                    },
+                    {
+                      "placeholder": "call",
+                      "answers": [
+                        "call",
+                        "text",
+                        "message"
+                      ]
+                    },
+                    {
+                      "placeholder": "again",
+                      "answers": [
+                        "again"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which is a polite way to accept an apology?",
+                      "options": [
+                        "You're late!",
+                        "Don't worry about it.",
+                        "I'm really sorry.",
+                        "Something came up."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which is an excuse for being late?",
+                      "options": [
+                        "No problem.",
+                        "That's OK.",
+                        "I missed the bus.",
+                        "Don't worry."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Complimenting and Thanking",
+              "weight": 8,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009108000,\"blocks\":[{\"id\":\"jJ2kK3lL4m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Compliments</b> and <b>thanks</b> make social interactions more pleasant!\"}},{\"id\":\"mM5nN6oO7p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Giving compliments:</b>\"}},{\"id\":\"pP8qQ9rR0s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>You look great!</b> — Ты отлично выглядишь!\",\"<b>That's a lovely dress / shirt!</b> — Какое красивое платье / рубашка!\",\"<b>Your English is really good!</b> — У тебя отличный английский!\",\"<b>What a nice house!</b> — Какой красивый дом!\"]}},{\"id\":\"sS1tT2uU3v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Responding to compliments:</b>\"}},{\"id\":\"vV4wW5xX6y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Thank you!</b> / <b>Thanks!</b>\",\"<b>That's very kind of you!</b> — Это очень мило с твоей стороны!\",\"<b>Oh, do you think so?</b> — Ты так думаешь?\"]}},{\"id\":\"yY7zZ8aA9b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Thanking:</b>\"}},{\"id\":\"bB0cC1dD2e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Thank you very much.</b> — Большое спасибо.\",\"<b>Thanks a lot!</b> — Огромное спасибо!\",\"<b>That's very helpful.</b> — Это очень полезно.\",\"<b>I really appreciate it.</b> — Я очень ценю это.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "You look great today! Thank you, that's very kind of you! I really appreciate it.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "You look great!",
+                      "translation": "Ты отлично выглядишь!"
+                    },
+                    {
+                      "text": "That's very kind of you!",
+                      "translation": "Это очень мило с твоей стороны!"
+                    },
+                    {
+                      "text": "Thanks a lot!",
+                      "translation": "Огромное спасибо!"
+                    },
+                    {
+                      "text": "I really appreciate it.",
+                      "translation": "Я очень ценю это."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "Your English is really ___!",
+                      "answers": [
+                        "good",
+                        "great",
+                        "excellent"
+                      ]
+                    },
+                    {
+                      "sentence": "Thank you! That's very ___ of you.",
+                      "answers": [
+                        "kind",
+                        "nice",
+                        "sweet"
+                      ]
+                    },
+                    {
+                      "sentence": "I really ___ your help.",
+                      "answers": [
+                        "appreciate",
+                        "love",
+                        "enjoy"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Someone says 'You look great!' How do you respond?",
+                      "options": [
+                        "I'm sorry.",
+                        "No problem.",
+                        "Thank you, that's very kind!",
+                        "Don't worry."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which phrase expresses strong thanks?",
+                      "options": [
+                        "That's OK.",
+                        "I really appreciate it.",
+                        "No problem.",
+                        "I don't mind."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Putting It All Together",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "A Social Conversation",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700009109000,\"blocks\":[{\"id\":\"eE3fF4gG5h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's practise a full <b>social conversation</b>. Read this dialogue:\"}},{\"id\":\"hH6iI7jJ8k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em><b>Anna:</b> Hi Tom! Long time no see! How are you?</em>\"}},{\"id\":\"kK9lL0mM1n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em><b>Tom:</b> Hi Anna! I'm great, thanks! What have you been up to?</em>\"}},{\"id\":\"nN2oO3pP4q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em><b>Anna:</b> I've been busy at work. Hey, are you free this Saturday?</em>\"}},{\"id\":\"qQ5rR6sS7t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em><b>Tom:</b> Yes, I think so! What's happening?</em>\"}},{\"id\":\"tT8uU9vV0w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em><b>Anna:</b> Would you like to come to a dinner party at my place?</em>\"}},{\"id\":\"wW1xX2yY3z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em><b>Tom:</b> I'd love to! What time?</em>\"}},{\"id\":\"zA4bB5cC6d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em><b>Anna:</b> About seven o'clock. Is that OK?</em>\"}},{\"id\":\"dD7eE8fF9g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em><b>Tom:</b> That works for me! See you Saturday!</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Hi! Long time no see! Are you free this Saturday? Would you like to come to my party? I'd love to! See you Saturday!",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the invitation aloud",
+                "targetPhrase": "Would you like to come to my dinner party on Saturday? It starts at seven o'clock."
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A: Are you [free] on Saturday? B: Yes! What's [happening]? A: Would you like to [come] to my party? B: I'd [love] to! What time? A: About [seven]. Is that OK? B: That [works] for me!",
+              "gaps": [
+                {
+                  "placeholder": "free",
+                  "answers": [
+                    "free"
+                  ]
+                },
+                {
+                  "placeholder": "happening",
+                  "answers": [
+                    "happening"
+                  ]
+                },
+                {
+                  "placeholder": "come",
+                  "answers": [
+                    "come"
+                  ]
+                },
+                {
+                  "placeholder": "love",
+                  "answers": [
+                    "love"
+                  ]
+                },
+                {
+                  "placeholder": "seven",
+                  "answers": [
+                    "seven"
+                  ]
+                },
+                {
+                  "placeholder": "works",
+                  "answers": [
+                    "works"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "You say this when you enthusiastically accept an invitation",
+                  "word": "I'd love to"
+                },
+                {
+                  "hint": "You ask this to check if someone is available",
+                  "word": "Are you free"
+                },
+                {
+                  "hint": "You say this to confirm a plan is convenient for you",
+                  "word": "That works for me"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700009109001",
+                  "english": "Long time no see! How are you?",
+                  "russian": "Сто лет не виделись! Как дела?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009109002",
+                  "english": "Would you like to come to my party?",
+                  "russian": "Хочешь прийти на мою вечеринку?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009109003",
+                  "english": "That works for me!",
+                  "russian": "Мне подходит!",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009109004",
+                  "english": "I'd love to, but I have plans.",
+                  "russian": "Я бы хотел, но у меня есть планы.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the correct order in a social conversation?",
+                  "options": [
+                    "Invite → Decline → Goodbye",
+                    "Greet → Make small talk → Invite → Agree on details",
+                    "Apologise → Accept → Greet",
+                    "Compliment → Disagree → Invite"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which phrase can start a social conversation?",
+                  "options": [
+                    "See you then!",
+                    "That works for me!",
+                    "Long time no see! How are you?",
+                    "No problem."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "How do you politely end an invitation conversation?",
+                  "options": [
+                    "I'm not keen on that.",
+                    "See you then!",
+                    "I don't think so.",
+                    "What have you been up to?"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

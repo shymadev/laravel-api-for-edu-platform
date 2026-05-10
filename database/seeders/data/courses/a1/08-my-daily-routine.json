@@ -1,0 +1,1123 @@
+{
+  "title": "My Daily Routine",
+  "description": "Covers daily actions vocabulary, present simple tense for routines (I wake up, I eat breakfast), and time expressions (in the morning, at noon, at night). Ideal for absolute beginners who want to describe their day in English.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": true,
+  "preview_image": "My Daily Routine.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Daily Actions Vocabulary",
+      "subtopics": [
+        {
+          "title": "1.1 Basic Daily Verbs",
+          "lessons": [
+            {
+              "title": "Actions in a Day",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700007001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the most common <b>daily action verbs</b> in English:\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>wake up</b> — просыпаться\",\"<b>get up</b> — вставать\",\"<b>wash</b> — умываться\",\"<b>brush teeth</b> — чистить зубы\",\"<b>get dressed</b> — одеваться\",\"<b>eat breakfast</b> — завтракать\",\"<b>go to work / school</b> — идти на работу / в школу\",\"<b>have lunch</b> — обедать\",\"<b>come home</b> — приходить домой\",\"<b>eat dinner</b> — ужинать\",\"<b>watch TV</b> — смотреть телевизор\",\"<b>go to bed</b> — ложиться спать\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I wake up at seven. I brush my teeth and eat breakfast.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "wake up",
+                      "translation": "просыпаться"
+                    },
+                    {
+                      "text": "get dressed",
+                      "translation": "одеваться"
+                    },
+                    {
+                      "text": "eat breakfast",
+                      "translation": "завтракать"
+                    },
+                    {
+                      "text": "go to bed",
+                      "translation": "ложиться спать"
+                    },
+                    {
+                      "text": "have lunch",
+                      "translation": "обедать"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700007001001",
+                      "left": "wake up",
+                      "right": "просыпаться"
+                    },
+                    {
+                      "id": "1700007001002",
+                      "left": "get dressed",
+                      "right": "одеваться"
+                    },
+                    {
+                      "id": "1700007001003",
+                      "left": "brush teeth",
+                      "right": "чистить зубы"
+                    },
+                    {
+                      "id": "1700007001004",
+                      "left": "have lunch",
+                      "right": "обедать"
+                    },
+                    {
+                      "id": "1700007001005",
+                      "left": "go to bed",
+                      "right": "ложиться спать"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "wake",
+                    "brush",
+                    "dressed",
+                    "lunch"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'get up' mean?",
+                      "options": [
+                        "go to sleep",
+                        "stand up / leave bed",
+                        "eat breakfast",
+                        "go outside"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which action comes FIRST in the morning?",
+                      "options": [
+                        "eat breakfast",
+                        "go to bed",
+                        "wake up",
+                        "watch TV"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Order of Actions",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700007002000,\"blocks\":[{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"We do actions in an <b>order</b> every day. Here is a typical day:\"}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"I <b>wake up</b> at 7 o'clock.\",\"I <b>get up</b> and <b>wash</b> my face.\",\"I <b>brush my teeth</b>.\",\"I <b>get dressed</b>.\",\"I <b>eat breakfast</b>.\",\"I <b>go to school</b>.\",\"I <b>have lunch</b> at noon.\",\"I <b>come home</b> in the afternoon.\",\"I <b>eat dinner</b> in the evening.\",\"I <b>go to bed</b> at 10 pm.\"]}},{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use <b>then</b> and <b>after that</b> to connect actions: <em>I wake up, <b>then</b> I get up.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "First I wake up. Then I get dressed and eat breakfast.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "First I wake up, ___ I get dressed.",
+                      "answers": [
+                        "then",
+                        "after",
+                        "next"
+                      ]
+                    },
+                    {
+                      "sentence": "I brush my ___ every morning.",
+                      "answers": [
+                        "teeth",
+                        "hair",
+                        "hands"
+                      ]
+                    },
+                    {
+                      "sentence": "After school, I come ___.",
+                      "answers": [
+                        "home",
+                        "back",
+                        "here"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700007002001",
+                      "english": "I wake up at seven.",
+                      "russian": "Я просыпаюсь в семь часов.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700007002002",
+                      "english": "She brushes her teeth.",
+                      "russian": "Она чистит зубы.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700007002003",
+                      "english": "We eat breakfast together.",
+                      "russian": "Мы завтракаем вместе.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700007002004",
+                      "english": "He goes to school every day.",
+                      "russian": "Он ходит в школу каждый день.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which connector means 'затем / потом'?",
+                      "options": [
+                        "first",
+                        "then",
+                        "before",
+                        "after"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What is the correct order? '___  I brush my teeth. ___ I eat breakfast.'",
+                      "options": [
+                        "Then / First",
+                        "First / Then",
+                        "After / Before",
+                        "Next / Last"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Morning Routine",
+      "subtopics": [
+        {
+          "title": "2.1 What I Do in the Morning",
+          "lessons": [
+            {
+              "title": "Morning Vocabulary",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700007003000,\"blocks\":[{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>morning</b> is the time from when you wake up until about 12:00 (noon). Common morning activities:\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>take a shower</b> — принять душ\",\"<b>have a bath</b> — принять ванну\",\"<b>comb / brush hair</b> — расчесать волосы\",\"<b>shave</b> — бриться\",\"<b>put on makeup</b> — нанести макияж\",\"<b>make breakfast</b> — приготовить завтрак\",\"<b>drink coffee / tea</b> — выпить кофе / чай\",\"<b>read the news</b> — читать новости\",\"<b>leave home</b> — выйти из дома\"]}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Time phrases:</b> in the morning, at 7 o'clock, early, before school\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Every morning I take a shower and drink coffee before I leave home.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_personal",
+                      "name": "Personal Care",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_food",
+                      "name": "Food & Drink",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_other",
+                      "name": "Other",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "take a shower",
+                      "correctCategory": "cat_personal"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "drink coffee",
+                      "correctCategory": "cat_food"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "brush hair",
+                      "correctCategory": "cat_personal"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "make breakfast",
+                      "correctCategory": "cat_food"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "read the news",
+                      "correctCategory": "cat_other"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "shave",
+                      "correctCategory": "cat_personal"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "Every morning I [wake] up at 6:30. First, I take a [shower]. Then I [get] dressed and make [breakfast]. I usually drink [coffee] before I leave home.",
+                  "gaps": [
+                    {
+                      "placeholder": "wake",
+                      "answers": [
+                        "wake"
+                      ]
+                    },
+                    {
+                      "placeholder": "shower",
+                      "answers": [
+                        "shower"
+                      ]
+                    },
+                    {
+                      "placeholder": "get",
+                      "answers": [
+                        "get"
+                      ]
+                    },
+                    {
+                      "placeholder": "breakfast",
+                      "answers": [
+                        "breakfast"
+                      ]
+                    },
+                    {
+                      "placeholder": "coffee",
+                      "answers": [
+                        "coffee",
+                        "tea"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which activity is Personal Care?",
+                      "options": [
+                        "read the news",
+                        "drink coffee",
+                        "take a shower",
+                        "make breakfast"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What does 'leave home' mean?",
+                      "options": [
+                        "Stay at home",
+                        "Go out of the house",
+                        "Clean the house",
+                        "Sleep at home"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Present Simple for Routines",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700007004000,\"blocks\":[{\"id\":\"yY5zZ6aA7b\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use the <b>Present Simple</b> tense to talk about routines — things we do every day.\"}},{\"id\":\"bB8cC9dD0e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Form:</b>\"}},{\"id\":\"eE1fF2gG3h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I / You / We / They + verb: <em>I <b>wake</b> up at 7.</em>\",\"He / She / It + verb + <b>s/es</b>: <em>She <b>wakes</b> up at 7.</em>\"]}},{\"id\":\"hH4iI5jJ6k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Negative:</b>\"}},{\"id\":\"kK7lL8mM9n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>don't</b> eat breakfast. / She <b>doesn't</b> eat breakfast.\"]}},{\"id\":\"nN0oO1pP2q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Question:</b>\"}},{\"id\":\"qQ3rR4sS5t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Do</b> you eat breakfast? / <b>Does</b> she eat breakfast?\"]}},{\"id\":\"tT6uU7vV8w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Remember: Add <b>-s</b> or <b>-es</b> for he/she/it!</em>\"}},{\"id\":\"wW9xX0yY1z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"go → go<b>es</b>, wash → wash<b>es</b>, eat → eat<b>s</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "She wakes up at seven. He goes to school every day.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "She wake up at 7 every day.",
+                      "correctText": "She wakes up at 7 every day."
+                    },
+                    {
+                      "text": "He don't eat breakfast.",
+                      "correctText": "He doesn't eat breakfast."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "He ___ up at 6 every morning.",
+                      "answers": [
+                        "wakes",
+                        "wake",
+                        "waked"
+                      ]
+                    },
+                    {
+                      "sentence": "They ___ breakfast together.",
+                      "answers": [
+                        "eat",
+                        "eats",
+                        "eating"
+                      ]
+                    },
+                    {
+                      "sentence": "She ___ not drink coffee.",
+                      "answers": [
+                        "does",
+                        "do",
+                        "is"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which is correct for 'he'?",
+                      "options": [
+                        "He go to school.",
+                        "He goes to school.",
+                        "He going to school.",
+                        "He gos to school."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you make Present Simple negative for 'she'?",
+                      "options": [
+                        "She don't eat.",
+                        "She doesn't eat.",
+                        "She not eat.",
+                        "She isn't eat."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Afternoon Activities",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "What I Do in the Afternoon",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700007005000,\"blocks\":[{\"id\":\"zA2bB3cC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>afternoon</b> is from 12:00 (noon) to about 6:00 pm. Common afternoon activities:\"}},{\"id\":\"dD5eE6fF7g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>have lunch</b> — обедать\",\"<b>study</b> — учиться / учить\",\"<b>work</b> — работать\",\"<b>meet friends</b> — встречаться с друзьями\",\"<b>go shopping</b> — ходить по магазинам\",\"<b>do sport</b> — заниматься спортом\",\"<b>walk the dog</b> — гулять с собакой\",\"<b>take a nap</b> — вздремнуть\"]}},{\"id\":\"gG8hH9iI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Time phrases:</b> in the afternoon, at noon, at 2 o'clock, after school, after work\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "After school, I have lunch and study. In the afternoon I meet my friends.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700007005001",
+                  "left": "have lunch",
+                  "right": "обедать"
+                },
+                {
+                  "id": "1700007005002",
+                  "left": "study",
+                  "right": "учиться"
+                },
+                {
+                  "id": "1700007005003",
+                  "left": "meet friends",
+                  "right": "встречаться с друзьями"
+                },
+                {
+                  "id": "1700007005004",
+                  "left": "go shopping",
+                  "right": "ходить по магазинам"
+                },
+                {
+                  "id": "1700007005005",
+                  "left": "take a nap",
+                  "right": "вздремнуть"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "After school, I usually [have] lunch at home. Then I [study] for two hours. In the [afternoon], I sometimes [meet] my friends in the park.",
+              "gaps": [
+                {
+                  "placeholder": "have",
+                  "answers": [
+                    "have"
+                  ]
+                },
+                {
+                  "placeholder": "study",
+                  "answers": [
+                    "study"
+                  ]
+                },
+                {
+                  "placeholder": "afternoon",
+                  "answers": [
+                    "afternoon"
+                  ]
+                },
+                {
+                  "placeholder": "meet",
+                  "answers": [
+                    "meet"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'take a nap' mean?",
+                  "options": [
+                    "go to bed for the night",
+                    "a short sleep during the day",
+                    "wake up early",
+                    "sleep late"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Complete: 'After school, I ___ lunch.'",
+                  "options": [
+                    "do",
+                    "make",
+                    "have",
+                    "take"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking About Frequency",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700007006000,\"blocks\":[{\"id\":\"jJ1kK2lL3m\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use <b>frequency adverbs</b> to say how often we do things:\"}},{\"id\":\"mM4nN5oO6p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>always</b> — всегда (100%)\",\"<b>usually</b> — обычно (80%)\",\"<b>often</b> — часто (60%)\",\"<b>sometimes</b> — иногда (40%)\",\"<b>rarely / seldom</b> — редко (20%)\",\"<b>never</b> — никогда (0%)\"]}},{\"id\":\"pP7qQ8rR9s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Position:</b> The adverb comes <b>before</b> the main verb:\"}},{\"id\":\"sS0tT1uU2v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>always</b> wake up early.\",\"She <b>sometimes</b> skips breakfast.\",\"He <b>never</b> goes to bed late.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I always eat breakfast. She sometimes goes shopping. He never goes to bed late.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "always",
+                    "usually",
+                    "often",
+                    "never"
+                  ],
+                  "correctWord": "never"
+                },
+                {
+                  "words": [
+                    "sometimes",
+                    "rarely",
+                    "never",
+                    "always"
+                  ],
+                  "correctWord": "always"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "I ___ eat breakfast — every single day!",
+                  "answers": [
+                    "always",
+                    "sometimes",
+                    "never"
+                  ]
+                },
+                {
+                  "sentence": "She ___ goes shopping on Saturdays.",
+                  "answers": [
+                    "usually",
+                    "never",
+                    "always"
+                  ]
+                },
+                {
+                  "sentence": "He ___ drinks coffee — he doesn't like it.",
+                  "answers": [
+                    "never",
+                    "always",
+                    "often"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Where does 'usually' go in the sentence 'I eat lunch at noon'?",
+                  "options": [
+                    "I eat usually lunch at noon.",
+                    "I usually eat lunch at noon.",
+                    "Usually I eat lunch at noon always.",
+                    "I eat lunch usually."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which adverb means 0%?",
+                  "options": [
+                    "sometimes",
+                    "often",
+                    "rarely",
+                    "never"
+                  ],
+                  "correctOptions": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Evening Routine",
+      "subtopics": [
+        {
+          "title": "4.1 Evening and Night Activities",
+          "lessons": [
+            {
+              "title": "Evening Vocabulary",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700007007000,\"blocks\":[{\"id\":\"vV3wW4xX5y\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>evening</b> is from about 6:00 pm to bedtime. Common evening activities:\"}},{\"id\":\"yY6zZ7aA8b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>cook dinner</b> — готовить ужин\",\"<b>eat dinner</b> — ужинать\",\"<b>wash the dishes</b> — мыть посуду\",\"<b>watch TV</b> — смотреть телевизор\",\"<b>read a book</b> — читать книгу\",\"<b>take a shower / bath</b> — принять душ / ванну\",\"<b>relax</b> — отдыхать\",\"<b>go to bed</b> — ложиться спать\",\"<b>fall asleep</b> — засыпать\"]}},{\"id\":\"bB9cC0dD1e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Time phrases:</b> in the evening, at night, at 9 o'clock, before bed\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "In the evening I cook dinner, then I read a book and go to bed.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700007007001",
+                      "left": "cook dinner",
+                      "right": "готовить ужин"
+                    },
+                    {
+                      "id": "1700007007002",
+                      "left": "wash the dishes",
+                      "right": "мыть посуду"
+                    },
+                    {
+                      "id": "1700007007003",
+                      "left": "read a book",
+                      "right": "читать книгу"
+                    },
+                    {
+                      "id": "1700007007004",
+                      "left": "go to bed",
+                      "right": "ложиться спать"
+                    },
+                    {
+                      "id": "1700007007005",
+                      "left": "fall asleep",
+                      "right": "засыпать"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "In the evening, I [cook] dinner with my family. After dinner, we [wash] the dishes together. Then I [read] a book or [watch] TV. I go to [bed] at 10 o'clock.",
+                  "gaps": [
+                    {
+                      "placeholder": "cook",
+                      "answers": [
+                        "cook"
+                      ]
+                    },
+                    {
+                      "placeholder": "wash",
+                      "answers": [
+                        "wash"
+                      ]
+                    },
+                    {
+                      "placeholder": "read",
+                      "answers": [
+                        "read"
+                      ]
+                    },
+                    {
+                      "placeholder": "watch",
+                      "answers": [
+                        "watch"
+                      ]
+                    },
+                    {
+                      "placeholder": "bed",
+                      "answers": [
+                        "bed"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which activity comes LAST before sleeping?",
+                      "options": [
+                        "cook dinner",
+                        "go to bed",
+                        "wash the dishes",
+                        "watch TV"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What does 'fall asleep' mean?",
+                      "options": [
+                        "get up",
+                        "start sleeping",
+                        "go for a walk",
+                        "eat dinner"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Talking About Schedules",
+      "subtopics": [
+        {
+          "title": "5.1 Days of the Week",
+          "lessons": [
+            {
+              "title": "Days and Time Expressions",
+              "weight": 8,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700007008000,\"blocks\":[{\"id\":\"eE2fF3gG4h\",\"type\":\"paragraph\",\"data\":{\"text\":\"To talk about your schedule, learn the <b>days of the week</b>:\"}},{\"id\":\"hH5iI6jJ7k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Monday</b> — понедельник\",\"<b>Tuesday</b> — вторник\",\"<b>Wednesday</b> — среда\",\"<b>Thursday</b> — четверг\",\"<b>Friday</b> — пятница\",\"<b>Saturday</b> — суббота\",\"<b>Sunday</b> — воскресенье\"]}},{\"id\":\"kK8lL9mM0n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Use <b>on</b> with days: <em>I go swimming <b>on Monday</b>.</em>\"}},{\"id\":\"nN1oO2pP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful time expressions:\"}},{\"id\":\"qQ4rR5sS6t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>in the morning</b> — утром\",\"<b>at noon</b> — в полдень\",\"<b>in the afternoon</b> — днём\",\"<b>in the evening</b> — вечером\",\"<b>at night</b> — ночью\",\"<b>every day</b> — каждый день\",\"<b>on weekdays</b> — в рабочие дни\",\"<b>on weekends</b> — в выходные\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "On Monday I go to school. On Saturday I relax and read a book.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700007008001",
+                      "left": "Monday",
+                      "right": "понедельник"
+                    },
+                    {
+                      "id": "1700007008002",
+                      "left": "Wednesday",
+                      "right": "среда"
+                    },
+                    {
+                      "id": "1700007008003",
+                      "left": "Friday",
+                      "right": "пятница"
+                    },
+                    {
+                      "id": "1700007008004",
+                      "left": "Saturday",
+                      "right": "суббота"
+                    },
+                    {
+                      "id": "1700007008005",
+                      "left": "Sunday",
+                      "right": "воскресенье"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "listen-write",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [
+                    {
+                      "text": "Monday",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "Monday"
+                    },
+                    {
+                      "text": "Friday",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "Friday"
+                    },
+                    {
+                      "text": "Sunday",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "Sunday"
+                    }
+                  ],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which preposition do we use with days? 'I go to school ___ Monday.'",
+                      "options": [
+                        "in",
+                        "at",
+                        "on",
+                        "by"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What does 'on weekends' mean?",
+                      "options": [
+                        "every day",
+                        "Monday to Friday",
+                        "Saturday and Sunday",
+                        "at night"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Describing My Weekly Routine",
+              "weight": 9,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700007009000,\"blocks\":[{\"id\":\"tT7uU8vV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Now let's put it all together! Here is how to describe a <b>weekly schedule</b>:\"}},{\"id\":\"wW0xX1yY2z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>On <b>weekdays</b>, I get up at 7 and go to school. I have lunch at noon. In the <b>afternoon</b>, I study or meet friends. In the <b>evening</b>, I eat dinner with my family and watch TV.</em>\"}},{\"id\":\"zA3bB4cC5d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>On <b>weekends</b>, I sleep longer. On <b>Saturday</b>, I go shopping. On <b>Sunday</b>, I relax and read a book.</em>\"}},{\"id\":\"dD6eE7fF8g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful connectors:\"}},{\"id\":\"gG9hH0iI1j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>first</b> — сначала\",\"<b>then / next</b> — затем / потом\",\"<b>after that</b> — после этого\",\"<b>finally</b> — наконец\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "On weekdays I wake up at seven and go to school. On weekends I relax.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the following sentence aloud",
+                    "targetPhrase": "On weekdays I wake up at seven and go to school."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "[On] weekdays, I wake up at 7. [First], I take a shower. [Then] I eat breakfast. [After] that, I go to school. [Finally], I come home in the afternoon.",
+                  "gaps": [
+                    {
+                      "placeholder": "On",
+                      "answers": [
+                        "On"
+                      ]
+                    },
+                    {
+                      "placeholder": "First",
+                      "answers": [
+                        "First"
+                      ]
+                    },
+                    {
+                      "placeholder": "Then",
+                      "answers": [
+                        "Then",
+                        "Next"
+                      ]
+                    },
+                    {
+                      "placeholder": "After",
+                      "answers": [
+                        "After"
+                      ]
+                    },
+                    {
+                      "placeholder": "Finally",
+                      "answers": [
+                        "Finally"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700007009001",
+                      "english": "On weekends, I sleep longer.",
+                      "russian": "В выходные я сплю дольше.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700007009002",
+                      "english": "I always eat breakfast in the morning.",
+                      "russian": "Я всегда завтракаю утром.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700007009003",
+                      "english": "She goes to the gym on Monday.",
+                      "russian": "Она ходит в спортзал в понедельник.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700007009004",
+                      "english": "We never go to bed late.",
+                      "russian": "Мы никогда не ложимся спать поздно.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Complete: 'On weekdays I ___ up at 7.'",
+                      "options": [
+                        "get",
+                        "gets",
+                        "got",
+                        "getting"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    },
+                    {
+                      "text": "Which connector means 'после этого'?",
+                      "options": [
+                        "first",
+                        "then",
+                        "after that",
+                        "finally"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What does 'on weekends' mean?",
+                      "options": [
+                        "on Monday and Tuesday",
+                        "on Saturday and Sunday",
+                        "every morning",
+                        "in the evening"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    }
+  ]
+}

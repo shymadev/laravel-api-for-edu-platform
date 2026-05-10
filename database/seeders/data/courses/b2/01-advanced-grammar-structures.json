@@ -1,0 +1,1039 @@
+{
+  "title": "Advanced Grammar Structures",
+  "description": "Master the most complex and nuanced grammatical structures in English, including mixed conditionals, the subjunctive mood, advanced passive constructions, inversion, cleft sentences, and ellipsis. This course is designed for learners who have completed B1 and want to achieve grammatical precision and sophistication in both speaking and writing.",
+  "language": "en",
+  "difficulty_level": "B2",
+  "is_premium": false,
+  "preview_image": "Advanced Grammar Structures.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Conditional Sentences",
+      "subtopics": [
+        {
+          "title": "1.1 Second and Third Conditionals",
+          "lessons": [
+            {
+              "title": "Second Conditional: Hypothetical Present and Future",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000001000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>second conditional</b> is used to describe hypothetical or unreal situations in the present or future. The structure is: <b>If + past simple, would + infinitive</b>.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Unlike the first conditional, which describes realistic possibilities, the second conditional signals that the speaker considers the situation unlikely or impossible. For example: <em>If I were the president, I would reform the tax system.</em> — The speaker is not the president and does not expect to be.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Notice the use of <b>were</b> (not <em>was</em>) for all persons in formal and written English, especially in the phrase <em>If I were you...</em> This is a remnant of the subjunctive mood. While <em>was</em> is commonly accepted in informal speech, <em>were</em> remains standard in academic and professional writing.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Modal variations are also possible: <em>If she had more time, she <b>could</b> learn a new language.</em> Here, <em>could</em> replaces <em>would</em> to suggest ability rather than simple outcome. Similarly, <em>might</em> introduces a sense of possibility rather than certainty.\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Common uses include giving advice (<em>If I were you, I would apologise</em>), making polite requests (<em>It would be helpful if you could review the document</em>), and expressing wishes or regrets about the present.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "fill-gaps",
+                  "text": "If the government [invested] more in renewable energy, carbon emissions [would decrease] significantly. If I [were] in your position, I would reconsider the offer. She [could achieve] more if she [managed] her time better.",
+                  "gaps": [
+                    {
+                      "placeholder": "invested",
+                      "answers": [
+                        "invested"
+                      ]
+                    },
+                    {
+                      "placeholder": "would decrease",
+                      "answers": [
+                        "would decrease"
+                      ]
+                    },
+                    {
+                      "placeholder": "were",
+                      "answers": [
+                        "were",
+                        "was"
+                      ]
+                    },
+                    {
+                      "placeholder": "could achieve",
+                      "answers": [
+                        "could achieve",
+                        "would achieve"
+                      ]
+                    },
+                    {
+                      "placeholder": "managed",
+                      "answers": [
+                        "managed"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "If I were you, I would reconsider the offer.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "If she would have more time, she could learn a language.",
+                      "correctText": "If she had more time, she could learn a language."
+                    },
+                    {
+                      "text": "If I was a millionaire, I will travel the world.",
+                      "correctText": "If I were a millionaire, I would travel the world."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is a correct second conditional?",
+                      "options": [
+                        "If it will rain, we stay inside.",
+                        "If it rained, we would stay inside.",
+                        "If it rains, we stayed inside.",
+                        "If it rain, we would stay inside."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which modal best expresses ability in the second conditional?",
+                      "options": [
+                        "would",
+                        "will",
+                        "could",
+                        "shall"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "In formal English, which form is preferred in 'If I ___ you'?",
+                      "options": [
+                        "am",
+                        "was",
+                        "were",
+                        "be"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Third Conditional: Unreal Past Situations",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000002000,\"blocks\":[{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>third conditional</b> is used to speculate about how things could have been different in the past. The structure is: <b>If + past perfect, would have + past participle</b>.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"This structure is particularly important for expressing regret, criticism, and counterfactual reasoning. For instance: <em>If she had submitted the report on time, the client would not have cancelled the contract.</em> Both the condition and the result are now impossible — the deadline has passed.\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"As with the second conditional, <em>could have</em> and <em>might have</em> can replace <em>would have</em>: <em>If he had trained harder, he might have won the competition.</em> This signals that winning was possible but not certain even in the hypothetical scenario.\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"A contracted form is very common in spoken English: <em>If she'd known, she wouldn't have agreed.</em> Note the contraction <em>she'd</em> for <em>she had</em> and <em>wouldn't have</em> for <em>would not have</em>.\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Third conditionals are widely used in business post-mortems (<em>If we had researched the market properly, we would have avoided this loss</em>), historical analysis, and literary criticism.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "If they ___ (warn) us earlier, we would have changed our plans.",
+                      "answers": [
+                        "had warned",
+                        "warned",
+                        "have warned",
+                        "would warn"
+                      ]
+                    },
+                    {
+                      "sentence": "She might ___ (get) the job if she had prepared better.",
+                      "answers": [
+                        "have gotten",
+                        "get",
+                        "got",
+                        "have got"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "If she had submitted the report on time, the client would not have cancelled the contract.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700002001",
+                      "english": "If the scientists had discovered the vaccine earlier, millions of lives would have been saved.",
+                      "russian": "Если бы учёные открыли вакцину раньше, миллионы жизней были бы спасены.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700002002",
+                      "english": "Had I known about the traffic, I would have left an hour earlier.",
+                      "russian": "Знай я о пробках, я бы выехал на час раньше.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence correctly uses the third conditional?",
+                      "options": [
+                        "If he studies harder, he would have passed.",
+                        "If he had studied harder, he would have passed.",
+                        "If he had studied harder, he will pass.",
+                        "If he studied harder, he would pass."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Mixed Conditionals",
+          "lessons": [
+            {
+              "title": "Mixing Time Frames in Conditionals",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000003000,\"blocks\":[{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Mixed conditionals</b> combine elements of different conditional types to express complex relationships between past causes and present results, or present states and past consequences. They are a hallmark of advanced English proficiency.\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Type 1 (Past condition → Present result):</b> <em>If + past perfect, would + infinitive.</em> Example: <em>If she had studied medicine, she would be a doctor now.</em> The condition is in the past (she didn't study medicine); the result is a present situation (she is not a doctor).\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Type 2 (Present condition → Past result):</b> <em>If + past simple, would have + past participle.</em> Example: <em>If he were more organised, he would have finished the project on time.</em> The condition refers to a permanent present trait; the result refers to a specific past event.\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key signal: mixed conditionals always involve a <b>mismatch of time frames</b> between the if-clause and the main clause. When reviewing your writing, check whether the time frame in the if-clause truly differs from the time frame in the result clause.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "If she had studied medicine, she would be a doctor now.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read the following sentence aloud",
+                    "targetPhrase": "If he were more organised, he would have finished the project on time."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "2nd Conditional",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "3rd Conditional",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_3",
+                      "name": "Mixed Conditional",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "If I were taller, I would play basketball.",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "If they had arrived earlier, they would have met the CEO.",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "If she were more ambitious, she would have applied for the promotion.",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "If he had grown up abroad, he would speak several languages now.",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "If we had more budget, we could expand.",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "If I had known, I would have told you.",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which is a mixed conditional (past condition → present result)?",
+                      "options": [
+                        "If I had more time, I would read more.",
+                        "If she had taken the job, she would be living in Paris now.",
+                        "If he had studied harder, he would have passed.",
+                        "If it rains, we will cancel the event."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Complete the mixed conditional: 'If he ___ (be) more careful, he would not have made that mistake.'",
+                      "options": [
+                        "is",
+                        "were",
+                        "has been",
+                        "would be"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: The Subjunctive Mood",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Subjunctive in Formal English",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000004000,\"blocks\":[{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>subjunctive mood</b> is used in English to express wishes, recommendations, demands, hypothetical situations, and formal suggestions. Although it has largely disappeared from everyday speech, it remains essential in academic, legal, and formal written English.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>present subjunctive</b> uses the base form of the verb (without <em>-s</em> in the third person singular). It is triggered by verbs and expressions of demand, suggestion, recommendation, and necessity: <em>suggest, recommend, demand, insist, require, propose, ask</em>.\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples: <em>The committee recommends that every applicant <b>submit</b> a portfolio.</em> (not <em>submits</em>) | <em>It is essential that the report <b>be</b> completed by Friday.</em> (not <em>is</em>)\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>past subjunctive</b> (were) appears in hypothetical and wish constructions: <em>I wish I <b>were</b> able to attend.</em> | <em>She acts as though she <b>were</b> in charge.</em>\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"The subjunctive is also required after certain fixed expressions: <em>if need be</em>, <em>as it were</em>, <em>come what may</em>, <em>suffice it to say</em>, <em>be that as it may</em>. Recognising these phrases and using them appropriately marks a high level of English proficiency.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "It is essential that the report be completed by Friday.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "The board insists that the CEO resigns immediately.",
+                  "correctText": "The board insists that the CEO resign immediately."
+                },
+                {
+                  "text": "It is vital that each delegate is present.",
+                  "correctText": "It is vital that each delegate be present."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "The board insists that the CEO [resign] immediately. It is vital that each delegate [be] present at the opening ceremony. She suggested that he [apply] for the scholarship. I wish I [were] more fluent in Japanese.",
+              "gaps": [
+                {
+                  "placeholder": "resign",
+                  "answers": [
+                    "resign"
+                  ]
+                },
+                {
+                  "placeholder": "be",
+                  "answers": [
+                    "be"
+                  ]
+                },
+                {
+                  "placeholder": "apply",
+                  "answers": [
+                    "apply"
+                  ]
+                },
+                {
+                  "placeholder": "were",
+                  "answers": [
+                    "were",
+                    "was"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence uses the subjunctive correctly?",
+                  "options": [
+                    "I suggest that he speaks to the manager.",
+                    "I suggest that he speak to the manager.",
+                    "I suggest that he spoken to the manager.",
+                    "I suggest that he will speak to the manager."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which expression is a fixed subjunctive phrase?",
+                  "options": [
+                    "be that as it may",
+                    "it would be that",
+                    "as it was",
+                    "if it would be"
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Advanced Passive Constructions",
+      "subtopics": [
+        {
+          "title": "3.1 Complex Passive Structures",
+          "lessons": [
+            {
+              "title": "Passive Voice in Different Tenses",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000005000,\"blocks\":[{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"While most learners are familiar with the simple passive (<em>The letter was written</em>), advanced English requires mastery of passive constructions across all tenses and in combination with modal and perfect aspects.\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Perfect passive:</b> <em>The contract has been signed.</em> / <em>The building had been demolished before the planning inquiry began.</em>\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Modal passive:</b> <em>This issue must be addressed immediately.</em> / <em>The proposal should have been submitted last week.</em> / <em>The results might be announced tomorrow.</em>\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Passive infinitive:</b> <em>The prisoner is believed to have escaped.</em> / <em>The results are expected to be published next month.</em>\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Causative passive (have/get something done):</b> <em>We are having the office renovated.</em> / <em>She had her car serviced yesterday.</em> This structure is used when a subject arranges for someone else to perform an action on their behalf.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The proposal should have been submitted last week.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "The report has been submitted.",
+                      "right": "Present perfect passive"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "The suspects are being questioned.",
+                      "right": "Present continuous passive"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "The law should be reformed.",
+                      "right": "Modal passive"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "She had her hair cut.",
+                      "right": "Causative have"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "The data was found to be inconclusive.",
+                      "right": "Passive infinitive structure"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "The new policy ___ (implement) across all departments by the end of the month.",
+                      "answers": [
+                        "will have been implemented",
+                        "will be implemented",
+                        "is implemented",
+                        "has been implemented"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence uses the causative passive correctly?",
+                      "options": [
+                        "She did repair her car.",
+                        "She had her car repaired.",
+                        "She made repairing her car.",
+                        "She got her car to repair."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Inversion",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Emphatic Inversion in Formal English",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000006000,\"blocks\":[{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Inversion</b> refers to reversing the normal subject-verb word order for emphasis, formality, or stylistic effect. It is common in written and formal spoken English, in literary texts, and in negative and conditional structures.\"}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Negative adverbial inversion:</b> When a sentence begins with a negative or restrictive adverb, the auxiliary verb comes before the subject. Common triggers: <em>Never, Seldom, Rarely, Not only, Not until, No sooner, Hardly, Scarcely, Little, Only then</em>.\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples: <em><b>Never before</b> had the committee faced such a crisis.</em> | <em><b>Not only</b> did she pass the exam, but she also achieved the highest score.</em> | <em><b>Hardly</b> had we arrived when the storm began.</em>\"}},{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Conditional inversion (formal alternative to if-clauses):</b> In formal writing, <em>if</em> may be omitted and the auxiliary inverted instead. <em>Should you require further assistance, please contact us.</em> | <em>Had the report been submitted on time, the project would have proceeded.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Never before had the company recorded such losses.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "Rarely I have seen such talent.",
+                  "correctText": "Rarely have I seen such talent."
+                },
+                {
+                  "text": "Not only she passed but also won the prize.",
+                  "correctText": "Not only did she pass but she also won the prize."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "[Never before] had the company recorded such losses. Not only [did she] finish the project early, but she also improved the design. [Had] the government acted sooner, the crisis would have been averted. [Should] you need any assistance, do not hesitate to call.",
+              "gaps": [
+                {
+                  "placeholder": "Never before",
+                  "answers": [
+                    "Never before"
+                  ]
+                },
+                {
+                  "placeholder": "did she",
+                  "answers": [
+                    "did she"
+                  ]
+                },
+                {
+                  "placeholder": "Had",
+                  "answers": [
+                    "Had"
+                  ]
+                },
+                {
+                  "placeholder": "Should",
+                  "answers": [
+                    "Should"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence uses correct inversion?",
+                  "options": [
+                    "Rarely I have seen such talent.",
+                    "Rarely have I seen such talent.",
+                    "Rarely I have seen such talent.",
+                    "Rarely seen have I such talent."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which is the formal inverted conditional for 'If you have any questions'?",
+                  "options": [
+                    "Should you have any questions",
+                    "Have you any questions should",
+                    "If should you have any questions",
+                    "You should have any questions"
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Cleft Sentences",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "It-Clefts and Wh-Clefts",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000007000,\"blocks\":[{\"id\":\"oP5qR6sT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Cleft sentences</b> are used to give special emphasis to one part of a sentence by splitting it into two clauses. They are especially common in formal written English and in emphatic speech.\"}},{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>It-cleft:</b> The structure is <em>It is/was + emphasised element + relative clause</em>. Example: <em>It was the CEO who made the final decision.</em> (emphasis on the CEO) | <em>It is the lack of funding that prevents progress.</em> (emphasis on the cause)\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Wh-cleft (pseudo-cleft):</b> The structure begins with a <em>what</em>-clause followed by <em>be</em>. Example: <em>What we need is a comprehensive strategy.</em> | <em>What surprised everyone was his sudden resignation.</em>\"}},{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>All-cleft:</b> Uses <em>all</em> to restrict or narrow focus: <em>All I want is a clear explanation.</em> | <em>All she did was smile.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "What we need is a comprehensive strategy, not short-term fixes.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "It was in 1969 that humans first landed on the Moon.",
+                  "right": "It-cleft (emphasising time)"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "What the team lacked was strong leadership.",
+                  "right": "Wh-cleft"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "It is climate change that poses the greatest threat.",
+                  "right": "It-cleft (emphasising cause)"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "All I am asking for is transparency.",
+                  "right": "All-cleft"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "___ the board's decision that caused the most controversy.",
+                  "answers": [
+                    "It was",
+                    "There was",
+                    "What was",
+                    "It is"
+                  ]
+                },
+                {
+                  "sentence": "___ we need is a long-term solution, not a quick fix.",
+                  "answers": [
+                    "What",
+                    "That",
+                    "It is",
+                    "Which"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence is an example of a Wh-cleft?",
+                  "options": [
+                    "It was the budget that caused the problem.",
+                    "What concerns investors most is the lack of transparency.",
+                    "All I need is more time.",
+                    "It is the CEO who decides."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Ellipsis and Substitution",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Ellipsis: Omitting Redundant Elements",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000008000,\"blocks\":[{\"id\":\"qR7sT8uV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Ellipsis</b> is the omission of words that are understood from context. It is used to avoid repetition and create more natural, fluent language. Mastering ellipsis is essential for achieving a natural, advanced register in both speaking and writing.\"}},{\"id\":\"xY0zA1bC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Verb phrase ellipsis:</b> The repeated verb phrase is omitted. <em>She can speak French, and he can too.</em> (= he can speak French too) | <em>I've finished my report. Have you?</em> (= Have you finished yours?)\"}},{\"id\":\"eF3gH4iJ5k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Auxiliary ellipsis:</b> Only the auxiliary verb is retained. <em>She hasn't been sleeping well, but he has.</em> | <em>They were expecting a refund and so were we.</em>\"}},{\"id\":\"lM6nO7pQ8r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Substitution</b> is closely related: instead of omitting words, a substitute word (<em>so, do, one, ones, the same</em>) is used. <em>Do you think the proposal will succeed? I think so.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "She wanted to apologise, and so did her colleagues.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The substitute word used for 'yes' in 'I think ___'",
+                  "word": "so"
+                },
+                {
+                  "hint": "The term for omitting understood words to avoid repetition",
+                  "word": "ellipsis"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700008001",
+                  "english": "She wanted to apologise, and so did her colleagues.",
+                  "russian": "Она хотела извиниться, и её коллеги тоже.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700008002",
+                  "english": "I expected a detailed report, not a brief one.",
+                  "russian": "Я ожидал подробный отчёт, а не краткий.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Identify the ellipsis: 'I wanted to leave early, but couldn't.'",
+                  "options": [
+                    "'wanted to' is omitted",
+                    "'leave early' is omitted after 'couldn't'",
+                    "'but' is redundant",
+                    "There is no ellipsis"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which sentence uses correct substitution?",
+                  "options": [
+                    "Will the plan work? — I hope it.",
+                    "Will the plan work? — I hope so.",
+                    "Will the plan work? — I hope that.",
+                    "Will the plan work? — I hope yes."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 7: Reported Speech (Advanced)",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Reporting Verbs and Backshift",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000009000,\"blocks\":[{\"id\":\"sT9uV0wX1y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Advanced reported speech goes far beyond <em>he said that</em>. Sophisticated writers use a wide variety of <b>reporting verbs</b> that encode the speaker's attitude, intention, or the illocutionary force of the original utterance.\"}},{\"id\":\"zA2bC3dE4f\",\"type\":\"header\",\"data\":{\"text\":\"Categories of reporting verbs:\",\"level\":3}},{\"id\":\"gH5iJ6kL7m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Saying/telling:</b> state, maintain, assert, claim, declare, announce, remark\",\"<b>Suggesting/advising:</b> suggest, recommend, propose, advise, urge, encourage\",\"<b>Promising/threatening:</b> promise, guarantee, threaten, warn, vow\",\"<b>Accusing/admitting:</b> accuse (of), admit, deny, confess, acknowledge, insist\"]}},{\"id\":\"nO8pQ9rS0t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tense backshift</b> is standard when reporting past speech: present → past, past simple → past perfect, will → would. However, backshift is <b>not required</b> when the reported statement is still true at the time of reporting: <em>He said that London is the capital of England.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "She recommended that the board review the findings.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "accuse of",
+                  "right": "She accused him of lying."
+                },
+                {
+                  "id": "pair_2",
+                  "left": "warn + object + not to",
+                  "right": "She warned us not to approach the animal."
+                },
+                {
+                  "id": "pair_3",
+                  "left": "admit + -ing",
+                  "right": "He admitted making a serious error."
+                },
+                {
+                  "id": "pair_4",
+                  "left": "deny + -ing",
+                  "right": "They denied having received the funds."
+                },
+                {
+                  "id": "pair_5",
+                  "left": "urge + object + to",
+                  "right": "The doctor urged her to rest."
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Backshift Required",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Backshift Optional / Not Required",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "He said the Earth orbits the Sun.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_2",
+                  "text": "She told me she had been waiting for hours.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_3",
+                  "text": "He announced that the company was profitable.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_4",
+                  "text": "She mentioned that Paris is beautiful in spring.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "They claimed they had solved the problem.",
+                  "correctCategory": "cat_1"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence correctly avoids unnecessary backshift?",
+                  "options": [
+                    "She said that water froze at 0 degrees.",
+                    "She said that water freezes at 0 degrees.",
+                    "She said that water would freeze at 0 degrees.",
+                    "She said that water had frozen at 0 degrees."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 8: Review and Integration",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Putting It All Together: Advanced Grammar in Context",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000010000,\"blocks\":[{\"id\":\"uV1wX2yZ3a\",\"type\":\"paragraph\",\"data\":{\"text\":\"In authentic B2+ writing and speech, advanced grammar structures rarely appear in isolation. A single paragraph in an academic essay or a formal report may employ inversion for emphasis, a cleft sentence to highlight a key argument, the subjunctive in a recommendation, and ellipsis to avoid repetition — all working together to produce a polished, coherent text.\"}},{\"id\":\"bC4dE5fG6h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Consider the following passage: <em>It is the failure to invest in education that has led to the current skills gap. Were governments to allocate adequate resources, the situation might have been prevented. What is needed now is not incremental reform, but a fundamental rethinking of the curriculum. Seldom has there been greater consensus among educators, yet little has been done.</em>\"}},{\"id\":\"iJ7kL8mN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"In this passage: an <b>it-cleft</b> opens the argument; a <b>mixed conditional with inversion</b> speculates about the past; a <b>wh-cleft</b> emphasises the prescription; and <b>negative adverbial inversion</b> (<em>Seldom has there been</em>) closes with rhetorical force.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Seldom has there been such an opportunity for meaningful reform.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700010001",
+                  "english": "Had the authorities acted decisively, the crisis would not have escalated to this extent.",
+                  "russian": "Если бы власти действовали решительно, кризис не достиг бы такого масштаба.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700010002",
+                  "english": "It is the quality of leadership, not the availability of resources, that determines an organisation's success.",
+                  "russian": "Именно качество руководства, а не наличие ресурсов, определяет успех организации.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which structure is used in: 'Seldom has there been such an opportunity.'?",
+                  "options": [
+                    "Cleft sentence",
+                    "Negative adverbial inversion",
+                    "Subjunctive mood",
+                    "Third conditional"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which structure is used in: 'What concerns investors most is the lack of transparency.'?",
+                  "options": [
+                    "It-cleft",
+                    "Wh-cleft",
+                    "Ellipsis",
+                    "Inversion"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which sentence demonstrates correct use of the causative?",
+                  "options": [
+                    "She did repair her car.",
+                    "She had her car repaired.",
+                    "She made repairing her car.",
+                    "She got her car to repair."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

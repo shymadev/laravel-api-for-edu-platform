@@ -1,0 +1,422 @@
+{
+  "title": "Advanced Writing Techniques",
+  "description": "Master the craft of sophisticated English prose — from controlling syntactic complexity and manipulating rhythm, to structuring extended arguments, deploying intertextuality, and achieving distinctive voice. This course is designed for C1 learners who write well and want to write brilliantly.",
+  "language": "en",
+  "difficulty_level": "C1",
+  "is_premium": true,
+  "preview_image": "Advanced Writing Techniques.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Syntactic Sophistication",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Sentence Architecture: Complexity, Rhythm, and Emphasis",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000101000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Advanced writers do not merely construct grammatically correct sentences — they <b>orchestrate</b> them. Syntactic choices create rhythm, emphasis, and pace; they signal priority and subordination; they control the reader's speed and attention. Mastery of syntax is therefore inseparable from mastery of rhetoric.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Periodic sentences</b> withhold the main clause until the end, creating suspense and emphasis: <em>'Despite the mounting evidence, the fierce resistance of vested interests, and the apparent indifference of the electorate, the policy was eventually enacted.'</em> By contrast, <b>cumulative sentences</b> begin with the main clause and add subordinate material progressively, creating a flowing, additive effect.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Fronting</b> (placing normally post-verbal or post-subject elements at the start) shifts emphasis dramatically: <em>'The economy they had inherited was a disaster.'</em> / <em>'Rare indeed was the official who understood the implications.'</em> Fronted elements receive primary stress in reading and signal thematic significance.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Parallelism</b> — the repetition of identical grammatical structures — creates rhythm, coherence, and rhetorical force: <em>'We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets.'</em> (Churchill). Parallelism can operate at the word, phrase, clause, or paragraph level.\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Parenthetical insertions</b> — clauses or phrases inserted mid-sentence, marked by dashes, brackets, or commas — allow writers to add qualifications, asides, or elaborations without disrupting narrative flow: <em>'The minister — whose previous statements had been unequivocal — now appeared to retreat from his earlier position.'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Despite the mounting evidence and the fierce resistance of vested interests, the policy was eventually enacted.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Periodic sentence",
+                  "right": "Main clause withheld until the end for emphasis"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Cumulative sentence",
+                  "right": "Main clause first, followed by progressively added elaborations"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Fronting",
+                  "right": "Moving an element to the start of the sentence for emphasis"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Parallelism",
+                  "right": "Repetition of identical grammatical structures for rhetorical effect"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Parenthetical insertion",
+                  "right": "Mid-sentence clause adding qualification or aside"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "He was tired and hungry and also feeling very confused and also a bit angry.",
+                  "correctText": "Tired, hungry, confused, and angry, he stared at the letter without opening it."
+                },
+                {
+                  "text": "We need to think about efficiency, and we also need to think about fairness, and cost is important too.",
+                  "correctText": "We must consider efficiency, fairness, and cost in equal measure."
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In a periodic sentence, where does the main clause appear?",
+                  "options": [
+                    "At the beginning",
+                    "In the middle",
+                    "At the end",
+                    "In both the beginning and end"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Precision and Economy",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Eliminating Redundancy and Writing with Precision",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000102000,\"blocks\":[{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Precision</b> and <b>economy</b> are two cardinal virtues of advanced English prose. Precision means choosing the word that conveys exactly the intended meaning — no more and no less. Economy means using no more words than the meaning requires. These virtues are often in tension: sometimes precision requires elaboration; economy always requires discipline.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Redundancy</b> is one of the most common weaknesses in advanced student writing. Common redundant patterns: <em>'advance planning'</em> (planning is always in advance), <em>'completely destroyed'</em> (destroyed is already complete), <em>'past history'</em> (history is always past), <em>'in actual fact'</em> (in fact is sufficient), <em>'the reason why is because'</em> (choose either 'the reason is that' or 'the reason why is').\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Nominalisation bloat</b> is a related problem: converting active verbs into abstract nouns creates wordy, lifeless sentences. <em>'We conducted an investigation into the causes of the failure'</em> → <em>'We investigated why it failed.'</em> The principle: prefer a precise verb over a vague verb + nominalisation (<em>make a decision → decide; give consideration → consider; provide assistance → assist</em>).\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sentence-level editing:</b> Once a draft is complete, read each sentence and ask: Can any word be removed without loss of meaning? Can a vague word be replaced with a precise one? Does the sentence begin with its most important element? Is the verb active and specific? Has every nominalization been tested?\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Precision means choosing the exact word required; economy means using no more words than necessary.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "The committee conducted a thorough investigation into the matter.",
+                  "correctText": "The committee thoroughly investigated the matter."
+                },
+                {
+                  "text": "In the event that you are unable to attend, please make a notification to us.",
+                  "correctText": "If you cannot attend, please notify us."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "Wordy: Due to the fact that the budget was insufficient, we were unable to make a commencement of the project. → Concise: [Because] the budget was insufficient, we could not [begin] the project.",
+              "gaps": [
+                {
+                  "placeholder": "Because",
+                  "answers": [
+                    "Because",
+                    "Since",
+                    "As"
+                  ]
+                },
+                {
+                  "placeholder": "begin",
+                  "answers": [
+                    "begin",
+                    "start",
+                    "commence"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which revision most effectively demonstrates economy and precision?",
+                  "options": [
+                    "We made a decision to proceed with the implementation of the plan.",
+                    "We decided to implement the plan.",
+                    "A decision concerning the implementation of the plan was arrived at by us.",
+                    "The decision as to whether to proceed with the plan was made by our team."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Paragraph Architecture",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Building Paragraphs: Unity, Development, and Transition",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000103000,\"blocks\":[{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"A paragraph is the fundamental unit of expository and argumentative writing. A well-constructed paragraph achieves <b>unity</b> (every sentence serves the controlling idea), <b>coherence</b> (sentences flow logically from one to the next), and <b>development</b> (the central idea is sufficiently elaborated and supported).\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>topic sentence</b> announces the paragraph's controlling idea. It should be specific enough to be meaningfully developed and general enough to require development. It should also connect backward to the preceding paragraph and forward to the thesis.\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Development strategies:</b>\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Illustration:</em> supporting the topic sentence with a specific example, case study, or anecdote\",\"<em>Explanation:</em> unpacking the logic or mechanism behind the claim\",\"<em>Evidence:</em> citing statistical data, research findings, or expert opinion\",\"<em>Analogy:</em> illuminating an abstract idea through comparison with something familiar\",\"<em>Concession and qualification:</em> anticipating objections and refining the claim\"]}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>clincher sentence</b> (or concluding sentence) crystallises the paragraph's contribution to the overall argument and creates a bridge to the next paragraph. Strong clinchers do not merely restate the topic sentence but synthesise the paragraph's content at a higher level of abstraction.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "A well-constructed paragraph achieves unity, coherence, and development around a single controlling idea.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700103001",
+                  "english": "The topic sentence announces the paragraph's controlling idea and links it backward to the preceding paragraph.",
+                  "russian": "Тематическое предложение объявляет ключевую мысль абзаца и связывает её с предыдущим абзацем.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700103002",
+                  "english": "A strong clincher sentence does not merely restate the topic sentence but synthesises the paragraph's content at a higher level of abstraction.",
+                  "russian": "Сильное заключительное предложение не просто перефразирует тематическое предложение, а синтезирует содержание абзаца на более высоком уровне абстракции.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the primary function of a 'topic sentence'?",
+                  "options": [
+                    "To summarise the entire essay",
+                    "To provide evidence for the main argument",
+                    "To announce and control the paragraph's central idea",
+                    "To transition between two different arguments"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Voice and Tone",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Developing Distinctive Voice in Academic and Creative Writing",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000104000,\"blocks\":[{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Voice</b> in writing refers to the distinctive personality that emerges from the combined effect of vocabulary, syntax, rhythm, degree of formality, and the writer's relationship to their subject and reader. Voice is what makes a piece of writing sound like a specific, individual human being rather than a generic 'writer'.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Advanced writers do not abandon voice in formal contexts — they calibrate it. Even academic writing has voice: compare the austere precision of a philosophy paper, the measured equanimity of a legal judgment, and the engaged intellectual enthusiasm of a public intellectual essayist. Each is formal; each has voice.\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tone</b> is related to voice but more specifically refers to the writer's attitude toward their subject and reader: formal or informal, detached or engaged, ironic or earnest, polemical or measured, sympathetic or critical. Tone is created through word choice (connotation), syntactic choices (direct assertion vs. hedged qualification), and the degree of explicitness in expressing evaluation.\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Irony</b> — saying one thing while meaning another — is a sophisticated tonal register that requires precise calibration. Irony can be subtle (a word with slightly wrong connotations) or explicit (direct contrast between assertion and context). Mismanaged irony is easily mistaken for sincerity, so it must be anchored in contextual signals that orient the reader.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Voice is the distinctive personality that emerges from the combined effect of vocabulary, syntax, rhythm, and the writer's relationship to their subject.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Academic / Formal",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Journalistic / Engaged",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_3",
+                  "name": "Ironic / Satirical",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "The data indicate a statistically significant correlation (p < 0.01) between the variables.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Nobody, it seems, stopped to ask whether the policy actually made sense.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "In a triumph of creative accounting, losses were reclassified as 'strategic investments'.",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_4",
+                  "text": "This paper investigates the extent to which regulatory frameworks have adapted to digital disruption.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "The government's solution to the housing crisis? Build more committees.",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Three years after the disaster, survivors are still waiting for compensation.",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In writing, 'tone' refers primarily to:",
+                  "options": [
+                    "The font and layout choices in a document",
+                    "The writer's attitude toward their subject and reader, conveyed through word choice and syntax",
+                    "The number of technical terms used per paragraph",
+                    "Whether the text is written in active or passive voice"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Extended Arguments and Essay Structure",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Structuring Long-Form Arguments: Macro-Organisation",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000105000,\"blocks\":[{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Long-form writing — extended essays, dissertations, analytical reports — requires a level of macro-structural planning that goes beyond individual paragraphs. The argument must be organised not just locally (within paragraphs) but globally (across the entire text), with a coherent progression from premise to conclusion.\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Classical rhetorical structure</b> (adapted for academic writing): (1) <em>Exordium</em> — hook and context; (2) <em>Narratio</em> — background information the reader needs; (3) <em>Propositio</em> — the thesis and roadmap; (4) <em>Confirmatio</em> — the positive argument; (5) <em>Refutatio</em> — counter-arguments and responses; (6) <em>Peroratio</em> — conclusion and implications.\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Ordering principles:</b> Arguments may be organised from strongest to weakest (front-loaded), weakest to strongest (building to a climax), problem–solution, cause–effect, thematic, chronological, or dialectically (thesis → antithesis → synthesis). The appropriate ordering depends on the nature of the argument and the expectations of the target audience.\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Signposting</b> is essential in long-form writing: explicit signals that tell the reader where they are in the argument, where they have been, and where they are going. Opening signposts: <em>'This paper begins by examining X before turning to Y.'</em> Transitional signposts: <em>'Having established X, it is now possible to consider Y.'</em> Retrospective signposts: <em>'The preceding analysis has demonstrated that…'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Having established that market failures alone cannot explain the crisis, it is now possible to consider the role of regulatory capture.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "signposting",
+                    "roadmap sentence",
+                    "topic sentence",
+                    "dangling modifier"
+                  ],
+                  "correctWord": "dangling modifier"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following academic signposting sentence aloud with appropriate formal delivery",
+                "targetPhrase": "Having established the theoretical framework, it is now possible to examine how these principles apply to the empirical data."
+              }
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the function of 'signposting' in long-form writing?",
+                  "options": [
+                    "To add visual diagrams and headings to a document",
+                    "To provide explicit signals that orient the reader within the argument",
+                    "To introduce new evidence at the end of the essay",
+                    "To avoid using first-person pronouns in academic prose"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

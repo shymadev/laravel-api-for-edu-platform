@@ -1,0 +1,1197 @@
+{
+  "title": "Shopping & Money",
+  "description": "Covers prices, numbers in a shopping context, essential shopping phrases such as 'How much is this?' and 'I'll take it', and vocabulary for colors and sizes when choosing items. Perfect for absolute beginners preparing for real-world shopping situations.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": false,
+  "preview_image": "Shopping & Money.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Counting Money",
+      "subtopics": [
+        {
+          "title": "1.1 Coins and Banknotes",
+          "lessons": [
+            {
+              "title": "Money Words",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700006001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's learn the words for <b>money</b> in English:\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>coin</b> — монета\",\"<b>banknote / bill</b> — купюра\",\"<b>penny</b> — пенни (1 цент)\",\"<b>nickel</b> — 5 центов\",\"<b>dime</b> — 10 центов\",\"<b>quarter</b> — 25 центов\",\"<b>dollar ($)</b> — доллар\",\"<b>pound (£)</b> — фунт (UK)\",\"<b>euro (€)</b> — евро\",\"<b>cent</b> — цент\"]}},{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"We write prices like this: <b>$5.99</b> (five dollars and ninety-nine cents).\"}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"We say: <em>It costs <b>five dollars ninety-nine</b>.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "It costs five dollars and ninety-nine cents.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "coin",
+                      "translation": "монета"
+                    },
+                    {
+                      "text": "banknote / bill",
+                      "translation": "купюра"
+                    },
+                    {
+                      "text": "dollar",
+                      "translation": "доллар"
+                    },
+                    {
+                      "text": "euro",
+                      "translation": "евро"
+                    },
+                    {
+                      "text": "cent",
+                      "translation": "цент"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700006001001",
+                      "left": "coin",
+                      "right": "монета"
+                    },
+                    {
+                      "id": "1700006001002",
+                      "left": "banknote",
+                      "right": "купюра"
+                    },
+                    {
+                      "id": "1700006001003",
+                      "left": "dollar",
+                      "right": "доллар"
+                    },
+                    {
+                      "id": "1700006001004",
+                      "left": "cent",
+                      "right": "цент"
+                    },
+                    {
+                      "id": "1700006001005",
+                      "left": "euro",
+                      "right": "евро"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do we write 'five dollars and fifty cents'?",
+                      "options": [
+                        "$5,50",
+                        "$5.50",
+                        "5.50$",
+                        "5$50"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What is a 'banknote'?",
+                      "options": [
+                        "A small coin",
+                        "A paper bill / paper money",
+                        "A bank card",
+                        "A receipt"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reading Prices",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700006002000,\"blocks\":[{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, we read prices using <b>numbers</b>. Let's practice:\"}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>$1.00</b> — one dollar\",\"<b>$2.50</b> — two dollars fifty\",\"<b>$10.99</b> — ten dollars ninety-nine\",\"<b>£3.75</b> — three pounds seventy-five\",\"<b>€20.00</b> — twenty euros\"]}},{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"You can also say: <em>It's <b>two fifty</b></em> (informal for $2.50).\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key numbers to remember:</b>\"}},{\"id\":\"yY5zZ6aA7b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"10 — ten\",\"20 — twenty\",\"50 — fifty\",\"100 — one hundred\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "How much is this book? It costs three dollars fifty.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700006002001",
+                      "english": "It costs ten dollars.",
+                      "russian": "Это стоит десять долларов.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700006002002",
+                      "english": "The price is five euros.",
+                      "russian": "Цена — пять евро.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700006002003",
+                      "english": "That is one dollar fifty.",
+                      "russian": "Это один доллар пятьдесят центов.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700006002004",
+                      "english": "How much is this?",
+                      "russian": "Сколько это стоит?",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: How much is this book? B: It [costs] three [dollars] fifty. A: Here you go. B: Thank you. Here is your [change].",
+                  "gaps": [
+                    {
+                      "placeholder": "costs",
+                      "answers": [
+                        "costs"
+                      ]
+                    },
+                    {
+                      "placeholder": "dollars",
+                      "answers": [
+                        "dollars"
+                      ]
+                    },
+                    {
+                      "placeholder": "change",
+                      "answers": [
+                        "change"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do you say '$2.50'?",
+                      "options": [
+                        "two fifty cents",
+                        "two dollars and fifty",
+                        "two dollars fifty",
+                        "two and fifty dollars"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What is the symbol for dollars?",
+                      "options": [
+                        "£",
+                        "€",
+                        "$",
+                        "¥"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Prices and Numbers",
+      "subtopics": [
+        {
+          "title": "2.1 Numbers in Shopping",
+          "lessons": [
+            {
+              "title": "Numbers 1–100",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700006003000,\"blocks\":[{\"id\":\"bB8cC9dD0e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Shopping requires knowing numbers well. Here are the key groups:\"}},{\"id\":\"eE1fF2gG3h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>1–10:</b> one, two, three, four, five, six, seven, eight, nine, ten\"}},{\"id\":\"hH4iI5jJ6k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>11–20:</b> eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty\"}},{\"id\":\"kK7lL8mM9n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Tens:</b> twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred\"}},{\"id\":\"nN0oO1pP2q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Combined:</b>\"}},{\"id\":\"qQ3rR4sS5t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"25 — twenty-five\",\"43 — forty-three\",\"99 — ninety-nine\"]}},{\"id\":\"tT6uU7vV8w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Practice: <em>The shirt costs <b>thirty-five</b> dollars.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The shirt costs thirty-five dollars. The shoes cost forty-nine dollars.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "40 = fourty dollars",
+                      "correctText": "40 = forty dollars"
+                    },
+                    {
+                      "text": "The price is ninty dollars.",
+                      "correctText": "The price is ninety dollars."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do you say the number 47?",
+                      "options": [
+                        "fourty-seven",
+                        "forty-seven",
+                        "fourteen-seven",
+                        "four-seven"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which number is 'ninety-nine'?",
+                      "options": [
+                        "90",
+                        "19",
+                        "99",
+                        "90.9"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What comes after 'fifty'?",
+                      "options": [
+                        "sixty",
+                        "seventy",
+                        "fifteen",
+                        "forty"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asking About Prices",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700006004000,\"blocks\":[{\"id\":\"wW9xX0yY1z\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask about the price of something in a shop, use these phrases:\"}},{\"id\":\"zA2bB3cC4d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>How much is this?</b> — Сколько это стоит?\",\"<b>How much does it cost?</b> — Сколько это стоит?\",\"<b>What is the price?</b> — Какова цена?\",\"<b>Is it on sale?</b> — Это на распродаже?\",\"<b>Do you have anything cheaper?</b> — У вас есть что-нибудь дешевле?\"]}},{\"id\":\"dD5eE6fF7g\",\"type\":\"paragraph\",\"data\":{\"text\":\"The seller might answer:\"}},{\"id\":\"gG8hH9iI0j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>It's <b>$15</b>.</em>\",\"<em>That costs <b>twenty dollars</b>.</em>\",\"<em>It's on <b>sale</b> — 50% off!</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "How much is this jacket? It costs forty-nine dollars.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "A: Excuse me, [how] much is this jacket? B: It [costs] forty-nine dollars. A: Is it [on] sale? B: Yes, it's 20% [off] today!",
+                  "gaps": [
+                    {
+                      "placeholder": "how",
+                      "answers": [
+                        "how"
+                      ]
+                    },
+                    {
+                      "placeholder": "costs",
+                      "answers": [
+                        "costs"
+                      ]
+                    },
+                    {
+                      "placeholder": "on",
+                      "answers": [
+                        "on"
+                      ]
+                    },
+                    {
+                      "placeholder": "off",
+                      "answers": [
+                        "off"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700006004001",
+                      "english": "How much does it cost?",
+                      "russian": "Сколько это стоит?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700006004002",
+                      "english": "Is it on sale?",
+                      "russian": "Это на распродаже?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700006004003",
+                      "english": "Do you have anything cheaper?",
+                      "russian": "У вас есть что-нибудь дешевле?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700006004004",
+                      "english": "That is too expensive.",
+                      "russian": "Это слишком дорого.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do you ask about the price?",
+                      "options": [
+                        "Where is this?",
+                        "How much is this?",
+                        "What color is this?",
+                        "When is this?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What does 'It's on sale' mean?",
+                      "options": [
+                        "It's expensive.",
+                        "It's a discount price.",
+                        "It's sold out.",
+                        "It's a new item."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Shopping Phrases",
+      "subtopics": [
+        {
+          "title": "3.1 In the Shop",
+          "lessons": [
+            {
+              "title": "Common Shopping Expressions",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700006005000,\"blocks\":[{\"id\":\"jJ1kK2lL3m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the most useful phrases for shopping:\"}},{\"id\":\"mM4nN5oO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Customer (покупатель):</b>\"}},{\"id\":\"pP7qQ8rR9s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Can I help you?</b> — Могу я вам помочь? (seller says this)\",\"<b>I'm just looking, thanks.</b> — Я просто смотрю, спасибо.\",\"<b>I'm looking for...</b> — Я ищу...\",\"<b>Do you have...?</b> — У вас есть...?\",\"<b>I'll take it.</b> — Я возьму это.\",\"<b>I'll take two, please.</b> — Я возьму два, пожалуйста.\"]}},{\"id\":\"sS0tT1uU2v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Seller (продавец):</b>\"}},{\"id\":\"vV3wW4xX5y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Here you are.</b> — Пожалуйста (вот).\",\"<b>Will that be all?</b> — Это всё?\",\"<b>That comes to $12.</b> — Итого $12.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'm looking for a bag. Do you have a black one? I'll take it!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700006005001",
+                      "left": "I'm just looking.",
+                      "right": "Я просто смотрю."
+                    },
+                    {
+                      "id": "1700006005002",
+                      "left": "I'll take it.",
+                      "right": "Я возьму это."
+                    },
+                    {
+                      "id": "1700006005003",
+                      "left": "Do you have this?",
+                      "right": "У вас есть это?"
+                    },
+                    {
+                      "id": "1700006005004",
+                      "left": "Here you are.",
+                      "right": "Пожалуйста (вот)."
+                    },
+                    {
+                      "id": "1700006005005",
+                      "left": "Will that be all?",
+                      "right": "Это всё?"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: Can I [help] you? B: Yes, I'm [looking] for a bag. A: What colour? B: Black, please. A: Here [you] are. B: I'll [take] it!",
+                  "gaps": [
+                    {
+                      "placeholder": "help",
+                      "answers": [
+                        "help"
+                      ]
+                    },
+                    {
+                      "placeholder": "looking",
+                      "answers": [
+                        "looking"
+                      ]
+                    },
+                    {
+                      "placeholder": "you",
+                      "answers": [
+                        "you"
+                      ]
+                    },
+                    {
+                      "placeholder": "take",
+                      "answers": [
+                        "take"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A shop assistant says 'Can I help you?' You want to browse. What do you say?",
+                      "options": [
+                        "I'll take it.",
+                        "I'm just looking, thanks.",
+                        "How much is it?",
+                        "Do you have a receipt?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "You want to buy a pair of shoes. What do you say?",
+                      "options": [
+                        "Will that be all?",
+                        "I'll take it.",
+                        "Here you are.",
+                        "That comes to $20."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Buying and Declining",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700006006000,\"blocks\":[{\"id\":\"yY6zZ7aA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Sometimes we want to buy something. Sometimes we don't. Here is how to say both:\"}},{\"id\":\"bB9cC0dD1e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>To buy:</b>\"}},{\"id\":\"eE2fF3gG4h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I'll take this one. — Я возьму этот.\",\"I'll buy two of these. — Я куплю два.\",\"Can I pay by card? — Могу я заплатить картой?\"]}},{\"id\":\"hH5iI6jJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>To decline (отказаться):</b>\"}},{\"id\":\"kK8lL9mM0n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"No, thank you. — Нет, спасибо.\",\"It's too expensive. — Слишком дорого.\",\"I'll think about it. — Я подумаю.\",\"Maybe next time. — Может, в следующий раз.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "It's too expensive. I'll think about it. Maybe next time.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_buying",
+                      "name": "Buying",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_declining",
+                      "name": "Declining",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "I'll take it.",
+                      "correctCategory": "cat_buying"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "No, thank you.",
+                      "correctCategory": "cat_declining"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "I'll buy two.",
+                      "correctCategory": "cat_buying"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "It's too expensive.",
+                      "correctCategory": "cat_declining"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "Can I pay by card?",
+                      "correctCategory": "cat_buying"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "I'll think about it.",
+                      "correctCategory": "cat_declining"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "It's too ___. I won't buy it.",
+                      "answers": [
+                        "expensive",
+                        "cheap",
+                        "small"
+                      ]
+                    },
+                    {
+                      "sentence": "Can I pay by ___?",
+                      "answers": [
+                        "card",
+                        "cash",
+                        "check"
+                      ]
+                    },
+                    {
+                      "sentence": "I'll ___ about it.",
+                      "answers": [
+                        "think",
+                        "talk",
+                        "say"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "You don't want to buy the item. What do you say?",
+                      "options": [
+                        "I'll take it.",
+                        "No, thank you.",
+                        "Can I pay by card?",
+                        "I'll buy two."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Complete: 'I'll ___ about it.' (you're not sure)",
+                      "options": [
+                        "think",
+                        "buy",
+                        "take",
+                        "pay"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Choosing Items — Color and Size",
+      "subtopics": [
+        {
+          "title": "4.1 Colors",
+          "lessons": [
+            {
+              "title": "Colors in Shopping",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700006007000,\"blocks\":[{\"id\":\"nN1oO2pP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"When shopping for clothes or items, you often need to talk about <b>colors</b>:\"}},{\"id\":\"qQ4rR5sS6t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>red</b> — красный\",\"<b>blue</b> — синий / голубой\",\"<b>green</b> — зелёный\",\"<b>yellow</b> — жёлтый\",\"<b>black</b> — чёрный\",\"<b>white</b> — белый\",\"<b>grey / gray</b> — серый\",\"<b>brown</b> — коричневый\",\"<b>pink</b> — розовый\",\"<b>orange</b> — оранжевый\",\"<b>purple</b> — фиолетовый\"]}},{\"id\":\"tT7uU8vV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>In a shop:</b> <em>Do you have this in <b>blue</b>?</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Do you have this shirt in blue? I'd prefer a black one.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700006007001",
+                      "left": "red",
+                      "right": "красный"
+                    },
+                    {
+                      "id": "1700006007002",
+                      "left": "black",
+                      "right": "чёрный"
+                    },
+                    {
+                      "id": "1700006007003",
+                      "left": "white",
+                      "right": "белый"
+                    },
+                    {
+                      "id": "1700006007004",
+                      "left": "green",
+                      "right": "зелёный"
+                    },
+                    {
+                      "id": "1700006007005",
+                      "left": "pink",
+                      "right": "розовый"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "listen-write",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [
+                    {
+                      "text": "red",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "red"
+                    },
+                    {
+                      "text": "blue",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "blue"
+                    },
+                    {
+                      "text": "black",
+                      "type": "tts",
+                      "audio_url": "",
+                      "correctText": "black"
+                    }
+                  ],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What color is 'серый' in English?",
+                      "options": [
+                        "brown",
+                        "grey",
+                        "yellow",
+                        "purple"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you ask for a different color?",
+                      "options": [
+                        "Do you have this in blue?",
+                        "I don't like colors.",
+                        "How much is the color?",
+                        "Can I see the price?"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4.2 Sizes",
+          "lessons": [
+            {
+              "title": "Clothing Sizes",
+              "weight": 8,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700006008000,\"blocks\":[{\"id\":\"wW0xX1yY2z\",\"type\":\"paragraph\",\"data\":{\"text\":\"When buying clothes, you need to know <b>sizes</b>:\"}},{\"id\":\"zA3bB4cC5d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>small (S)</b> — маленький\",\"<b>medium (M)</b> — средний\",\"<b>large (L)</b> — большой\",\"<b>extra large (XL)</b> — очень большой\"]}},{\"id\":\"dD6eE7fF8g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Also useful adjectives:\"}},{\"id\":\"gG9hH0iI1j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>too big</b> — слишком большой\",\"<b>too small</b> — слишком маленький\",\"<b>too tight</b> — слишком тесный\",\"<b>too loose</b> — слишком свободный\",\"<b>just right</b> — как раз\"]}},{\"id\":\"jJ2kK3lL4m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example:</b> <em>Do you have this in a <b>medium</b>? — The large is too big for me.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Do you have this dress in medium? The large is too big.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "small (S)",
+                      "translation": "маленький"
+                    },
+                    {
+                      "text": "medium (M)",
+                      "translation": "средний"
+                    },
+                    {
+                      "text": "large (L)",
+                      "translation": "большой"
+                    },
+                    {
+                      "text": "too tight",
+                      "translation": "слишком тесный"
+                    },
+                    {
+                      "text": "just right",
+                      "translation": "как раз"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: Do you have this dress in [medium]? B: Yes! Here you are. A: Hmm, it's too [tight]. Do you have a [large]? B: Of course. A: Perfect, it's [just] right!",
+                  "gaps": [
+                    {
+                      "placeholder": "medium",
+                      "answers": [
+                        "medium"
+                      ]
+                    },
+                    {
+                      "placeholder": "tight",
+                      "answers": [
+                        "tight"
+                      ]
+                    },
+                    {
+                      "placeholder": "large",
+                      "answers": [
+                        "large"
+                      ]
+                    },
+                    {
+                      "placeholder": "just",
+                      "answers": [
+                        "just"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "This shirt is too ___. I need a larger size.",
+                      "answers": [
+                        "small",
+                        "big",
+                        "long"
+                      ]
+                    },
+                    {
+                      "sentence": "Do you have this in ___?",
+                      "answers": [
+                        "medium",
+                        "small",
+                        "large"
+                      ]
+                    },
+                    {
+                      "sentence": "The dress fits ___.",
+                      "answers": [
+                        "perfectly",
+                        "badly",
+                        "slowly"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does 'just right' mean?",
+                      "options": [
+                        "Too big",
+                        "Too small",
+                        "Perfect fit",
+                        "Too loose"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "You need a size between small and large. You ask for:",
+                      "options": [
+                        "extra large",
+                        "medium",
+                        "small",
+                        "tiny"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Paying and Receipts",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "At the Checkout",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700006009000,\"blocks\":[{\"id\":\"mM5nN6oO7p\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you pay for something at the shop, you need these phrases:\"}},{\"id\":\"pP8qQ9rR0s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>At the checkout (у кассы):</b>\"}},{\"id\":\"sS1tT2uU3v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>How would you like to pay?</b> — Как вы хотите оплатить?\",\"<b>Cash or card?</b> — Наличными или картой?\",\"<b>I'll pay by card.</b> — Я заплачу картой.\",\"<b>I'll pay in cash.</b> — Я заплачу наличными.\",\"<b>Here is my card.</b> — Вот моя карта.\",\"<b>Can I have a receipt, please?</b> — Можно мне чек, пожалуйста?\",\"<b>Do you need a bag?</b> — Вам нужен пакет?\",\"<b>Keep the change.</b> — Сдачи не надо.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Cash or card? I'll pay by card. Can I have a receipt, please?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following sentence aloud",
+                "targetPhrase": "Can I have a receipt, please? I'll pay by card."
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A: Your total is fifteen [dollars]. B: Here is twenty dollars. A: And here is your [change] — five dollars. B: Can I have a [receipt], please? A: Of course. Have a [nice] day!",
+              "gaps": [
+                {
+                  "placeholder": "dollars",
+                  "answers": [
+                    "dollars"
+                  ]
+                },
+                {
+                  "placeholder": "change",
+                  "answers": [
+                    "change"
+                  ]
+                },
+                {
+                  "placeholder": "receipt",
+                  "answers": [
+                    "receipt"
+                  ]
+                },
+                {
+                  "placeholder": "nice",
+                  "answers": [
+                    "nice",
+                    "good"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700006009001",
+                  "english": "Cash or card?",
+                  "russian": "Наличными или картой?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700006009002",
+                  "english": "Can I have a receipt?",
+                  "russian": "Можно мне чек?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700006009003",
+                  "english": "Keep the change.",
+                  "russian": "Сдачи не надо.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700006009004",
+                  "english": "I'll pay by card.",
+                  "russian": "Я заплачу картой.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'Keep the change' mean?",
+                  "options": [
+                    "Give me the change.",
+                    "The change is wrong.",
+                    "You can keep the extra money.",
+                    "I have no change."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "How do you ask for a receipt?",
+                  "options": [
+                    "Can I have a change?",
+                    "Can I have a receipt, please?",
+                    "Can I pay in cash?",
+                    "Do you have a bag?"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Shopping Vocabulary Review",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700006010000,\"blocks\":[{\"id\":\"vV4wW5xX6y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's review the key vocabulary from this course:\"}},{\"id\":\"yY7zZ8aA9b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Money:</b> coin, banknote, dollar, cent, euro, pound\"}},{\"id\":\"bB0cC1dD2e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Prices:</b> How much is this? It costs... It's on sale.\"}},{\"id\":\"eE3fF4gG5h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Shopping phrases:</b> I'm looking for..., Do you have...?, I'll take it., I'll think about it.\"}},{\"id\":\"hH6iI7jJ8k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Colors:</b> red, blue, green, black, white, grey, pink, purple\"}},{\"id\":\"kK9lL0mM1n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sizes:</b> small, medium, large, extra large, too tight, too loose, just right\"}},{\"id\":\"nN2oO3pP4q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Paying:</b> Cash or card?, Can I have a receipt?, Keep the change.\"}},{\"id\":\"qQ5rR6sS7t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>You are now ready to go shopping in English!</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I'm looking for a blue shirt in medium. How much is it? I'll take it!",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_clothes",
+                  "name": "Clothes Shopping",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_paying",
+                  "name": "Paying",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_price",
+                  "name": "Asking Price",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "Do you have this in medium?",
+                  "correctCategory": "cat_clothes"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Can I pay by card?",
+                  "correctCategory": "cat_paying"
+                },
+                {
+                  "id": "item_3",
+                  "text": "How much is this?",
+                  "correctCategory": "cat_price"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Keep the change.",
+                  "correctCategory": "cat_paying"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Do you have this in blue?",
+                  "correctCategory": "cat_clothes"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Is it on sale?",
+                  "correctCategory": "cat_price"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "receipt",
+                "change",
+                "expensive",
+                "medium"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "You want to know the price. You ask:",
+                  "options": [
+                    "Can I have a receipt?",
+                    "How much is this?",
+                    "Do you have a bag?",
+                    "Keep the change."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "The shirt is too tight. You need a bigger size. You say:",
+                  "options": [
+                    "Do you have a large?",
+                    "I'll take two.",
+                    "Keep the change.",
+                    "Here you are."
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

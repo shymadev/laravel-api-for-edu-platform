@@ -1,0 +1,1142 @@
+{
+  "title": "English at School",
+  "description": "Covers school vocabulary (classroom objects, subjects, people), simple questions about school life, and basic sentences about likes and dislikes. Perfect for absolute beginners who are studying or learning in a school setting.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": false,
+  "preview_image": "English at School: Classroom & Friends.jpg",
+  "topics": [
+    {
+      "title": "Module 1: The Classroom",
+      "subtopics": [
+        {
+          "title": "1.1 Classroom Objects",
+          "lessons": [
+            {
+              "title": "Things in the Classroom",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Look around your classroom! Here are the most common <b>classroom objects</b>:\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>desk</b> — парта\",\"<b>chair</b> — стул\",\"<b>board / blackboard</b> — доска\",\"<b>book / textbook</b> — книга / учебник\",\"<b>notebook / exercise book</b> — тетрадь\",\"<b>pen</b> — ручка\",\"<b>pencil</b> — карандаш\",\"<b>ruler</b> — линейка\",\"<b>eraser / rubber</b> — ластик\",\"<b>bag / school bag</b> — сумка / рюкзак\",\"<b>map</b> — карта\",\"<b>computer</b> — компьютер\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I have a pen, a notebook and a textbook in my bag.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "desk",
+                      "translation": "парта"
+                    },
+                    {
+                      "text": "board",
+                      "translation": "доска"
+                    },
+                    {
+                      "text": "textbook",
+                      "translation": "учебник"
+                    },
+                    {
+                      "text": "notebook",
+                      "translation": "тетрадь"
+                    },
+                    {
+                      "text": "pencil",
+                      "translation": "карандаш"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700009001001",
+                      "left": "desk",
+                      "right": "парта"
+                    },
+                    {
+                      "id": "1700009001002",
+                      "left": "pen",
+                      "right": "ручка"
+                    },
+                    {
+                      "id": "1700009001003",
+                      "left": "eraser",
+                      "right": "ластик"
+                    },
+                    {
+                      "id": "1700009001004",
+                      "left": "ruler",
+                      "right": "линейка"
+                    },
+                    {
+                      "id": "1700009001005",
+                      "left": "notebook",
+                      "right": "тетрадь"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "desk",
+                    "pencil",
+                    "notebook",
+                    "eraser"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What do you write with in English?",
+                      "options": [
+                        "ruler",
+                        "eraser",
+                        "pen",
+                        "desk"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What is a 'notebook'?",
+                      "options": [
+                        "учебник",
+                        "тетрадь",
+                        "ластик",
+                        "линейка"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Classroom Commands",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009002000,\"blocks\":[{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Teachers use <b>commands</b> (instructions) in the classroom. Listen and do!\"}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Open your book.</b> — Откройте книгу.\",\"<b>Close your book.</b> — Закройте книгу.\",\"<b>Listen.</b> — Слушайте.\",\"<b>Repeat.</b> — Повторите.\",\"<b>Write.</b> — Пишите.\",\"<b>Read.</b> — Читайте.\",\"<b>Stand up.</b> — Встаньте.\",\"<b>Sit down.</b> — Сядьте.\",\"<b>Be quiet.</b> — Тихо.\",\"<b>Come to the board.</b> — Подойдите к доске.\"]}},{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Tip: these verbs (commands) are in the <b>imperative</b> form — no subject needed!</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Open your book. Listen. Repeat. Write. Sit down.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700009002001",
+                      "left": "Open your book.",
+                      "right": "Откройте книгу."
+                    },
+                    {
+                      "id": "1700009002002",
+                      "left": "Stand up.",
+                      "right": "Встаньте."
+                    },
+                    {
+                      "id": "1700009002003",
+                      "left": "Be quiet.",
+                      "right": "Тихо."
+                    },
+                    {
+                      "id": "1700009002004",
+                      "left": "Sit down.",
+                      "right": "Сядьте."
+                    },
+                    {
+                      "id": "1700009002005",
+                      "left": "Repeat.",
+                      "right": "Повторите."
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "___ your book to page ten.",
+                      "answers": [
+                        "Open",
+                        "Close",
+                        "Write"
+                      ]
+                    },
+                    {
+                      "sentence": "Please ___ down — the lesson is starting.",
+                      "answers": [
+                        "sit",
+                        "stand",
+                        "come"
+                      ]
+                    },
+                    {
+                      "sentence": "___ carefully and then repeat.",
+                      "answers": [
+                        "Listen",
+                        "Write",
+                        "Read"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which command means 'Тихо'?",
+                      "options": [
+                        "Stand up.",
+                        "Listen.",
+                        "Be quiet.",
+                        "Repeat."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "The teacher says 'Come to the board.' What do you do?",
+                      "options": [
+                        "Open your book.",
+                        "Walk to the board at the front of the class.",
+                        "Sit down.",
+                        "Close your notebook."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: School Subjects",
+      "subtopics": [
+        {
+          "title": "2.1 Names of Subjects",
+          "lessons": [
+            {
+              "title": "My Favourite Subject",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009003000,\"blocks\":[{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the main <b>school subjects</b> in English:\"}},{\"id\":\"sS9tT0uU1v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>English</b> — английский язык\",\"<b>Maths / Mathematics</b> — математика\",\"<b>Science</b> — наука / естествознание\",\"<b>History</b> — история\",\"<b>Geography</b> — география\",\"<b>Art</b> — изобразительное искусство\",\"<b>Music</b> — музыка\",\"<b>PE (Physical Education)</b> — физкультура\",\"<b>Computer Studies / IT</b> — информатика\",\"<b>Biology</b> — биология\",\"<b>Chemistry</b> — химия\",\"<b>Physics</b> — физика\"]}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful phrases:</b>\"}},{\"id\":\"yY5zZ6aA7b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"My <b>favourite subject</b> is Maths. — Мой любимый предмет — математика.\",\"I like / I don't like History. — Мне нравится / не нравится история.\",\"I have English on Monday. — У меня английский в понедельник.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "My favourite subject is English. I also like Maths and Art.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "My favourite subject is English.",
+                      "translation": "Мой любимый предмет — английский."
+                    },
+                    {
+                      "text": "I like Maths.",
+                      "translation": "Мне нравится математика."
+                    },
+                    {
+                      "text": "I don't like Chemistry.",
+                      "translation": "Мне не нравится химия."
+                    },
+                    {
+                      "text": "I have PE on Friday.",
+                      "translation": "У меня физкультура в пятницу."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_science",
+                      "name": "Science Subjects",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_arts",
+                      "name": "Arts & Humanities",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_other",
+                      "name": "Other",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "Biology",
+                      "correctCategory": "cat_science"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "History",
+                      "correctCategory": "cat_arts"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "Physics",
+                      "correctCategory": "cat_science"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "Art",
+                      "correctCategory": "cat_arts"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "PE",
+                      "correctCategory": "cat_other"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "Chemistry",
+                      "correctCategory": "cat_science"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is 'физкультура' in English?",
+                      "options": [
+                        "Music",
+                        "PE",
+                        "Art",
+                        "Geography"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "How do you say 'Мне нравится история'?",
+                      "options": [
+                        "I have History.",
+                        "I like History.",
+                        "History is easy.",
+                        "I do History."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Likes and Dislikes at School",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009004000,\"blocks\":[{\"id\":\"bB8cC9dD0e\",\"type\":\"paragraph\",\"data\":{\"text\":\"We use these phrases to express <b>likes</b> and <b>dislikes</b> about school subjects:\"}},{\"id\":\"eE1fF2gG3h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>love</b> English! — Я обожаю английский!\",\"I <b>like</b> Art. — Мне нравится искусство.\",\"I <b>don't mind</b> History. — История мне ничего.\",\"I <b>don't like</b> Chemistry. — Мне не нравится химия.\",\"I <b>hate</b> Maths! — Я ненавижу математику!\"]}},{\"id\":\"hH4iI5jJ6k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Giving a reason:</b>\"}},{\"id\":\"kK7lL8mM9n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I like English <b>because</b> it is interesting. — потому что это интересно.\",\"I don't like Maths <b>because</b> it is difficult. — потому что это сложно.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I love English because it is interesting. I don't like Maths because it is difficult.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "I [love] English — it is my favourite subject! I [like] Art too, because it is fun. I [don't] mind History, but I [don't] like Chemistry because it is very [difficult].",
+                  "gaps": [
+                    {
+                      "placeholder": "love",
+                      "answers": [
+                        "love"
+                      ]
+                    },
+                    {
+                      "placeholder": "like",
+                      "answers": [
+                        "like"
+                      ]
+                    },
+                    {
+                      "placeholder": "don't",
+                      "answers": [
+                        "don't"
+                      ]
+                    },
+                    {
+                      "placeholder": "don't",
+                      "answers": [
+                        "don't"
+                      ]
+                    },
+                    {
+                      "placeholder": "difficult",
+                      "answers": [
+                        "difficult",
+                        "hard"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700009004001",
+                      "english": "I love English because it is interesting.",
+                      "russian": "Я обожаю английский, потому что это интересно.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700009004002",
+                      "english": "She doesn't like Maths.",
+                      "russian": "Ей не нравится математика.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700009004003",
+                      "english": "My favourite subject is Art.",
+                      "russian": "Мой любимый предмет — искусство.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700009004004",
+                      "english": "He likes PE because it is fun.",
+                      "russian": "Ему нравится физкультура, потому что это весело.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase is the strongest DISLIKE?",
+                      "options": [
+                        "I don't mind.",
+                        "I don't like.",
+                        "I hate.",
+                        "I like."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Complete: 'I like Geography ___ it is interesting.'",
+                      "options": [
+                        "but",
+                        "so",
+                        "because",
+                        "and"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: People at School",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Teachers and Students",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700009005000,\"blocks\":[{\"id\":\"nN0oO1pP2q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Who do you meet at school? Learn the <b>people vocabulary</b>:\"}},{\"id\":\"qQ3rR4sS5t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>student / pupil</b> — ученик\",\"<b>teacher</b> — учитель\",\"<b>headteacher / principal</b> — директор школы\",\"<b>classmate</b> — одноклассник\",\"<b>friend</b> — друг\",\"<b>librarian</b> — библиотекарь\",\"<b>school secretary</b> — секретарь школы\"]}},{\"id\":\"tT6uU7vV8w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful phrases:</b>\"}},{\"id\":\"wW9xX0yY1z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"This is my <b>teacher</b>. Her name is Ms Smith.\",\"He is my best <b>friend</b> and <b>classmate</b>.\",\"The <b>headteacher</b> is in the office.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "This is my teacher. She is kind. He is my classmate and best friend.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700009005001",
+                  "left": "teacher",
+                  "right": "учитель"
+                },
+                {
+                  "id": "1700009005002",
+                  "left": "pupil",
+                  "right": "ученик"
+                },
+                {
+                  "id": "1700009005003",
+                  "left": "classmate",
+                  "right": "одноклассник"
+                },
+                {
+                  "id": "1700009005004",
+                  "left": "headteacher",
+                  "right": "директор школы"
+                },
+                {
+                  "id": "1700009005005",
+                  "left": "librarian",
+                  "right": "библиотекарь"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "teacher",
+                    "student",
+                    "classmate",
+                    "desk"
+                  ],
+                  "correctWord": "desk"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is a 'classmate'?",
+                  "options": [
+                    "your teacher",
+                    "a student in the same class",
+                    "the school director",
+                    "a librarian"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "How do you say 'директор школы'?",
+                  "options": [
+                    "teacher",
+                    "librarian",
+                    "headteacher",
+                    "classmate"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Describing Your School",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700009006000,\"blocks\":[{\"id\":\"zA2bB3cC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Learn words to describe <b>places</b> in your school:\"}},{\"id\":\"dD5eE6fF7g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>classroom</b> — класс\",\"<b>corridor / hallway</b> — коридор\",\"<b>library</b> — библиотека\",\"<b>gym / sports hall</b> — спортзал\",\"<b>canteen / cafeteria</b> — столовая\",\"<b>playground</b> — площадка для игр\",\"<b>office</b> — кабинет / офис\",\"<b>toilet / bathroom</b> — туалет\"]}},{\"id\":\"gG8hH9iI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking for directions in school:</b>\"}},{\"id\":\"jJ1kK2lL3m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Where is the library? — Где библиотека?\",\"It is on the first floor. — На первом этаже.\",\"Turn left / right. — Поверните налево / направо.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The library is on the first floor. The canteen is next to the gym.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "fill-gaps",
+              "text": "My school is big. There is a [library] with many books. The [gym] is on the ground floor. We eat lunch in the [canteen]. After lunch, we go to the [playground] outside.",
+              "gaps": [
+                {
+                  "placeholder": "library",
+                  "answers": [
+                    "library"
+                  ]
+                },
+                {
+                  "placeholder": "gym",
+                  "answers": [
+                    "gym"
+                  ]
+                },
+                {
+                  "placeholder": "canteen",
+                  "answers": [
+                    "canteen",
+                    "cafeteria"
+                  ]
+                },
+                {
+                  "placeholder": "playground",
+                  "answers": [
+                    "playground"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700009006001",
+                  "english": "Where is the library?",
+                  "russian": "Где библиотека?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009006002",
+                  "english": "The gym is on the ground floor.",
+                  "russian": "Спортзал находится на первом этаже.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009006003",
+                  "english": "We eat lunch in the canteen.",
+                  "russian": "Мы обедаем в столовой.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009006004",
+                  "english": "The classroom is on the second floor.",
+                  "russian": "Класс находится на втором этаже.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Where do you eat lunch at school?",
+                  "options": [
+                    "in the library",
+                    "in the gym",
+                    "in the canteen",
+                    "in the office"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "What is a 'playground'?",
+                  "options": [
+                    "библиотека",
+                    "столовая",
+                    "площадка для игр",
+                    "коридор"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: School Timetable",
+      "subtopics": [
+        {
+          "title": "4.1 Classes and Timetables",
+          "lessons": [
+            {
+              "title": "My School Timetable",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700009007000,\"blocks\":[{\"id\":\"mM4nN5oO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's learn how to talk about your <b>school timetable</b>:\"}},{\"id\":\"pP7qQ8rR9s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>lesson / class</b> — урок\",\"<b>timetable / schedule</b> — расписание\",\"<b>break / recess</b> — перемена\",\"<b>homework</b> — домашнее задание\",\"<b>test / exam</b> — контрольная / экзамен\",\"<b>mark / grade</b> — оценка\"]}},{\"id\":\"sS0tT1uU2v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Talking about timetable:</b>\"}},{\"id\":\"vV3wW4xX5y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I have <b>six lessons</b> today. — У меня сегодня шесть уроков.\",\"The lesson starts at <b>8 o'clock</b>. — Урок начинается в восемь.\",\"We have a <b>break</b> at 10:30. — У нас перемена в 10:30.\",\"I have <b>homework</b> in Maths. — У меня домашнее задание по математике.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I have six lessons today. We have a break at ten thirty. I have Maths homework.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700009007001",
+                      "left": "lesson",
+                      "right": "урок"
+                    },
+                    {
+                      "id": "1700009007002",
+                      "left": "break",
+                      "right": "перемена"
+                    },
+                    {
+                      "id": "1700009007003",
+                      "left": "homework",
+                      "right": "домашнее задание"
+                    },
+                    {
+                      "id": "1700009007004",
+                      "left": "timetable",
+                      "right": "расписание"
+                    },
+                    {
+                      "id": "1700009007005",
+                      "left": "grade",
+                      "right": "оценка"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I have ___ in English — I need to write ten sentences.",
+                      "answers": [
+                        "homework",
+                        "a break",
+                        "a lesson"
+                      ]
+                    },
+                    {
+                      "sentence": "The first ___ starts at eight o'clock.",
+                      "answers": [
+                        "lesson",
+                        "break",
+                        "exam"
+                      ]
+                    },
+                    {
+                      "sentence": "I got a good ___ in my Maths test!",
+                      "answers": [
+                        "grade",
+                        "homework",
+                        "timetable"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is a 'timetable'?",
+                      "options": [
+                        "a break between lessons",
+                        "a schedule of your lessons",
+                        "a homework notebook",
+                        "an exam"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Complete: 'I have ___ in Maths. I need to do it at home.'",
+                      "options": [
+                        "a grade",
+                        "a break",
+                        "homework",
+                        "a lesson"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Talking About School",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "My School Day",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700009008000,\"blocks\":[{\"id\":\"yY6zZ7aA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's describe a typical <b>school day</b>. Read this example:\"}},{\"id\":\"bB9cC0dD1e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>I go to school at <b>8 o'clock</b> in the morning. My first lesson is English. Then I have Maths and History. We have a <b>break</b> at 10:30 — I talk with my <b>classmates</b>. After break, I have Science and Geography. School finishes at <b>2 o'clock</b>. I go home and do my <b>homework</b>.</em>\"}},{\"id\":\"eE2fF3gG4h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key verbs:</b>\"}},{\"id\":\"hH5iI6jJ7k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>start / begin</b> — начинаться\",\"<b>finish / end</b> — заканчиваться\",\"<b>have a lesson</b> — иметь урок\",\"<b>do homework</b> — делать домашнее задание\",\"<b>take a test</b> — писать контрольную\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "School starts at eight. I have English first. After break, I have Science. School finishes at two.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read this sentence aloud",
+                "targetPhrase": "I go to school at eight o'clock. My favourite lesson is English."
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "School [starts] at eight o'clock. My first lesson is [English]. We have a [break] at ten thirty. I [do] my homework after school. School [finishes] at two in the afternoon.",
+              "gaps": [
+                {
+                  "placeholder": "starts",
+                  "answers": [
+                    "starts",
+                    "begins"
+                  ]
+                },
+                {
+                  "placeholder": "English",
+                  "answers": [
+                    "English"
+                  ]
+                },
+                {
+                  "placeholder": "break",
+                  "answers": [
+                    "break"
+                  ]
+                },
+                {
+                  "placeholder": "do",
+                  "answers": [
+                    "do"
+                  ]
+                },
+                {
+                  "placeholder": "finishes",
+                  "answers": [
+                    "finishes",
+                    "ends"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700009008001",
+                  "english": "School starts at eight o'clock.",
+                  "russian": "Школа начинается в восемь часов.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009008002",
+                  "english": "I do my homework after school.",
+                  "russian": "Я делаю домашнее задание после школы.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009008003",
+                  "english": "We have a break at ten thirty.",
+                  "russian": "У нас перемена в десять тридцать.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009008004",
+                  "english": "My favourite subject is English.",
+                  "russian": "Мой любимый предмет — английский.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Complete: 'I ___ my homework every evening.'",
+                  "options": [
+                    "make",
+                    "take",
+                    "do",
+                    "have"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Which verb means 'заканчиваться'?",
+                  "options": [
+                    "start",
+                    "have",
+                    "finish",
+                    "take"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Asking About School",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700009009000,\"blocks\":[{\"id\":\"kK8lL9mM0n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are common <b>questions and answers</b> about school:\"}},{\"id\":\"nN1oO2pP3q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>What school do you go to?</b> — В какую школу ты ходишь?\",\"<b>What year are you in?</b> — В каком ты классе?\",\"<b>What is your favourite subject?</b> — Какой твой любимый предмет?\",\"<b>Who is your English teacher?</b> — Кто твой учитель английского?\",\"<b>How many lessons do you have today?</b> — Сколько у тебя сегодня уроков?\",\"<b>Do you have homework?</b> — У тебя есть домашнее задание?\"]}},{\"id\":\"qQ4rR5sS6t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Example answers:</b>\"}},{\"id\":\"tT7uU8vV9w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I go to <b>City School Number 5</b>.\",\"I am in <b>Year 7</b>.\",\"My favourite subject is <b>English</b>.\",\"I have <b>six</b> lessons today.\",\"Yes, I have homework in Maths.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "What is your favourite subject? My favourite subject is English. Do you have homework? Yes, I have homework in Maths.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Answer the question aloud",
+                "targetPhrase": "My favourite subject is English. I have six lessons today."
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A: [What] is your favourite subject? B: I love [English]! A: [How] many lessons do you have today? B: I have [six] lessons. A: Do you [have] homework? B: Yes, in Maths.",
+              "gaps": [
+                {
+                  "placeholder": "What",
+                  "answers": [
+                    "What"
+                  ]
+                },
+                {
+                  "placeholder": "English",
+                  "answers": [
+                    "English"
+                  ]
+                },
+                {
+                  "placeholder": "How",
+                  "answers": [
+                    "How"
+                  ]
+                },
+                {
+                  "placeholder": "six",
+                  "answers": [
+                    "six"
+                  ]
+                },
+                {
+                  "placeholder": "have",
+                  "answers": [
+                    "have"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "What subject is your favourite?",
+                  "correctText": "What is your favourite subject?"
+                },
+                {
+                  "text": "I am in the Year 7.",
+                  "correctText": "I am in Year 7."
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700009009001",
+                  "english": "What year are you in?",
+                  "russian": "В каком ты классе?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009009002",
+                  "english": "I am in Year 8.",
+                  "russian": "Я в 8-м классе.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009009003",
+                  "english": "How many lessons do you have today?",
+                  "russian": "Сколько у тебя сегодня уроков?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700009009004",
+                  "english": "Do you have homework?",
+                  "russian": "У тебя есть домашнее задание?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "How do you ask someone's favourite subject?",
+                  "options": [
+                    "What lesson is today?",
+                    "What is your favourite subject?",
+                    "Do you like school?",
+                    "Where is your school?"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Complete: 'I am ___ Year 9.'",
+                  "options": [
+                    "on",
+                    "at",
+                    "in",
+                    "to"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Which is correct: 'Yes, I have homework ___.'",
+                  "options": [
+                    "on Maths",
+                    "in Maths",
+                    "at Maths",
+                    "for Maths"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

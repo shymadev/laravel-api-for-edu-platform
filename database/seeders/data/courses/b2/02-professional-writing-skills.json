@@ -1,0 +1,970 @@
+{
+  "title": "Professional Writing Skills",
+  "description": "Develop the writing skills required in professional and academic environments: formal emails, business reports, executive summaries, academic essays, and application documents. This course is aimed at B1 completers who work or study in English-speaking contexts and need to produce clear, well-structured, and appropriately formal written documents.",
+  "language": "en",
+  "difficulty_level": "B2",
+  "is_premium": true,
+  "preview_image": "Professional Writing Skills.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Principles of Formal Writing",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Register, Tone, and Style in Professional English",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000011000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Register</b> refers to the level of formality appropriate to a particular context. In professional English, register is determined by the relationship between writer and reader, the purpose of the communication, and the genre (email, report, essay, etc.).\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Formal professional writing is characterised by: <b>impersonal tone</b> (avoiding <em>I think</em> in favour of <em>It is argued that...</em>), <b>precise vocabulary</b> (avoiding vague words like <em>thing</em>, <em>stuff</em>, <em>a lot</em>), <b>complete sentences</b> (no fragments or contractions), and <b>passive constructions</b> where the agent is less important than the action.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Contrast these pairs: <em>I need you to fix this ASAP</em> (informal) vs. <em>I would be grateful if you could address this matter at your earliest convenience</em> (formal) | <em>The project's going well</em> vs. <em>The project is progressing according to schedule</em>.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Hedging language</b> is also vital in formal contexts to avoid overstating claims: <em>The evidence suggests...</em> / <em>It appears that...</em> / <em>This may indicate...</em> Overconfident assertions can undermine credibility in academic and professional writing.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I would be grateful if you could address this matter at your earliest convenience.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Formal / Professional",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Informal / Colloquial",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "I am writing to enquire about...",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Just wanted to check...",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "The findings indicate a significant correlation.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_4",
+                  "text": "The results show a big link.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Please do not hesitate to contact me.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Feel free to get in touch anytime.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_7",
+                  "text": "It is recommended that the policy be reviewed.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_8",
+                  "text": "I think you guys should look at the policy again.",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "This definitely proves that the strategy failed.",
+                  "correctText": "The data suggests that the strategy may not have achieved its intended outcomes."
+                },
+                {
+                  "text": "Hey, just a quick note about the meeting.",
+                  "correctText": "I am writing with regard to the upcoming meeting."
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which phrase is appropriate in a formal business email?",
+                  "options": [
+                    "Hey, just a quick note...",
+                    "I am writing with regard to your recent enquiry.",
+                    "So basically what happened was...",
+                    "Anyway, let me know ASAP."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which sentence uses appropriate hedging language?",
+                  "options": [
+                    "This definitely proves that the strategy failed.",
+                    "The data clearly shows everything went wrong.",
+                    "The results suggest that further investigation may be warranted.",
+                    "Obviously, the plan was a complete disaster."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Formal Emails and Correspondence",
+      "subtopics": [
+        {
+          "title": "2.1 Structure and Conventions",
+          "lessons": [
+            {
+              "title": "Writing Effective Formal Emails",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000012000,\"blocks\":[{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"A professional email has a predictable and expected structure. Deviating from this structure risks appearing unprofessional or creating confusion. The key components are: <b>subject line, salutation, opening, body, closing, sign-off, and signature</b>.\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Subject line:</b> Precise and informative — <em>Re: Meeting Rescheduled — 14 May</em> rather than <em>Meeting.</em> Use title case and keep it under 60 characters.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Salutation:</b> When writing to someone you do not know well: <em>Dear Mr. /Ms. [Surname]</em>. When the recipient's name is unknown: <em>Dear Sir or Madam</em>.\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Opening sentence:</b> State the purpose immediately. Preferred openings: <em>I am writing to inform you that...</em> / <em>Further to our conversation last Tuesday, I would like to...</em>\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Sign-off:</b> <em>Yours sincerely</em> (when you know the recipient's name) | <em>Yours faithfully</em> (when you do not know the name) | <em>Kind regards / Best regards</em> (semi-formal, increasingly standard).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I am writing with regard to your advertisement for the position of Senior Analyst.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "Yours sincerely",
+                      "right": "Used when you know the recipient's name"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "Yours faithfully",
+                      "right": "Used when the name is unknown (Dear Sir/Madam)"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "Kind regards",
+                      "right": "Semi-formal, increasingly common in professional emails"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "Dear Mr. Thornton",
+                      "right": "Formal salutation with known surname"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "I am writing to enquire about...",
+                      "right": "Standard formal opening line"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "Dear Ms. [Harrison], I am writing [with regard to] your advertisement for the position of Senior Analyst. [Further to] our telephone conversation on 12 April, I would like to [confirm] my attendance at the interview. Please [do not hesitate] to contact me if you require any [further] information. Yours [sincerely],",
+                  "gaps": [
+                    {
+                      "placeholder": "Harrison",
+                      "answers": [
+                        "Harrison"
+                      ]
+                    },
+                    {
+                      "placeholder": "with regard to",
+                      "answers": [
+                        "with regard to",
+                        "regarding",
+                        "in relation to"
+                      ]
+                    },
+                    {
+                      "placeholder": "Further to",
+                      "answers": [
+                        "Further to",
+                        "Following"
+                      ]
+                    },
+                    {
+                      "placeholder": "confirm",
+                      "answers": [
+                        "confirm"
+                      ]
+                    },
+                    {
+                      "placeholder": "do not hesitate",
+                      "answers": [
+                        "do not hesitate"
+                      ]
+                    },
+                    {
+                      "placeholder": "further",
+                      "answers": [
+                        "further",
+                        "additional"
+                      ]
+                    },
+                    {
+                      "placeholder": "sincerely",
+                      "answers": [
+                        "sincerely"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sign-off is used when you do NOT know the recipient's name?",
+                      "options": [
+                        "Yours sincerely",
+                        "Kind regards",
+                        "Yours faithfully",
+                        "Best wishes"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Complaint and Apology Emails",
+          "lessons": [
+            {
+              "title": "Writing Formal Complaints and Apologies",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000013000,\"blocks\":[{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Complaint and apology letters require careful management of tone. A complaint must be assertive without being aggressive; an apology must be sincere without being excessively self-deprecating.\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Complaint email structure:</b> (1) State the problem clearly and factually. (2) Explain the impact or inconvenience caused. (3) State what you expect to be done. (4) Set a reasonable deadline if appropriate. Avoid emotional language: <em>I was disappointed to find that...</em> / <em>I trust that this matter will be resolved promptly.</em>\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Apology email structure:</b> (1) Acknowledge the problem without deflection. (2) Apologise sincerely. (3) Explain what happened. (4) State what corrective action has been or will be taken. Key phrases: <em>I sincerely apologise for the inconvenience caused.</em> / <em>We take full responsibility for this error.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I sincerely apologise for the inconvenience caused by this delay.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Formal phrase meaning to bring something to someone's notice",
+                      "word": "draw attention to"
+                    },
+                    {
+                      "hint": "Steps taken immediately to prevent recurrence",
+                      "word": "corrective action"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700013001",
+                      "english": "I would like to bring to your attention a discrepancy between the invoice and the goods delivered.",
+                      "russian": "Я хотел бы обратить ваше внимание на расхождение между счётом-фактурой и доставленными товарами.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700013002",
+                      "english": "We have taken immediate steps to ensure that this situation does not arise again.",
+                      "russian": "Мы незамедлительно приняли меры, чтобы не допустить повторения подобной ситуации.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase is most appropriate for a formal complaint?",
+                      "options": [
+                        "Your service was absolutely terrible.",
+                        "I was extremely disappointed with the quality of the product I received.",
+                        "I can't believe how badly you messed this up.",
+                        "This is unacceptable and I'm very angry."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which phrase is most appropriate in a formal apology?",
+                      "options": [
+                        "It wasn't really our fault, but we are sorry.",
+                        "We regret the inconvenience, but it won't happen again maybe.",
+                        "We sincerely apologise for any inconvenience this may have caused.",
+                        "Sorry about that, we'll try to do better."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Business Reports",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Structure and Language of Business Reports",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000014000,\"blocks\":[{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>business report</b> is a structured document that presents information, analysis, and (often) recommendations to a specific audience for a specific purpose. Unlike essays, reports use headings, numbered sections, and bullet points to aid navigation and clarity.\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"header\",\"data\":{\"text\":\"Standard report structure:\",\"level\":3}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<em>Title page</em> — title, author, date, addressee.\",\"<em>Executive summary</em> — a brief overview.\",\"<em>Introduction</em> — purpose, scope, methodology.\",\"<em>Findings</em> — facts and analysis, usually with subheadings.\",\"<em>Conclusions</em> — interpretation of findings.\",\"<em>Recommendations</em> — specific, actionable proposals.\",\"<em>Appendices</em> — supporting data.\"]}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Language patterns specific to reports: <b>describing purpose:</b> <em>The purpose of this report is to examine...</em>; <b>presenting findings:</b> <em>The data indicates that...</em>; <b>making recommendations:</b> <em>It is recommended that the company consider...</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The purpose of this report is to examine the causes of declining customer satisfaction.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Executive summary",
+                  "right": "Brief overview of the entire report"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Findings section",
+                  "right": "Presentation and analysis of data collected"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Recommendations",
+                  "right": "Specific, actionable proposals based on findings"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Introduction",
+                  "right": "States purpose, scope, and methodology"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Appendices",
+                  "right": "Supporting documents and raw data"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "The [purpose] of this report is to [examine] the causes of declining customer satisfaction. The data [indicates] that response times have increased by 40% over the past quarter. It is [recommended] that the customer service team [be expanded] and that training protocols [be reviewed].",
+              "gaps": [
+                {
+                  "placeholder": "purpose",
+                  "answers": [
+                    "purpose",
+                    "aim",
+                    "objective"
+                  ]
+                },
+                {
+                  "placeholder": "examine",
+                  "answers": [
+                    "examine",
+                    "investigate",
+                    "analyse",
+                    "analyze"
+                  ]
+                },
+                {
+                  "placeholder": "indicates",
+                  "answers": [
+                    "indicates",
+                    "shows",
+                    "reveals",
+                    "suggests"
+                  ]
+                },
+                {
+                  "placeholder": "recommended",
+                  "answers": [
+                    "recommended",
+                    "advised",
+                    "proposed"
+                  ]
+                },
+                {
+                  "placeholder": "be expanded",
+                  "answers": [
+                    "be expanded"
+                  ]
+                },
+                {
+                  "placeholder": "be reviewed",
+                  "answers": [
+                    "be reviewed"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which section of a business report contains specific, actionable proposals based on the findings?",
+                  "options": [
+                    "Introduction",
+                    "Executive Summary",
+                    "Recommendations",
+                    "Appendices"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Academic Essays",
+      "subtopics": [
+        {
+          "title": "4.1 Argument and Essay Structure",
+          "lessons": [
+            {
+              "title": "Writing a Coherent Argumentative Essay",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000015000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"An <b>argumentative essay</b> presents a position on a debatable topic and defends it with evidence and reasoning. At B2 level, the essay must demonstrate not just vocabulary and grammar, but the ability to organise ideas logically, acknowledge opposing views, and reach a well-supported conclusion.\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"header\",\"data\":{\"text\":\"Standard essay structure:\",\"level\":3}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Introduction</em> — background context, thesis statement\",\"<em>Body paragraphs</em> — each paragraph makes one point (topic sentence + evidence + explanation + link)\",\"<em>Counter-argument paragraph</em> — acknowledge the opposing view and refute it\",\"<em>Conclusion</em> — restate the thesis, summarise main points, give a final reflection\"]}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Thesis statement</b> is the backbone of the essay. Compare: <em>Social media is bad</em> (too vague) vs. <em>While social media facilitates global connection, its role in amplifying misinformation poses a significant threat to democratic discourse</em> (specific and arguable).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "While social media facilitates global connection, its role in amplifying misinformation poses a significant threat to democratic discourse.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "Furthermore",
+                        "Moreover",
+                        "In addition",
+                        "Despite"
+                      ],
+                      "correctWord": "Despite"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Introducing Evidence",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Contrasting Ideas",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_3",
+                      "name": "Drawing Conclusions",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "According to recent research...",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "Nevertheless, the data suggests...",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "It can therefore be concluded that...",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "Studies have demonstrated that...",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "Despite this, many scholars maintain that...",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "The above analysis indicates that...",
+                      "correctCategory": "cat_3"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which is the most effective thesis statement?",
+                      "options": [
+                        "Climate change is a big problem.",
+                        "This essay will talk about climate change.",
+                        "Although renewable energy requires substantial investment, its long-term economic and environmental benefits outweigh the costs.",
+                        "I think climate change is bad and we should stop it."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which phrase is most appropriate for introducing a counter-argument?",
+                      "options": [
+                        "On the other hand, wrong people say...",
+                        "Admittedly, critics argue that... However...",
+                        "But some people are incorrect when they...",
+                        "Obviously, the opposite view is completely wrong."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Executive Summaries",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Writing Concise and Effective Executive Summaries",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000016000,\"blocks\":[{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"An <b>executive summary</b> is a condensed version of a longer document — typically a report, proposal, or research study — designed for busy decision-makers who may not read the full document. It must be self-contained: a reader who reads only the summary should understand the key issue, findings, and recommended actions.\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Length:</b> Typically 10–15% of the full document, or 1–2 pages for a 10–15 page report.\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"header\",\"data\":{\"text\":\"Key components:\",\"level\":3}},{\"id\":\"fG0hI1jK2l\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<em>Background/Purpose</em> — Why was this report produced?\",\"<em>Key Findings</em> — The most significant data and analysis.\",\"<em>Conclusions</em> — What do the findings mean?\",\"<em>Recommendations</em> — What actions should be taken?\"]}},{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Language:</b> Concise, direct, and active where possible: <em>Sales declined by 12% in Q3</em> (not <em>There was a decline in the area of sales performance</em>). Use bullet points for recommendations.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Revenue increased by 23% year-on-year, driven primarily by growth in the Asia-Pacific market.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700016001",
+                  "english": "Revenue increased by 23% year-on-year, driven primarily by growth in the Asia-Pacific market.",
+                  "russian": "Выручка выросла на 23% в годовом исчислении, главным образом за счёт роста на рынке Азиатско-Тихоокеанского региона.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700016002",
+                  "english": "It is recommended that the company diversify its supplier base to mitigate the risk of supply chain disruption.",
+                  "russian": "Рекомендуется диверсифицировать базу поставщиков компании для снижения риска перебоев в цепочке поставок.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the primary purpose of an executive summary?",
+                  "options": [
+                    "To provide a detailed analysis of all findings",
+                    "To allow busy readers to grasp the key points without reading the full document",
+                    "To introduce new data not covered in the main report",
+                    "To replace the introduction section of a report"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which sentence is more appropriate for an executive summary?",
+                  "options": [
+                    "There were some issues identified in the area of customer service delivery.",
+                    "Customer satisfaction scores fell by 18% due to increased response times.",
+                    "The report says that things need to get better in a few different areas.",
+                    "It is our view that improvements could potentially be considered."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: CVs and Cover Letters",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Writing a Professional CV and Cover Letter",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000017000,\"blocks\":[{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>CV (Curriculum Vitae)</b> is a structured document presenting your education, professional experience, skills, and achievements. In English-speaking professional contexts, it should be concise, consistent, and tailored to the specific role you are applying for.\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>CV principles:</b> Use <b>action verbs</b> in the past tense for previous roles: <em>Managed a team of 12 analysts</em> / <em>Coordinate cross-departmental projects</em>. Quantify achievements where possible: <em>Increased sales revenue by 35% within 18 months</em> is far more compelling than <em>Improved sales</em>.\"}},{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Cover letter</b> should not simply repeat your CV — it should interpret your experience for the reader. Avoid clichés: <em>I am a hard-working team player with a passion for...</em> Instead, demonstrate your qualities through specific evidence: <em>During my three years at X, I led a team that delivered Y, resulting in Z.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I led a cross-functional team that increased sales revenue by 35% within 18 months.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Managed a cross-functional team of 8",
+                  "right": "Action verb + specific detail"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Increased customer retention by 22%",
+                  "right": "Quantified achievement"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "I am a highly motivated individual",
+                  "right": "Cliché to avoid"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "I am particularly drawn to this role because...",
+                  "right": "Effective cover letter opening"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "References available upon request",
+                  "right": "Outdated CV phrase to omit"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Strong CV Language",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Weak CV Language",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "Responsible for various tasks in the office.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Coordinated logistics for 15 international conferences annually.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Helped with things.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Reduced operational costs by 18% through process optimisation.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Worked with a team.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Mentored and supervised a team of 6 junior developers.",
+                  "correctCategory": "cat_1"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which CV entry is strongest?",
+                  "options": [
+                    "Helped with sales tasks.",
+                    "Did some work on marketing.",
+                    "Increased sales by 22% in Q3 by implementing a new CRM strategy.",
+                    "Was involved with the team on various projects."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 7: Coherence and Cohesion",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Linking Ideas: Discourse Markers and Cohesive Devices",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000018000,\"blocks\":[{\"id\":\"oP5qR6sT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Cohesion</b> refers to the grammatical and lexical links within and between sentences that create a unified text. <b>Coherence</b> refers to the logical flow of ideas. Strong professional writing achieves both.\"}},{\"id\":\"vW8xY9zA0b\",\"type\":\"header\",\"data\":{\"text\":\"Discourse markers by function:\",\"level\":3}},{\"id\":\"cD1eF2gH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Addition:</b> Furthermore, Moreover, In addition, What is more\",\"<b>Contrast:</b> However, Nevertheless, Nonetheless, In contrast, Notwithstanding\",\"<b>Cause/result:</b> Consequently, Therefore, As a result, Hence, Thus\",\"<b>Concession:</b> Admittedly, While it is true that, Despite this, Even so\",\"<b>Exemplification:</b> For instance, For example, To illustrate, Such as\",\"<b>Conclusion:</b> In conclusion, To summarise, On balance, Taking everything into account\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The new policy was introduced in January. However, its implementation has been delayed due to technical issues.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Furthermore",
+                  "right": "Addition"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Nevertheless",
+                  "right": "Contrast"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Consequently",
+                  "right": "Result"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Admittedly",
+                  "right": "Concession"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "To illustrate",
+                  "right": "Exemplification"
+                },
+                {
+                  "id": "pair_6",
+                  "left": "On balance",
+                  "right": "Conclusion"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "Furthermore",
+                    "Moreover",
+                    "In addition",
+                    "However"
+                  ],
+                  "correctWord": "However"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "fill-gaps",
+              "text": "The new policy was introduced in January. [However], its implementation has been delayed due to technical issues. [Furthermore], several departments have raised concerns about the cost implications. [Consequently], the board has decided to commission an independent review. [Despite this], the core objectives of the policy remain unchanged.",
+              "gaps": [
+                {
+                  "placeholder": "However",
+                  "answers": [
+                    "However",
+                    "Nevertheless",
+                    "Nonetheless"
+                  ]
+                },
+                {
+                  "placeholder": "Furthermore",
+                  "answers": [
+                    "Furthermore",
+                    "Moreover",
+                    "In addition"
+                  ]
+                },
+                {
+                  "placeholder": "Consequently",
+                  "answers": [
+                    "Consequently",
+                    "As a result",
+                    "Therefore"
+                  ]
+                },
+                {
+                  "placeholder": "Despite this",
+                  "answers": [
+                    "Despite this",
+                    "Even so",
+                    "Notwithstanding this"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which connector correctly signals a cause-and-effect relationship?",
+                  "options": [
+                    "Furthermore",
+                    "Admittedly",
+                    "Consequently",
+                    "In contrast"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

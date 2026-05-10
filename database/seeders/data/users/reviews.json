@@ -1,0 +1,4562 @@
+[
+  {
+    "user_index": 2,
+    "course_title": "Shopping & Money",
+    "rating": 4,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 2,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 5,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 2,
+    "course_title": "Around the City",
+    "rating": 5,
+    "review_text": "The examples are always relevant and easy to remember."
+  },
+  {
+    "user_index": 3,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 3,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 3,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 5,
+    "review_text": "Useful phrases and expressions that I can use immediately."
+  },
+  {
+    "user_index": 3,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 3,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 4,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 4,
+    "course_title": "People, Home & Hobbies",
+    "rating": 3,
+    "review_text": "Good course but could benefit from more complex reading texts."
+  },
+  {
+    "user_index": 5,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 7,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 7,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "Solid course. The vocabulary games are a fun way to learn new words."
+  },
+  {
+    "user_index": 8,
+    "course_title": "Food & Drinks",
+    "rating": 5,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 8,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 9,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "Clear, concise, and comprehensive. Exactly the right combination."
+  },
+  {
+    "user_index": 10,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "Well-organised and logical. Makes learning feel effortless."
+  },
+  {
+    "user_index": 11,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  },
+  {
+    "user_index": 11,
+    "course_title": "Food & Drinks",
+    "rating": 5,
+    "review_text": "Clear explanations and good variety of exercises. Highly recommended."
+  },
+  {
+    "user_index": 11,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 4,
+    "review_text": "Very helpful for professional contexts. Exactly what I needed."
+  },
+  {
+    "user_index": 12,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 5,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 13,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "The course gave me tools I can apply immediately in real conversations."
+  },
+  {
+    "user_index": 14,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 4,
+    "review_text": "I came back to this course twice — it's that good."
+  },
+  {
+    "user_index": 15,
+    "course_title": "Family & Relationships",
+    "rating": 4,
+    "review_text": "Great content, though I wish there were more listening exercises."
+  },
+  {
+    "user_index": 16,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 5,
+    "review_text": "Amazing content! The examples are very relevant to real-life situations."
+  },
+  {
+    "user_index": 16,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 17,
+    "course_title": "Weather and Seasons",
+    "rating": 4,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 18,
+    "course_title": "Health and the Body",
+    "rating": 4,
+    "review_text": "Impressive depth for a course at this level. Really well researched."
+  },
+  {
+    "user_index": 18,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 18,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 19,
+    "course_title": "At the Restaurant",
+    "rating": 4,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 19,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 5,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 20,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "Genuinely enjoyed every lesson. That's rare for a language course."
+  },
+  {
+    "user_index": 20,
+    "course_title": "Life Admin & Services",
+    "rating": 4,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 20,
+    "course_title": "People, Home & Hobbies",
+    "rating": 4,
+    "review_text": "Really thorough. I'll definitely come back to review some sections."
+  },
+  {
+    "user_index": 21,
+    "course_title": "At the Restaurant",
+    "rating": 4,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 22,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 4,
+    "review_text": "Clear explanations and good variety of exercises. Highly recommended."
+  },
+  {
+    "user_index": 22,
+    "course_title": "Work & Jobs",
+    "rating": 3,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 23,
+    "course_title": "Food & Drinks",
+    "rating": 3,
+    "review_text": "Solid course. The vocabulary games are a fun way to learn new words."
+  },
+  {
+    "user_index": 23,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 4,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 23,
+    "course_title": "Hobbies and Leisure",
+    "rating": 4,
+    "review_text": "A solid foundation for anyone looking to improve their English."
+  },
+  {
+    "user_index": 23,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 5,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 23,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 24,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 24,
+    "course_title": "At the Restaurant",
+    "rating": 4,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 26,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 26,
+    "course_title": "Life Admin & Services",
+    "rating": 4,
+    "review_text": "Great for revision as well as learning new material."
+  },
+  {
+    "user_index": 26,
+    "course_title": "My Daily Routine",
+    "rating": 5,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 28,
+    "course_title": "At the Restaurant",
+    "rating": 3,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  },
+  {
+    "user_index": 29,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 5,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 29,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "I was sceptical at first but this genuinely changed how I approach English."
+  },
+  {
+    "user_index": 29,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "Amazing content! The examples are very relevant to real-life situations."
+  },
+  {
+    "user_index": 29,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 5,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 29,
+    "course_title": "Family & Relationships",
+    "rating": 5,
+    "review_text": "Interesting topics and useful vocabulary. Would definitely recommend."
+  },
+  {
+    "user_index": 30,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 30,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "I was sceptical at first but this genuinely changed how I approach English."
+  },
+  {
+    "user_index": 30,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 4,
+    "review_text": "The interactive exercises keep you engaged throughout."
+  },
+  {
+    "user_index": 30,
+    "course_title": "Shopping & Money",
+    "rating": 4,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 31,
+    "course_title": "Weather and Seasons",
+    "rating": 5,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 31,
+    "course_title": "Food & Drinks",
+    "rating": 5,
+    "review_text": "I like how each lesson starts with theory and ends with practice."
+  },
+  {
+    "user_index": 31,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "This is exactly what I needed. Simple, clear, and effective."
+  },
+  {
+    "user_index": 32,
+    "course_title": "Shopping & Money",
+    "rating": 3,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 32,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 33,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "Very clear and methodical. Makes grammar feel much less intimidating."
+  },
+  {
+    "user_index": 33,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 33,
+    "course_title": "Home & Living",
+    "rating": 3,
+    "review_text": "The course content is both broad and detailed. Impressive balance."
+  },
+  {
+    "user_index": 33,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 34,
+    "course_title": "Family & Relationships",
+    "rating": 4,
+    "review_text": "The course gave me tools I can apply immediately in real conversations."
+  },
+  {
+    "user_index": 35,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 4,
+    "review_text": "Impressive depth for a course at this level. Really well researched."
+  },
+  {
+    "user_index": 35,
+    "course_title": "Weather and Seasons",
+    "rating": 4,
+    "review_text": "Great coverage of the topic without being overwhelming."
+  },
+  {
+    "user_index": 35,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "Excellent resource. Worth every minute I invested."
+  },
+  {
+    "user_index": 36,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 36,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 37,
+    "course_title": "Weather and Seasons",
+    "rating": 5,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 38,
+    "course_title": "Around the City",
+    "rating": 5,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 38,
+    "course_title": "Numbers, Time & Dates",
+    "rating": 4,
+    "review_text": "Well-organised and logical. Makes learning feel effortless."
+  },
+  {
+    "user_index": 39,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 4,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 39,
+    "course_title": "Sports & Activities",
+    "rating": 4,
+    "review_text": "This course has boosted my confidence enormously. Thank you!"
+  },
+  {
+    "user_index": 39,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 40,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 5,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 40,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 40,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "I completed the whole thing in two weeks. Couldn't stop!"
+  },
+  {
+    "user_index": 40,
+    "course_title": "Family & Relationships",
+    "rating": 5,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 41,
+    "course_title": "Life Admin & Services",
+    "rating": 4,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 42,
+    "course_title": "Weather and Seasons",
+    "rating": 5,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 42,
+    "course_title": "Numbers, Time & Dates",
+    "rating": 4,
+    "review_text": "I feel like I got real value from every single lesson."
+  },
+  {
+    "user_index": 42,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "Very good for building confidence to actually use the language."
+  },
+  {
+    "user_index": 45,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 3,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 45,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 45,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "I appreciated the real-world examples — very applicable to daily life."
+  },
+  {
+    "user_index": 45,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "The interactive exercises keep you engaged throughout."
+  },
+  {
+    "user_index": 45,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 4,
+    "review_text": "I like how each lesson starts with theory and ends with practice."
+  },
+  {
+    "user_index": 47,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 5,
+    "review_text": "The examples are always relevant and easy to remember."
+  },
+  {
+    "user_index": 47,
+    "course_title": "Family & Relationships",
+    "rating": 5,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 47,
+    "course_title": "Home & Living",
+    "rating": 5,
+    "review_text": "Impressive depth for a course at this level. Really well researched."
+  },
+  {
+    "user_index": 48,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "Great coverage of the topic without being overwhelming."
+  },
+  {
+    "user_index": 48,
+    "course_title": "Weather and Seasons",
+    "rating": 5,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 48,
+    "course_title": "Numbers, Time & Dates",
+    "rating": 5,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 48,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "Great content, though I wish there were more listening exercises."
+  },
+  {
+    "user_index": 48,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 3,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 49,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 4,
+    "review_text": "Great for revision as well as learning new material."
+  },
+  {
+    "user_index": 49,
+    "course_title": "Health and the Body",
+    "rating": 3,
+    "review_text": "The progression feels natural and well-planned. Never felt lost."
+  },
+  {
+    "user_index": 49,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "The interactive exercises keep you engaged throughout."
+  },
+  {
+    "user_index": 50,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "High-quality content that clearly comes from genuine expertise."
+  },
+  {
+    "user_index": 50,
+    "course_title": "Shopping & Money",
+    "rating": 4,
+    "review_text": "Excellent resource. Worth every minute I invested."
+  },
+  {
+    "user_index": 50,
+    "course_title": "My Daily Routine",
+    "rating": 4,
+    "review_text": "This course has boosted my confidence enormously. Thank you!"
+  },
+  {
+    "user_index": 51,
+    "course_title": "Food & Drinks",
+    "rating": 5,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 51,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "Each unit is self-contained but connects well to the overall theme."
+  },
+  {
+    "user_index": 52,
+    "course_title": "Around the City",
+    "rating": 5,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 52,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "The course content is both broad and detailed. Impressive balance."
+  },
+  {
+    "user_index": 53,
+    "course_title": "At the Restaurant",
+    "rating": 4,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 53,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 3,
+    "review_text": "Very clear and methodical. Makes grammar feel much less intimidating."
+  },
+  {
+    "user_index": 53,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 54,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "The lessons feel modern and relevant, not like a boring textbook."
+  },
+  {
+    "user_index": 54,
+    "course_title": "My Daily Routine",
+    "rating": 5,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 55,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "Excellent resource. Worth every minute I invested."
+  },
+  {
+    "user_index": 56,
+    "course_title": "Food & Drinks",
+    "rating": 5,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 56,
+    "course_title": "Home & Living",
+    "rating": 3,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 57,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "Well structured from start to finish. Easy to follow and retain."
+  },
+  {
+    "user_index": 57,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 58,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 5,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 58,
+    "course_title": "My Daily Routine",
+    "rating": 4,
+    "review_text": "High-quality content that clearly comes from genuine expertise."
+  },
+  {
+    "user_index": 58,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 58,
+    "course_title": "Life Admin & Services",
+    "rating": 3,
+    "review_text": "Clear explanations and good variety of exercises. Highly recommended."
+  },
+  {
+    "user_index": 59,
+    "course_title": "Home & Living",
+    "rating": 3,
+    "review_text": "The progression feels natural and well-planned. Never felt lost."
+  },
+  {
+    "user_index": 59,
+    "course_title": "Family & Relationships",
+    "rating": 5,
+    "review_text": "Very good for building confidence to actually use the language."
+  },
+  {
+    "user_index": 60,
+    "course_title": "Weather and Seasons",
+    "rating": 4,
+    "review_text": "Really thorough. I'll definitely come back to review some sections."
+  },
+  {
+    "user_index": 61,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 62,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 62,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 5,
+    "review_text": "Excellent resource. Worth every minute I invested."
+  },
+  {
+    "user_index": 65,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 5,
+    "review_text": "The course makes complex topics approachable. Highly skilled teaching."
+  },
+  {
+    "user_index": 66,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 3,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 66,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 4,
+    "review_text": "A well-crafted course that respects the learner's time and intelligence."
+  },
+  {
+    "user_index": 67,
+    "course_title": "Weather and Seasons",
+    "rating": 4,
+    "review_text": "Excellent resource. Worth every minute I invested."
+  },
+  {
+    "user_index": 68,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 69,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 5,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 70,
+    "course_title": "People, Home & Hobbies",
+    "rating": 4,
+    "review_text": "I learned things I had never properly understood before. Thank you!"
+  },
+  {
+    "user_index": 71,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 72,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 72,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 73,
+    "course_title": "My Daily Routine",
+    "rating": 5,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 74,
+    "course_title": "Family & Relationships",
+    "rating": 3,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 74,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 4,
+    "review_text": "I was sceptical at first but this genuinely changed how I approach English."
+  },
+  {
+    "user_index": 74,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 5,
+    "review_text": "I completed the whole thing in two weeks. Couldn't stop!"
+  },
+  {
+    "user_index": 74,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 4,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 74,
+    "course_title": "My Daily Routine",
+    "rating": 5,
+    "review_text": "The course makes complex topics approachable. Highly skilled teaching."
+  },
+  {
+    "user_index": 75,
+    "course_title": "Family & Relationships",
+    "rating": 5,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 75,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 4,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 75,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 2,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 76,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 77,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 77,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "The course makes complex topics approachable. Highly skilled teaching."
+  },
+  {
+    "user_index": 78,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 5,
+    "review_text": "Each unit is self-contained but connects well to the overall theme."
+  },
+  {
+    "user_index": 79,
+    "course_title": "Shopping & Money",
+    "rating": 3,
+    "review_text": "Genuinely enjoyed every lesson. That's rare for a language course."
+  },
+  {
+    "user_index": 79,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 79,
+    "course_title": "People, Home & Hobbies",
+    "rating": 4,
+    "review_text": "I completed the whole thing in two weeks. Couldn't stop!"
+  },
+  {
+    "user_index": 79,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "Great content, though I wish there were more listening exercises."
+  },
+  {
+    "user_index": 81,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 81,
+    "course_title": "Food & Drinks",
+    "rating": 5,
+    "review_text": "This is the most useful language course I've taken online."
+  },
+  {
+    "user_index": 81,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "A thorough course that covers everything you need at this level."
+  },
+  {
+    "user_index": 82,
+    "course_title": "Around the City",
+    "rating": 5,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 83,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "I learned things I had never properly understood before. Thank you!"
+  },
+  {
+    "user_index": 83,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 84,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 4,
+    "review_text": "This is the most useful language course I've taken online."
+  },
+  {
+    "user_index": 84,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 3,
+    "review_text": "I came back to this course twice — it's that good."
+  },
+  {
+    "user_index": 84,
+    "course_title": "Home & Living",
+    "rating": 4,
+    "review_text": "Good course but could benefit from more complex reading texts."
+  },
+  {
+    "user_index": 85,
+    "course_title": "At the Restaurant",
+    "rating": 3,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 85,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 5,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 86,
+    "course_title": "Weather and Seasons",
+    "rating": 5,
+    "review_text": "Amazing content! The examples are very relevant to real-life situations."
+  },
+  {
+    "user_index": 87,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 87,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 5,
+    "review_text": "Excellent resource. Worth every minute I invested."
+  },
+  {
+    "user_index": 87,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 3,
+    "review_text": "A solid foundation for anyone looking to improve their English."
+  },
+  {
+    "user_index": 87,
+    "course_title": "My Daily Routine",
+    "rating": 5,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 88,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "Solid course. The vocabulary games are a fun way to learn new words."
+  },
+  {
+    "user_index": 88,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 2,
+    "review_text": "The course content is both broad and detailed. Impressive balance."
+  },
+  {
+    "user_index": 88,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 4,
+    "review_text": "Short but effective lessons — perfect for a busy schedule."
+  },
+  {
+    "user_index": 89,
+    "course_title": "My Daily Routine",
+    "rating": 4,
+    "review_text": "Everything is explained clearly and nothing is left to guesswork."
+  },
+  {
+    "user_index": 91,
+    "course_title": "Around the City",
+    "rating": 5,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 91,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 91,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "Everything is explained clearly and nothing is left to guesswork."
+  },
+  {
+    "user_index": 93,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "I feel like I got real value from every single lesson."
+  },
+  {
+    "user_index": 93,
+    "course_title": "At the Restaurant",
+    "rating": 3,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 94,
+    "course_title": "Shopping & Money",
+    "rating": 4,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 94,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "An excellent investment of time. I learned far more than expected."
+  },
+  {
+    "user_index": 95,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 96,
+    "course_title": "Life Admin & Services",
+    "rating": 4,
+    "review_text": "Amazing content! The examples are very relevant to real-life situations."
+  },
+  {
+    "user_index": 96,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 96,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 5,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 97,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 97,
+    "course_title": "People, Home & Hobbies",
+    "rating": 4,
+    "review_text": "An excellent investment of time. I learned far more than expected."
+  },
+  {
+    "user_index": 98,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "Really clear explanations. Even difficult topics are easy to follow."
+  },
+  {
+    "user_index": 98,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 98,
+    "course_title": "Weather and Seasons",
+    "rating": 4,
+    "review_text": "I came back to this course twice — it's that good."
+  },
+  {
+    "user_index": 99,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 99,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "The examples are always relevant and easy to remember."
+  },
+  {
+    "user_index": 100,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 5,
+    "review_text": "Impressive depth for a course at this level. Really well researched."
+  },
+  {
+    "user_index": 101,
+    "course_title": "My Daily Routine",
+    "rating": 4,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 101,
+    "course_title": "Social English",
+    "rating": 4,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 102,
+    "course_title": "Social English",
+    "rating": 3,
+    "review_text": "The lessons feel modern and relevant, not like a boring textbook."
+  },
+  {
+    "user_index": 103,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 3,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 104,
+    "course_title": "Home & Living",
+    "rating": 5,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 104,
+    "course_title": "Environment and Nature",
+    "rating": 3,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 105,
+    "course_title": "Technology in Daily Life",
+    "rating": 3,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 105,
+    "course_title": "English Tenses in Depth",
+    "rating": 3,
+    "review_text": "Comprehensive and detailed. Great for serious language learners."
+  },
+  {
+    "user_index": 105,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 106,
+    "course_title": "Fluency & Interaction",
+    "rating": 5,
+    "review_text": "This is the most useful language course I've taken online."
+  },
+  {
+    "user_index": 107,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "This course has boosted my confidence enormously. Thank you!"
+  },
+  {
+    "user_index": 107,
+    "course_title": "Life Admin & Services",
+    "rating": 3,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 108,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 5,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 108,
+    "course_title": "Food & Drinks",
+    "rating": 4,
+    "review_text": "This is the most useful language course I've taken online."
+  },
+  {
+    "user_index": 108,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 4,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 108,
+    "course_title": "Hobbies and Leisure",
+    "rating": 3,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 108,
+    "course_title": "Cultural Diversity",
+    "rating": 4,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  },
+  {
+    "user_index": 109,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "I learned things I had never properly understood before. Thank you!"
+  },
+  {
+    "user_index": 110,
+    "course_title": "Social English",
+    "rating": 4,
+    "review_text": "Well structured from start to finish. Easy to follow and retain."
+  },
+  {
+    "user_index": 111,
+    "course_title": "Family & Relationships",
+    "rating": 4,
+    "review_text": "The course has a great rhythm — never too fast, never too slow."
+  },
+  {
+    "user_index": 111,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 5,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 112,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "A thorough course that covers everything you need at this level."
+  },
+  {
+    "user_index": 113,
+    "course_title": "Environment and Nature",
+    "rating": 5,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 113,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "The examples are always relevant and easy to remember."
+  },
+  {
+    "user_index": 113,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "Excellent course! The lessons are well-structured and very engaging."
+  },
+  {
+    "user_index": 114,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 5,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 114,
+    "course_title": "Fluency & Interaction",
+    "rating": 5,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 116,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "I liked how the theory is always followed by practical tasks."
+  },
+  {
+    "user_index": 117,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "Great combination of grammar, vocabulary, and speaking practice."
+  },
+  {
+    "user_index": 118,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 118,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 118,
+    "course_title": "Fluency & Interaction",
+    "rating": 5,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 118,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 118,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "I feel like I got real value from every single lesson."
+  },
+  {
+    "user_index": 119,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 4,
+    "review_text": "I completed the whole thing in two weeks. Couldn't stop!"
+  },
+  {
+    "user_index": 119,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "Great for revision as well as learning new material."
+  },
+  {
+    "user_index": 119,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "Great coverage of the topic without being overwhelming."
+  },
+  {
+    "user_index": 119,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 4,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 119,
+    "course_title": "My Daily Routine",
+    "rating": 5,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 120,
+    "course_title": "Food & Drinks",
+    "rating": 5,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 120,
+    "course_title": "Around the City",
+    "rating": 5,
+    "review_text": "I feel like I got real value from every single lesson."
+  },
+  {
+    "user_index": 122,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "The course makes complex topics approachable. Highly skilled teaching."
+  },
+  {
+    "user_index": 122,
+    "course_title": "Around the City",
+    "rating": 5,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 123,
+    "course_title": "Fluency & Interaction",
+    "rating": 4,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 124,
+    "course_title": "Cultural Diversity",
+    "rating": 3,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 124,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 5,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 125,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 125,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "The progression feels natural and well-planned. Never felt lost."
+  },
+  {
+    "user_index": 126,
+    "course_title": "Fluency & Interaction",
+    "rating": 4,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 126,
+    "course_title": "Cultural Diversity",
+    "rating": 5,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 127,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 4,
+    "review_text": "The course is demanding in a good way — it pushes you to think."
+  },
+  {
+    "user_index": 127,
+    "course_title": "Cultural Diversity",
+    "rating": 4,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 127,
+    "course_title": "Shopping & Money",
+    "rating": 4,
+    "review_text": "Very clear and methodical. Makes grammar feel much less intimidating."
+  },
+  {
+    "user_index": 128,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 3,
+    "review_text": "Good course but could benefit from more complex reading texts."
+  },
+  {
+    "user_index": 128,
+    "course_title": "Technology in Daily Life",
+    "rating": 4,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 129,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 129,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 5,
+    "review_text": "The course treats learners as intelligent adults. Much appreciated."
+  },
+  {
+    "user_index": 129,
+    "course_title": "My Daily Routine",
+    "rating": 4,
+    "review_text": "Solid course. The vocabulary games are a fun way to learn new words."
+  },
+  {
+    "user_index": 129,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 4,
+    "review_text": "Well structured from start to finish. Easy to follow and retain."
+  },
+  {
+    "user_index": 131,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "The course has a great rhythm — never too fast, never too slow."
+  },
+  {
+    "user_index": 132,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 5,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 132,
+    "course_title": "Media & Entertainment",
+    "rating": 2,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 132,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 133,
+    "course_title": "Cultural Diversity",
+    "rating": 4,
+    "review_text": "I came back to this course twice — it's that good."
+  },
+  {
+    "user_index": 134,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 134,
+    "course_title": "Business Communication Basics",
+    "rating": 3,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 134,
+    "course_title": "Social English",
+    "rating": 3,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 134,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 4,
+    "review_text": "Amazing content! The examples are very relevant to real-life situations."
+  },
+  {
+    "user_index": 136,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 137,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 4,
+    "review_text": "Short but effective lessons — perfect for a busy schedule."
+  },
+  {
+    "user_index": 137,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "Short but effective lessons — perfect for a busy schedule."
+  },
+  {
+    "user_index": 138,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 138,
+    "course_title": "English Tenses in Depth",
+    "rating": 5,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 139,
+    "course_title": "Around the City",
+    "rating": 5,
+    "review_text": "I like how each lesson starts with theory and ends with practice."
+  },
+  {
+    "user_index": 139,
+    "course_title": "Fluency & Interaction",
+    "rating": 4,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 139,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 139,
+    "course_title": "My Daily Routine",
+    "rating": 4,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 140,
+    "course_title": "Business Communication Basics",
+    "rating": 4,
+    "review_text": "Very thorough and professional. I learned a lot in a short time."
+  },
+  {
+    "user_index": 141,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 141,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 142,
+    "course_title": "Family & Relationships",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 142,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 5,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 142,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 5,
+    "review_text": "Useful phrases and expressions that I can use immediately."
+  },
+  {
+    "user_index": 142,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 3,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 143,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 5,
+    "review_text": "Really clear explanations. Even difficult topics are easy to follow."
+  },
+  {
+    "user_index": 143,
+    "course_title": "Family & Relationships",
+    "rating": 3,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 144,
+    "course_title": "Around the City",
+    "rating": 4,
+    "review_text": "Comprehensive and detailed. Great for serious language learners."
+  },
+  {
+    "user_index": 144,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "A really satisfying learning experience from beginning to end."
+  },
+  {
+    "user_index": 145,
+    "course_title": "Hobbies and Leisure",
+    "rating": 4,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 145,
+    "course_title": "Technology in Daily Life",
+    "rating": 3,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 146,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "The course gave me tools I can apply immediately in real conversations."
+  },
+  {
+    "user_index": 146,
+    "course_title": "Cultural Diversity",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 146,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "Really enjoyed this. The practical exercises were especially helpful."
+  },
+  {
+    "user_index": 147,
+    "course_title": "Shopping & Money",
+    "rating": 5,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 148,
+    "course_title": "Technology in Daily Life",
+    "rating": 4,
+    "review_text": "A really satisfying learning experience from beginning to end."
+  },
+  {
+    "user_index": 148,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 5,
+    "review_text": "Very thorough and professional. I learned a lot in a short time."
+  },
+  {
+    "user_index": 148,
+    "course_title": "Food & Drinks",
+    "rating": 3,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 150,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 150,
+    "course_title": "Cultural Diversity",
+    "rating": 3,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 151,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 4,
+    "review_text": "The course makes complex topics approachable. Highly skilled teaching."
+  },
+  {
+    "user_index": 151,
+    "course_title": "Media & Entertainment",
+    "rating": 3,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 152,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 4,
+    "review_text": "This course has boosted my confidence enormously. Thank you!"
+  },
+  {
+    "user_index": 152,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 5,
+    "review_text": "The course treats learners as intelligent adults. Much appreciated."
+  },
+  {
+    "user_index": 153,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 5,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 154,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 154,
+    "course_title": "My Daily Routine",
+    "rating": 5,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 155,
+    "course_title": "My Daily Routine",
+    "rating": 5,
+    "review_text": "Interesting topics and useful vocabulary. Would definitely recommend."
+  },
+  {
+    "user_index": 156,
+    "course_title": "Health and the Body",
+    "rating": 3,
+    "review_text": "I learned things I had never properly understood before. Thank you!"
+  },
+  {
+    "user_index": 156,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 3,
+    "review_text": "I completed the whole thing in two weeks. Couldn't stop!"
+  },
+  {
+    "user_index": 158,
+    "course_title": "Hobbies and Leisure",
+    "rating": 4,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 159,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 159,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "Solid course. The vocabulary games are a fun way to learn new words."
+  },
+  {
+    "user_index": 159,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 160,
+    "course_title": "Home & Living",
+    "rating": 5,
+    "review_text": "The examples are always relevant and easy to remember."
+  },
+  {
+    "user_index": 160,
+    "course_title": "Shopping & Money",
+    "rating": 4,
+    "review_text": "Really thorough. I'll definitely come back to review some sections."
+  },
+  {
+    "user_index": 160,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 4,
+    "review_text": "High-quality content that clearly comes from genuine expertise."
+  },
+  {
+    "user_index": 161,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 5,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 161,
+    "course_title": "Environment and Nature",
+    "rating": 3,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 161,
+    "course_title": "Social English",
+    "rating": 4,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 161,
+    "course_title": "Numbers, Time & Dates",
+    "rating": 4,
+    "review_text": "A really satisfying learning experience from beginning to end."
+  },
+  {
+    "user_index": 162,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 162,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "Each unit is self-contained but connects well to the overall theme."
+  },
+  {
+    "user_index": 162,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 4,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  },
+  {
+    "user_index": 162,
+    "course_title": "Fluency & Interaction",
+    "rating": 5,
+    "review_text": "Superb content quality. Every lesson adds real value."
+  },
+  {
+    "user_index": 163,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "Clear explanations and good variety of exercises. Highly recommended."
+  },
+  {
+    "user_index": 164,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 4,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 164,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "Short but effective lessons — perfect for a busy schedule."
+  },
+  {
+    "user_index": 165,
+    "course_title": "Numbers, Time & Dates",
+    "rating": 5,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 165,
+    "course_title": "Sports & Activities",
+    "rating": 4,
+    "review_text": "Excellent course! The lessons are well-structured and very engaging."
+  },
+  {
+    "user_index": 166,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 5,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 166,
+    "course_title": "Around the City",
+    "rating": 3,
+    "review_text": "Superb content quality. Every lesson adds real value."
+  },
+  {
+    "user_index": 166,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 167,
+    "course_title": "Body & Health: Essential Vocabulary",
+    "rating": 5,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 167,
+    "course_title": "Numbers, Time & Dates",
+    "rating": 5,
+    "review_text": "I was sceptical at first but this genuinely changed how I approach English."
+  },
+  {
+    "user_index": 168,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "The course content is both broad and detailed. Impressive balance."
+  },
+  {
+    "user_index": 169,
+    "course_title": "Business Communication Basics",
+    "rating": 5,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 169,
+    "course_title": "Around the City",
+    "rating": 3,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 169,
+    "course_title": "Media & Entertainment",
+    "rating": 4,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 171,
+    "course_title": "Social English",
+    "rating": 4,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 172,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 5,
+    "review_text": "I was sceptical at first but this genuinely changed how I approach English."
+  },
+  {
+    "user_index": 173,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "Everything is explained clearly and nothing is left to guesswork."
+  },
+  {
+    "user_index": 173,
+    "course_title": "Family & Relationships",
+    "rating": 5,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 173,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 173,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 174,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "The lessons feel modern and relevant, not like a boring textbook."
+  },
+  {
+    "user_index": 174,
+    "course_title": "Technology in Daily Life",
+    "rating": 3,
+    "review_text": "Superb content quality. Every lesson adds real value."
+  },
+  {
+    "user_index": 174,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 5,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 174,
+    "course_title": "Shopping & Money",
+    "rating": 4,
+    "review_text": "Clear, concise, and comprehensive. Exactly the right combination."
+  },
+  {
+    "user_index": 175,
+    "course_title": "Food & Drinks",
+    "rating": 3,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 175,
+    "course_title": "Business Communication Basics",
+    "rating": 5,
+    "review_text": "I liked how the theory is always followed by practical tasks."
+  },
+  {
+    "user_index": 175,
+    "course_title": "Home & Living",
+    "rating": 4,
+    "review_text": "Well-organised and logical. Makes learning feel effortless."
+  },
+  {
+    "user_index": 175,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 3,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 175,
+    "course_title": "Social English",
+    "rating": 4,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 176,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 5,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 176,
+    "course_title": "Weather and Seasons",
+    "rating": 4,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 176,
+    "course_title": "Cultural Diversity",
+    "rating": 4,
+    "review_text": "Good course but could benefit from more complex reading texts."
+  },
+  {
+    "user_index": 176,
+    "course_title": "English at School: Classroom & Friends",
+    "rating": 5,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 176,
+    "course_title": "At the Restaurant",
+    "rating": 2,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 177,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 4,
+    "review_text": "Very good for building confidence to actually use the language."
+  },
+  {
+    "user_index": 178,
+    "course_title": "Numbers, Time & Dates",
+    "rating": 3,
+    "review_text": "Interesting topics and useful vocabulary. Would definitely recommend."
+  },
+  {
+    "user_index": 178,
+    "course_title": "Family & Relationships",
+    "rating": 4,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 179,
+    "course_title": "Fluency & Interaction",
+    "rating": 4,
+    "review_text": "Amazing content! The examples are very relevant to real-life situations."
+  },
+  {
+    "user_index": 179,
+    "course_title": "Numbers, Time & Dates",
+    "rating": 4,
+    "review_text": "Really thorough. I'll definitely come back to review some sections."
+  },
+  {
+    "user_index": 179,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "I feel noticeably more confident after finishing this course."
+  },
+  {
+    "user_index": 179,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "Solid course. The vocabulary games are a fun way to learn new words."
+  },
+  {
+    "user_index": 181,
+    "course_title": "Food & Drinks",
+    "rating": 5,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 181,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 4,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 182,
+    "course_title": "Everyday Greetings & Introductions",
+    "rating": 4,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 182,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "I completed this in a week and feel much more confident now."
+  },
+  {
+    "user_index": 183,
+    "course_title": "Home & Living",
+    "rating": 5,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 185,
+    "course_title": "Colors, Shapes & Sizes",
+    "rating": 5,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 185,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 5,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 185,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 5,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 186,
+    "course_title": "People, Home & Hobbies",
+    "rating": 4,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 187,
+    "course_title": "Around the City",
+    "rating": 3,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 187,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 5,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 188,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 5,
+    "review_text": "A thorough course that covers everything you need at this level."
+  },
+  {
+    "user_index": 188,
+    "course_title": "Environment and Nature",
+    "rating": 4,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 189,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "This course has boosted my confidence enormously. Thank you!"
+  },
+  {
+    "user_index": 189,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "This is the most useful language course I've taken online."
+  },
+  {
+    "user_index": 189,
+    "course_title": "Professional Writing Skills",
+    "rating": 4,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 189,
+    "course_title": "Environment and Nature",
+    "rating": 5,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 189,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "Clear explanations and good variety of exercises. Highly recommended."
+  },
+  {
+    "user_index": 190,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 191,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 192,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 5,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  },
+  {
+    "user_index": 193,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 3,
+    "review_text": "I liked how the theory is always followed by practical tasks."
+  },
+  {
+    "user_index": 194,
+    "course_title": "Environment and Nature",
+    "rating": 5,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 194,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 195,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "A really satisfying learning experience from beginning to end."
+  },
+  {
+    "user_index": 195,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 195,
+    "course_title": "Professional Writing Skills",
+    "rating": 4,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 196,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "I feel like I got real value from every single lesson."
+  },
+  {
+    "user_index": 196,
+    "course_title": "Professional Writing Skills",
+    "rating": 4,
+    "review_text": "The course gave me tools I can apply immediately in real conversations."
+  },
+  {
+    "user_index": 196,
+    "course_title": "Hobbies and Leisure",
+    "rating": 3,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 196,
+    "course_title": "Critical Thinking in English",
+    "rating": 4,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 197,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 197,
+    "course_title": "Health and the Body",
+    "rating": 4,
+    "review_text": "The audio examples are really useful for improving pronunciation."
+  },
+  {
+    "user_index": 199,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 199,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 4,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 199,
+    "course_title": "Environment and Nature",
+    "rating": 5,
+    "review_text": "A solid foundation for anyone looking to improve their English."
+  },
+  {
+    "user_index": 200,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "The lessons feel modern and relevant, not like a boring textbook."
+  },
+  {
+    "user_index": 200,
+    "course_title": "Office English in Action",
+    "rating": 4,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 201,
+    "course_title": "Professional Writing Skills",
+    "rating": 4,
+    "review_text": "Clear explanations and good variety of exercises. Highly recommended."
+  },
+  {
+    "user_index": 201,
+    "course_title": "Business Communication Basics",
+    "rating": 5,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 201,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 3,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 201,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "An excellent investment of time. I learned far more than expected."
+  },
+  {
+    "user_index": 203,
+    "course_title": "Travel and Transport",
+    "rating": 3,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 203,
+    "course_title": "Health and the Body",
+    "rating": 2,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 203,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 204,
+    "course_title": "Home & Living",
+    "rating": 4,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 204,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "This is the most useful language course I've taken online."
+  },
+  {
+    "user_index": 204,
+    "course_title": "Business Communication Basics",
+    "rating": 4,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 204,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "I liked how the theory is always followed by practical tasks."
+  },
+  {
+    "user_index": 205,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 205,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 205,
+    "course_title": "Life Admin & Services",
+    "rating": 4,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 205,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "Excellent course! The lessons are well-structured and very engaging."
+  },
+  {
+    "user_index": 205,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 206,
+    "course_title": "Critical Thinking in English",
+    "rating": 4,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 206,
+    "course_title": "Cultural Diversity",
+    "rating": 5,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 207,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 3,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 207,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "Very professional presentation. The interface is clean and intuitive."
+  },
+  {
+    "user_index": 207,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "Very thorough and professional. I learned a lot in a short time."
+  },
+  {
+    "user_index": 208,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 208,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "Genuinely enjoyed every lesson. That's rare for a language course."
+  },
+  {
+    "user_index": 208,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 5,
+    "review_text": "A solid foundation for anyone looking to improve their English."
+  },
+  {
+    "user_index": 209,
+    "course_title": "Social English",
+    "rating": 5,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 209,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 4,
+    "review_text": "The course is demanding in a good way — it pushes you to think."
+  },
+  {
+    "user_index": 209,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 209,
+    "course_title": "Global Issues and Debates",
+    "rating": 5,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 210,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 210,
+    "course_title": "Debating the News",
+    "rating": 4,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 210,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 4,
+    "review_text": "I learned things I had never properly understood before. Thank you!"
+  },
+  {
+    "user_index": 210,
+    "course_title": "Life Admin & Services",
+    "rating": 4,
+    "review_text": "The progression feels natural and well-planned. Never felt lost."
+  },
+  {
+    "user_index": 211,
+    "course_title": "People, Home & Hobbies",
+    "rating": 4,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 211,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 212,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "A well-crafted course that respects the learner's time and intelligence."
+  },
+  {
+    "user_index": 213,
+    "course_title": "Business Communication Basics",
+    "rating": 3,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 213,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 214,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 4,
+    "review_text": "I completed this in a week and feel much more confident now."
+  },
+  {
+    "user_index": 214,
+    "course_title": "Fluency & Interaction",
+    "rating": 4,
+    "review_text": "Good course but could benefit from more complex reading texts."
+  },
+  {
+    "user_index": 215,
+    "course_title": "Everyday English: Life in the City",
+    "rating": 5,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 216,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "Well-organised and logical. Makes learning feel effortless."
+  },
+  {
+    "user_index": 217,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 5,
+    "review_text": "Really clear explanations. Even difficult topics are easy to follow."
+  },
+  {
+    "user_index": 217,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 219,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 219,
+    "course_title": "Weather and Seasons",
+    "rating": 5,
+    "review_text": "Very helpful for professional contexts. Exactly what I needed."
+  },
+  {
+    "user_index": 220,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 220,
+    "course_title": "Travel and Transport",
+    "rating": 3,
+    "review_text": "Interesting topics and useful vocabulary. Would definitely recommend."
+  },
+  {
+    "user_index": 220,
+    "course_title": "Hobbies and Leisure",
+    "rating": 3,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 220,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 221,
+    "course_title": "Life Admin & Services",
+    "rating": 4,
+    "review_text": "I appreciated the real-world examples — very applicable to daily life."
+  },
+  {
+    "user_index": 221,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 221,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "The practical focus makes this course stand out from the rest."
+  },
+  {
+    "user_index": 221,
+    "course_title": "Home & Living",
+    "rating": 4,
+    "review_text": "Great content, though I wish there were more listening exercises."
+  },
+  {
+    "user_index": 222,
+    "course_title": "Environment and Nature",
+    "rating": 5,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 222,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "Superb content quality. Every lesson adds real value."
+  },
+  {
+    "user_index": 223,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 5,
+    "review_text": "I completed the whole thing in two weeks. Couldn't stop!"
+  },
+  {
+    "user_index": 223,
+    "course_title": "Social English",
+    "rating": 4,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 223,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "I like how each lesson starts with theory and ends with practice."
+  },
+  {
+    "user_index": 224,
+    "course_title": "Debating the News",
+    "rating": 4,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 224,
+    "course_title": "Work & Jobs",
+    "rating": 4,
+    "review_text": "Great combination of grammar, vocabulary, and speaking practice."
+  },
+  {
+    "user_index": 225,
+    "course_title": "Fluency & Interaction",
+    "rating": 5,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 225,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 4,
+    "review_text": "Excellent course! The lessons are well-structured and very engaging."
+  },
+  {
+    "user_index": 225,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 226,
+    "course_title": "Global Issues and Debates",
+    "rating": 4,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 227,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 228,
+    "course_title": "English Tenses in Depth",
+    "rating": 3,
+    "review_text": "The course has a great rhythm — never too fast, never too slow."
+  },
+  {
+    "user_index": 228,
+    "course_title": "Media & Entertainment",
+    "rating": 3,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 229,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "Interesting topics and useful vocabulary. Would definitely recommend."
+  },
+  {
+    "user_index": 230,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "Really thorough. I'll definitely come back to review some sections."
+  },
+  {
+    "user_index": 231,
+    "course_title": "Life Admin & Services",
+    "rating": 3,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 231,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 231,
+    "course_title": "Weather and Seasons",
+    "rating": 4,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 232,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "The course treats learners as intelligent adults. Much appreciated."
+  },
+  {
+    "user_index": 233,
+    "course_title": "Media & Entertainment",
+    "rating": 4,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 233,
+    "course_title": "Travel Smart: Trips & Transport",
+    "rating": 3,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 233,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 5,
+    "review_text": "Really thorough. I'll definitely come back to review some sections."
+  },
+  {
+    "user_index": 234,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 4,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 235,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 3,
+    "review_text": "Very thorough and professional. I learned a lot in a short time."
+  },
+  {
+    "user_index": 235,
+    "course_title": "Travel and Transport",
+    "rating": 4,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 236,
+    "course_title": "Travel and Transport",
+    "rating": 5,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 236,
+    "course_title": "Health and the Body",
+    "rating": 4,
+    "review_text": "I like how each lesson starts with theory and ends with practice."
+  },
+  {
+    "user_index": 236,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 237,
+    "course_title": "Office English in Action",
+    "rating": 4,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 238,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 4,
+    "review_text": "Short but effective lessons — perfect for a busy schedule."
+  },
+  {
+    "user_index": 238,
+    "course_title": "Literature and Storytelling",
+    "rating": 4,
+    "review_text": "Interesting topics and useful vocabulary. Would definitely recommend."
+  },
+  {
+    "user_index": 238,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  },
+  {
+    "user_index": 239,
+    "course_title": "Weather and Seasons",
+    "rating": 4,
+    "review_text": "The practical focus makes this course stand out from the rest."
+  },
+  {
+    "user_index": 239,
+    "course_title": "English Tenses in Depth",
+    "rating": 5,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 239,
+    "course_title": "Business Communication Basics",
+    "rating": 4,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 240,
+    "course_title": "Health and the Body",
+    "rating": 4,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 241,
+    "course_title": "Life Admin & Services",
+    "rating": 4,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 241,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 241,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 4,
+    "review_text": "Short but effective lessons — perfect for a busy schedule."
+  },
+  {
+    "user_index": 241,
+    "course_title": "People, Home & Hobbies",
+    "rating": 5,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 242,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 5,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 242,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 243,
+    "course_title": "Fluency & Interaction",
+    "rating": 5,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 243,
+    "course_title": "Media & Entertainment",
+    "rating": 4,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 243,
+    "course_title": "Cultural Diversity",
+    "rating": 4,
+    "review_text": "Loved the interactive elements — they make studying feel less like a chore."
+  },
+  {
+    "user_index": 244,
+    "course_title": "Home & Living",
+    "rating": 5,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 245,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 5,
+    "review_text": "I completed this in a week and feel much more confident now."
+  },
+  {
+    "user_index": 245,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 5,
+    "review_text": "Very good for building confidence to actually use the language."
+  },
+  {
+    "user_index": 246,
+    "course_title": "Weather and Seasons",
+    "rating": 5,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 246,
+    "course_title": "At the Restaurant",
+    "rating": 5,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 246,
+    "course_title": "Technology in Daily Life",
+    "rating": 4,
+    "review_text": "Short but effective lessons — perfect for a busy schedule."
+  },
+  {
+    "user_index": 246,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 247,
+    "course_title": "Work & Jobs",
+    "rating": 5,
+    "review_text": "I learned things I had never properly understood before. Thank you!"
+  },
+  {
+    "user_index": 247,
+    "course_title": "Hobbies and Leisure",
+    "rating": 5,
+    "review_text": "Great coverage of the topic without being overwhelming."
+  },
+  {
+    "user_index": 248,
+    "course_title": "Life Admin & Services",
+    "rating": 3,
+    "review_text": "Very clear and methodical. Makes grammar feel much less intimidating."
+  },
+  {
+    "user_index": 250,
+    "course_title": "Business Communication Basics",
+    "rating": 4,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 250,
+    "course_title": "Debating the News",
+    "rating": 5,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 250,
+    "course_title": "Environment and Nature",
+    "rating": 4,
+    "review_text": "I feel noticeably more confident after finishing this course."
+  },
+  {
+    "user_index": 250,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 5,
+    "review_text": "The interactive exercises keep you engaged throughout."
+  },
+  {
+    "user_index": 251,
+    "course_title": "Hobbies and Leisure",
+    "rating": 3,
+    "review_text": "Excellent course! The lessons are well-structured and very engaging."
+  },
+  {
+    "user_index": 252,
+    "course_title": "Environment and Nature",
+    "rating": 5,
+    "review_text": "The lessons feel modern and relevant, not like a boring textbook."
+  },
+  {
+    "user_index": 253,
+    "course_title": "Debating the News",
+    "rating": 4,
+    "review_text": "The interactive exercises keep you engaged throughout."
+  },
+  {
+    "user_index": 253,
+    "course_title": "Professional Writing Skills",
+    "rating": 3,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 253,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 3,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 254,
+    "course_title": "Professional Writing Skills",
+    "rating": 5,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 256,
+    "course_title": "Business Communication Basics",
+    "rating": 5,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 256,
+    "course_title": "People, Home & Hobbies",
+    "rating": 4,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 257,
+    "course_title": "Sports & Fitness Talk",
+    "rating": 5,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 257,
+    "course_title": "Critical Thinking in English",
+    "rating": 3,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 257,
+    "course_title": "Global Issues and Debates",
+    "rating": 4,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 257,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 3,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 258,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 4,
+    "review_text": "A well-crafted course that respects the learner's time and intelligence."
+  },
+  {
+    "user_index": 258,
+    "course_title": "Critical Thinking in English",
+    "rating": 5,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 258,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "Very engaging. I found myself looking forward to each lesson."
+  },
+  {
+    "user_index": 259,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 260,
+    "course_title": "Life Admin & Services",
+    "rating": 5,
+    "review_text": "A solid foundation for anyone looking to improve their English."
+  },
+  {
+    "user_index": 260,
+    "course_title": "Sports & Activities",
+    "rating": 5,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 261,
+    "course_title": "Environment and Nature",
+    "rating": 4,
+    "review_text": "Really enjoyed this. The practical exercises were especially helpful."
+  },
+  {
+    "user_index": 261,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "High-quality content that clearly comes from genuine expertise."
+  },
+  {
+    "user_index": 262,
+    "course_title": "Global Issues and Debates",
+    "rating": 5,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 262,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "A thorough course that covers everything you need at this level."
+  },
+  {
+    "user_index": 262,
+    "course_title": "Debating the News",
+    "rating": 2,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 262,
+    "course_title": "Health and the Body",
+    "rating": 5,
+    "review_text": "The progression feels natural and well-planned. Never felt lost."
+  },
+  {
+    "user_index": 263,
+    "course_title": "Professional Writing Skills",
+    "rating": 5,
+    "review_text": "The course makes complex topics approachable. Highly skilled teaching."
+  },
+  {
+    "user_index": 263,
+    "course_title": "English Tenses in Depth",
+    "rating": 5,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 264,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 4,
+    "review_text": "Very good for building confidence to actually use the language."
+  },
+  {
+    "user_index": 264,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 5,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 265,
+    "course_title": "Global Issues and Debates",
+    "rating": 5,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 265,
+    "course_title": "Technology in Daily Life",
+    "rating": 3,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 265,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 3,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 266,
+    "course_title": "Professional Writing Skills",
+    "rating": 4,
+    "review_text": "Well structured from start to finish. Easy to follow and retain."
+  },
+  {
+    "user_index": 267,
+    "course_title": "Professional Writing Skills",
+    "rating": 4,
+    "review_text": "Well structured from start to finish. Easy to follow and retain."
+  },
+  {
+    "user_index": 268,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 5,
+    "review_text": "Superb content quality. Every lesson adds real value."
+  },
+  {
+    "user_index": 268,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "The progression feels natural and well-planned. Never felt lost."
+  },
+  {
+    "user_index": 268,
+    "course_title": "Business Communication Basics",
+    "rating": 5,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 268,
+    "course_title": "Debating the News",
+    "rating": 5,
+    "review_text": "Excellent resource. Worth every minute I invested."
+  },
+  {
+    "user_index": 269,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 4,
+    "review_text": "Good course but could benefit from more complex reading texts."
+  },
+  {
+    "user_index": 269,
+    "course_title": "Science & Data for Readers",
+    "rating": 3,
+    "review_text": "The course has a great rhythm — never too fast, never too slow."
+  },
+  {
+    "user_index": 269,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 5,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 270,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 4,
+    "review_text": "Great content, though I wish there were more listening exercises."
+  },
+  {
+    "user_index": 270,
+    "course_title": "Professional Writing Skills",
+    "rating": 5,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 271,
+    "course_title": "Science & Data for Readers",
+    "rating": 4,
+    "review_text": "This course has boosted my confidence enormously. Thank you!"
+  },
+  {
+    "user_index": 272,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "Useful phrases and expressions that I can use immediately."
+  },
+  {
+    "user_index": 272,
+    "course_title": "Media & Entertainment",
+    "rating": 3,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 272,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 5,
+    "review_text": "I appreciated the real-world examples — very applicable to daily life."
+  },
+  {
+    "user_index": 273,
+    "course_title": "Fluency & Interaction",
+    "rating": 5,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 273,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "I was sceptical at first but this genuinely changed how I approach English."
+  },
+  {
+    "user_index": 274,
+    "course_title": "Academic English Writing",
+    "rating": 4,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 275,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 4,
+    "review_text": "Impressive depth for a course at this level. Really well researched."
+  },
+  {
+    "user_index": 276,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 5,
+    "review_text": "The course content is both broad and detailed. Impressive balance."
+  },
+  {
+    "user_index": 276,
+    "course_title": "Global Issues and Debates",
+    "rating": 5,
+    "review_text": "The feedback exercises are particularly effective. Great design."
+  },
+  {
+    "user_index": 276,
+    "course_title": "Technology in Daily Life",
+    "rating": 3,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 277,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 3,
+    "review_text": "The course content is both broad and detailed. Impressive balance."
+  },
+  {
+    "user_index": 278,
+    "course_title": "Media Analysis and Criticism",
+    "rating": 4,
+    "review_text": "Really thorough. I'll definitely come back to review some sections."
+  },
+  {
+    "user_index": 278,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 4,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 279,
+    "course_title": "Fluency & Interaction",
+    "rating": 5,
+    "review_text": "Great combination of grammar, vocabulary, and speaking practice."
+  },
+  {
+    "user_index": 279,
+    "course_title": "Global Issues and Debates",
+    "rating": 5,
+    "review_text": "I completed the whole thing in two weeks. Couldn't stop!"
+  },
+  {
+    "user_index": 279,
+    "course_title": "Academic English Writing",
+    "rating": 3,
+    "review_text": "Really enjoyed this. The practical exercises were especially helpful."
+  },
+  {
+    "user_index": 280,
+    "course_title": "Critical Thinking in English",
+    "rating": 3,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 281,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 3,
+    "review_text": "Very thorough and professional. I learned a lot in a short time."
+  },
+  {
+    "user_index": 282,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 5,
+    "review_text": "The course is demanding in a good way — it pushes you to think."
+  },
+  {
+    "user_index": 283,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 5,
+    "review_text": "Very good for building confidence to actually use the language."
+  },
+  {
+    "user_index": 283,
+    "course_title": "Environment and Nature",
+    "rating": 5,
+    "review_text": "Really enjoyed this. The practical exercises were especially helpful."
+  },
+  {
+    "user_index": 284,
+    "course_title": "Science & Data for Readers",
+    "rating": 5,
+    "review_text": "Very clear and methodical. Makes grammar feel much less intimidating."
+  },
+  {
+    "user_index": 284,
+    "course_title": "Fluency & Interaction",
+    "rating": 4,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 284,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 5,
+    "review_text": "The course is well-paced and easy to follow. Great for self-study."
+  },
+  {
+    "user_index": 285,
+    "course_title": "Business Communication Basics",
+    "rating": 5,
+    "review_text": "The course is demanding in a good way — it pushes you to think."
+  },
+  {
+    "user_index": 285,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 5,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 285,
+    "course_title": "Cultural Diversity",
+    "rating": 5,
+    "review_text": "Excellent course! The lessons are well-structured and very engaging."
+  },
+  {
+    "user_index": 285,
+    "course_title": "Environment and Nature",
+    "rating": 2,
+    "review_text": "The progression feels natural and well-planned. Never felt lost."
+  },
+  {
+    "user_index": 285,
+    "course_title": "Critical Thinking in English",
+    "rating": 4,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 286,
+    "course_title": "Global Issues and Debates",
+    "rating": 4,
+    "review_text": "Great content, though I wish there were more listening exercises."
+  },
+  {
+    "user_index": 286,
+    "course_title": "English Tenses in Depth",
+    "rating": 5,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 286,
+    "course_title": "Debating the News",
+    "rating": 4,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 288,
+    "course_title": "Critical Thinking in English",
+    "rating": 4,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 290,
+    "course_title": "Debating the News",
+    "rating": 4,
+    "review_text": "The course gave me tools I can apply immediately in real conversations."
+  },
+  {
+    "user_index": 290,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 5,
+    "review_text": "Great combination of grammar, vocabulary, and speaking practice."
+  },
+  {
+    "user_index": 290,
+    "course_title": "English Tenses in Depth",
+    "rating": 3,
+    "review_text": "Great for revision as well as learning new material."
+  },
+  {
+    "user_index": 290,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 4,
+    "review_text": "The lessons feel modern and relevant, not like a boring textbook."
+  },
+  {
+    "user_index": 291,
+    "course_title": "Critical Thinking in English",
+    "rating": 3,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 291,
+    "course_title": "Literature and Storytelling",
+    "rating": 4,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 292,
+    "course_title": "Technology in Daily Life",
+    "rating": 4,
+    "review_text": "Well-organised and logical. Makes learning feel effortless."
+  },
+  {
+    "user_index": 292,
+    "course_title": "English Tenses in Depth",
+    "rating": 5,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 293,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "Great for revision as well as learning new material."
+  },
+  {
+    "user_index": 293,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 5,
+    "review_text": "The course gave me tools I can apply immediately in real conversations."
+  },
+  {
+    "user_index": 294,
+    "course_title": "Media Analysis and Criticism",
+    "rating": 5,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 294,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 5,
+    "review_text": "Each unit is self-contained but connects well to the overall theme."
+  },
+  {
+    "user_index": 294,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 294,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 4,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 295,
+    "course_title": "Academic English Writing",
+    "rating": 5,
+    "review_text": "Excellent course! The lessons are well-structured and very engaging."
+  },
+  {
+    "user_index": 295,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 295,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 4,
+    "review_text": "An excellent investment of time. I learned far more than expected."
+  },
+  {
+    "user_index": 295,
+    "course_title": "Fluency & Interaction",
+    "rating": 3,
+    "review_text": "I came back to this course twice — it's that good."
+  },
+  {
+    "user_index": 295,
+    "course_title": "Global Issues and Debates",
+    "rating": 5,
+    "review_text": "Well-organised and logical. Makes learning feel effortless."
+  },
+  {
+    "user_index": 296,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 296,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "Very clear and methodical. Makes grammar feel much less intimidating."
+  },
+  {
+    "user_index": 297,
+    "course_title": "Media Analysis and Criticism",
+    "rating": 5,
+    "review_text": "Really enjoyed this. The practical exercises were especially helpful."
+  },
+  {
+    "user_index": 298,
+    "course_title": "Global Issues and Debates",
+    "rating": 5,
+    "review_text": "I was sceptical at first but this genuinely changed how I approach English."
+  },
+  {
+    "user_index": 298,
+    "course_title": "Office English in Action",
+    "rating": 4,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 299,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 2,
+    "review_text": "I completed this in a week and feel much more confident now."
+  },
+  {
+    "user_index": 299,
+    "course_title": "Debating the News",
+    "rating": 5,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  },
+  {
+    "user_index": 300,
+    "course_title": "Science & Data for Readers",
+    "rating": 4,
+    "review_text": "Amazing content! The examples are very relevant to real-life situations."
+  },
+  {
+    "user_index": 300,
+    "course_title": "Critical Thinking in English",
+    "rating": 3,
+    "review_text": "Perfect balance of theory and application. Really well thought out."
+  },
+  {
+    "user_index": 301,
+    "course_title": "Global Issues and Debates",
+    "rating": 4,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 301,
+    "course_title": "Office English in Action",
+    "rating": 4,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 302,
+    "course_title": "Media Analysis and Criticism",
+    "rating": 4,
+    "review_text": "Great coverage of the topic without being overwhelming."
+  },
+  {
+    "user_index": 303,
+    "course_title": "Global Issues and Debates",
+    "rating": 4,
+    "review_text": "Great content, though I wish there were more listening exercises."
+  },
+  {
+    "user_index": 303,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 4,
+    "review_text": "Very helpful for everyday English. Already using what I learned."
+  },
+  {
+    "user_index": 303,
+    "course_title": "Science & Data for Readers",
+    "rating": 5,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 304,
+    "course_title": "Environment and Nature",
+    "rating": 4,
+    "review_text": "A well-crafted course that respects the learner's time and intelligence."
+  },
+  {
+    "user_index": 304,
+    "course_title": "Academic English Writing",
+    "rating": 4,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 305,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 4,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 306,
+    "course_title": "Critical Thinking in English",
+    "rating": 5,
+    "review_text": "A thorough course that covers everything you need at this level."
+  },
+  {
+    "user_index": 306,
+    "course_title": "Professional Writing Skills",
+    "rating": 4,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 306,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 306,
+    "course_title": "Legal and Business English",
+    "rating": 3,
+    "review_text": "Useful phrases and expressions that I can use immediately."
+  },
+  {
+    "user_index": 307,
+    "course_title": "Cultural Diversity",
+    "rating": 5,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 307,
+    "course_title": "English Tenses in Depth",
+    "rating": 4,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 307,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  },
+  {
+    "user_index": 308,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 4,
+    "review_text": "I completed the whole thing in two weeks. Couldn't stop!"
+  },
+  {
+    "user_index": 309,
+    "course_title": "Legal and Business English",
+    "rating": 4,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 309,
+    "course_title": "Media & Entertainment",
+    "rating": 4,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 309,
+    "course_title": "Technology in Daily Life",
+    "rating": 3,
+    "review_text": "The course is demanding in a good way — it pushes you to think."
+  },
+  {
+    "user_index": 310,
+    "course_title": "Media & Entertainment",
+    "rating": 5,
+    "review_text": "The interactive exercises keep you engaged throughout."
+  },
+  {
+    "user_index": 311,
+    "course_title": "Debating the News",
+    "rating": 5,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 312,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 4,
+    "review_text": "Genuinely enjoyed every lesson. That's rare for a language course."
+  },
+  {
+    "user_index": 312,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 4,
+    "review_text": "Useful phrases and expressions that I can use immediately."
+  },
+  {
+    "user_index": 313,
+    "course_title": "Critical Thinking in English",
+    "rating": 5,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 313,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 313,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 314,
+    "course_title": "Culture, Film & the Arts",
+    "rating": 5,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 314,
+    "course_title": "Critical Thinking in English",
+    "rating": 3,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 314,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 5,
+    "review_text": "The interactive exercises keep you engaged throughout."
+  },
+  {
+    "user_index": 314,
+    "course_title": "Debating the News",
+    "rating": 5,
+    "review_text": "Very clear and methodical. Makes grammar feel much less intimidating."
+  },
+  {
+    "user_index": 315,
+    "course_title": "Debating the News",
+    "rating": 3,
+    "review_text": "I learned things I had never properly understood before. Thank you!"
+  },
+  {
+    "user_index": 315,
+    "course_title": "Office English in Action",
+    "rating": 4,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 315,
+    "course_title": "Professional Writing Skills",
+    "rating": 5,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 315,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 4,
+    "review_text": "Each unit is self-contained but connects well to the overall theme."
+  },
+  {
+    "user_index": 316,
+    "course_title": "Technology in Daily Life",
+    "rating": 5,
+    "review_text": "A really satisfying learning experience from beginning to end."
+  },
+  {
+    "user_index": 317,
+    "course_title": "Study Skills & First Jobs",
+    "rating": 2,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 317,
+    "course_title": "Business Communication Basics",
+    "rating": 5,
+    "review_text": "Useful phrases and expressions that I can use immediately."
+  },
+  {
+    "user_index": 317,
+    "course_title": "Academic English Writing",
+    "rating": 4,
+    "review_text": "I've recommended this to three friends already. Outstanding quality."
+  },
+  {
+    "user_index": 318,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 5,
+    "review_text": "The progression feels natural and well-planned. Never felt lost."
+  },
+  {
+    "user_index": 318,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 4,
+    "review_text": "The practical tasks mirror real-life situations perfectly."
+  },
+  {
+    "user_index": 319,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 4,
+    "review_text": "Even as an intermediate learner I picked up new things. Well done!"
+  },
+  {
+    "user_index": 319,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "The course gave me tools I can apply immediately in real conversations."
+  },
+  {
+    "user_index": 320,
+    "course_title": "Science & Data for Readers",
+    "rating": 3,
+    "review_text": "I feel noticeably more confident after finishing this course."
+  },
+  {
+    "user_index": 320,
+    "course_title": "Critical Thinking in English",
+    "rating": 5,
+    "review_text": "Practical, relevant, and well-paced. Exactly what I was looking for."
+  },
+  {
+    "user_index": 321,
+    "course_title": "Literature and Storytelling",
+    "rating": 4,
+    "review_text": "I came back to this course twice — it's that good."
+  },
+  {
+    "user_index": 324,
+    "course_title": "Diplomatic and Formal Language",
+    "rating": 4,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 326,
+    "course_title": "Debating the News",
+    "rating": 5,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 326,
+    "course_title": "Science & Data for Readers",
+    "rating": 4,
+    "review_text": "Comprehensive and detailed. Great for serious language learners."
+  },
+  {
+    "user_index": 327,
+    "course_title": "Academic English Writing",
+    "rating": 5,
+    "review_text": "I completed this in a week and feel much more confident now."
+  },
+  {
+    "user_index": 327,
+    "course_title": "Legal and Business English",
+    "rating": 3,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 329,
+    "course_title": "Science & Data for Readers",
+    "rating": 4,
+    "review_text": "Great combination of grammar, vocabulary, and speaking practice."
+  },
+  {
+    "user_index": 329,
+    "course_title": "Advanced Business Negotiations",
+    "rating": 4,
+    "review_text": "This course has boosted my confidence enormously. Thank you!"
+  },
+  {
+    "user_index": 329,
+    "course_title": "Critical Thinking in English",
+    "rating": 4,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 330,
+    "course_title": "Literature and Storytelling",
+    "rating": 3,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 330,
+    "course_title": "Critical Thinking in English",
+    "rating": 5,
+    "review_text": "Very helpful for professional contexts. Exactly what I needed."
+  },
+  {
+    "user_index": 331,
+    "course_title": "Global Issues and Debates",
+    "rating": 2,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 331,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 5,
+    "review_text": "This course has boosted my confidence enormously. Thank you!"
+  },
+  {
+    "user_index": 331,
+    "course_title": "Advanced Business Negotiations",
+    "rating": 3,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 332,
+    "course_title": "Diplomatic and Formal Language",
+    "rating": 4,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 332,
+    "course_title": "Legal and Business English",
+    "rating": 5,
+    "review_text": "The course covers everything you need without unnecessary padding."
+  },
+  {
+    "user_index": 332,
+    "course_title": "Discourse & Argumentation",
+    "rating": 3,
+    "review_text": "I love how each lesson has both theory and practice. Very balanced."
+  },
+  {
+    "user_index": 333,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 5,
+    "review_text": "Really clear explanations. Even difficult topics are easy to follow."
+  },
+  {
+    "user_index": 334,
+    "course_title": "Literature and Storytelling",
+    "rating": 5,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 336,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 4,
+    "review_text": "Well structured from start to finish. Easy to follow and retain."
+  },
+  {
+    "user_index": 337,
+    "course_title": "Critical Thinking in English",
+    "rating": 4,
+    "review_text": "Very professional presentation. The interface is clean and intuitive."
+  },
+  {
+    "user_index": 338,
+    "course_title": "Discourse & Argumentation",
+    "rating": 4,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 338,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 5,
+    "review_text": "The examples chosen are memorable and genuinely helpful."
+  },
+  {
+    "user_index": 339,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "The course gave me tools I can apply immediately in real conversations."
+  },
+  {
+    "user_index": 340,
+    "course_title": "Debating the News",
+    "rating": 5,
+    "review_text": "The practical focus makes this course stand out from the rest."
+  },
+  {
+    "user_index": 340,
+    "course_title": "Discourse & Argumentation",
+    "rating": 3,
+    "review_text": "I appreciated the real-world examples — very applicable to daily life."
+  },
+  {
+    "user_index": 341,
+    "course_title": "Academic English Writing",
+    "rating": 4,
+    "review_text": "Excellent course! The lessons are well-structured and very engaging."
+  },
+  {
+    "user_index": 341,
+    "course_title": "Science & Data for Readers",
+    "rating": 5,
+    "review_text": "Well-organised and logical. Makes learning feel effortless."
+  },
+  {
+    "user_index": 341,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "The course has a great rhythm — never too fast, never too slow."
+  },
+  {
+    "user_index": 342,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 4,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 343,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 3,
+    "review_text": "Genuinely enjoyed every lesson. That's rare for a language course."
+  },
+  {
+    "user_index": 343,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 343,
+    "course_title": "Academic English Writing",
+    "rating": 5,
+    "review_text": "Very thorough and professional. I learned a lot in a short time."
+  },
+  {
+    "user_index": 343,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 5,
+    "review_text": "Good structure and logical progression from topic to topic."
+  },
+  {
+    "user_index": 343,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 5,
+    "review_text": "Comprehensive and detailed. Great for serious language learners."
+  },
+  {
+    "user_index": 344,
+    "course_title": "Mastering Idioms and Slang",
+    "rating": 4,
+    "review_text": "Good course but could benefit from more complex reading texts."
+  },
+  {
+    "user_index": 344,
+    "course_title": "Media Analysis and Criticism",
+    "rating": 5,
+    "review_text": "This is the most useful language course I've taken online."
+  },
+  {
+    "user_index": 345,
+    "course_title": "Office English in Action",
+    "rating": 4,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 345,
+    "course_title": "Critical Thinking in English",
+    "rating": 3,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 345,
+    "course_title": "Mastering Idioms and Slang",
+    "rating": 5,
+    "review_text": "I appreciated the real-world examples — very applicable to daily life."
+  },
+  {
+    "user_index": 345,
+    "course_title": "Professional Writing Skills",
+    "rating": 5,
+    "review_text": "The examples are always relevant and easy to remember."
+  },
+  {
+    "user_index": 346,
+    "course_title": "Advanced Business Negotiations",
+    "rating": 3,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 347,
+    "course_title": "Diplomatic and Formal Language",
+    "rating": 4,
+    "review_text": "A thorough course that covers everything you need at this level."
+  },
+  {
+    "user_index": 347,
+    "course_title": "Legal and Business English",
+    "rating": 5,
+    "review_text": "More content like this, please! Exceptional quality throughout."
+  },
+  {
+    "user_index": 348,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 5,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 348,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 5,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 348,
+    "course_title": "Advanced Business Negotiations",
+    "rating": 4,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 349,
+    "course_title": "Discourse & Argumentation",
+    "rating": 5,
+    "review_text": "I feel like I got real value from every single lesson."
+  },
+  {
+    "user_index": 349,
+    "course_title": "Literature and Storytelling",
+    "rating": 4,
+    "review_text": "The content is relevant and up-to-date. Very impressed."
+  },
+  {
+    "user_index": 350,
+    "course_title": "Advanced Business Negotiations",
+    "rating": 5,
+    "review_text": "The course structure makes self-study very effective."
+  },
+  {
+    "user_index": 350,
+    "course_title": "Debating the News",
+    "rating": 3,
+    "review_text": "Loved the mix of reading, listening, and writing tasks."
+  },
+  {
+    "user_index": 351,
+    "course_title": "Academic English Writing",
+    "rating": 5,
+    "review_text": "Fantastic course! I feel ready to use English in professional settings."
+  },
+  {
+    "user_index": 352,
+    "course_title": "Literary Analysis and Criticism",
+    "rating": 5,
+    "review_text": "The lessons feel modern and relevant, not like a boring textbook."
+  },
+  {
+    "user_index": 352,
+    "course_title": "Media Analysis and Criticism",
+    "rating": 4,
+    "review_text": "The course exceeded my expectations. Very high quality content."
+  },
+  {
+    "user_index": 352,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 5,
+    "review_text": "Clear explanations and good variety of exercises. Highly recommended."
+  },
+  {
+    "user_index": 353,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 3,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 353,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 5,
+    "review_text": "Great combination of grammar, vocabulary, and speaking practice."
+  },
+  {
+    "user_index": 353,
+    "course_title": "Mastering Idioms and Slang",
+    "rating": 4,
+    "review_text": "Learning has never felt this efficient. Excellent course design."
+  },
+  {
+    "user_index": 354,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 3,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 354,
+    "course_title": "Discourse & Argumentation",
+    "rating": 4,
+    "review_text": "Brilliant structure. You can really feel the thought that went into it."
+  },
+  {
+    "user_index": 355,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 2,
+    "review_text": "An excellent investment of time. I learned far more than expected."
+  },
+  {
+    "user_index": 355,
+    "course_title": "Science & Data for Readers",
+    "rating": 5,
+    "review_text": "Useful phrases and expressions that I can use immediately."
+  },
+  {
+    "user_index": 357,
+    "course_title": "Diplomatic and Formal Language",
+    "rating": 5,
+    "review_text": "This course really helped me improve my confidence in speaking."
+  },
+  {
+    "user_index": 357,
+    "course_title": "Critical Thinking in English",
+    "rating": 3,
+    "review_text": "An excellent investment of time. I learned far more than expected."
+  },
+  {
+    "user_index": 358,
+    "course_title": "Diplomatic and Formal Language",
+    "rating": 5,
+    "review_text": "Excellent progression. Each lesson builds naturally on the previous one."
+  },
+  {
+    "user_index": 359,
+    "course_title": "Global Issues and Debates",
+    "rating": 4,
+    "review_text": "The lessons feel modern and relevant, not like a boring textbook."
+  },
+  {
+    "user_index": 359,
+    "course_title": "Literary Analysis and Criticism",
+    "rating": 5,
+    "review_text": "Really clear explanations. Even difficult topics are easy to follow."
+  },
+  {
+    "user_index": 359,
+    "course_title": "Critical Thinking in English",
+    "rating": 4,
+    "review_text": "I like how each lesson starts with theory and ends with practice."
+  },
+  {
+    "user_index": 360,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 5,
+    "review_text": "I appreciated the variety of exercise types — keeps you engaged."
+  },
+  {
+    "user_index": 361,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 4,
+    "review_text": "Thoroughly enjoyed it. Will definitely try more courses on this platform."
+  },
+  {
+    "user_index": 361,
+    "course_title": "Media Analysis and Criticism",
+    "rating": 5,
+    "review_text": "The course treats learners as intelligent adults. Much appreciated."
+  },
+  {
+    "user_index": 361,
+    "course_title": "Diplomatic and Formal Language",
+    "rating": 4,
+    "review_text": "High-quality content that clearly comes from genuine expertise."
+  },
+  {
+    "user_index": 361,
+    "course_title": "Critical Thinking in English",
+    "rating": 5,
+    "review_text": "The matching exercises are a clever way to check comprehension."
+  },
+  {
+    "user_index": 362,
+    "course_title": "Critical Thinking in English",
+    "rating": 5,
+    "review_text": "Really clear explanations. Even difficult topics are easy to follow."
+  },
+  {
+    "user_index": 362,
+    "course_title": "Professional Writing Skills",
+    "rating": 5,
+    "review_text": "The difficulty curve is just right — challenging but never discouraging."
+  },
+  {
+    "user_index": 362,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 5,
+    "review_text": "Very professional presentation. The interface is clean and intuitive."
+  },
+  {
+    "user_index": 364,
+    "course_title": "Advanced Grammar Structures",
+    "rating": 5,
+    "review_text": "The vocabulary sections are rich and the examples are memorable."
+  },
+  {
+    "user_index": 364,
+    "course_title": "Discourse & Argumentation",
+    "rating": 5,
+    "review_text": "Clear, concise, and comprehensive. Exactly the right combination."
+  },
+  {
+    "user_index": 364,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 4,
+    "review_text": "I've tried many courses and this is among the best. Highly recommend."
+  },
+  {
+    "user_index": 365,
+    "course_title": "Literature and Storytelling",
+    "rating": 4,
+    "review_text": "This course filled gaps I didn't even know I had. Genuinely useful."
+  },
+  {
+    "user_index": 366,
+    "course_title": "Academic English Writing",
+    "rating": 4,
+    "review_text": "Well structured from start to finish. Easy to follow and retain."
+  },
+  {
+    "user_index": 366,
+    "course_title": "Debating the News",
+    "rating": 5,
+    "review_text": "Clear explanations and good variety of exercises. Highly recommended."
+  },
+  {
+    "user_index": 366,
+    "course_title": "Advanced Business Negotiations",
+    "rating": 5,
+    "review_text": "I came back to this course twice — it's that good."
+  },
+  {
+    "user_index": 366,
+    "course_title": "Science & Data for Readers",
+    "rating": 5,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 367,
+    "course_title": "Discourse & Argumentation",
+    "rating": 4,
+    "review_text": "The grammar sections are clear without being overly technical."
+  },
+  {
+    "user_index": 367,
+    "course_title": "Media Analysis and Criticism",
+    "rating": 5,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 367,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 5,
+    "review_text": "The writing exercises helped me think more carefully about structure."
+  },
+  {
+    "user_index": 367,
+    "course_title": "Mastering Idioms and Slang",
+    "rating": 4,
+    "review_text": "I feel like I got real value from every single lesson."
+  },
+  {
+    "user_index": 367,
+    "course_title": "Advanced Business Negotiations",
+    "rating": 4,
+    "review_text": "Good course overall. Some lessons felt a bit short but still useful."
+  },
+  {
+    "user_index": 368,
+    "course_title": "Diplomatic and Formal Language",
+    "rating": 4,
+    "review_text": "Solid course. The vocabulary games are a fun way to learn new words."
+  },
+  {
+    "user_index": 369,
+    "course_title": "English for Exams: Essays & Speaking",
+    "rating": 4,
+    "review_text": "Impressive depth for a course at this level. Really well researched."
+  },
+  {
+    "user_index": 370,
+    "course_title": "Office English in Action",
+    "rating": 5,
+    "review_text": "The writing tips are particularly valuable. Very actionable advice."
+  },
+  {
+    "user_index": 370,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 4,
+    "review_text": "The explanations are concise but thorough. No unnecessary filler."
+  },
+  {
+    "user_index": 371,
+    "course_title": "Diplomatic and Formal Language",
+    "rating": 5,
+    "review_text": "The practical focus makes this course stand out from the rest."
+  },
+  {
+    "user_index": 371,
+    "course_title": "Advanced Business Negotiations",
+    "rating": 4,
+    "review_text": "I was sceptical at first but this genuinely changed how I approach English."
+  },
+  {
+    "user_index": 371,
+    "course_title": "Philosophy and Ethics in English",
+    "rating": 4,
+    "review_text": "The quizzes at the end of each lesson are a great way to consolidate learning."
+  },
+  {
+    "user_index": 372,
+    "course_title": "Precision, Tone & Voice",
+    "rating": 4,
+    "review_text": "Very helpful for professional contexts. Exactly what I needed."
+  },
+  {
+    "user_index": 372,
+    "course_title": "Mastering Idioms and Slang",
+    "rating": 4,
+    "review_text": "The fill-in-the-gap exercises are great for testing understanding."
+  },
+  {
+    "user_index": 373,
+    "course_title": "Critical Thinking in English",
+    "rating": 5,
+    "review_text": "The course content is both broad and detailed. Impressive balance."
+  },
+  {
+    "user_index": 373,
+    "course_title": "Advanced Writing Techniques",
+    "rating": 3,
+    "review_text": "One of the best courses I've taken. Very practical and well-designed."
+  }
+]

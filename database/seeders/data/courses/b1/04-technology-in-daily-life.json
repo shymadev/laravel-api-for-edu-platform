@@ -1,0 +1,1514 @@
+{
+  "title": "Technology in Daily Life",
+  "description": "Covers technology vocabulary, describing how gadgets and apps work, internet and social media language, and digital safety tips. Designed for A2 completers who use technology daily and want to discuss it confidently in English.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": false,
+  "preview_image": "Technology in Daily Life.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Gadgets and Devices",
+      "subtopics": [
+        {
+          "title": "1.1 Everyday Gadgets",
+          "lessons": [
+            {
+              "title": "Describing Gadgets and Their Functions",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000301000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>gadget</b> is a small mechanical or electronic device that has a particular purpose. In modern life, we use dozens of gadgets every day.\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Common gadgets and devices:\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Smartphone</b> — a mobile phone with advanced computing capability\",\"<b>Laptop / tablet</b> — portable computers for work and entertainment\",\"<b>Smartwatch</b> — a wearable device that tracks fitness and displays notifications\",\"<b>Wireless earbuds</b> — small audio devices that connect via Bluetooth\",\"<b>Smart speaker</b> — a voice-controlled device (e.g. Amazon Echo)\"]}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful verbs for describing gadgets:\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>It <b>allows</b> you to...</em> / <em>It <b>enables</b> you to...</em>\",\"<em>You can use it to...</em> / <em>It is designed to...</em>\",\"<em>It <b>connects</b> to... / <b>syncs</b> with...</em>\"]}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example: <em>A smartwatch allows you to monitor your heart rate and receive messages without taking out your phone.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "It allows you to...",
+                      "translation": "Это позволяет вам..."
+                    },
+                    {
+                      "text": "It is designed to...",
+                      "translation": "Он разработан для того, чтобы..."
+                    },
+                    {
+                      "text": "It connects to...",
+                      "translation": "Он подключается к..."
+                    },
+                    {
+                      "text": "It syncs with...",
+                      "translation": "Он синхронизируется с..."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "A smartwatch allows you to monitor your heart rate and receive messages without taking out your phone.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "smartphone",
+                      "right": "a handheld device for calls, messages, and apps"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "smartwatch",
+                      "right": "a wearable gadget that tracks health data"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "tablet",
+                      "right": "a portable touchscreen computer"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "wireless earbuds",
+                      "right": "small audio devices connected via Bluetooth"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "smart speaker",
+                      "right": "a voice-controlled home assistant device"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "smartphone",
+                    "wireless",
+                    "bluetooth",
+                    "wearable"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "fill-gaps",
+                  "text": "My smartwatch [connects] to my phone via Bluetooth and [allows] me to read messages on my wrist. It also [tracks] my sleep and [monitors] my heart rate throughout the day.",
+                  "gaps": [
+                    {
+                      "placeholder": "connects",
+                      "answers": [
+                        "connects"
+                      ]
+                    },
+                    {
+                      "placeholder": "allows",
+                      "answers": [
+                        "allows",
+                        "enables"
+                      ]
+                    },
+                    {
+                      "placeholder": "tracks",
+                      "answers": [
+                        "tracks"
+                      ]
+                    },
+                    {
+                      "placeholder": "monitors",
+                      "answers": [
+                        "monitors"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which verb best completes the sentence: 'A fitness tracker ___ you to monitor your steps and calories.'",
+                      "options": [
+                        "allows",
+                        "makes",
+                        "does",
+                        "goes"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    },
+                    {
+                      "text": "What does 'sync' mean in the context of gadgets?",
+                      "options": [
+                        "To charge a device",
+                        "To update software automatically",
+                        "To connect and share data between devices",
+                        "To turn off a device remotely"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Comparing Old and New Technology",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000302000,\"blocks\":[{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"When comparing technology from different periods, we often use <b>comparative and superlative adjectives</b> and phrases showing change over time.\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful language for comparing technology:\"}},{\"id\":\"yY5zA6bB7c\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>used to + infinitive</b> — for habits or states in the past that no longer exist: <em>People used to send letters instead of emails.</em>\",\"<b>has/have become</b> — to describe change: <em>Smartphones have become much more powerful.</em>\",\"<b>compared to / in contrast to</b> — to highlight differences\"]}},{\"id\":\"cC8dD9eE0f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Adjectives for comparison: <em>faster, smaller, cheaper, more reliable, more efficient, more user-friendly, more powerful</em>\"}},{\"id\":\"fF1gG2hH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples:\"}},{\"id\":\"iI4jJ5kK6l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Mobile phones used to be much larger and heavier than they are today.</em>\",\"<em>Compared to desktop computers, laptops are far more portable.</em>\",\"<em>Streaming services have replaced physical DVDs for most people.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Mobile phones have become an essential part of everyday life.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "People used to sending letters before email.",
+                      "correctText": "People used to send letters before email."
+                    },
+                    {
+                      "text": "Smartphones have became much more powerful.",
+                      "correctText": "Smartphones have become much more powerful."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "People used to ___ letters before email was invented.",
+                      "answers": [
+                        "write",
+                        "send",
+                        "post"
+                      ]
+                    },
+                    {
+                      "sentence": "Smartphones have ___ much more powerful over the last decade.",
+                      "answers": [
+                        "become",
+                        "gotten",
+                        "grown"
+                      ]
+                    },
+                    {
+                      "sentence": "Compared to old cameras, digital cameras are far ___ to use.",
+                      "answers": [
+                        "easier",
+                        "simpler",
+                        "better"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000302001",
+                      "english": "Mobile phones have become an essential part of everyday life.",
+                      "russian": "Мобильные телефоны стали неотъемлемой частью повседневной жизни.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000302002",
+                      "english": "People used to rely on printed maps before GPS was available.",
+                      "russian": "До появления GPS люди полагались на бумажные карты.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000302003",
+                      "english": "Laptops are much lighter and more portable compared to desktop computers.",
+                      "russian": "Ноутбуки намного легче и мобильнее, чем настольные компьютеры.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Apps and Software",
+          "lessons": [
+            {
+              "title": "Types of Apps and What They Do",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000303000,\"blocks\":[{\"id\":\"lL7mM8nN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"An <b>app</b> (application) is a software program designed to perform a specific function on a device. There are thousands of apps available for different purposes.\"}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Categories of apps:\"}},{\"id\":\"rR3sS4tT5u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Productivity apps</b> — help you organise work and tasks (e.g. calendars, to-do lists, note-taking)\",\"<b>Social media apps</b> — connect you with other people (e.g. Instagram, Facebook)\",\"<b>Navigation apps</b> — help you find your way (e.g. Google Maps, Waze)\",\"<b>Entertainment apps</b> — for fun and leisure (e.g. Netflix, Spotify)\",\"<b>Health apps</b> — track your physical activity, diet, or mental wellbeing\",\"<b>Banking apps</b> — let you manage money without visiting a branch\"]}},{\"id\":\"uU6vV7wW8x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key verbs: <em>download, install, update, uninstall, launch, log in/out, subscribe to, stream</em>\"}},{\"id\":\"xX9yY0zA1b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful phrases: <em>The app is free / available on iOS and Android / requires an internet connection / has a paid version.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "First, download the app from the App Store. Then install it and log in with your email address.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Productivity",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Entertainment",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat3",
+                      "name": "Health",
+                      "color": "#2e7d32"
+                    },
+                    {
+                      "id": "cat4",
+                      "name": "Social Media",
+                      "color": "#f57c00"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "Spotify",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Google Calendar",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Instagram",
+                      "correctCategory": "cat4"
+                    },
+                    {
+                      "text": "MyFitnessPal",
+                      "correctCategory": "cat3"
+                    },
+                    {
+                      "text": "Netflix",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Notion",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Facebook",
+                      "correctCategory": "cat4"
+                    },
+                    {
+                      "text": "Headspace",
+                      "correctCategory": "cat3"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "download",
+                    "install",
+                    "subscribe",
+                    "stream"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "First, [download] the app from the App Store. Then [install] it on your device and [log in] with your email address. If you want extra features, you can [subscribe] to the premium version.",
+                  "gaps": [
+                    {
+                      "placeholder": "download",
+                      "answers": [
+                        "download"
+                      ]
+                    },
+                    {
+                      "placeholder": "install",
+                      "answers": [
+                        "install"
+                      ]
+                    },
+                    {
+                      "placeholder": "log in",
+                      "answers": [
+                        "log in",
+                        "sign in"
+                      ]
+                    },
+                    {
+                      "placeholder": "subscribe",
+                      "answers": [
+                        "subscribe",
+                        "upgrade"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Internet and Social Media",
+      "subtopics": [
+        {
+          "title": "2.1 Using the Internet",
+          "lessons": [
+            {
+              "title": "Internet Vocabulary and Online Actions",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000304000,\"blocks\":[{\"id\":\"bB2cC3dD4e\",\"type\":\"paragraph\",\"data\":{\"text\":\"The internet has its own vocabulary. At B1 level, you should be able to describe online activities clearly and accurately.\"}},{\"id\":\"eE5fF6gG7h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Essential internet vocabulary:\"}},{\"id\":\"hH8iI9jJ0k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>browser</b> — software used to access the internet (e.g. Chrome, Safari)\",\"<b>search engine</b> — a tool for finding information (e.g. Google)\",\"<b>website / webpage</b> — a page of information online\",\"<b>link / hyperlink</b> — a clickable connection to another page\",\"<b>bandwidth</b> — the amount of data that can be transmitted at once\",\"<b>Wi-Fi</b> — wireless internet connection\",\"<b>cloud storage</b> — storing files on remote servers (e.g. Google Drive)\"]}},{\"id\":\"kK1lL2mM3n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Common online actions: <em>browse, search for, click on, scroll through, upload, download, stream, share, post, comment, like, follow, block</em>\"}},{\"id\":\"nN4oO5pP6q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example: <em>I usually browse the internet in the evening to catch up on news and stream a film before bed.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I usually browse the internet in the evening to catch up on news and stream a film before bed.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Storing files on remote servers accessed via the internet",
+                      "word": "cloud storage"
+                    },
+                    {
+                      "hint": "The amount of data that can be transmitted at once",
+                      "word": "bandwidth"
+                    },
+                    {
+                      "hint": "A tool for finding information online like Google",
+                      "word": "search engine"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "She ___ through her social media feed every morning.",
+                      "answers": [
+                        "scrolls",
+                        "browses",
+                        "looks"
+                      ]
+                    },
+                    {
+                      "sentence": "He ___ the document to Google Drive so his colleagues could access it.",
+                      "answers": [
+                        "uploaded",
+                        "saved",
+                        "sent"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is a 'search engine'?",
+                      "options": [
+                        "A device that connects to Wi-Fi",
+                        "A tool that helps you find information on the internet",
+                        "A type of internet browser",
+                        "A website for storing files"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which word means 'to save a file from the internet to your device'?",
+                      "options": [
+                        "upload",
+                        "stream",
+                        "download",
+                        "browse"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which phrase correctly describes cloud storage?",
+                      "options": [
+                        "Storing files physically on your computer",
+                        "Storing files on remote servers accessed via the internet",
+                        "A type of Wi-Fi connection",
+                        "An app for editing documents"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Social Media Language",
+          "lessons": [
+            {
+              "title": "Social Media: Key Terms and Expressions",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000305000,\"blocks\":[{\"id\":\"qQ7rR8sS9t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Social media platforms have created a new set of vocabulary that is now part of everyday English. Understanding and using these terms correctly is important at B1 level.\"}},{\"id\":\"tT0uU1vV2w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key social media terms:\"}},{\"id\":\"wW3xX4yY5z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>post (n/v)</b> — a piece of content shared online; to share content\",\"<b>feed</b> — the stream of posts you see on your home page\",\"<b>hashtag (#)</b> — a word or phrase preceded by # to categorise content\",\"<b>influencer</b> — a person with many followers who promotes products or ideas\",\"<b>viral</b> — content that spreads rapidly and is seen by millions\",\"<b>tag</b> — to link another user in your post or photo\",\"<b>DM (direct message)</b> — a private message sent within a platform\",\"<b>story</b> — a short-lived post that disappears after 24 hours\"]}},{\"id\":\"zA6bB7cC8d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Opinion phrases for social media discussions:\"}},{\"id\":\"dD9eE0fF1g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>In my opinion, social media can be both useful and harmful...</em>\",\"<em>I think one of the biggest advantages is...</em>\",\"<em>On the other hand, it can lead to...</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Her post went viral and was shared by thousands of people.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "hashtag",
+                      "right": "a word after # used to categorise posts"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "influencer",
+                      "right": "a popular user who promotes products to followers"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "viral",
+                      "right": "content that spreads very quickly online"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "DM",
+                      "right": "a private message sent within a platform"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "feed",
+                      "right": "the stream of posts on your homepage"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "post",
+                        "story",
+                        "hashtag",
+                        "bandwidth"
+                      ],
+                      "correctWord": "bandwidth"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000305001",
+                      "english": "Her post went viral and was shared by thousands of people.",
+                      "russian": "Её публикация стала вирусной и была распространена тысячами людей.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000305002",
+                      "english": "I follow several influencers who post about travel and food.",
+                      "russian": "Я подписан на нескольких инфлюенсеров, которые пишут о путешествиях и еде.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000305003",
+                      "english": "In my opinion, spending too much time on social media can affect your mental health.",
+                      "russian": "На мой взгляд, слишком много времени в социальных сетях может негативно влиять на психическое здоровье.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking About Social Media Habits",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000306000,\"blocks\":[{\"id\":\"gG2hH3iI4j\",\"type\":\"paragraph\",\"data\":{\"text\":\"At B1 level, you should be able to describe your social media habits using a variety of tenses and frequency expressions.\"}},{\"id\":\"jJ5kK6lL7m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Frequency adverbs and expressions: <em>always, usually, often, sometimes, rarely, hardly ever, never; every day, once a week, several times a day</em>\"}},{\"id\":\"mM8nN9oO0p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful structures:\"}},{\"id\":\"pP1qQ2rR3s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Present simple</b> for regular habits: <em>I check Instagram twice a day.</em>\",\"<b>Present perfect</b> for recent activity: <em>I've just posted a photo from my holiday.</em>\",\"<b>Used to</b> for past habits: <em>I used to spend hours on Facebook, but now I rarely use it.</em>\"]}},{\"id\":\"sS4tT5uU6v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Expressing preferences:\"}},{\"id\":\"vV7wW8xX9y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>I prefer ... to ... because...</em>\",\"<em>I tend to use ... more than...</em>\",\"<em>What I like most about ... is...</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I used to spend hours on Facebook, but now I rarely use it.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Describe your social media habits aloud",
+                    "targetPhrase": "I usually check social media in the morning and tend to prefer watching YouTube videos."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I [usually] check social media in the morning. I [have recently started] using TikTok, but I [used to spend] most of my time on Instagram. These days I [tend to prefer] watching YouTube videos to scrolling through my feed.",
+                  "gaps": [
+                    {
+                      "placeholder": "usually",
+                      "answers": [
+                        "usually",
+                        "often"
+                      ]
+                    },
+                    {
+                      "placeholder": "have recently started",
+                      "answers": [
+                        "have recently started",
+                        "recently started"
+                      ]
+                    },
+                    {
+                      "placeholder": "used to spend",
+                      "answers": [
+                        "used to spend"
+                      ]
+                    },
+                    {
+                      "placeholder": "tend to prefer",
+                      "answers": [
+                        "tend to prefer",
+                        "prefer"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence correctly uses 'used to'?",
+                      "options": [
+                        "I used to post every day, but now I rarely do.",
+                        "I used to post yesterday.",
+                        "She uses to check her messages every morning.",
+                        "They used posting photos last year."
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    },
+                    {
+                      "text": "Which frequency expression means 'almost never'?",
+                      "options": [
+                        "always",
+                        "often",
+                        "hardly ever",
+                        "sometimes"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Describing How Technology Works",
+      "subtopics": [
+        {
+          "title": "3.1 Explaining Processes",
+          "lessons": [
+            {
+              "title": "Passive Voice for Describing Technology",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000307000,\"blocks\":[{\"id\":\"yY0zA1bB2c\",\"type\":\"paragraph\",\"data\":{\"text\":\"When we describe how technology works, we often use the <b>passive voice</b> because the focus is on the process, not the person doing it.\"}},{\"id\":\"cC3dD4eE5f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Passive voice structure:</b> subject + <em>is/are/was/were</em> + past participle\"}},{\"id\":\"fF6gG7hH8i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>The data <b>is stored</b> in the cloud.</em>\",\"<em>The photo <b>was taken</b> with a 108-megapixel camera.</em>\",\"<em>Messages <b>are encrypted</b> before they are sent.</em>\"]}},{\"id\":\"iI9jJ0kK1l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Sequence words for explaining processes: <em>first, then, next, after that, finally, once, when, as soon as</em>\"}},{\"id\":\"lL2mM3nN4o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Full example: <em>First, the image is captured by the camera sensor. Then, it is processed by the phone's chip. Finally, it is saved to the internal storage or uploaded to the cloud.</em>\"}},{\"id\":\"oO5pP6qQ7r\",\"type\":\"paragraph\",\"data\":{\"text\":\"This structure is very useful for describing technical processes, instructions, and how devices function.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The data is stored in the cloud. Messages are encrypted before they are sent.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "The app downloaded by millions of users.",
+                      "correctText": "The app is downloaded by millions of users."
+                    },
+                    {
+                      "text": "Messages encrypted before they are sent.",
+                      "correctText": "Messages are encrypted before they are sent."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "The email ___ encrypted before it is sent to the recipient.",
+                      "answers": [
+                        "is",
+                        "gets",
+                        "becomes"
+                      ]
+                    },
+                    {
+                      "sentence": "All user data ___ stored on secure servers in the cloud.",
+                      "answers": [
+                        "is",
+                        "are",
+                        "gets"
+                      ]
+                    },
+                    {
+                      "sentence": "The software update ___ downloaded automatically overnight.",
+                      "answers": [
+                        "was",
+                        "is",
+                        "gets"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "When you take a photo, it [is processed] by the camera software. The image [is then saved] to your phone's memory. If you have cloud backup enabled, it [is uploaded] to the server automatically. Later, the photo can [be accessed] from any device.",
+                  "gaps": [
+                    {
+                      "placeholder": "is processed",
+                      "answers": [
+                        "is processed"
+                      ]
+                    },
+                    {
+                      "placeholder": "is then saved",
+                      "answers": [
+                        "is then saved",
+                        "is saved"
+                      ]
+                    },
+                    {
+                      "placeholder": "is uploaded",
+                      "answers": [
+                        "is uploaded"
+                      ]
+                    },
+                    {
+                      "placeholder": "be accessed",
+                      "answers": [
+                        "be accessed"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence correctly uses the passive voice?",
+                      "options": [
+                        "The app downloaded by millions of users.",
+                        "The app is downloaded by millions of users.",
+                        "Millions of users downloaded by the app.",
+                        "The app downloads by millions of users."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Digital Communication",
+      "subtopics": [
+        {
+          "title": "4.1 Emails and Messaging",
+          "lessons": [
+            {
+              "title": "Formal vs Informal Digital Communication",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000308000,\"blocks\":[{\"id\":\"rR8sS9tT0u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Digital communication includes emails, instant messages, and online chats. The style you use depends on your relationship with the person and the context.\"}},{\"id\":\"uU1vV2wW3x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Formal emails</b> are used in professional or academic settings:\"}},{\"id\":\"xX4yY5zA6b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Start: <em>Dear Mr/Ms [Surname], / Dear Sir or Madam,</em>\",\"Purpose: <em>I am writing to enquire about... / I would like to request...</em>\",\"Close: <em>I look forward to hearing from you. / Yours sincerely / Yours faithfully</em>\"]}},{\"id\":\"bB7cC8dD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Informal messages</b> are used with friends and family:\"}},{\"id\":\"eE0fF1gG2h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Start: <em>Hey! / Hi [Name],</em>\",\"Purpose: <em>Just wanted to let you know... / Have you heard about...?</em>\",\"Close: <em>Talk soon / Catch you later / Take care</em>\"]}},{\"id\":\"hH3iI4jJ5k\",\"type\":\"paragraph\",\"data\":{\"text\":\"At B1 level, you should be able to switch between formal and informal registers appropriately.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I am writing to enquire about the availability of your product.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Formal",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Informal",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "I am writing to enquire about the position.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Hey! Just checking in — how are you?",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "I would be grateful if you could send the report.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Can't wait to see you this weekend!",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Please find the attached document.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Lol, did you see what happened?",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "I look forward to hearing from you.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Catch you later!",
+                      "correctCategory": "cat2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "Yours sincerely",
+                        "Kind regards",
+                        "I look forward to",
+                        "Catch you later"
+                      ],
+                      "correctWord": "Catch you later"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000308001",
+                      "english": "I am writing to enquire about the availability of your product.",
+                      "russian": "Я пишу, чтобы уточнить наличие вашего товара.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000308002",
+                      "english": "Please find the requested information attached to this email.",
+                      "russian": "Пожалуйста, найдите запрошенную информацию в приложении к этому письму.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000308003",
+                      "english": "I look forward to hearing from you at your earliest convenience.",
+                      "russian": "С нетерпением жду вашего ответа при первой возможности.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4.2 Video Calls and Online Meetings",
+          "lessons": [
+            {
+              "title": "Language for Online Meetings",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000309000,\"blocks\":[{\"id\":\"kK6lL7mM8n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Video calls and online meetings are now a normal part of both work and social life. Knowing the right language makes them more effective.\"}},{\"id\":\"nN9oO0pP1q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common technical phrases:</b>\"}},{\"id\":\"qQ2rR3sS4t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>You're on mute. / Could you unmute yourself?</em>\",\"<em>I can't hear you very well — could you speak up?</em>\",\"<em>Can you share your screen?</em>\",\"<em>The connection is a bit unstable.</em>\",\"<em>I think we have a bad connection — can you repeat that?</em>\"]}},{\"id\":\"tT5uU6vV7w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Meeting management phrases:</b>\"}},{\"id\":\"wW8xX9yY0z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Shall we get started? / Let's begin.</em>\",\"<em>I'd like to hand over to... for the next point.</em>\",\"<em>Could I just come in here? / If I could just add...</em>\",\"<em>Let's move on to the next item.</em>\",\"<em>To sum up... / To wrap up...</em>\"]}},{\"id\":\"zA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Using modal verbs politely: <em>Could you..., Would you mind..., Shall we...</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Could you speak up? I can't hear you very well. The connection is a bit unstable.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Practise this video call phrase aloud",
+                    "targetPhrase": "Could you unmute yourself? I can't hear you very well."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "You're on mute.",
+                      "right": "Ваш микрофон выключен."
+                    },
+                    {
+                      "id": "m2",
+                      "left": "Could you share your screen?",
+                      "right": "Не могли бы вы показать экран?"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "Let's move on to the next item.",
+                      "right": "Перейдём к следующему пункту."
+                    },
+                    {
+                      "id": "m4",
+                      "left": "The connection is unstable.",
+                      "right": "Соединение нестабильно."
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase would you use if someone cannot hear you during a video call?",
+                      "options": [
+                        "Let's move on.",
+                        "Could you speak up? I can't hear you very well.",
+                        "Shall we get started?",
+                        "I'd like to hand over to you."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What does 'You're on mute' mean?",
+                      "options": [
+                        "Your camera is turned off.",
+                        "Your microphone is switched off and nobody can hear you.",
+                        "Your internet connection is poor.",
+                        "You need to share your screen."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Technology Advantages and Risks",
+      "subtopics": [
+        {
+          "title": "5.1 Benefits of Technology",
+          "lessons": [
+            {
+              "title": "How Technology Improves Our Lives",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000310000,\"blocks\":[{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Technology has transformed many aspects of modern life. At B1 level, you should be able to discuss these benefits using a range of vocabulary and structures.\"}},{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key benefits:</b>\"}},{\"id\":\"jJ0kK1lL2m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Communication</b> — we can contact people anywhere in the world instantly\",\"<b>Access to information</b> — knowledge is available to anyone with an internet connection\",\"<b>Convenience</b> — online shopping, banking, and booking save time\",\"<b>Education</b> — online courses and apps make learning more accessible\",\"<b>Healthcare</b> — technology improves diagnosis, monitoring, and treatment\"]}},{\"id\":\"mM3nN4oO5p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Opinion and argument phrases:\"}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>One of the main advantages of technology is...</em>\",\"<em>Thanks to modern technology, it is now possible to...</em>\",\"<em>Without technology, it would be much harder to...</em>\",\"<em>Technology has made it easier for people to...</em>\"]}},{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Conditional structure for discussing impact: <em>If it weren't for technology, many people would not have access to quality education.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Thanks to modern technology, it is now possible to consult a doctor online.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "convenience",
+                    "accessible",
+                    "diagnosis",
+                    "transformation"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "One of the main [advantages] of technology is that it makes communication much faster. [Thanks to] the internet, people can access information on any topic instantly. Without modern technology, it would be much [harder] to work from home or study online.",
+                  "gaps": [
+                    {
+                      "placeholder": "advantages",
+                      "answers": [
+                        "advantages",
+                        "benefits"
+                      ]
+                    },
+                    {
+                      "placeholder": "Thanks to",
+                      "answers": [
+                        "Thanks to",
+                        "Because of",
+                        "Due to"
+                      ]
+                    },
+                    {
+                      "placeholder": "harder",
+                      "answers": [
+                        "harder",
+                        "more difficult"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000310001",
+                      "english": "Thanks to modern technology, it is now possible to consult a doctor online.",
+                      "russian": "Благодаря современным технологиям теперь можно проконсультироваться с врачом онлайн.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000310002",
+                      "english": "One of the main advantages is that information is available to everyone.",
+                      "russian": "Одним из главных преимуществ является то, что информация доступна каждому.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000310003",
+                      "english": "If it weren't for technology, education would be much less accessible.",
+                      "russian": "Если бы не технологии, образование было бы намного менее доступным.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "5.2 Digital Safety and Risks",
+          "lessons": [
+            {
+              "title": "Online Risks and How to Stay Safe",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000311000,\"blocks\":[{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"While technology offers many benefits, it also comes with risks. Being aware of online dangers and knowing how to protect yourself is essential.\"}},{\"id\":\"yY5zA6bB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common online risks:</b>\"}},{\"id\":\"cC8dD9eE0f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Phishing</b> — fake emails or messages designed to steal your personal information\",\"<b>Malware / virus</b> — harmful software that damages your device or steals data\",\"<b>Cyberbullying</b> — using technology to harass or threaten others\",\"<b>Identity theft</b> — stealing someone's personal details to commit fraud\",\"<b>Data breach</b> — when private information is accessed without permission\"]}},{\"id\":\"fF1gG2hH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>How to stay safe online — modal verbs for advice:</b>\"}},{\"id\":\"iI4jJ5kK6l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>You <b>should</b> use a strong, unique password for each account.</em>\",\"<em>You <b>shouldn't</b> click on links in suspicious emails.</em>\",\"<em>You <b>must</b> enable two-factor authentication on important accounts.</em>\",\"<em>You <b>ought to</b> update your software regularly.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "You should use a strong, unique password for each account and enable two-factor authentication.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Fake emails designed to steal your personal information",
+                      "word": "phishing"
+                    },
+                    {
+                      "hint": "Stealing someone's personal details to commit fraud",
+                      "word": "identity theft"
+                    },
+                    {
+                      "hint": "When private information is accessed without permission",
+                      "word": "data breach"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "You ___ click on links in emails from unknown senders.",
+                      "answers": [
+                        "shouldn't",
+                        "mustn't",
+                        "should not"
+                      ]
+                    },
+                    {
+                      "sentence": "You ___ enable two-factor authentication to protect your account.",
+                      "answers": [
+                        "should",
+                        "must",
+                        "ought to"
+                      ]
+                    },
+                    {
+                      "sentence": "If you receive a suspicious email, you ___ report it immediately.",
+                      "answers": [
+                        "should",
+                        "must",
+                        "ought to"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What is 'phishing'?",
+                      "options": [
+                        "A type of malware that damages your computer",
+                        "Fake messages designed to steal your personal information",
+                        "Harassing someone online",
+                        "Accessing someone's social media without permission"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which modal verb is strongest for giving advice about safety?",
+                      "options": [
+                        "might",
+                        "could",
+                        "must",
+                        "would"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which action helps protect your online accounts?",
+                      "options": [
+                        "Using the same password for everything",
+                        "Clicking on all email links",
+                        "Enabling two-factor authentication",
+                        "Sharing your password with friends"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 6: Future of Technology",
+      "subtopics": [
+        {
+          "title": "6.1 Emerging Technologies",
+          "lessons": [
+            {
+              "title": "Artificial Intelligence and Automation",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000312000,\"blocks\":[{\"id\":\"lL7mM8nN9o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Artificial intelligence (AI)</b> refers to computer systems that can perform tasks that normally require human intelligence, such as understanding language, recognising images, or making decisions.\"}},{\"id\":\"oO0pP1qQ2r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key terms in AI and automation:\"}},{\"id\":\"rR3sS4tT5u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>machine learning</b> — AI that improves by learning from data\",\"<b>automation</b> — using technology to perform tasks without human involvement\",\"<b>chatbot</b> — an AI program that simulates conversation\",\"<b>algorithm</b> — a set of rules a computer follows to solve a problem\",\"<b>self-driving car</b> — a vehicle that can navigate without a human driver\"]}},{\"id\":\"uU6vV7wW8x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Speculating about the future — future forms:\"}},{\"id\":\"xX9yY0zA1b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>AI <b>will</b> transform many industries in the coming years.</em>\",\"<em>Many jobs <b>might be</b> automated in the future.</em>\",\"<em>It is likely that robots <b>will replace</b> some types of work.</em>\",\"<em>I believe technology <b>is going to</b> play an even bigger role in education.</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Artificial intelligence is likely to transform the job market in the next decade.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "artificial intelligence",
+                      "right": "computer systems performing tasks requiring human thought"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "automation",
+                      "right": "technology completing tasks without human involvement"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "machine learning",
+                      "right": "AI that improves by analysing data"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "algorithm",
+                      "right": "a set of rules a computer uses to solve problems"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "chatbot",
+                      "right": "an AI program that holds conversations with users"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "algorithm",
+                    "automation",
+                    "chatbot",
+                    "intelligence"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "In the future, many routine jobs [might be replaced] by AI and automation. Chatbots [are already being used] by many companies to handle customer service. Experts believe that machine learning [will continue] to improve rapidly over the next decade.",
+                  "gaps": [
+                    {
+                      "placeholder": "might be replaced",
+                      "answers": [
+                        "might be replaced",
+                        "could be replaced",
+                        "will be replaced"
+                      ]
+                    },
+                    {
+                      "placeholder": "are already being used",
+                      "answers": [
+                        "are already being used",
+                        "are being used"
+                      ]
+                    },
+                    {
+                      "placeholder": "will continue",
+                      "answers": [
+                        "will continue",
+                        "is going to continue"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000312001",
+                      "english": "Artificial intelligence is likely to transform the job market in the next decade.",
+                      "russian": "Искусственный интеллект, вероятно, изменит рынок труда в следующем десятилетии.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000312002",
+                      "english": "Many experts believe that self-driving cars will become common within twenty years.",
+                      "russian": "Многие эксперты полагают, что беспилотные автомобили станут обычным явлением в течение двадцати лет.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "6.2 Technology and Society",
+          "lessons": [
+            {
+              "title": "Debating the Impact of Technology",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000313000,\"blocks\":[{\"id\":\"bB2cC3dD4e\",\"type\":\"paragraph\",\"data\":{\"text\":\"At B1 level, you should be able to present balanced arguments about technology's impact on society, using discourse markers and opinion phrases.\"}},{\"id\":\"eE5fF6gG7h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Discourse markers for balanced arguments:</b>\"}},{\"id\":\"hH8iI9jJ0k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em><b>On the one hand</b>... <b>On the other hand</b>...</em>\",\"<em><b>Although</b> technology has many benefits, it also has drawbacks.</em>\",\"<em><b>However</b> / <b>Nevertheless</b> / <b>Despite this</b>...</em>\",\"<em><b>In addition</b> / <b>Furthermore</b> / <b>Moreover</b>...</em>\"]}},{\"id\":\"kK1lL2mM3n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Expressing strong opinions:\"}},{\"id\":\"nN4oO5pP6q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>I strongly believe that...</em>\",\"<em>It seems clear to me that...</em>\",\"<em>There is no doubt that...</em>\"]}},{\"id\":\"qQ7rR8sS9t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Expressing uncertainty:\"}},{\"id\":\"tT0uU1vV2w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>It is hard to say whether...</em>\",\"<em>It remains to be seen if...</em>\"]}},{\"id\":\"wW3xX4yY5z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example paragraph: <em>On the one hand, social media allows people to stay connected with friends and family across the world. On the other hand, it can lead to addiction, privacy issues, and the spread of misinformation. Nevertheless, I strongly believe that the benefits outweigh the risks if technology is used responsibly.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "On the one hand, social media allows people to stay connected. On the other hand, it can lead to addiction.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Advantage",
+                      "color": "#2e7d32"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Disadvantage",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "Easy access to information",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Cyberbullying and online harassment",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Ability to work remotely",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Addiction to screens and devices",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Improved communication across distances",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Privacy and data security concerns",
+                      "correctCategory": "cat2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "In addition, social media have many disadvantages.",
+                      "correctText": "In addition, social media has many disadvantages."
+                    },
+                    {
+                      "text": "Despite this, many people they still use it daily.",
+                      "correctText": "Despite this, many people still use it daily."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which discourse marker introduces a contrasting point?",
+                      "options": [
+                        "Furthermore",
+                        "In addition",
+                        "However",
+                        "Moreover"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which phrase expresses a strong opinion?",
+                      "options": [
+                        "It remains to be seen if...",
+                        "I strongly believe that...",
+                        "It is hard to say whether...",
+                        "Some people think that..."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    }
+  ]
+}

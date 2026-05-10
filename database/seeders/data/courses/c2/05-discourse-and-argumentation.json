@@ -1,0 +1,168 @@
+{
+  "title": "Discourse & Argumentation",
+  "description": "Engage with the highest levels of rhetorical sophistication in English: understanding discourse structure, analysing argumentative strategies, recognising logical fallacies, and constructing linguistically dense, rhetorically effective arguments. For C2 learners who want to write, speak, and think in English at a near-native level.",
+  "language": "en",
+  "difficulty_level": "C2",
+  "is_premium": true,
+  "preview_image": "Discourse & Argumentation.jpeg",
+  "topics": [
+    {
+      "title": "Module 1: Discourse Structure and Coherence",
+      "subtopics": [
+        {
+          "title": "1.1 Macro- and Micro-Level Coherence",
+          "lessons": [
+            {
+              "title": "How Texts Hold Together",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700130001000,\"blocks\":[{\"id\":\"dA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Discourse analysis</b> examines how language above the sentence level creates meaning. A coherent text achieves unity at two levels: the <em>macro</em> (overall structure and argument progression) and the <em>micro</em> (sentence-level cohesion).\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Micro-Level Cohesive Devices\",\"level\":3}},{\"id\":\"dG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Reference:</b> pronouns and demonstratives pointing back to earlier items (<em>this, the former, the latter</em>)\",\"<b>Substitution:</b> replacing a phrase with a shorter form (<em>'She applied for the job. So did he.'</em>)\",\"<b>Ellipsis:</b> omitting a recoverable element (<em>'Can you come?' 'I can.'</em>)\",\"<b>Conjunction:</b> additive (<em>moreover, furthermore</em>), adversative (<em>nevertheless, yet</em>), causal (<em>consequently, thereby</em>), temporal (<em>subsequently, hitherto</em>)\",\"<b>Lexical cohesion:</b> reiteration (repetition, synonym, superordinate, near-synonym) and collocation\"]}},{\"id\":\"dJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Macro-Level Discourse Structures\",\"level\":3}},{\"id\":\"dM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Problem–Solution:</b> situation → problem → solution → evaluation\",\"<b>Claim–Evidence–Warrant:</b> the Toulmin model of argument\",\"<b>Narrative:</b> orientation → complication → resolution → coda\",\"<b>Compare–Contrast:</b> block method vs. point-by-point\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    { "id": "pair_1", "left": "Reference", "right": "Using 'this', 'it', 'the former' to point back to previous content" },
+                    { "id": "pair_2", "left": "Ellipsis", "right": "Omitting words that can be recovered from context" },
+                    { "id": "pair_3", "left": "Adversative conjunction", "right": "'Nevertheless', 'yet', 'however' — contrasting ideas" },
+                    { "id": "pair_4", "left": "Lexical cohesion", "right": "Using synonyms, near-synonyms, or superordinates to link ideas" },
+                    { "id": "pair_5", "left": "Causal conjunction", "right": "'Consequently', 'thereby', 'thus' — showing cause-effect" }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which of the following demonstrates 'ellipsis' as a cohesive device?",
+                      "options": ["She left and he left too.", "She left; moreover, he followed.", "She left. He did too.", "She left because he asked her to."],
+                      "correctOptions": [2]
+                    },
+                    {
+                      "text": "In the Toulmin model, what is the 'warrant'?",
+                      "options": ["The conclusion of the argument", "The evidence provided", "The logical principle connecting evidence to claim", "An opposing argument"],
+                      "correctOptions": [2]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Rhetorical Strategies",
+      "subtopics": [
+        {
+          "title": "2.1 Classical Rhetoric",
+          "lessons": [
+            {
+              "title": "Ethos, Pathos, and Logos",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700130002000,\"blocks\":[{\"id\":\"rA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Aristotle identified three primary modes of persuasion, which remain foundational to rhetoric and argumentation theory: <b>ethos</b>, <b>pathos</b>, and <b>logos</b>.\"}},{\"id\":\"rD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"The Three Appeals\",\"level\":3}},{\"id\":\"rG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Ethos</b> (credibility) — The speaker/writer establishes authority and trustworthiness. Techniques: credentials, track record, consistent values, acknowledgement of limitations.\",\"<b>Pathos</b> (emotion) — The argument appeals to the audience's emotions, values, and imagination. Techniques: vivid narrative, anecdote, emotive diction, metaphor.\",\"<b>Logos</b> (logic) — The argument proceeds through reasoning and evidence. Techniques: statistics, case studies, analogy, syllogism, inductive/deductive reasoning.\"]}},{\"id\":\"rJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Note:</b> Sophisticated arguments integrate all three. Over-reliance on pathos without logos is emotionally manipulative; over-reliance on logos without pathos can fail to engage the audience. Ethos underpins the credibility of both.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A politician opens her speech: 'As a former nurse who worked through the pandemic, I know first-hand the pressures our NHS faces.' Which appeal is this primarily?",
+                      "options": ["Logos", "Pathos", "Ethos", "Syllogism"],
+                      "correctOptions": [2]
+                    },
+                    {
+                      "text": "An advertisement shows a starving child and asks you to donate to a charity. Which appeal dominates?",
+                      "options": ["Logos", "Pathos", "Ethos", "Analogy"],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 Logical Fallacies",
+          "lessons": [
+            {
+              "title": "Recognising and Refuting Flawed Arguments",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700130003000,\"blocks\":[{\"id\":\"lfA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>logical fallacy</b> is an error in reasoning that makes an argument unsound. Recognising fallacies is essential for both critical reading and the construction of valid arguments.\"}},{\"id\":\"lfD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Key Fallacies\",\"level\":3}},{\"id\":\"lfG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Ad hominem</b> — attacking the person rather than the argument ('You can't trust his climate research; he owns a car.')\",\"<b>Straw man</b> — misrepresenting an opponent's argument to make it easier to attack\",\"<b>False dichotomy</b> — presenting only two options when others exist ('Either you support this policy or you don't care about children.')\",\"<b>Slippery slope</b> — claiming that one event will inevitably lead to extreme consequences without justification\",\"<b>Appeal to authority</b> — citing an authority figure in an irrelevant field\",\"<b>Post hoc ergo propter hoc</b> — assuming that because B followed A, A caused B\"]}},{\"id\":\"lfJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Refuting a fallacy:</b> Name it, explain why the reasoning is invalid, then redirect to the substantive evidence.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    { "id": "pair_1", "left": "Ad hominem", "right": "Attacking the speaker's character instead of the argument" },
+                    { "id": "pair_2", "left": "Straw man", "right": "Misrepresenting an opponent's position to defeat it easily" },
+                    { "id": "pair_3", "left": "False dichotomy", "right": "Presenting only two options when more exist" },
+                    { "id": "pair_4", "left": "Slippery slope", "right": "Claiming a small step inevitably leads to extreme consequences" },
+                    { "id": "pair_5", "left": "Post hoc", "right": "Assuming that sequence in time means causation" }
+                  ],
+                  "shuffleRight": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Constructing Dense Arguments",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Argument Density and Academic Register at C2",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700130004000,\"blocks\":[{\"id\":\"adA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"C2 academic writing is characterised by high <b>argument density</b>: each sentence contributes meaningfully to the overall argument, with minimal padding. This requires mastery of nominalisation, complex syntax, and precise logical connectors.\"}},{\"id\":\"adD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Nominalisation\",\"level\":3}},{\"id\":\"adG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Nominalisation converts verbs and adjectives into nouns, making writing more abstract and formal:\"}},{\"id\":\"adH1iI2jJ3k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>We discovered X</em> → <em>Our discovery of X</em>\",\"<em>The economy improved</em> → <em>The improvement in the economy</em>\",\"<em>They failed to implement the policy</em> → <em>Their failure to implement the policy</em>\"]}},{\"id\":\"adJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Advanced Logical Connectors\",\"level\":3}},{\"id\":\"adM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>notwithstanding</b> — despite what has been said/done (formal)\",\"<b>by virtue of</b> — because of / owing to\",\"<b>insofar as</b> — to the extent that\",\"<b>inasmuch as</b> — since / to the degree that\",\"<b>predicated on</b> — based on the assumption that\",\"<b>contingent upon</b> — depending on\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "fill-gaps",
+              "text": "The success of the policy is ___ upon its implementation being consistent and well-funded. Notwithstanding ___ political opposition, the evidence suggests its effectiveness. The argument is ___ on the premise that behaviour change is possible at scale. Insofar ___ public trust is maintained, the reforms should proceed.",
+              "gaps": [
+                { "position": 1, "answer": "contingent", "options": ["contingent", "depending", "based", "relying"] },
+                { "position": 2, "answer": "the", "options": ["the", "a", "any", "some"] },
+                { "position": 3, "answer": "predicated", "options": ["predicated", "based", "built", "reliant"] },
+                { "position": 4, "answer": "as", "options": ["as", "for", "that", "which"] }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is 'nominalisation' in academic writing?",
+                  "options": ["Using passive voice throughout", "Converting verbs and adjectives into noun phrases", "Writing very long sentences", "Avoiding all personal pronouns"],
+                  "correctOptions": [1]
+                },
+                {
+                  "text": "What does 'insofar as' mean?",
+                  "options": ["In spite of", "To the extent that", "Because of", "Regardless of"],
+                  "correctOptions": [1]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

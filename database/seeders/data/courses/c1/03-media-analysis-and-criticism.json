@@ -1,0 +1,389 @@
+{
+  "title": "Media Analysis and Criticism",
+  "description": "Develop the analytical tools to critically evaluate print, broadcast, and digital media in English. This course examines how news is constructed, how language shapes public understanding, how ideological positions are embedded in media texts, and how digital platforms are transforming journalism and public discourse at C1 level.",
+  "language": "en",
+  "difficulty_level": "C1",
+  "is_premium": true,
+  "preview_image": "Media Analysis and Criticism.jpg",
+  "topics": [
+    {
+      "title": "Module 1: News Construction and Framing",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "How News is Made: Selection, Framing, and Agenda-Setting",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000081000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"News is not a neutral mirror of events — it is a <b>construction</b>, shaped by institutional practices, commercial pressures, ideological assumptions, and the professional routines of journalism. Understanding how news is made is the first step toward reading it critically.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>News values</b> (also called newsworthiness criteria) are the implicit standards by which journalists and editors decide which events merit coverage. Classic criteria identified by Galtung and Ruge (1965) include: <em>proximity</em> (geographical or cultural closeness), <em>magnitude</em> (scale of the event), <em>negativity</em> (bad news travels faster), <em>unexpectedness</em> (deviation from the expected), <em>elite reference</em> (events involving prominent individuals or nations), and <em>personalisation</em> (human interest angle).\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Agenda-setting theory</b> (McCombs and Shaw, 1972) proposes that media do not tell us what to think, but tell us what to think <em>about</em>: the issues that receive prominent coverage are perceived by audiences as more important. This has significant implications for political discourse and public opinion formation.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Framing theory</b> extends agenda-setting: frames are 'schemata of interpretation' that tell audiences not only what to attend to, but how to understand it. The same event can be framed as a <em>crisis</em> (urgency, fear), an <em>opportunity</em> (optimism, agency), or a <em>debate</em> (balance, uncertainty) — with substantially different effects on audience perception and attitudes.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Framing theory proposes that the way an event is presented shapes how audiences interpret and respond to it.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Agenda-setting",
+                  "right": "Media determines which issues audiences consider important"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Framing",
+                  "right": "The interpretive context in which an event is presented"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "News values",
+                  "right": "Criteria used to judge whether an event merits coverage"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Proximity",
+                  "right": "News value: geographically or culturally close events are more newsworthy"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Personalisation",
+                  "right": "News value: human interest stories involving specific individuals"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Agenda-setting theory (McCombs and Shaw) proposes that media primarily:",
+                  "options": [
+                    "Tell audiences what to think",
+                    "Tell audiences what to think about",
+                    "Reflect public opinion accurately",
+                    "Prevent political manipulation"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Language and Ideology in Media",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Critical Discourse Analysis: Unpacking Media Language",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000082000,\"blocks\":[{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Critical Discourse Analysis (CDA)</b> — associated with scholars such as Norman Fairclough, Teun van Dijk, and Ruth Wodak — is an approach to analysing language that treats texts not as transparent windows onto reality, but as social practices that produce, reproduce, and challenge relations of power and ideology.\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"CDA examines several dimensions of media texts: <b>lexical choices</b> (which words are selected and which avoided — their connotations and ideological loading); <b>transitivity</b> (grammatical analysis of who performs actions and on whom — active vs. passive voice, nominalization that erases agents); <b>presuppositions</b> (what is assumed to be already known or true); and <b>implicit assumptions</b> embedded in apparently neutral descriptions.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example of transitivity analysis: <em>'Police officers were injured during the protest.'</em> (passive — agency of protesters obscured) vs. <em>'Protesters attacked police officers.'</em> (active — assigns direct responsibility). These two descriptions of the same event produce very different ideological effects.\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Discourse representation</b> — how sources are quoted and attributed — is also analytically revealing. Direct speech ('he said'), indirect speech ('he argued that'), and free indirect discourse ('he had been right all along') each position the reported speaker differently in relation to the author's authoritative voice. Attribution verbs (<em>claimed, admitted, insisted, revealed, alleged</em>) also carry strong evaluative connotations.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Critical Discourse Analysis treats texts not as neutral mirrors but as social practices that reproduce relations of power.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Positive / Sympathetic framing",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Negative / Critical framing",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_3",
+                  "name": "Neutral / Objective",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "Protesters stormed the parliament building.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Citizens gathered outside the parliament to demand accountability.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Approximately 3,000 people gathered outside the parliament building on Tuesday afternoon.",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_4",
+                  "text": "An illegal alien was deported after committing multiple offences.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "A foreign national was removed from the country following a criminal conviction.",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_6",
+                  "text": "A refugee was returned to a country where he faces persecution.",
+                  "correctCategory": "cat_1"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "Police were attacked during protests. [Use a more ideologically neutral construction]",
+                  "correctText": "Clashes between police and protesters resulted in injuries on both sides."
+                },
+                {
+                  "text": "The company admitted to dumping toxic waste. [Choose a more neutral attribution verb]",
+                  "correctText": "The company confirmed that hazardous waste had been disposed of at the site."
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In CDA, what does 'transitivity analysis' examine?",
+                  "options": [
+                    "The use of connective words in news articles",
+                    "Who performs actions and on whom, and how grammatical voice affects this representation",
+                    "How news is distributed across different media platforms",
+                    "The frequency of passive constructions in broadsheet newspapers"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Bias, Objectivity, and Editorial Independence",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Media Bias: Types, Detection, and Significance",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000083000,\"blocks\":[{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Bias</b> in media refers to systematic slanting of content in one direction. Bias can be overt (explicit endorsement of a political position in an editorial) or covert (embedded in word choice, story selection, or source attribution). Distinguishing between the two, and identifying bias without assuming its presence, is a core media literacy skill.\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Types of bias:</b>\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Selection bias</em> — choosing which stories to cover (and which to ignore)\",\"<em>Framing bias</em> — systematically presenting one perspective more sympathetically\",\"<em>Source bias</em> — consistently privileging certain types of sources (elite, official, male, Western)\",\"<em>Confirmation bias</em> — seeking evidence that confirms pre-existing beliefs\",\"<em>Commercial bias</em> — shaping coverage to attract advertising revenue or avoid offending commercial partners\"]}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"The concept of <b>objectivity</b> in journalism is contested. Anglo-American journalism developed a professional norm of objectivity — balanced reporting, separation of news and opinion, attribution to sources — as a commercial and ethical strategy. However, critics argue that 'objectivity' can itself be a form of ideology, naturalising the status quo and presenting contested matters as settled.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Journalistic objectivity is itself contested: some scholars argue it naturalises the status quo by treating contested matters as settled.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700083001",
+                  "english": "Source bias refers to the systematic over-representation of elite, official, or institutional voices in news coverage.",
+                  "russian": "Предвзятость источников — это систематическое преувеличение роли элитных, официальных или институциональных голосов в освещении новостей.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700083002",
+                  "english": "The so-called 'objectivity norm' in Anglo-American journalism has been criticised for naturalising the existing social order.",
+                  "russian": "Так называемая «норма объективности» в англо-американской журналистике подвергалась критике за легитимизацию существующего социального порядка.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is 'source bias' in journalism?",
+                  "options": [
+                    "When a reporter fabricates quotations",
+                    "Systematic reliance on certain types of sources (typically elite or official) at the expense of others",
+                    "Using anonymous sources in investigative reporting",
+                    "When a journalist's personal beliefs affect their writing"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Digital Media and the Attention Economy",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Attention Economy: Clicks, Engagement, and Truth",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000084000,\"blocks\":[{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"The digitalisation of media has transformed the economics of information. The <b>attention economy</b> — where human attention is the scarce resource being competed for — has profound implications for the quality and nature of public discourse.\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Clickbait</b> — headlines or thumbnails designed to provoke curiosity or outrage without fulfilling the implicit promise of the content — is a symptom of attention-economy incentives. Outrage, fear, and novelty generate more clicks than nuanced analysis. Platforms' algorithmic amplification of emotionally resonant content creates systematic pressures towards sensationalism.\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>The viral information ecosystem</b> creates conditions where false or misleading content can spread faster than corrections, particularly when the false version is more emotionally compelling. Research by Vosoughi et al. (2018, Science) found that false news travels six times faster than true news on Twitter, and reaches a broader audience.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Platform responsibility</b> is increasingly debated: should algorithmic amplification be regulated? Do platforms bear editorial responsibility for content they host? Competing legal frameworks — Section 230 in the US (protecting platforms from liability for user content) vs. the EU Digital Services Act (imposing due diligence obligations) — reflect different regulatory philosophies.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Research has found that false news spreads significantly faster and further on social media than true news.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The economic system in which human attention is the scarce commodity being competed for",
+                  "word": "attention economy"
+                },
+                {
+                  "hint": "Headlines or content designed to provoke curiosity or outrage primarily to generate clicks",
+                  "word": "clickbait"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does Vosoughi et al. (2018) demonstrate about false news on Twitter?",
+                  "options": [
+                    "True and false news spread at approximately the same rate",
+                    "False news travels slower but reaches a larger total audience over time",
+                    "False news spreads significantly faster and further than true news",
+                    "Platform moderation effectively limits the spread of false information"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Writing Media Criticism",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Analytical Writing About Media Texts",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000085000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Academic media criticism requires a systematic, evidence-based approach that goes beyond personal opinion. The analyst must identify the text's <b>form</b> (genre, structure, layout), <b>content</b> (what is said and what is omitted), and <b>context</b> (production context, intended audience, ideological positioning).\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Analytical framework for a media text:</b>\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<em>Identify the source:</em> outlet, ownership, political/commercial positioning\",\"<em>Analyse structure:</em> how is the article/broadcast organised? What receives prominence?\",\"<em>Examine language:</em> lexical choices, framing devices, attribution verbs, metaphors\",\"<em>Identify sources:</em> who is quoted? Whose perspective is absent?\",\"<em>Contextualise:</em> what is the wider social, political, or historical context?\",\"<em>Evaluate:</em> what is the ideological effect of these choices?\"]}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Language for analytical writing:</b> <em>This framing serves to... / The choice of X rather than Y suggests... / Notably absent from the report is any reference to... / The passive construction in line 4 deflects responsibility from... / The metaphor of X naturalises...\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The choice of the verb 'stormed' rather than 'entered' in this headline serves to frame the protest as violent and threatening.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700085001",
+                  "english": "The choice of 'alleged' rather than 'accused' in this report implicitly positions the subject as innocent without fully committing to that view.",
+                  "russian": "Использование слова «предполагаемый» вместо «обвиняемый» в данном репортаже косвенно представляет субъекта как невиновного, не полностью принимая эту точку зрения.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700085002",
+                  "english": "Notably absent from the coverage is any perspective from the communities most directly affected by the policy.",
+                  "russian": "Примечательно, что в освещении полностью отсутствует точка зрения сообществ, наиболее непосредственно затронутых данной политикой.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In media analysis, what does examining 'transitivity' in a text involve?",
+                  "options": [
+                    "Analysing how stories transition between topics",
+                    "Examining who is represented as performing actions and on whom, and whether active or passive voice is used",
+                    "Counting the number of sentences in each paragraph",
+                    "Identifying the main topics covered in the article"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

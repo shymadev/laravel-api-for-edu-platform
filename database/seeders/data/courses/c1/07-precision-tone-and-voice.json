@@ -1,0 +1,155 @@
+{
+  "title": "Precision, Tone & Voice",
+  "description": "Refine your command of English by developing stylistic precision: choosing the exact right word, controlling register and tone, constructing an identifiable authorial voice, and editing for concision. Essential for C1 writers who want their prose to move beyond correctness into elegance and impact.",
+  "language": "en",
+  "difficulty_level": "C1",
+  "is_premium": true,
+  "preview_image": "Precision, Tone & Voice.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Word Choice and Precision",
+      "subtopics": [
+        {
+          "title": "1.1 Connotation vs Denotation",
+          "lessons": [
+            {
+              "title": "Why Word Choice Matters",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700120001000,\"blocks\":[{\"id\":\"wA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Two words may have the same dictionary meaning (<b>denotation</b>) but carry very different emotional or cultural associations (<b>connotation</b>). Skilled writers choose words with awareness of both.\"}},{\"id\":\"wD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Examples\",\"level\":3}},{\"id\":\"wG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>slim</em> vs <em>skinny</em> vs <em>emaciated</em> — all describe low body weight, but with increasing negative connotation\",\"<em>assertive</em> vs <em>aggressive</em> — both describe forceful behaviour; 'assertive' is positive, 'aggressive' negative\",\"<em>thrifty</em> vs <em>stingy</em> — both mean reluctant to spend money, but 'thrifty' is approving, 'stingy' is not\",\"<em>youthful</em> vs <em>childish</em> — same age range, but 'youthful' is flattering, 'childish' is dismissive\"]}},{\"id\":\"wJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Principle:</b> Always consider whether the connotation of your chosen word matches your intended meaning and the impression you want to create.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which word has a POSITIVE connotation about someone's carefulness with money?",
+                      "options": ["stingy", "cheap", "frugal", "miserly"],
+                      "correctOptions": [2]
+                    },
+                    {
+                      "text": "What is the difference between 'denotation' and 'connotation'?",
+                      "options": ["Denotation is the emotional meaning; connotation is the dictionary meaning", "Denotation is the dictionary meaning; connotation is the emotional/cultural association", "They mean the same thing", "Denotation applies only to nouns"],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Avoiding Vagueness",
+          "lessons": [
+            {
+              "title": "Replacing Weak Words with Precise Ones",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700120002000,\"blocks\":[{\"id\":\"vA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Vague words weaken writing. Words like <em>nice</em>, <em>things</em>, <em>a lot</em>, <em>very</em>, <em>good</em>, and <em>bad</em> can almost always be replaced by more precise alternatives.\"}},{\"id\":\"vD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Substitutions\",\"level\":3}},{\"id\":\"vG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>nice</em> → pleasant, agreeable, charming, elegant, thoughtful\",\"<em>bad</em> → harmful, flawed, catastrophic, negligent, substandard\",\"<em>good</em> → effective, exemplary, commendable, rigorous\",\"<em>very important</em> → crucial, pivotal, indispensable, paramount\",\"<em>a lot of</em> → considerable, substantial, numerous, an abundance of\",\"<em>said</em> → argued, maintained, contended, proposed, observed\"]}},{\"id\":\"vJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Exercise principle:</b> When you write a first draft, mark every vague word and replace it with a more specific alternative.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "fill-gaps",
+                  "text": "The report had many good points. → The report contained ___ insights. The problem was very bad. → The situation had ___ consequences. She said we should leave. → She ___ that departure was advisable. There were a lot of reasons. → There were ___ reasons.",
+                  "gaps": [
+                    { "position": 1, "answer": "commendable", "options": ["commendable", "nice", "good", "okay"] },
+                    { "position": 2, "answer": "catastrophic", "options": ["catastrophic", "very bad", "bad", "not good"] },
+                    { "position": 3, "answer": "maintained", "options": ["maintained", "said", "told", "spoke"] },
+                    { "position": 4, "answer": "numerous", "options": ["numerous", "a lot of", "many", "various"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Register and Tone",
+      "subtopics": [
+        {
+          "title": "2.1 Formal vs Informal Register",
+          "lessons": [
+            {
+              "title": "Matching Language to Context",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700120003000,\"blocks\":[{\"id\":\"rA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Register</b> refers to the level of formality in language. Skilled writers switch register deliberately depending on audience, purpose, and medium.\"}},{\"id\":\"rD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Register Continuum\",\"level\":3}},{\"id\":\"rG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Intimate/casual:</b> slang, contractions, ellipsis — used with close friends\",\"<b>Informal:</b> conversational, colloquial — used in emails to known colleagues\",\"<b>Neutral:</b> clear, standard — suitable for most written contexts\",\"<b>Formal:</b> impersonal, polished — academic writing, official correspondence\",\"<b>Elevated/literary:</b> complex syntax, archaic diction — essays, literature\"]}},{\"id\":\"rJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Common Register Mismatches to Avoid\",\"level\":3}},{\"id\":\"rM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>It's kinda obvious that...</em> in an academic essay (too casual)\",\"<em>We hereby submit for your esteemed consideration...</em> in a friendly email (too elevated)\",\"Using contractions (<em>don't, won't</em>) in formal reports\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is appropriate for a formal academic essay?",
+                      "options": ["It's kinda obvious that social media is bad.", "The evidence strongly suggests that social media has a detrimental effect.", "Social media is, like, really harmful for teens.", "Everyone knows that social media is bad."],
+                      "correctOptions": [1]
+                    },
+                    {
+                      "text": "What is 'register' in language?",
+                      "options": ["The font used in writing", "The level of formality appropriate to a situation", "The length of a text", "The subject matter of writing"],
+                      "correctOptions": [1]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Editing for Impact",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Concision and Cutting Redundancy",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700120004000,\"blocks\":[{\"id\":\"eA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Good writing is rarely about adding more — it is about cutting what is unnecessary. Concise writing respects the reader's time and makes your argument clearer.\"}},{\"id\":\"eD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Common Redundancies\",\"level\":3}},{\"id\":\"eG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>absolutely essential</em> → essential\",\"<em>past history</em> → history\",\"<em>end result</em> → result\",\"<em>true fact</em> → fact\",\"<em>in order to</em> → to\",\"<em>at this point in time</em> → now\",\"<em>due to the fact that</em> → because\"]}},{\"id\":\"eJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Editing Checklist\",\"level\":3}},{\"id\":\"eM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"Does every sentence advance the argument?\",\"Can any phrase be shortened without loss of meaning?\",\"Are there passive constructions that could be made active?\",\"Does each paragraph begin with a clear topic sentence?\",\"Is the conclusion genuinely conclusive?\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "fill-gaps",
+              "text": "Due to the fact ___ climate change is accelerating, it is absolutely ___ that governments act now. In order ___ achieve this, an international consensus is needed. The end ___ must be a sustainable energy system.",
+              "gaps": [
+                { "position": 1, "answer": "that", "options": ["that", "of", "which", "for"] },
+                { "position": 2, "answer": "essential", "options": ["essential", "absolutely essential", "very very necessary", "crucial important"] },
+                { "position": 3, "answer": "to", "options": ["to", "for", "of", "about"] },
+                { "position": 4, "answer": "result", "options": ["result", "end result", "final result", "outcome result"] }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which of these is a redundant phrase that should be cut?",
+                  "options": ["Nevertheless", "At this point in time", "Although", "Furthermore"],
+                  "correctOptions": [1]
+                },
+                {
+                  "text": "'In order to save time, we simplified the process.' How could this be made more concise?",
+                  "options": ["In order to save time, the process was simplified by us.", "To save time, we simplified the process.", "We did save time by simplifying the process, in order to.", "In order to save some time, we did simplify."],
+                  "correctOptions": [1]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

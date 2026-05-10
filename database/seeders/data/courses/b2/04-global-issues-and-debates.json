@@ -1,0 +1,647 @@
+{
+  "title": "Global Issues and Debates",
+  "description": "Engage with contemporary global challenges — climate change, inequality, migration, technology, and democracy — through English-language texts, discussions, and written tasks. This course develops the vocabulary and analytical skills needed to understand, discuss, and write about complex international issues at B2 level.",
+  "language": "en",
+  "difficulty_level": "B2",
+  "is_premium": true,
+  "preview_image": "Global Issues and Debates.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Climate Change and the Environment",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Language of Environmental Debate",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000031000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Climate change is one of the most extensively debated topics in contemporary global discourse. Understanding the specialised vocabulary, the range of positions taken, and the rhetorical strategies used is essential for engaging meaningfully with this debate in English.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key vocabulary clusters:</b>\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Causes:</em> greenhouse gas emissions, fossil fuel combustion, deforestation, industrial agriculture, carbon footprint\",\"<em>Effects:</em> global warming, sea-level rise, extreme weather events, biodiversity loss, desertification\",\"<em>Solutions:</em> renewable energy, carbon capture, net-zero targets, carbon offsetting, circular economy\",\"<em>Policy positions:</em> climate action, climate justice, mitigation, adaptation, international agreements (e.g. Paris Agreement)\"]}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Critical language note:</b> Terms like <em>climate change</em> and <em>global warming</em> are not identical. <em>Global warming</em> refers specifically to the rise in global average temperature; <em>climate change</em> is a broader term encompassing a range of shifts in climate patterns including not just warming but also changes in precipitation, storms, and polar conditions.\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"The debate also involves contested terms: <em>climate emergency</em> vs. <em>climate concern</em>; <em>transition</em> vs. <em>transformation</em>; <em>ambitious targets</em> vs. <em>unrealistic demands</em>. Word choice reflects ideological positioning.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The Paris Agreement aims to limit global warming to well below two degrees Celsius above pre-industrial levels.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Causes",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Effects",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_3",
+                  "name": "Solutions",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "Fossil fuel combustion",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Sea-level rise",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Carbon capture technology",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Deforestation",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Biodiversity loss",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Expansion of renewable energy",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_7",
+                  "text": "Industrial agriculture emissions",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_8",
+                  "text": "Extreme weather events",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The total amount of greenhouse gases produced by a person or organisation",
+                  "word": "carbon footprint"
+                },
+                {
+                  "hint": "An economic model aimed at eliminating waste through reuse and recycling",
+                  "word": "circular economy"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the key difference between 'global warming' and 'climate change'?",
+                  "options": [
+                    "They mean the same thing.",
+                    "Global warming refers specifically to rising temperatures; climate change is broader.",
+                    "Climate change is a more scientific term; global warming is used only in the media.",
+                    "Global warming is about oceans; climate change is about the atmosphere."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Inequality and Social Justice",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Discussing Inequality in English",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000032000,\"blocks\":[{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Inequality</b> — economic, social, and political — is a central theme in contemporary global debate. At B2 level, learners should be able to engage with data, analyse causes and effects, and articulate nuanced positions using appropriate academic and journalistic vocabulary.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key vocabulary:</b> the wealth gap, income inequality, social mobility, the poverty cycle, systemic discrimination, intersectionality, privilege, marginalised communities, redistribution, welfare state, meritocracy.\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Contested concepts:</b> <em>equality</em> (everyone receives the same) vs. <em>equity</em> (everyone receives what they need). This distinction is critical in policy debate. Similarly, <em>meritocracy</em> is simultaneously defended as a fair system and critiqued as a myth that obscures structural advantage.\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"When writing or speaking about inequality, it is important to use person-first language and avoid perpetuating stigma: <em>people experiencing homelessness</em> rather than <em>the homeless</em>; <em>individuals in poverty</em> rather than <em>the poor</em>.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The distinction between equality and equity is central to contemporary debates about social justice policy.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700032001",
+                  "english": "Social mobility has declined significantly in many OECD countries over the past two decades.",
+                  "russian": "Социальная мобильность значительно снизилась во многих странах ОЭСР за последние два десятилетия.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700032002",
+                  "english": "Critics argue that the concept of meritocracy obscures structural barriers faced by marginalised communities.",
+                  "russian": "Критики утверждают, что концепция меритократии скрывает структурные барьеры, с которыми сталкиваются маргинализированные сообщества.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Social mobility",
+                  "right": "The ability to move between social or economic classes"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Systemic discrimination",
+                  "right": "Bias embedded in institutions and policies"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Redistribution",
+                  "right": "Transfer of wealth via taxation and benefits"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Meritocracy",
+                  "right": "System where advancement is based on ability and hard work"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Equity",
+                  "right": "Giving individuals what they need, not equal amounts"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'equity' mean in the context of social justice?",
+                  "options": [
+                    "Giving everyone the same amount",
+                    "Treating everyone identically regardless of circumstances",
+                    "Giving individuals what they specifically need to reach equal outcomes",
+                    "Financial investment in communities"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Technology and Society",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Ethics and Impact of Technology",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000033000,\"blocks\":[{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Technology is transforming economies, democracies, and social relationships at an unprecedented pace. Debates around technology are increasingly central to global affairs, raising questions about privacy, automation, AI ethics, surveillance, and digital rights.\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"header\",\"data\":{\"text\":\"Key debate areas:\",\"level\":3}},{\"id\":\"zA4bC5dE6f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Automation and jobs:</b> Will AI and robotics cause mass unemployment, or will they create new roles? (<em>technological unemployment</em>, <em>reskilling</em>, <em>universal basic income</em>)\",\"<b>Surveillance and privacy:</b> To what extent should governments and corporations monitor citizens and users? (<em>data sovereignty</em>, <em>facial recognition</em>, <em>surveillance capitalism</em>)\",\"<b>AI and ethics:</b> How should AI be governed? (<em>algorithmic bias</em>, <em>explainability</em>, <em>AI regulation</em>)\",\"<b>Digital divide:</b> How can we ensure equitable access to technology? (<em>digital inclusion</em>, <em>broadband infrastructure</em>)\"]}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key language for tech ethics:</b> <em>it raises serious questions about... / the implications of X are far-reaching / poses a significant risk to... / there is a tension between X and Y / calls for robust regulatory frameworks</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "There is a growing tension between data privacy and the commercial interests of technology companies.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "The business model in which user data is collected and sold as a commodity",
+                  "word": "surveillance capitalism"
+                },
+                {
+                  "hint": "Unfair treatment encoded in AI systems due to biased training data",
+                  "word": "algorithmic bias"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700033001",
+                  "english": "The widespread adoption of facial recognition technology poses serious risks to civil liberties.",
+                  "russian": "Широкое внедрение технологии распознавания лиц представляет серьёзную угрозу гражданским свободам.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700033002",
+                  "english": "Closing the digital divide requires significant investment in rural broadband infrastructure.",
+                  "russian": "Преодоление цифрового неравенства требует значительных инвестиций в широкополосную инфраструктуру сельских районов.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'algorithmic bias' refer to?",
+                  "options": [
+                    "Errors in computer code that cause system crashes",
+                    "A preference for one programming language over another",
+                    "Unfair outcomes produced by AI systems trained on biased data",
+                    "The tendency of algorithms to be faster than human calculations"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Migration and Identity",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Discussing Migration: Language and Perspectives",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000034000,\"blocks\":[{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Migration is one of the most politically charged topics in contemporary discourse. The language used to describe migration and migrants often reflects and reinforces political positions. B2 learners should be aware of the ideological loading in vocabulary choices.\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Vocabulary awareness:</b> The term <em>migrant</em> is neutral and refers to anyone moving between countries. <em>Refugee</em> and <em>asylum seeker</em> have specific legal meanings: a <em>refugee</em> has been officially recognised as fleeing persecution; an <em>asylum seeker</em> has applied but not yet received a decision. Using these terms incorrectly — or interchangeably with <em>illegal immigrant</em> — can perpetuate misinformation.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Framing effects:</b> Headlines that refer to <em>waves</em> or <em>floods</em> of migrants use metaphors that associate migration with natural disaster. Neutral alternatives: <em>an increase in arrivals</em>, <em>a rise in asylum applications</em>.\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Policy vocabulary:</b> integration policy, multiculturalism, managed migration, push factors (poverty, conflict, climate), pull factors (employment, safety, family reunification), brain drain, diaspora communities, cultural assimilation.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "A refugee is a person who has been officially recognised as fleeing persecution under international law.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Refugee",
+                  "right": "Officially recognised as fleeing persecution"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Asylum seeker",
+                  "right": "Has applied for protection but not yet received a decision"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Brain drain",
+                  "right": "Emigration of skilled workers from their home country"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Push factor",
+                  "right": "Conditions in origin country driving emigration (poverty, war)"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Pull factor",
+                  "right": "Conditions in destination country attracting migrants (jobs, safety)"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Neutral / Accurate language",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Loaded / Problematic language",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "A flood of migrants is overwhelming the country.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Asylum applications increased by 15% last year.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Illegal aliens are taking local jobs.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Refugees are entitled to legal protection under the 1951 Convention.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "The migrant swarm is destabilising borders.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Integration policies aim to support newcomers' participation in society.",
+                  "correctCategory": "cat_1"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the correct meaning of 'asylum seeker'?",
+                  "options": [
+                    "A person who has been officially granted refugee status",
+                    "An illegal immigrant",
+                    "A person who has applied for official protection but not yet received a decision",
+                    "A migrant worker with a temporary visa"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Democracy and Freedom of Speech",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Debating Democracy, Media, and Free Expression",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000035000,\"blocks\":[{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Democracy and freedom of expression are foundational principles of liberal political systems — but both are subjects of intense debate about their scope, limits, and resilience in the digital age.\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key concepts:</b>\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Populism</em> — a political style that contrasts 'the pure people' with 'a corrupt elite'; associated with both left and right movements\",\"<em>Authoritarianism</em> — concentration of power; curtailment of civil liberties\",\"<em>Disinformation</em> — deliberately false information spread to deceive\",\"<em>Misinformation</em> — false information spread without necessarily intending to deceive\",\"<em>Filter bubble</em> — the effect of algorithms showing users only content consistent with their existing views\",\"<em>Electoral integrity</em> — the extent to which elections are free and fair\"]}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"The limits of free speech are hotly debated: Should hate speech be legally restricted? Should social media platforms decide what content is allowed? Who defines 'harmful' content? These debates intersect with questions of platform responsibility, government censorship, and individual rights.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "The distinction between misinformation and disinformation lies in the intent to deceive.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Disinformation",
+                  "right": "False information deliberately created to deceive"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Misinformation",
+                  "right": "False information spread without intent to deceive"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Filter bubble",
+                  "right": "Algorithmic isolation reinforcing existing beliefs"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Populism",
+                  "right": "Political style contrasting 'the people' with 'the elite'"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Electoral integrity",
+                  "right": "The degree to which elections are conducted fairly"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "disinformation",
+                    "misinformation",
+                    "propaganda",
+                    "satire"
+                  ],
+                  "correctWord": "satire"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is a 'filter bubble' in the context of digital media?",
+                  "options": [
+                    "A government tool for censoring online content",
+                    "Software that filters spam from emails",
+                    "The effect of algorithms showing users only content matching their existing views",
+                    "A media literacy programme for young people"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "What distinguishes 'disinformation' from 'misinformation'?",
+                  "options": [
+                    "Disinformation refers to foreign propaganda only.",
+                    "Disinformation is deliberately false; misinformation may be spread without intent to deceive.",
+                    "Misinformation only refers to online content.",
+                    "There is no meaningful difference."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Globalisation",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Globalisation: Benefits, Costs, and Debates",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000036000,\"blocks\":[{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Globalisation</b> — the increasing interconnection of economies, cultures, and societies — is one of the defining phenomena of the past half-century. Its effects are simultaneously celebrated (economic growth, poverty reduction, cultural exchange) and criticised (inequality, cultural homogenisation, environmental damage).\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Proponents argue:</b> globalisation has lifted hundreds of millions out of poverty, particularly in East and South Asia; it has increased access to goods, services, and information; it has created interdependencies that discourage conflict.\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Critics argue:</b> globalisation benefits capital over labour; it has accelerated deindustrialisation in developed economies; it has suppressed wages in wealthier countries while enabling exploitation in developing ones; it has led to cultural standardisation and the erosion of local traditions.\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Contemporary trends:</b> some scholars identify a period of <em>deglobalisation</em> since 2008 financial crisis, Brexit, and the COVID-19 pandemic. <em>Reshoring</em> (returning production to domestic markets) and <em>nearshoring</em> (shifting production to neighbouring countries) are growing as companies seek supply chain resilience.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Globalisation has been credited with lifting hundreds of millions out of poverty, but critics argue it has widened inequality within nations.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Arguments For Globalisation",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Arguments Against Globalisation",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "It has reduced poverty in developing countries.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "It has led to deindustrialisation in wealthy nations.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "It has increased access to affordable goods.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_4",
+                  "text": "It has suppressed wages in developed economies.",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_5",
+                  "text": "It fosters interdependence that may reduce conflict.",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_6",
+                  "text": "It accelerates cultural homogenisation.",
+                  "correctCategory": "cat_2"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'reshoring' mean?",
+                  "options": [
+                    "Moving production to a neighbouring country",
+                    "Returning production to the company's home country",
+                    "Relocating a company's headquarters overseas",
+                    "Selling goods exclusively in domestic markets"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which of the following is a common criticism of globalisation?",
+                  "options": [
+                    "It reduces access to imported goods.",
+                    "It benefits capital over labour and may suppress wages.",
+                    "It increases cultural diversity in all regions.",
+                    "It reduces global trade volumes."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "title": "Advanced Business Negotiations",
+  "description": "Develop mastery of the linguistic, strategic, and cultural dimensions of high-level business negotiation in English. This course covers negotiation theory, tactical language, cross-cultural communication, deadlock resolution, and the production of binding written outcomes, designed for C2 professionals operating in senior international roles.",
+  "language": "en",
+  "difficulty_level": "C2",
+  "is_premium": true,
+  "preview_image": "Advanced Business Negotiations.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Negotiation Theory and Strategy",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Advanced Negotiation Frameworks: BATNA, ZOPA, and Integrative Strategy",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000141000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Advanced negotiation draws on decades of academic research in game theory, psychology, and organisational behaviour. C2-level practitioners need not only the language to negotiate fluently but the conceptual frameworks to do so strategically.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>BATNA</b> (Best Alternative to a Negotiated Agreement) — introduced by Roger Fisher and William Ury in <em>Getting to Yes</em> (1981) — is the most critical concept in negotiation strategy. Your BATNA is what you will do if no deal is reached. Knowing your BATNA, and estimating your counterpart's, determines the realistic limits of negotiation. Never accept a deal worse than your BATNA; never let the counterpart know your BATNA unless it strengthens your position.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>ZOPA</b> (Zone of Possible Agreement) is the range within which an agreement satisfactory to both parties is theoretically possible — where your acceptable range and the counterpart's acceptable range overlap. If no ZOPA exists, no agreement is possible without one party changing their reservation point. Identifying the ZOPA requires intelligence about the counterpart's interests and constraints.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Principled negotiation</b> (Fisher/Ury) advocates separating people from problems, focusing on interests rather than positions, generating options for mutual gain, and insisting on objective criteria. This integrative approach contrasts with <b>positional bargaining</b>, which is zero-sum and tends to damage relationships while producing suboptimal outcomes for both parties.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Understanding your BATNA is critical: never accept a deal worse than your best available alternative.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "BATNA",
+                  "right": "Your best option if the current negotiation fails"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "ZOPA",
+                  "right": "The range where both parties' acceptable outcomes overlap"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Reservation point",
+                  "right": "The minimum acceptable outcome beyond which you will not go"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Principled negotiation",
+                  "right": "Focus on interests, generate options for mutual gain"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Positional bargaining",
+                  "right": "Zero-sum approach based on stated positions rather than underlying interests"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "According to principled negotiation theory (Fisher/Ury), what should negotiators focus on rather than positions?",
+                  "options": [
+                    "Power and leverage",
+                    "Interests",
+                    "Emotions",
+                    "Legal rights"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "What is the ZOPA?",
+                  "options": [
+                    "The zone where one party has a dominant advantage",
+                    "The range within which an agreement satisfactory to both parties is possible",
+                    "The maximum price a buyer is willing to pay",
+                    "A framework for international trade agreements"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Tactical Language in Negotiations",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Opening, Probing, Conceding, and Closing",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000142000,\"blocks\":[{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Effective negotiators master a repertoire of linguistic tactics deployed at different stages of the negotiation. These tactics are not manipulative tricks but strategic tools for managing the flow of information, signalling flexibility, protecting your position, and building toward an agreement.\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Opening:</b> Set expectations and signal your approach. <em>'We're here today to find a mutually workable arrangement that reflects both parties' interests.'</em> / <em>'Before we begin, I'd like to establish a shared understanding of our objectives for this session.'</em>\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Probing interests:</b> <em>'Help me understand your concerns around the timeline.'</em> / <em>'What would be the ideal outcome for you on this particular point?'</em> / <em>'Is the payment schedule the primary concern, or is it more about risk allocation?'</em>\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Making conditional concessions:</b> Always link concessions to counter-concessions to avoid unilateral movement. <em>'If you can commit to the Q1 delivery window, we would be prepared to reconsider the unit pricing.'</em> / <em>'We could potentially move on the warranty terms, provided we can reach alignment on the liability cap.'</em>\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Closing:</b> Signal convergence and create momentum toward agreement. <em>'I think we're quite close on the main points. Let me summarise what I understand we've agreed…'</em> / <em>'Subject to confirmation of the delivery terms, I believe we have the basis for an agreement.'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "If you can commit to the Q1 delivery window, we would be prepared to reconsider the unit pricing.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following negotiation phrase aloud with appropriate professional confidence",
+                "targetPhrase": "We could potentially move on the warranty terms, provided we can reach alignment on the liability cap."
+              }
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700142001",
+                  "english": "Before we proceed, I'd like to establish a shared understanding of what we're both hoping to achieve in today's session.",
+                  "russian": "Прежде чем мы продолжим, я хотел бы сформировать общее понимание того, чего мы оба надеемся достичь в ходе сегодняшней встречи.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700142002",
+                  "english": "Subject to your team's confirmation of the delivery schedule, I believe we now have the basis for a workable agreement.",
+                  "russian": "При условии подтверждения вашей стороной графика поставок, я полагаю, что у нас теперь есть основа для практически осуществимого соглашения.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Why should concessions be made conditionally in a negotiation?",
+                  "options": [
+                    "To confuse the counterpart about your true position",
+                    "To create a legal record of the concession",
+                    "To link your concession to a counter-concession, avoiding unilateral movement",
+                    "To signal that you are not seriously interested in the agreement"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Managing Difficult Situations",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Deadlock, Aggressive Tactics, and Emotional Intelligence",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000143000,\"blocks\":[{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Even skilled negotiators encounter situations where negotiations stall, counterparts deploy aggressive tactics, or emotions run high. Effective management of these situations requires a combination of strategic repertoire, psychological resilience, and precise language.\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common aggressive tactics and counter-moves:</b>\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>Artificial deadline</em>: 'This offer expires at midnight.' → <em>'I appreciate the urgency, but we're not in a position to make a commitment of this scale without proper due diligence.'</em>\",\"<em>Extreme opening position</em>: → <em>'That's a significant distance from our parameters, but let's understand the reasoning behind it before we respond.'</em>\",\"<em>Take-it-or-leave-it</em>: → <em>'We note your position. We believe there's a better outcome available to both of us if we explore the underlying interests.'</em>\",\"<em>Good cop / bad cop</em>: Acknowledge it explicitly: <em>'I notice there are different views within your delegation — perhaps we could take a break to allow you to consolidate your position?'</em>\"]}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Managing deadlock:</b> When negotiations stall, options include: introducing a new variable ('Is there a packaging or structuring alternative we haven't yet considered?'); agreeing to disagree on a minor point and moving to areas of convergence; bringing in a third-party mediator; adjourning and returning with fresh perspectives.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I appreciate the urgency, but we are not in a position to make a commitment of this scale without completing our due diligence.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "Counterpart: 'This is our final offer, take it or leave it.' Your response: 'Fine, we'll take it then.' [Bad move]",
+                  "correctText": "Response: 'We note your position. We believe there may be a better outcome available to both of us if we explore the underlying interests a little further.'"
+                },
+                {
+                  "text": "Counterpart: 'You have until 5pm today.' Your response: 'OK, we'll rush our decision.' [Bad move]",
+                  "correctText": "Response: 'I appreciate the urgency. However, a commitment of this magnitude requires proper due diligence, and we would not be serving either party's interests by rushing.'"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "When a counterpart uses a 'take-it-or-leave-it' tactic, what is the most strategically sophisticated response?",
+                  "options": [
+                    "Immediately accept the offer to avoid conflict",
+                    "Walk away from the negotiation immediately",
+                    "Note the position and propose exploring underlying interests to find a better outcome for both parties",
+                    "Counter with an equally extreme position"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Cross-Cultural Negotiation",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Cultural Dimensions and Communication Styles in Negotiation",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000144000,\"blocks\":[{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Cultural differences profoundly affect negotiation dynamics — from how disagreement is expressed to whether building personal relationships is a prerequisite for business, from attitudes toward time and deadlines to the role of hierarchy in decision-making. At C2 level, practitioners need sophisticated frameworks for navigating cross-cultural negotiation.\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"Geert Hofstede's cultural dimensions framework identifies key variables: <b>power distance</b> (acceptance of hierarchical authority), <b>individualism/collectivism</b>, <b>uncertainty avoidance</b> (tolerance for ambiguity and risk), <b>long-term/short-term orientation</b>, and <b>indulgence/restraint</b>. These dimensions predict broad patterns but must not be applied as stereotypes.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>High-context vs. low-context communication</b> (Edward Hall): In high-context cultures (Japan, China, the Arab world), much meaning is embedded in context, non-verbal cues, and the relationship between parties — what is said is less important than how it is said and by whom. In low-context cultures (US, Germany, Scandinavia), meaning is primarily conveyed through explicit verbal communication.\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Practical implications:</b> In high-context cultures, building rapport and trust before discussing substance is not optional — it is prerequisite. Silence may signal consideration rather than disagreement. 'Yes' may mean 'I hear you' rather than 'I agree'. A refusal may be expressed as an expression of difficulty (<em>'That would be very difficult'</em>) rather than direct negation.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "In high-context cultures, silence during negotiation may signal careful consideration rather than disagreement.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "High-context culture",
+                  "right": "Meaning is embedded in context, relationship, and non-verbal cues"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Low-context culture",
+                  "right": "Meaning is conveyed primarily through explicit verbal communication"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Power distance",
+                  "right": "The extent to which less powerful members accept hierarchical authority"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Uncertainty avoidance",
+                  "right": "Tolerance for ambiguity and willingness to take risks"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Long-term orientation",
+                  "right": "Preference for future rewards over immediate gratification"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700144001",
+                  "english": "In high-context cultures, building a relationship of trust is a prerequisite for substantive business discussion, not a social nicety.",
+                  "russian": "В культурах с высоким контекстом выстраивание отношений доверия является необходимым условием для содержательных деловых переговоров, а не просто социальной любезностью.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700144002",
+                  "english": "An indirect refusal — 'that would be very difficult' — may carry the full weight of a firm 'no' in certain negotiating cultures.",
+                  "russian": "Косвенный отказ — «это было бы очень сложно» — может иметь полный вес твёрдого «нет» в определённых культурах ведения переговоров.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In a high-context negotiating culture, what does a prolonged silence typically signal?",
+                  "options": [
+                    "Confusion or lack of preparation",
+                    "Complete agreement with the proposal",
+                    "Careful consideration or discomfort, not necessarily disagreement",
+                    "A request for the other party to repeat themselves"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Written Negotiation Outcomes",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "MOUs, Term Sheets, and Heads of Agreement",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000145000,\"blocks\":[{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Business negotiations typically culminate in written documents that record the parties' intentions or commitments at various levels of binding force. Understanding the legal and practical distinctions between these documents is essential for senior business professionals.\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Memorandum of Understanding (MOU)</b>: A document recording the parties' agreed intentions and the parameters of their proposed relationship, typically not legally binding but morally and commercially significant. Used to record agreement in principle before full contractual drafting.\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Term sheet / Heads of Terms / Heads of Agreement</b>: A document summarising the key commercial terms of a proposed transaction (price, structure, conditions precedent, exclusivity period) before the full contract is drafted. Typically short-form and non-binding on substantive terms, but sometimes binding on confidentiality and exclusivity provisions.\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Letter of Intent (LOI)</b>: Signals a party's serious intention to proceed with a transaction. Typically contains both binding provisions (exclusivity, confidentiality, expense provisions) and non-binding provisions (the proposed commercial terms). The distinction between binding and non-binding provisions must be made explicit in the document.\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key drafting language:</b> <em>'For the avoidance of doubt, this document does not constitute a legally binding agreement on the commercial terms described herein.'</em> / <em>'The provisions of this clause shall survive termination of this agreement.'</em> / <em>'The parties shall negotiate in good faith to enter into a definitive agreement on or before [date].'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "For the avoidance of doubt, this memorandum of understanding does not constitute a legally binding agreement on the commercial terms described herein.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "MOU",
+                  "right": "Non-binding record of agreed intentions and parameters"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Term sheet",
+                  "right": "Summary of key commercial terms before full contract drafting"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Letter of Intent",
+                  "right": "Signal of serious intention; may contain some binding provisions"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Exclusivity period",
+                  "right": "Period during which one party may not negotiate with third parties"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Condition precedent",
+                  "right": "Event that must occur before the agreement becomes operative"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "A document summarising key commercial terms before a full contract is drafted; typically non-binding on substance",
+                  "word": "term sheet"
+                },
+                {
+                  "hint": "An obligation requiring parties to negotiate toward a definitive agreement in an honest and fair manner",
+                  "word": "good faith obligation"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the primary purpose of a 'Memorandum of Understanding' in a business context?",
+                  "options": [
+                    "To create a legally binding contract enforceable in court",
+                    "To record the parties' agreed intentions and parameters before full contractual drafting",
+                    "To provide a summary of the final agreed contract terms",
+                    "To register a trademark or intellectual property right"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Post-Negotiation Communication",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Recording, Confirming, and Following Up After Negotiation",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000146000,\"blocks\":[{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"The period immediately after a negotiation session is as strategically important as the session itself. Prompt, accurate written confirmation of what was agreed — and what was not — prevents misunderstanding, creates a documentary record, and demonstrates professionalism.\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Confirmation email / follow-up note conventions:</b> Send within 24 hours. Open with reference to the meeting. List agreed points clearly, separated from points still under discussion. Identify next steps and responsible parties. Specify any agreed timeline or deadline for follow-up. Close formally.\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Language for confirmation:</b> <em>'Further to our meeting on [date], I write to confirm our mutual understanding of the points agreed.'</em> / <em>'The following is our record of the agreements reached at today's session, subject to your confirmation.'</em> / <em>'Points on which alignment has not yet been reached include: [list].'</em>\"}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Managing divergent recollections:</b> Parties sometimes recall the same discussion differently. If a counterpart's confirmation email misrepresents what was agreed, respond promptly and diplomatically: <em>'Thank you for your note. We note one area where our recollections appear to differ, and we would welcome the opportunity to clarify this before we proceed.'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Further to our meeting this morning, I write to confirm our mutual understanding of the key points agreed.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700146001",
+                  "english": "Further to our meeting on 14 April, I write to confirm our mutual understanding of the key points agreed and to outline the next steps.",
+                  "russian": "В продолжение нашей встречи 14 апреля я пишу, чтобы подтвердить наше взаимопонимание по ключевым согласованным вопросам и наметить дальнейшие шаги.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700146002",
+                  "english": "We note one area where our recollections of the discussion appear to differ, and would welcome the opportunity to clarify this at the earliest convenience.",
+                  "russian": "Мы отмечаем один аспект, в котором наши воспоминания о ходе обсуждения, по всей видимости, расходятся, и были бы рады возможности прояснить это при первом удобном случае.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Why is it important to send a written confirmation after a business negotiation session?",
+                  "options": [
+                    "To demonstrate that you are willing to accept all the terms discussed",
+                    "To prevent misunderstanding, create a documentary record, and establish what was agreed",
+                    "To signal to the counterpart that you no longer wish to negotiate",
+                    "To formally trigger the legal enforceability of the agreement"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "title": "Travel Smart: Trips & Transport",
+  "description": "Build the practical vocabulary and phrases you need to plan trips, navigate airports and stations, book accommodation, and handle travel problems confidently. Designed for A2 learners who want to travel independently in English-speaking countries.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Travel Smart: Trips & Transport.jpeg",
+  "topics": [
+    {
+      "title": "Module 1: Getting Around",
+      "subtopics": [
+        {
+          "title": "1.1 Transport Types",
+          "lessons": [
+            {
+              "title": "Planes, Trains and Buses",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700010001000,\"blocks\":[{\"id\":\"tA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you travel, you use different types of <b>transport</b>. Knowing the right words makes every journey easier.\"}},{\"id\":\"tD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Types of Transport\",\"level\":3}},{\"id\":\"tG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Plane / flight</b> — самолёт / рейс\",\"<b>Train</b> — поезд\",\"<b>Bus / coach</b> — автобус\",\"<b>Taxi / cab</b> — такси\",\"<b>Underground / metro / subway</b> — метро\",\"<b>Ferry</b> — паром\",\"<b>Tram</b> — трамвай\"]}},{\"id\":\"tJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Useful Verbs\",\"level\":3}},{\"id\":\"tM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>catch / miss</b> a bus/train — успеть / опоздать\",\"<b>book / reserve</b> a ticket — забронировать\",\"<b>board</b> the plane — сесть в самолёт\",\"<b>get off</b> at a stop — выйти на остановке\",\"<b>transfer / change</b> trains — сделать пересадку\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Excuse me, which platform does the train to London leave from? Do I need to change trains?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    { "text": "Which platform?", "translation": "Какая платформа?" },
+                    { "text": "A single / return ticket, please.", "translation": "Один билет в одну сторону / туда-обратно." },
+                    { "text": "Does this bus go to the city centre?", "translation": "Этот автобус едет в центр города?" },
+                    { "text": "I'd like to book a seat.", "translation": "Я хотел(а) бы забронировать место." },
+                    { "text": "What time does it arrive?", "translation": "Во сколько он прибывает?" }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    { "id": "pair_1", "left": "board", "right": "get on a plane or bus" },
+                    { "id": "pair_2", "left": "transfer", "right": "change to another train" },
+                    { "id": "pair_3", "left": "return ticket", "right": "ticket to go and come back" },
+                    { "id": "pair_4", "left": "platform", "right": "where you wait for the train" },
+                    { "id": "pair_5", "left": "ferry", "right": "a boat that carries passengers" }
+                  ],
+                  "shuffleRight": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 At the Airport",
+          "lessons": [
+            {
+              "title": "Airport Vocabulary and Procedures",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700010002000,\"blocks\":[{\"id\":\"aA1pP2qQ3r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Airports can be confusing! This lesson covers the essential words and phrases for a smooth airport experience.\"}},{\"id\":\"aS4tT5uU6v\",\"type\":\"header\",\"data\":{\"text\":\"Key Airport Areas\",\"level\":3}},{\"id\":\"aW7xX8yY9z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Check-in desk</b> — стойка регистрации\",\"<b>Security / security check</b> — досмотр\",\"<b>Departure lounge / gate</b> — зал ожидания / выход\",\"<b>Baggage claim</b> — получение багажа\",\"<b>Customs</b> — таможня\",\"<b>Arrivals / Departures board</b> — табло прилёта / вылета\"]}},{\"id\":\"aB0cC1dD2e\",\"type\":\"header\",\"data\":{\"text\":\"Typical Questions at the Airport\",\"level\":3}},{\"id\":\"aF3gG4hH5i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>May I see your passport?</b>\",\"<b>Do you have any luggage to check in?</b>\",\"<b>Is this your carry-on?</b>\",\"<b>Your flight is boarding at gate 12.</b>\",\"<b>The flight has been delayed by 30 minutes.</b>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Good morning. Can I see your passport and boarding pass, please? Are you checking in any luggage?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "fill-gaps",
+                  "text": "Please go to ___ 14 for boarding. Your flight ___ at 10:45. Don't forget to pick up your ___ at baggage claim.",
+                  "gaps": [
+                    { "position": 1, "answer": "gate", "options": ["gate", "desk", "platform", "counter"] },
+                    { "position": 2, "answer": "departs", "options": ["departs", "arrives", "lands", "stops"] },
+                    { "position": 3, "answer": "luggage", "options": ["luggage", "ticket", "passport", "boarding pass"] }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Where do you collect your bags after a flight?",
+                      "options": ["Check-in desk", "Security", "Baggage claim", "Departure lounge"],
+                      "correctOptions": [2]
+                    },
+                    {
+                      "text": "What does 'delayed' mean?",
+                      "options": ["Cancelled", "On time", "Later than scheduled", "Boarding now"],
+                      "correctOptions": [2]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Booking & Accommodation",
+      "subtopics": [
+        {
+          "title": "2.1 Hotels and Hostels",
+          "lessons": [
+            {
+              "title": "Booking a Room",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700010003000,\"blocks\":[{\"id\":\"hA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Knowing how to book and check into a hotel is an essential travel skill. Let's look at the key vocabulary and common phrases.\"}},{\"id\":\"hD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Room Types\",\"level\":3}},{\"id\":\"hG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Single room</b> — одноместный номер\",\"<b>Double room</b> — двухместный номер (одна кровать)\",\"<b>Twin room</b> — двухместный номер (две кровати)\",\"<b>Suite</b> — люкс\"]}},{\"id\":\"hJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Useful Phrases\",\"level\":3}},{\"id\":\"hM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I'd like to make a reservation.</b> — Я хотел(а) бы сделать бронирование.\",\"<b>I have a booking under the name...</b> — У меня бронь на имя...\",\"<b>Is breakfast included?</b> — Завтрак включён?\",\"<b>What time is check-out?</b> — В какое время нужно освободить номер?\",\"<b>Can I have a receipt, please?</b> — Можно чек?\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    { "text": "I'd like to check in.", "translation": "Я хотел(а) бы заселиться." },
+                    { "text": "Do you have any rooms available?", "translation": "У вас есть свободные номера?" },
+                    { "text": "How much is it per night?", "translation": "Сколько стоит за ночь?" },
+                    { "text": "I'd like a non-smoking room.", "translation": "Мне нужен номер для некурящих." },
+                    { "text": "Can I extend my stay?", "translation": "Могу ли я продлить проживание?" }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I'd like to ___ a double room, please.",
+                      "answers": ["book", "reserve"]
+                    },
+                    {
+                      "sentence": "Is ___ included in the price?",
+                      "answers": ["breakfast", "dinner"]
+                    },
+                    {
+                      "sentence": "What time is ___?",
+                      "answers": ["check-out", "checkout"]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Handling Problems",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "When Things Go Wrong",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700010004000,\"blocks\":[{\"id\":\"wA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Travel doesn't always go smoothly. This lesson teaches you how to explain problems and ask for help.\"}},{\"id\":\"wD4eE5fF6g\",\"type\":\"header\",\"data\":{\"text\":\"Common Travel Problems\",\"level\":3}},{\"id\":\"wG7hH8iI9j\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"My luggage is <b>lost / missing</b>.\",\"My flight has been <b>cancelled / delayed</b>.\",\"I've <b>missed</b> my connection.\",\"I <b>lost</b> my passport / wallet.\",\"The room is <b>too noisy / dirty</b>.\"]}},{\"id\":\"wJ0kK1lL2m\",\"type\":\"header\",\"data\":{\"text\":\"Asking for Help\",\"level\":3}},{\"id\":\"wM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Excuse me, can you help me?</b>\",\"<b>I need to speak to the manager.</b>\",\"<b>I'd like to report a problem.</b>\",\"<b>Is there a replacement flight?</b>\",\"<b>Where is the nearest police station?</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Excuse me, I think my luggage is missing. I arrived on flight BA204 but my suitcase didn't come through on the belt.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Your flight is 2 hours late. Which word describes this?",
+                  "options": ["cancelled", "delayed", "missed", "departed"],
+                  "correctOptions": [1]
+                },
+                {
+                  "text": "Which sentence correctly reports a problem?",
+                  "options": ["I'd like to report a problem.", "I want problem report.", "Problem I have.", "Report problem please now."],
+                  "correctOptions": [0]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1161 @@
+{
+  "title": "Food & Drinks",
+  "description": "Discover essential food and drink vocabulary in English, learn to express likes and dislikes, and practice ordering simple meals. Great for beginners who want to communicate in restaurants and at the table.",
+  "language": "en",
+  "difficulty_level": "A1",
+  "is_premium": true,
+  "preview_image": "Food & Drinks.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Common Foods",
+      "subtopics": [
+        {
+          "title": "1.1 Fruit and Vegetables",
+          "lessons": [
+            {
+              "title": "Names of Fruits",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700004001000,\"blocks\":[{\"id\":\"aA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the most common <b>fruits</b> in English:\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>apple</b> — яблоко\",\"<b>banana</b> — банан\",\"<b>orange</b> — апельсин\",\"<b>strawberry</b> — клубника\",\"<b>grape</b> — виноград\",\"<b>lemon</b> — лимон\",\"<b>mango</b> — манго\",\"<b>pear</b> — груша\",\"<b>watermelon</b> — арбуз\",\"<b>cherry</b> — вишня\"]}},{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Fruits are often <b>countable</b>: an apple, two bananas, three oranges.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I like apples, bananas, and strawberries.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "apple",
+                      "translation": "яблоко"
+                    },
+                    {
+                      "text": "banana",
+                      "translation": "банан"
+                    },
+                    {
+                      "text": "strawberry",
+                      "translation": "клубника"
+                    },
+                    {
+                      "text": "orange",
+                      "translation": "апельсин"
+                    },
+                    {
+                      "text": "watermelon",
+                      "translation": "арбуз"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700004001001",
+                      "left": "apple",
+                      "right": "яблоко"
+                    },
+                    {
+                      "id": "1700004001002",
+                      "left": "banana",
+                      "right": "банан"
+                    },
+                    {
+                      "id": "1700004001003",
+                      "left": "strawberry",
+                      "right": "клубника"
+                    },
+                    {
+                      "id": "1700004001004",
+                      "left": "lemon",
+                      "right": "лимон"
+                    },
+                    {
+                      "id": "1700004001005",
+                      "left": "watermelon",
+                      "right": "арбуз"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "apple",
+                    "banana",
+                    "lemon",
+                    "cherry"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which fruit is yellow and long?",
+                      "options": [
+                        "apple",
+                        "cherry",
+                        "banana",
+                        "grape"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "What color is an orange?",
+                      "options": [
+                        "yellow",
+                        "red",
+                        "orange",
+                        "green"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Names of Vegetables",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700004002000,\"blocks\":[{\"id\":\"jJ0kK1lL2m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are common <b>vegetables</b> in English:\"}},{\"id\":\"mM3nN4oO5p\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>carrot</b> — морковь\",\"<b>potato</b> — картофель\",\"<b>tomato</b> — помидор\",\"<b>cucumber</b> — огурец\",\"<b>onion</b> — лук\",\"<b>garlic</b> — чеснок\",\"<b>lettuce</b> — салат (листовой)\",\"<b>pepper</b> — перец\",\"<b>cabbage</b> — капуста\",\"<b>mushroom</b> — гриб\"]}},{\"id\":\"pP6qQ7rR8s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Note: <em>tomato</em> and <em>potato</em> are plural: tomatoes, potatoes.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Carrot, potato, tomato, cucumber, onion.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "1700004002001",
+                      "left": "carrot",
+                      "right": "морковь"
+                    },
+                    {
+                      "id": "1700004002002",
+                      "left": "potato",
+                      "right": "картофель"
+                    },
+                    {
+                      "id": "1700004002003",
+                      "left": "tomato",
+                      "right": "помидор"
+                    },
+                    {
+                      "id": "1700004002004",
+                      "left": "cucumber",
+                      "right": "огурец"
+                    },
+                    {
+                      "id": "1700004002005",
+                      "left": "onion",
+                      "right": "лук"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_fruits",
+                      "name": "Fruits",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_vegs",
+                      "name": "Vegetables",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "apple",
+                      "correctCategory": "cat_fruits"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "banana",
+                      "correctCategory": "cat_fruits"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "carrot",
+                      "correctCategory": "cat_vegs"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "potato",
+                      "correctCategory": "cat_vegs"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "strawberry",
+                      "correctCategory": "cat_fruits"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "cucumber",
+                      "correctCategory": "cat_vegs"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which word means 'морковь'?",
+                      "options": [
+                        "onion",
+                        "carrot",
+                        "potato",
+                        "tomato"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What is the plural of 'potato'?",
+                      "options": [
+                        "potatos",
+                        "potatoes",
+                        "potato's",
+                        "potatoes"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Bread, Meat and Dairy",
+          "lessons": [
+            {
+              "title": "Staple Foods",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700004003000,\"blocks\":[{\"id\":\"sS9tT0uU1v\",\"type\":\"paragraph\",\"data\":{\"text\":\"These are everyday staple foods you'll find in most homes:\"}},{\"id\":\"vV2wW3xX4y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Bread and grains:</b>\"}},{\"id\":\"yY5zZ6aA7b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>bread</b> — хлеб\",\"<b>rice</b> — рис\",\"<b>pasta</b> — макароны\",\"<b>cereal</b> — хлопья\"]}},{\"id\":\"bB8cC9dD0e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Meat and fish:</b>\"}},{\"id\":\"eE1fF2gG3h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>chicken</b> — курица\",\"<b>beef</b> — говядина\",\"<b>pork</b> — свинина\",\"<b>fish</b> — рыба\"]}},{\"id\":\"hH4iI5jJ6k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Dairy:</b>\"}},{\"id\":\"kK7lL8mM9n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>milk</b> — молоко\",\"<b>cheese</b> — сыр\",\"<b>butter</b> — масло\",\"<b>egg</b> — яйцо\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I eat bread, cheese, and eggs for breakfast.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_grains",
+                      "name": "Bread & Grains",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_meat",
+                      "name": "Meat & Fish",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_dairy",
+                      "name": "Dairy",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "bread",
+                      "correctCategory": "cat_grains"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "rice",
+                      "correctCategory": "cat_grains"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "chicken",
+                      "correctCategory": "cat_meat"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "fish",
+                      "correctCategory": "cat_meat"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "milk",
+                      "correctCategory": "cat_dairy"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "cheese",
+                      "correctCategory": "cat_dairy"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "bread",
+                        "rice",
+                        "pasta",
+                        "chicken"
+                      ],
+                      "correctWord": "chicken"
+                    },
+                    {
+                      "words": [
+                        "milk",
+                        "cheese",
+                        "butter",
+                        "beef"
+                      ],
+                      "correctWord": "beef"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which word means 'сыр'?",
+                      "options": [
+                        "butter",
+                        "egg",
+                        "cheese",
+                        "milk"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Pasta is made from...",
+                      "options": [
+                        "milk",
+                        "flour (wheat)",
+                        "rice",
+                        "eggs"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Drinks",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Common Drinks",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700004004000,\"blocks\":[{\"id\":\"nN0oO1pP2q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Here are the most common <b>drinks</b> in English:\"}},{\"id\":\"qQ3rR4sS5t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>water</b> — вода\",\"<b>juice</b> — сок (apple juice, orange juice)\",\"<b>tea</b> — чай\",\"<b>coffee</b> — кофе\",\"<b>milk</b> — молоко\",\"<b>lemonade</b> — лимонад\",\"<b>soda / fizzy drink</b> — газировка\",\"<b>smoothie</b> — смузи\"]}},{\"id\":\"tT6uU7vV8w\",\"type\":\"paragraph\",\"data\":{\"text\":\"To order a drink:\"}},{\"id\":\"wW9xX0yY1z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Can I have a <b>tea</b>, please?\",\"I would like a glass of <b>water</b>.\",\"One <b>coffee</b>, please.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Can I have a glass of water, please?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "1700004004001",
+                  "left": "water",
+                  "right": "вода"
+                },
+                {
+                  "id": "1700004004002",
+                  "left": "juice",
+                  "right": "сок"
+                },
+                {
+                  "id": "1700004004003",
+                  "left": "tea",
+                  "right": "чай"
+                },
+                {
+                  "id": "1700004004004",
+                  "left": "coffee",
+                  "right": "кофе"
+                },
+                {
+                  "id": "1700004004005",
+                  "left": "lemonade",
+                  "right": "лимонад"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "A: What would you like to drink? B: Can I have a [glass] of [water], please? A: Of course! Anything [else]? B: No, [thank] you.",
+              "gaps": [
+                {
+                  "placeholder": "glass",
+                  "answers": [
+                    "glass",
+                    "cup"
+                  ]
+                },
+                {
+                  "placeholder": "water",
+                  "answers": [
+                    "water"
+                  ]
+                },
+                {
+                  "placeholder": "else",
+                  "answers": [
+                    "else"
+                  ]
+                },
+                {
+                  "placeholder": "thank",
+                  "answers": [
+                    "thank"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which is a hot drink?",
+                  "options": [
+                    "water",
+                    "lemonade",
+                    "coffee",
+                    "juice"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "How do you politely order a drink?",
+                  "options": [
+                    "Give me water!",
+                    "Water, now!",
+                    "Can I have water, please?",
+                    "I want water."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Likes and Dislikes",
+      "subtopics": [
+        {
+          "title": "3.1 I Like / I Don't Like",
+          "lessons": [
+            {
+              "title": "Expressing Food Preferences",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700004005000,\"blocks\":[{\"id\":\"zA2bB3cC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, we use <b>like</b> to say what we enjoy. After <em>like</em>, use a noun or <em>verb + -ing</em>:\"}},{\"id\":\"dD5eE6fF7g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I like</b> apples. ✓\",\"<b>I like</b> eating pizza. ✓\",\"<b>I don't like</b> onions. ✓\"]}},{\"id\":\"gG8hH9iI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Structure:</b>\"}},{\"id\":\"jJ1kK2lL3m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I like / I don't like + food noun\",\"She likes / She doesn't like + food noun\",\"He likes fish. / He doesn't like vegetables.\"]}},{\"id\":\"mM4nN5oO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask: <b>Do you like ...?</b>\"}},{\"id\":\"pP7qQ8rR9s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Do you like coffee? — Yes, I do. / No, I don't.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Do you like pizza? Yes, I do! I love it.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I ___ pizza.",
+                      "answers": [
+                        "like",
+                        "likes",
+                        "am"
+                      ]
+                    },
+                    {
+                      "sentence": "She ___ vegetables.",
+                      "answers": [
+                        "likes",
+                        "like",
+                        "is"
+                      ]
+                    },
+                    {
+                      "sentence": "They ___ not like fish.",
+                      "answers": [
+                        "do",
+                        "does",
+                        "are"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: Do you [like] pasta? B: Yes, I [do]! I love it. Do you like vegetables? A: I [don't] like onions, but I like [carrots].",
+                  "gaps": [
+                    {
+                      "placeholder": "like",
+                      "answers": [
+                        "like"
+                      ]
+                    },
+                    {
+                      "placeholder": "do",
+                      "answers": [
+                        "do"
+                      ]
+                    },
+                    {
+                      "placeholder": "don't",
+                      "answers": [
+                        "don't",
+                        "do not"
+                      ]
+                    },
+                    {
+                      "placeholder": "carrots",
+                      "answers": [
+                        "carrots"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "I like eat pizza.",
+                        "I like pizza.",
+                        "I am like pizza.",
+                        "I likes pizza."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Complete: She ___ vegetables. (positive for she/he)",
+                      "options": [
+                        "like",
+                        "likes",
+                        "liking",
+                        "liked"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Love, Like, Don't Like, Hate",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700004006000,\"blocks\":[{\"id\":\"sS0tT1uU2v\",\"type\":\"paragraph\",\"data\":{\"text\":\"We can express different levels of preference:\"}},{\"id\":\"vV3wW4xX5y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I love</b> chocolate! (very strong like)\",\"<b>I like</b> salad. ✓ (positive)\",\"<b>I don't mind</b> fish. (neutral — it's okay)\",\"<b>I don't like</b> garlic. ✗ (negative)\",\"<b>I hate</b> spicy food! (very strong dislike)\"]}},{\"id\":\"yY6zZ7aA8b\",\"type\":\"paragraph\",\"data\":{\"text\":\"To ask: <b>How do you like ...?</b> or <b>What do you think of ...?</b>\"}},{\"id\":\"bB9cC0dD1e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Example: <em>I <b>love</b> pasta, but I <b>hate</b> raw onions.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I love chocolate! But I hate spicy food.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700004006001",
+                      "english": "I love chocolate.",
+                      "russian": "Я обожаю шоколад.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700004006002",
+                      "english": "She doesn't like fish.",
+                      "russian": "Она не любит рыбу.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700004006003",
+                      "english": "Do you like coffee?",
+                      "russian": "Ты любишь кофе?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700004006004",
+                      "english": "He hates onions.",
+                      "russian": "Он ненавидит лук.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "I love it",
+                        "I like it",
+                        "I hate it",
+                        "It's great"
+                      ],
+                      "correctWord": "I hate it"
+                    },
+                    {
+                      "words": [
+                        "I don't like it",
+                        "I hate it",
+                        "I dislike it",
+                        "I love it"
+                      ],
+                      "correctWord": "I love it"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence expresses the strongest like?",
+                      "options": [
+                        "I don't mind it.",
+                        "I like it.",
+                        "I love it.",
+                        "It's okay."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Complete: She ___ like spicy food.",
+                      "options": [
+                        "doesn't",
+                        "don't",
+                        "not",
+                        "no"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: At the Café",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Ordering Food and Drinks",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700004007000,\"blocks\":[{\"id\":\"eE2fF3gG4h\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you go to a café or restaurant, you need to order food. Here are key phrases:\"}},{\"id\":\"hH5iI6jJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Waiter to customer:</b>\"}},{\"id\":\"kK8lL9mM0n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Can I help you?\",\"What would you like?\",\"Are you ready to order?\"]}},{\"id\":\"nN1oO2pP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Customer to waiter:</b>\"}},{\"id\":\"qQ4rR5sS6t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>I would like</b> a coffee, please.\",\"<b>Can I have</b> a sandwich?\",\"<b>I'll have</b> the pasta.\",\"Could I have the bill/check, please?\"]}},{\"id\":\"tT7uU8vV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Polite words:</b> <em>please</em> and <em>thank you</em> are very important!\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I would like a coffee and a sandwich, please.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following sentence aloud",
+                "targetPhrase": "Can I have a coffee and a sandwich, please?"
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "Waiter: Are you ready to [order]? Customer: Yes! I [would] like a coffee and a [sandwich], please. Waiter: [Of] course! Anything else? Customer: No, [thank] you.",
+              "gaps": [
+                {
+                  "placeholder": "order",
+                  "answers": [
+                    "order"
+                  ]
+                },
+                {
+                  "placeholder": "would",
+                  "answers": [
+                    "would"
+                  ]
+                },
+                {
+                  "placeholder": "sandwich",
+                  "answers": [
+                    "sandwich"
+                  ]
+                },
+                {
+                  "placeholder": "Of",
+                  "answers": [
+                    "Of"
+                  ]
+                },
+                {
+                  "placeholder": "thank",
+                  "answers": [
+                    "thank"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700004007001",
+                  "english": "Can I have a glass of water, please?",
+                  "russian": "Можно мне стакан воды, пожалуйста?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700004007002",
+                  "english": "I would like the pasta.",
+                  "russian": "Я бы хотел(а) пасту.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700004007003",
+                  "english": "Could I have the bill, please?",
+                  "russian": "Можно счёт, пожалуйста?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700004007004",
+                  "english": "What would you like?",
+                  "russian": "Что вы хотите заказать?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "How do you politely order a meal?",
+                  "options": [
+                    "Give me pasta!",
+                    "I want pasta.",
+                    "I would like the pasta, please.",
+                    "Pasta now!"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "What do you say to ask for the bill?",
+                  "options": [
+                    "Can I have more food?",
+                    "Could I have the bill, please?",
+                    "What would you like?",
+                    "Are you ready to order?"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Meals of the Day",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Breakfast, Lunch and Dinner",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700004008000,\"blocks\":[{\"id\":\"wW0xX1yY2z\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, the three main meals of the day are:\"}},{\"id\":\"zA3bB4cC5d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>breakfast</b> — завтрак (in the morning, usually 7–9 am)\",\"<b>lunch</b> — обед (in the afternoon, usually 12–2 pm)\",\"<b>dinner</b> — ужин (in the evening, usually 6–8 pm)\"]}},{\"id\":\"dD6eE7fF8g\",\"type\":\"paragraph\",\"data\":{\"text\":\"A small meal between meals is a <b>snack</b>.\"}},{\"id\":\"gG9hH0iI1j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Typical breakfast foods: toast, eggs, cereal, coffee, juice.\"}},{\"id\":\"jJ2kK3lL4m\",\"type\":\"paragraph\",\"data\":{\"text\":\"Typical lunch foods: sandwich, soup, salad.\"}},{\"id\":\"mM5nN6oO7p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Typical dinner foods: meat, fish, pasta, vegetables.\"}},{\"id\":\"pP8qQ9rR0s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful phrases:\"}},{\"id\":\"sS1tT2uU3v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>What do you have for breakfast?</b>\",\"<b>I usually eat toast for breakfast.</b>\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I eat breakfast in the morning. I have lunch at noon.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_breakfast",
+                  "name": "Breakfast",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_lunch",
+                  "name": "Lunch",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_dinner",
+                  "name": "Dinner",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "cereal",
+                  "correctCategory": "cat_breakfast"
+                },
+                {
+                  "id": "item_2",
+                  "text": "toast",
+                  "correctCategory": "cat_breakfast"
+                },
+                {
+                  "id": "item_3",
+                  "text": "sandwich",
+                  "correctCategory": "cat_lunch"
+                },
+                {
+                  "id": "item_4",
+                  "text": "soup",
+                  "correctCategory": "cat_lunch"
+                },
+                {
+                  "id": "item_5",
+                  "text": "pasta",
+                  "correctCategory": "cat_dinner"
+                },
+                {
+                  "id": "item_6",
+                  "text": "steak",
+                  "correctCategory": "cat_dinner"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "I eat [breakfast] in the morning. I have [lunch] at noon. I eat [dinner] in the evening. Sometimes I have a [snack] between meals.",
+              "gaps": [
+                {
+                  "placeholder": "breakfast",
+                  "answers": [
+                    "breakfast"
+                  ]
+                },
+                {
+                  "placeholder": "lunch",
+                  "answers": [
+                    "lunch"
+                  ]
+                },
+                {
+                  "placeholder": "dinner",
+                  "answers": [
+                    "dinner"
+                  ]
+                },
+                {
+                  "placeholder": "snack",
+                  "answers": [
+                    "snack"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which meal is eaten in the morning?",
+                  "options": [
+                    "lunch",
+                    "dinner",
+                    "breakfast",
+                    "snack"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "What is a 'snack'?",
+                  "options": [
+                    "A main meal",
+                    "A small meal between meals",
+                    "A drink",
+                    "Dinner"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Food Vocabulary Review",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Food and Drinks Final Review",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700004009000,\"blocks\":[{\"id\":\"vV4wW5xX6y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's put everything together from this course!\"}},{\"id\":\"yY7zZ8aA9b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Vocabulary covered:</b>\"}},{\"id\":\"bB0cC1dD2e\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Fruits: apple, banana, orange, strawberry, grapes, lemon...\",\"Vegetables: carrot, potato, tomato, cucumber, onion...\",\"Staple foods: bread, rice, pasta, chicken, cheese, eggs...\",\"Drinks: water, juice, tea, coffee, lemonade...\"]}},{\"id\":\"eE3fF4gG5h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key grammar:</b>\"}},{\"id\":\"hH6iI7jJ8k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I like / don't like + noun\",\"I would like / Can I have + noun (ordering)\",\"Do you like ...? Yes, I do. / No, I don't.\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I like pasta but I don't like fish. Can I have a cup of tea, please?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "listen-write",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [
+                {
+                  "text": "apple",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "apple"
+                },
+                {
+                  "text": "coffee",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "coffee"
+                },
+                {
+                  "text": "sandwich",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "sandwich"
+                }
+              ],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700004009001",
+                  "english": "I love pasta but I don't like fish.",
+                  "russian": "Я люблю пасту, но не люблю рыбу.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700004009002",
+                  "english": "Can I have a cup of tea, please?",
+                  "russian": "Можно мне чашку чая, пожалуйста?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700004009003",
+                  "english": "What do you usually eat for breakfast?",
+                  "russian": "Что ты обычно ешь на завтрак?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700004009004",
+                  "english": "She likes vegetables and fruit.",
+                  "russian": "Она любит овощи и фрукты.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence is correct?",
+                  "options": [
+                    "I like eat pasta.",
+                    "I like pasta.",
+                    "I am like pasta.",
+                    "I like to pasta."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "How do you politely order food?",
+                  "options": [
+                    "Give me pasta.",
+                    "I want pasta!",
+                    "I would like the pasta, please.",
+                    "Pasta now."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Which is a drink?",
+                  "options": [
+                    "rice",
+                    "carrot",
+                    "lemonade",
+                    "chicken"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

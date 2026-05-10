@@ -1,0 +1,1058 @@
+{
+  "title": "At the Restaurant",
+  "description": "Master the vocabulary and phrases needed to read a menu, order food and drinks, interact with waitstaff, and pay the bill in English-speaking restaurants. Ideal for A1 completers who dine out or plan to eat at restaurants abroad.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": true,
+  "preview_image": "At the Restaurant.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Food and Drink Vocabulary",
+      "subtopics": [
+        {
+          "title": "1.1 Types of Food",
+          "lessons": [
+            {
+              "title": "Main Course and Side Dishes",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000401000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let's learn vocabulary for different parts of a meal:\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Starters (appetisers):</b> soup, salad, garlic bread, bruschetta, chicken wings\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Main courses:</b>\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>grilled</b> — cooked on a grill (grilled chicken, grilled salmon)\",\"<b>roasted</b> — cooked in an oven (roast beef, roast vegetables)\",\"<b>fried</b> — cooked in hot oil (fried chicken, fried eggs)\",\"<b>baked</b> — cooked in an oven (baked potato, baked salmon)\",\"<b>steamed</b> — cooked with steam (steamed fish, steamed vegetables)\"]}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Side dishes:</b> chips (British) / fries (American), mashed potato, rice, couscous, mixed salad\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Desserts:</b> chocolate cake, ice cream, cheesecake, fruit salad, tiramisu\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I'd like the grilled salmon, please.",
+                      "translation": "Пожалуйста, жареного лосося."
+                    },
+                    {
+                      "text": "What's today's daily special?",
+                      "translation": "Какое сегодня блюдо дня?"
+                    },
+                    {
+                      "text": "I'll have the roast beef.",
+                      "translation": "Я возьму жареную говядину."
+                    },
+                    {
+                      "text": "Could I have the cheesecake for dessert?",
+                      "translation": "Можно мне чизкейк на десерт?"
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Starter",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Main Course",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_3",
+                      "name": "Dessert",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "garlic bread",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "grilled salmon",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "chocolate cake",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "soup",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "roast beef",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "ice cream",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_7",
+                      "text": "chicken wings",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_8",
+                      "text": "cheesecake",
+                      "correctCategory": "cat_3"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "For starters I'll have garlic bread. For the main course, I'd like grilled salmon please.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "grilled",
+                    "roasted",
+                    "baked",
+                    "steamed"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "'Grilled' food is cooked ___.",
+                      "options": [
+                        "in hot oil",
+                        "in an oven",
+                        "on a grill",
+                        "with steam"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "In British English, 'chips' are ___.",
+                      "options": [
+                        "crisps",
+                        "biscuits",
+                        "fried potato slices (French fries)",
+                        "mashed potato"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Drinks and Dietary Preferences",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000402000,\"blocks\":[{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"Knowing drinks vocabulary and dietary terms is essential for eating out:\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Drinks:</b> still water, sparkling water, soft drink (Coke, lemonade), fruit juice, beer, wine (red/white/rosé), tea, coffee, cappuccino, espresso\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Dietary terms:</b>\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>vegetarian</b> — does not eat meat or fish\",\"<b>vegan</b> — does not eat any animal products\",\"<b>gluten-free</b> — cannot eat wheat/gluten\",\"<b>dairy-free</b> — cannot eat milk products\",\"<b>nut allergy</b> — cannot eat nuts\"]}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Phrases:</b><br><em>I'm vegetarian. Do you have any vegetarian options? / Is this dish gluten-free?</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "still water",
+                      "right": "негазированная вода"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "sparkling water",
+                      "right": "газированная вода"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "vegetarian",
+                      "right": "вегетарианец"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "gluten-free",
+                      "right": "без глютена"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "dairy-free",
+                      "right": "без молочных продуктов"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'm vegetarian. Do you have any vegetarian options? Is this dish gluten-free?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Does not eat meat or fish",
+                      "word": "vegetarian"
+                    },
+                    {
+                      "hint": "Does not eat any animal products at all",
+                      "word": "vegan"
+                    },
+                    {
+                      "hint": "Water with bubbles",
+                      "word": "sparkling water"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000402001",
+                      "english": "I'm vegetarian. Do you have any vegetarian options?",
+                      "russian": "Я вегетарианец. У вас есть вегетарианские блюда?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000402002",
+                      "english": "Is this dish gluten-free?",
+                      "russian": "Это блюдо без глютена?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000402003",
+                      "english": "I'd like a glass of sparkling water, please.",
+                      "russian": "Пожалуйста, стакан газированной воды.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A vegetarian person does NOT eat ___.",
+                      "options": [
+                        "bread",
+                        "meat",
+                        "fruit",
+                        "rice"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What is the difference between 'still' and 'sparkling' water?",
+                      "options": [
+                        "still is cold, sparkling is warm",
+                        "still has no bubbles, sparkling has bubbles",
+                        "they are the same",
+                        "still is more expensive"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Reading the Menu",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Understanding a Menu",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000403000,\"blocks\":[{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"A restaurant <b>menu</b> is usually divided into sections. Understanding these will help you order:\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Set menu / table d'hôte</b> — a fixed-price menu with limited choices\",\"<b>À la carte</b> — each dish is priced separately\",\"<b>Daily specials</b> — dishes that change every day\",\"<b>Chef's recommendation</b> — the dish the chef suggests\"]}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Reading dish descriptions — useful adjectives:</b>\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>tender</b> — soft and easy to chew (tender chicken)\",\"<b>crispy</b> — hard and slightly crunchy on the outside\",\"<b>creamy</b> — smooth and rich, made with cream\",\"<b>spicy</b> — has a hot, peppery taste\",\"<b>mild</b> — not spicy or strong-tasting\",\"<b>fresh</b> — not frozen, made from new ingredients\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Today's daily special is creamy pasta. It's mild and very tender.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "tender",
+                  "right": "нежный, мягкий"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "crispy",
+                  "right": "хрустящий"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "creamy",
+                  "right": "сливочный"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "spicy",
+                  "right": "острый"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "mild",
+                  "right": "не острый"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "tender",
+                    "crispy",
+                    "spicy",
+                    "furniture"
+                  ],
+                  "correctWord": "furniture"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "A 'set menu' means ___.",
+                  "options": [
+                    "you can order anything you want",
+                    "a fixed-price menu with limited choices",
+                    "a menu that changes every hour",
+                    "a menu only for groups"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'Spicy' food has ___.",
+                  "options": [
+                    "a sweet taste",
+                    "a very mild taste",
+                    "a hot, peppery taste",
+                    "no flavour at all"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "A 'daily special' is a dish that ___.",
+                  "options": [
+                    "is always on the menu",
+                    "changes every day",
+                    "is only for vegetarians",
+                    "is the most expensive"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Ordering Food",
+      "subtopics": [
+        {
+          "title": "3.1 Ordering and Making Requests",
+          "lessons": [
+            {
+              "title": "How to Order Politely",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000404000,\"blocks\":[{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"In English, it is important to sound polite when ordering food. Here are the best phrases:\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Getting attention:</b><br><em>Excuse me! / Could we order, please? / We're ready to order.</em>\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Ordering:</b><br><em>I'd like the grilled salmon, please.</em><br><em>I'll have the tomato soup as a starter.</em><br><em>Could I have the steak, please?</em>\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking questions about the menu:</b><br><em>What's in the pasta? / Is the soup vegetarian? / Does this dish contain nuts?</em>\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Making special requests:</b><br><em>Could I have it without the sauce? / Can I substitute chips for salad? / I'd like my steak well-done, please.</em>\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Steak doneness:</b> rare → medium-rare → medium → medium-well → well-done\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Practise ordering politely",
+                    "targetPhrase": "I'd like the grilled salmon, please. Could I have it without the sauce?"
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "Excuse me! Could we order, please? I'd like the grilled salmon without the sauce.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "Waiter: Are you ready to [order]? Customer: Yes, I'd [like] the chicken soup as a starter. For the main course, I'll [have] the grilled salmon. Could I have it [without] the sauce, please? Waiter: Of course!",
+                  "gaps": [
+                    {
+                      "placeholder": "order",
+                      "answers": [
+                        "order"
+                      ]
+                    },
+                    {
+                      "placeholder": "like",
+                      "answers": [
+                        "like"
+                      ]
+                    },
+                    {
+                      "placeholder": "have",
+                      "answers": [
+                        "have"
+                      ]
+                    },
+                    {
+                      "placeholder": "without",
+                      "answers": [
+                        "without"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "Give me the steak.",
+                      "correctText": "I'd like the steak, please."
+                    },
+                    {
+                      "text": "I want soup.",
+                      "correctText": "Could I have the soup, please?"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which is the most polite way to order?",
+                      "options": [
+                        "Give me the steak.",
+                        "I want steak.",
+                        "I'd like the steak, please.",
+                        "Steak!"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "'Well-done' for a steak means ___.",
+                      "options": [
+                        "very pink and rare inside",
+                        "cooked all the way through, no pink",
+                        "slightly pink in the middle",
+                        "very cold"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Full Restaurant Dialogue",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000405000,\"blocks\":[{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Read this complete restaurant dialogue carefully:\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Waiter:</b> Good evening! Do you have a reservation?<br><b>Customer:</b> Yes, we do. The name is Smith. A table for two.<br><b>Waiter:</b> Perfect, right this way. Here are your menus. Can I get you something to drink?<br><b>Customer:</b> I'd like a glass of still water and a glass of red wine, please.<br><b>Waiter:</b> Of course. Are you ready to order?<br><b>Customer:</b> Almost. What is the daily special today?<br><b>Waiter:</b> It's roasted duck with vegetables and mashed potato.<br><b>Customer:</b> That sounds lovely! I'll have the daily special, please.<br><b>Waiter:</b> Excellent choice. And anything else?<br><b>Customer:</b> Could we see the dessert menu later, please?<br><b>Waiter:</b> Absolutely! I'll be back shortly.\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key expressions:</b> <em>Do you have a reservation? / A table for two. / That sounds lovely. / Excellent choice.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "video",
+                  "url": "VIDEO_PLACEHOLDER"
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Practise the customer's dialogue lines",
+                    "targetPhrase": "That sounds lovely! I'll have the daily special, please."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "That sounds lovely! I'll have the daily special, please. Could we see the dessert menu later?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "When you book a table in advance",
+                      "word": "reservation"
+                    },
+                    {
+                      "hint": "The dish that changes every day",
+                      "word": "daily special"
+                    },
+                    {
+                      "hint": "A table for two people",
+                      "word": "table for two"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "The customer wants a table for ___.",
+                      "options": [
+                        "one",
+                        "two",
+                        "three",
+                        "four"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "The daily special is ___.",
+                      "options": [
+                        "grilled salmon",
+                        "roasted duck with vegetables",
+                        "chicken soup",
+                        "pasta"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "'That sounds lovely' is a way to ___.",
+                      "options": [
+                        "complain",
+                        "say you like the suggestion",
+                        "ask for the bill",
+                        "decline an order"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3.2 Problems and Complaints",
+          "lessons": [
+            {
+              "title": "Handling Problems at the Restaurant",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000406000,\"blocks\":[{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"Sometimes things go wrong at a restaurant. Here is how to handle it politely:\"}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common problems:</b>\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"The food is cold / undercooked / overcooked\",\"This is not what I ordered\",\"I've been waiting for a long time\",\"There's a mistake on the bill\"]}},{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Phrases to use:</b><br><em>Excuse me, I think there's a problem with my order.</em><br><em>I'm afraid this dish is cold. Could you heat it up, please?</em><br><em>I ordered the pasta, not the pizza.</em><br><em>I've been waiting for 30 minutes. When will my food be ready?</em>\"}},{\"id\":\"oP5qR6sT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>The waiter's response:</b><br><em>I'm terribly sorry about that. / Let me take care of that for you. / I'll bring you a new one immediately.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Excuse me, I think there's a problem with my order. I'm afraid this dish is cold.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "Excuse me, I think there's a ___ with my order.",
+                      "answers": [
+                        "problem",
+                        "mistake",
+                        "issue",
+                        "trouble"
+                      ]
+                    },
+                    {
+                      "sentence": "I'm afraid this soup is ___. Could you heat it up?",
+                      "answers": [
+                        "cold",
+                        "hot",
+                        "warm",
+                        "spicy"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I orderd the pasta, not the pizza.",
+                      "correctText": "I ordered the pasta, not the pizza."
+                    },
+                    {
+                      "text": "I've been wait for 30 minutes.",
+                      "correctText": "I've been waiting for 30 minutes."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000406001",
+                      "english": "Excuse me, I ordered the pasta, not the pizza.",
+                      "russian": "Извините, я заказывал пасту, а не пиццу.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000406002",
+                      "english": "I'm afraid this dish is cold.",
+                      "russian": "Боюсь, это блюдо холодное.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000406003",
+                      "english": "I've been waiting for 30 minutes.",
+                      "russian": "Я жду уже 30 минут.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000406004",
+                      "english": "I'm terribly sorry about that.",
+                      "russian": "Я очень сожалею об этом.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which phrase is a polite way to complain?",
+                      "options": [
+                        "This is terrible!",
+                        "I'm afraid this dish is cold. Could you heat it up?",
+                        "Give me something else!",
+                        "I don't want this."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "The waiter says 'I'll bring you a new one immediately.' This means ___.",
+                      "options": [
+                        "you have to wait more",
+                        "you will get a replacement dish quickly",
+                        "the restaurant is closing",
+                        "they don't have the dish"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Paying the Bill",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Asking for and Paying the Bill",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000407000,\"blocks\":[{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"At the end of your meal, you need to pay. Here is the vocabulary and phrases you need:\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>bill</b> (British) / <b>check</b> (American) — the document showing what you owe\",\"<b>tip</b> — extra money you give the waiter for good service\",\"<b>service charge</b> — a percentage added to the bill for service\",\"<b>split the bill</b> — each person pays their own share\",\"<b>go Dutch</b> — another way to say split the bill\",\"<b>treat someone</b> — pay for another person's meal\"]}},{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking for the bill:</b><br><em>Could we have the bill, please? / Can I have the check, please? / We'd like to pay now.</em>\"}},{\"id\":\"qR7sT8uV9w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Paying:</b><br><em>Can we pay by card? / I'll pay in cash. / Shall we split the bill? / It's my treat!</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "phrases",
+              "phrases": [
+                {
+                  "text": "Could we have the bill, please?",
+                  "translation": "Можно нам счёт, пожалуйста?"
+                },
+                {
+                  "text": "Shall we split the bill?",
+                  "translation": "Разделим счёт?"
+                },
+                {
+                  "text": "It's my treat tonight!",
+                  "translation": "Сегодня вечером угощаю я!"
+                },
+                {
+                  "text": "Can we pay by card?",
+                  "translation": "Можно оплатить картой?"
+                }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "Could we have the bill, please? Shall we split the bill? It's my treat tonight!",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "Could we have the [bill], please? We'd like to [pay] now. Can we pay by [card]? Oh, and is the [service] charge included? Thank you — please keep the [change].",
+              "gaps": [
+                {
+                  "placeholder": "bill",
+                  "answers": [
+                    "bill",
+                    "check"
+                  ]
+                },
+                {
+                  "placeholder": "pay",
+                  "answers": [
+                    "pay"
+                  ]
+                },
+                {
+                  "placeholder": "card",
+                  "answers": [
+                    "card"
+                  ]
+                },
+                {
+                  "placeholder": "service",
+                  "answers": [
+                    "service"
+                  ]
+                },
+                {
+                  "placeholder": "change",
+                  "answers": [
+                    "change"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000407001",
+                  "english": "Could we have the bill, please?",
+                  "russian": "Можно нам счёт, пожалуйста?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000407002",
+                  "english": "Shall we split the bill?",
+                  "russian": "Разделим счёт?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000407003",
+                  "english": "It's my treat tonight!",
+                  "russian": "Сегодня вечером угощаю я!",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000407004",
+                  "english": "Is the service charge included?",
+                  "russian": "Обслуживание включено в счёт?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Extra money you give the waiter for good service",
+                  "word": "tip"
+                },
+                {
+                  "hint": "Each person pays their own share",
+                  "word": "split the bill"
+                },
+                {
+                  "hint": "You pay for another person's meal",
+                  "word": "treat"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "'Split the bill' means ___.",
+                  "options": [
+                    "one person pays everything",
+                    "each person pays their own share",
+                    "the waiter pays",
+                    "you pay with cash only"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'It's my treat!' means ___.",
+                  "options": [
+                    "I will eat the dessert",
+                    "I will pay for everyone",
+                    "Let's split the bill",
+                    "I want something sweet"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "In American English, the bill is called the ___.",
+                  "options": [
+                    "tab",
+                    "service charge",
+                    "check",
+                    "receipt"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Making a Reservation",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Booking a Table by Phone or Online",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000408000,\"blocks\":[{\"id\":\"xY0zA1bC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Before going to a restaurant, you might need to make a <b>reservation</b>. Here is how to do it on the phone:\"}},{\"id\":\"eF3gH4iJ5k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Phrases for making a reservation:</b><br><em>I'd like to make a reservation for tonight, please.</em><br><em>I'd like to book a table for four people on Saturday at 7 pm.</em><br><em>Do you have any tables available?</em>\"}},{\"id\":\"lM6nO7pQ8r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Giving information:</b><br><em>The name is Johnson. / My phone number is...</em><br><em>Do you have a non-smoking section?</em><br><em>Is there a set menu available?</em>\"}},{\"id\":\"sT9uV0wX1y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Restaurant's reply:</b><br><em>I'm sorry, we're fully booked. / Yes, we have a table available. / We'll see you on Saturday!</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Practise making a phone reservation",
+                "targetPhrase": "I'd like to book a table for two people on Saturday evening at eight o'clock, please."
+              }
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "I'd like to book a table for two people on Saturday evening at eight, please.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "I'd like to [book] a table for two people, please. For [Saturday] evening at eight o'clock. The name is [Anderson]. Do you have a [non]-smoking section? Thank you, see you on Saturday!",
+              "gaps": [
+                {
+                  "placeholder": "book",
+                  "answers": [
+                    "book",
+                    "make",
+                    "reserve"
+                  ]
+                },
+                {
+                  "placeholder": "Saturday",
+                  "answers": [
+                    "Saturday"
+                  ]
+                },
+                {
+                  "placeholder": "Anderson",
+                  "answers": [
+                    "Anderson"
+                  ]
+                },
+                {
+                  "placeholder": "non",
+                  "answers": [
+                    "non"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "word-scramble",
+              "words": [
+                "reservation",
+                "available",
+                "smoking",
+                "booking"
+              ],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "'Fully booked' means ___.",
+                  "options": [
+                    "the restaurant is open",
+                    "there are no free tables",
+                    "the restaurant is cheap",
+                    "the food is excellent"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "When you reserve a table, you make a ___.",
+                  "options": [
+                    "request",
+                    "reservation",
+                    "complaint",
+                    "recommendation"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

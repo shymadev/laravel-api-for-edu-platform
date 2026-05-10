@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Database\Seeders;
 
 use App\Models\Education\DifficultyLevel;
@@ -22,7 +24,7 @@ class DifficultyLevelSeeder extends Seeder
         foreach ($levels as $level) {
             DifficultyLevel::updateOrCreate(
                 ['name' => $level['name']],
-                $level
+                $level,
             );
         }
     }

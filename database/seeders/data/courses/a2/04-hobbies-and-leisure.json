@@ -1,0 +1,1204 @@
+{
+  "title": "Hobbies and Leisure",
+  "description": "Learn to talk about your hobbies, free-time activities, and interests using frequency adverbs and common expressions. This course is designed for A1 completers who want to describe what they enjoy doing in their spare time.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": true,
+  "preview_image": "Hobbies and Leisure.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Talking About Hobbies",
+      "subtopics": [
+        {
+          "title": "1.1 Common Hobbies",
+          "lessons": [
+            {
+              "title": "Hobbies Around the House",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000301000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Many people enjoy hobbies at home. Here is useful vocabulary:\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>reading</b> — books, magazines, or articles\",\"<b>cooking</b> — preparing food\",\"<b>gardening</b> — growing plants and flowers\",\"<b>painting</b> — creating art with paint\",\"<b>drawing</b> — creating pictures with a pencil\",\"<b>knitting / sewing</b> — making clothes or crafts with wool/thread\",\"<b>playing video games</b> — gaming on a console or computer\",\"<b>watching films / series</b> — enjoying movies and TV shows\"]}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"To talk about hobbies use: <b>I enjoy / I like / I love / I'm interested in + verb-ing</b><br><em>I enjoy reading. / I love cooking. / I'm interested in painting.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I enjoy reading books.",
+                      "translation": "Мне нравится читать книги."
+                    },
+                    {
+                      "text": "I love cooking dinner.",
+                      "translation": "Я люблю готовить ужин."
+                    },
+                    {
+                      "text": "I'm interested in painting.",
+                      "translation": "Я увлечён рисованием."
+                    },
+                    {
+                      "text": "She likes gardening.",
+                      "translation": "Она любит работать в саду."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "gardening",
+                      "right": "работа в саду"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "knitting",
+                      "right": "вязание"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "drawing",
+                      "right": "рисование карандашом"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "cooking",
+                      "right": "готовка"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "painting",
+                      "right": "рисование красками"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "I enjoy reading and cooking. She loves painting and gardening.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "reading",
+                    "cooking",
+                    "gardening",
+                    "painting"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "'I'm interested in painting' — the verb 'paint' is in the ___ form.",
+                      "options": [
+                        "infinitive",
+                        "-ing form",
+                        "past tense",
+                        "past participle"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "I enjoy to cook.",
+                        "I enjoy cooking.",
+                        "I enjoy cook.",
+                        "I enjoy cooked."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Outdoor and Social Hobbies",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000302000,\"blocks\":[{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Some people prefer hobbies outside or with other people:\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>hiking</b> — walking in the countryside or mountains\",\"<b>cycling</b> — riding a bicycle\",\"<b>photography</b> — taking photos\",\"<b>travelling</b> — visiting different places\",\"<b>dancing</b> — moving to music\",\"<b>singing</b> — performing with your voice\",\"<b>playing a musical instrument</b> — guitar, piano, violin, etc.\",\"<b>volunteering</b> — helping others without payment\"]}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Talking about how long you have had a hobby:</b><br><em>I have been playing the guitar for two years. / I started hiking last summer.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I love hiking in the mountains. She has been dancing since she was a child.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Taking photos as a hobby",
+                      "word": "photography"
+                    },
+                    {
+                      "hint": "Walking in the mountains or countryside",
+                      "word": "hiking"
+                    },
+                    {
+                      "hint": "Helping others without payment",
+                      "word": "volunteering"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I love [hiking] in the mountains at the weekend. My sister started [dancing] classes last year. We go [cycling] in the park every Sunday. He has been [playing] the piano since he was eight.",
+                  "gaps": [
+                    {
+                      "placeholder": "hiking",
+                      "answers": [
+                        "hiking"
+                      ]
+                    },
+                    {
+                      "placeholder": "dancing",
+                      "answers": [
+                        "dancing"
+                      ]
+                    },
+                    {
+                      "placeholder": "cycling",
+                      "answers": [
+                        "cycling"
+                      ]
+                    },
+                    {
+                      "placeholder": "playing",
+                      "answers": [
+                        "playing"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000302001",
+                      "english": "I started photography two years ago.",
+                      "russian": "Я начал заниматься фотографией два года назад.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000302002",
+                      "english": "She has been singing since she was a child.",
+                      "russian": "Она поёт с детства.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000302003",
+                      "english": "We go hiking every weekend.",
+                      "russian": "Мы ходим в походы каждые выходные.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000302004",
+                      "english": "He plays the guitar in a band.",
+                      "russian": "Он играет на гитаре в группе.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which hobby involves taking photos?",
+                      "options": [
+                        "dancing",
+                        "hiking",
+                        "photography",
+                        "cycling"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "I have been hiking since two years.",
+                        "I have been hiking for two years.",
+                        "I am hiking since two years.",
+                        "I hiked for two years."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Frequency Adverbs",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Always, Often, Sometimes, Never",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000303000,\"blocks\":[{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Frequency adverbs</b> tell us how often we do something. In order from most to least frequent:\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>always</b> (100%) — <em>I always read before bed.</em>\",\"<b>usually</b> (80–90%) — <em>She usually cooks dinner.</em>\",\"<b>often</b> (70%) — <em>We often go cycling.</em>\",\"<b>sometimes</b> (30–50%) — <em>He sometimes watches films.</em>\",\"<b>rarely / seldom</b> (10%) — <em>I rarely go dancing.</em>\",\"<b>never</b> (0%) — <em>She never plays video games.</em>\"]}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Position:</b> Frequency adverbs go <b>before the main verb</b> but <b>after 'to be'</b>:<br><em>I <u>always</u> drink coffee. / She is <u>never</u> late.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I always read before bed. She is never late. We sometimes go cycling.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "always",
+                    "often",
+                    "sometimes",
+                    "bicycle"
+                  ],
+                  "correctWord": "bicycle"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "I [always] do yoga in the morning — every single day! I [sometimes] go to the cinema on Fridays. She [rarely] watches TV — maybe once a month. He [never] misses his football practice.",
+              "gaps": [
+                {
+                  "placeholder": "always",
+                  "answers": [
+                    "always"
+                  ]
+                },
+                {
+                  "placeholder": "sometimes",
+                  "answers": [
+                    "sometimes"
+                  ]
+                },
+                {
+                  "placeholder": "rarely",
+                  "answers": [
+                    "rarely",
+                    "seldom"
+                  ]
+                },
+                {
+                  "placeholder": "never",
+                  "answers": [
+                    "never"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000303001",
+                  "english": "I always read before going to sleep.",
+                  "russian": "Я всегда читаю перед сном.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000303002",
+                  "english": "She sometimes goes hiking at the weekend.",
+                  "russian": "Иногда она ходит в походы в выходные.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000303003",
+                  "english": "He never watches sport on TV.",
+                  "russian": "Он никогда не смотрит спорт по телевизору.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000303004",
+                  "english": "We usually cook dinner together.",
+                  "russian": "Обычно мы вместе готовим ужин.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "I go always to the gym.",
+                  "correctText": "I always go to the gym."
+                },
+                {
+                  "text": "She never is late.",
+                  "correctText": "She is never late."
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Where does the frequency adverb go in this sentence? 'I ___ go to the gym.'",
+                  "options": [
+                    "I go always to the gym.",
+                    "I always go to the gym.",
+                    "Always I go to the gym.",
+                    "I go to the always gym."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which sentence is correct when using 'to be'?",
+                  "options": [
+                    "She never is late.",
+                    "She is never late.",
+                    "Never she is late.",
+                    "She is late never."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'Rarely' means ___.",
+                  "options": [
+                    "always",
+                    "never",
+                    "only sometimes, not very often",
+                    "every day"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Free Time and Leisure",
+      "subtopics": [
+        {
+          "title": "3.1 Entertainment",
+          "lessons": [
+            {
+              "title": "Going to the Cinema and Theatre",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000304000,\"blocks\":[{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Going out is a popular leisure activity. Useful vocabulary for entertainment:\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>cinema / movie theatre</b> — a place to watch films\",\"<b>theatre</b> — a place to watch live performances\",\"<b>concert</b> — a live music performance\",\"<b>gallery</b> — a place to see art\",\"<b>exhibition</b> — a collection of items on display\",\"<b>show</b> — a performance of any kind\"]}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Phrases for inviting someone:</b><br><em>Would you like to go to the cinema? / Do you fancy seeing a film? / How about going to a concert?</em>\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Accepting / declining:</b><br><em>Yes, I'd love to! / That sounds great! / I'm afraid I can't. / Maybe another time.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Practise inviting a friend to an event",
+                    "targetPhrase": "Would you like to go to the cinema this weekend? That sounds great!"
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "audio",
+                  "content": {
+                    "text": "Would you like to go to the cinema? That sounds great! I'd love to!",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "A: [Would] you like to go to a concert this Saturday? B: That [sounds] great! What time does it start? A: It [starts] at 8 pm. B: Perfect. See you [there]!",
+                  "gaps": [
+                    {
+                      "placeholder": "Would",
+                      "answers": [
+                        "Would"
+                      ]
+                    },
+                    {
+                      "placeholder": "sounds",
+                      "answers": [
+                        "sounds"
+                      ]
+                    },
+                    {
+                      "placeholder": "starts",
+                      "answers": [
+                        "starts"
+                      ]
+                    },
+                    {
+                      "placeholder": "there",
+                      "answers": [
+                        "there"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "cinema",
+                    "theatre",
+                    "concert",
+                    "gallery"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Your friend says 'Do you fancy seeing a film?' This means ___.",
+                      "options": [
+                        "Do you like films?",
+                        "Would you like to go to the cinema?",
+                        "Have you seen the new film?",
+                        "Is there a film on TV?"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "A polite way to decline an invitation is ___.",
+                      "options": [
+                        "No!",
+                        "I don't want.",
+                        "I'm afraid I can't.",
+                        "Never."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reading and Collecting",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000305000,\"blocks\":[{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Many people enjoy <b>reading</b> or <b>collecting</b> things as hobbies. Vocabulary:\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Types of books:</b>\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>novel</b> — a long story book\",\"<b>mystery / thriller</b> — an exciting story, often about crime\",\"<b>biography</b> — a book about a real person's life\",\"<b>non-fiction</b> — a book about real facts\"]}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Collecting hobbies:</b>\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>collect stamps / coins / postcards</b>\",\"<b>collect vintage items</b> — old, classic objects\"]}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Describing a hobby: <em>I'm really into mystery novels. / I'm passionate about collecting vintage coins. / I got into photography two years ago.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'm really into mystery novels. She started collecting stamps when she was a child.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Types of Books",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Collecting Hobbies",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "novel",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "vintage coins",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "biography",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "stamps",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "thriller",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "postcards",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_7",
+                      "text": "non-fiction",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_8",
+                      "text": "vintage toys",
+                      "correctCategory": "cat_2"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "A book about a real person's life",
+                      "word": "biography"
+                    },
+                    {
+                      "hint": "An exciting story often about crime",
+                      "word": "thriller"
+                    },
+                    {
+                      "hint": "A long story book",
+                      "word": "novel"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000305001",
+                      "english": "I'm really into mystery novels.",
+                      "russian": "Я очень увлечён детективными романами.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000305002",
+                      "english": "She started collecting stamps when she was a child.",
+                      "russian": "Она начала собирать марки, когда была ребёнком.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000305003",
+                      "english": "I got into photography two years ago.",
+                      "russian": "Я увлёкся фотографией два года назад.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "'I'm really into mystery novels' means ___.",
+                      "options": [
+                        "I have read one mystery novel",
+                        "I am very enthusiastic about mystery novels",
+                        "I dislike mysteries",
+                        "I write mystery novels"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "A 'biography' is a book about ___.",
+                      "options": [
+                        "a made-up story",
+                        "a real person's life",
+                        "facts and science",
+                        "a crime mystery"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3.2 Spending Time with Friends",
+          "lessons": [
+            {
+              "title": "Social Activities",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000306000,\"blocks\":[{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"Spending time with friends is a great leisure activity. Useful phrases:\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>hang out (with friends)</b> — spend time together informally\",\"<b>catch up</b> — talk with a friend you haven't seen for a while\",\"<b>have a get-together</b> — have a small informal party\",\"<b>go out for dinner</b> — eat at a restaurant with others\",\"<b>stay in</b> — stay at home instead of going out\"]}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Past simple examples:</b><br><em>Last weekend I hung out with my friends. / We had a get-together at my place. / We went out for dinner and caught up.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "Last weekend I hung out with my friends. We had a get-together and caught up.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Describe what you did last weekend",
+                    "targetPhrase": "Last weekend I hung out with my friends. We went out for dinner and caught up."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "Last Saturday we ___ out with some friends in the park.",
+                      "answers": [
+                        "hung",
+                        "hang",
+                        "hanged",
+                        "hangs"
+                      ]
+                    },
+                    {
+                      "sentence": "We had a great get-together and ___ up on all the news.",
+                      "answers": [
+                        "caught",
+                        "catch",
+                        "catched",
+                        "catching"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "We hanged out at the park.",
+                      "correctText": "We hung out at the park."
+                    },
+                    {
+                      "text": "I catched up with my friend.",
+                      "correctText": "I caught up with my friend."
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "'Catch up' with a friend means ___.",
+                      "options": [
+                        "run after a friend",
+                        "talk with a friend you haven't seen for a while",
+                        "argue with a friend",
+                        "help a friend"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "'Stay in' means ___.",
+                      "options": [
+                        "go to a party",
+                        "travel abroad",
+                        "stay at home",
+                        "join a club"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Describing Your Free Time",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Talking About What You Did Last Weekend",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000307000,\"blocks\":[{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Talking about the past is very useful for conversations about leisure. Use the <b>past simple</b> tense to describe what you did:\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Irregular verbs to know for hobbies:</b>\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"go → <b>went</b> (I went hiking)\",\"read → <b>read</b> (I read a novel — same spelling, different pronunciation!)\",\"take → <b>took</b> (I took photos)\",\"meet → <b>met</b> (I met my friends)\",\"spend → <b>spent</b> (I spent time at home)\",\"watch → <b>watched</b> (I watched a film)\"]}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Example: Last weekend I went hiking with my friends. We met at 9 am and spent the whole day in the mountains. In the evening I watched a film and read a few chapters of my book.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "phrases",
+              "phrases": [
+                {
+                  "text": "I went hiking last weekend.",
+                  "translation": "В прошлые выходные я ходил в поход."
+                },
+                {
+                  "text": "I met my friends at the park.",
+                  "translation": "Я встретился с друзьями в парке."
+                },
+                {
+                  "text": "I spent the whole day reading.",
+                  "translation": "Я провёл весь день за чтением."
+                },
+                {
+                  "text": "I took lots of photos.",
+                  "translation": "Я сделал много фотографий."
+                }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "Last Sunday I went for a long walk. I met my friend Anna and we spent two hours chatting.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "Last Sunday I [went] for a long walk in the park. I [met] my friend Anna there. We [spent] two hours chatting and [took] lots of photos. In the evening I [read] a great novel.",
+              "gaps": [
+                {
+                  "placeholder": "went",
+                  "answers": [
+                    "went"
+                  ]
+                },
+                {
+                  "placeholder": "met",
+                  "answers": [
+                    "met"
+                  ]
+                },
+                {
+                  "placeholder": "spent",
+                  "answers": [
+                    "spent"
+                  ]
+                },
+                {
+                  "placeholder": "took",
+                  "answers": [
+                    "took"
+                  ]
+                },
+                {
+                  "placeholder": "read",
+                  "answers": [
+                    "read"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "listen-write",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [
+                {
+                  "text": "went",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "went"
+                },
+                {
+                  "text": "spent",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "spent"
+                },
+                {
+                  "text": "met",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "met"
+                }
+              ],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000307001",
+                  "english": "I spent the whole day reading.",
+                  "russian": "Я провёл весь день за чтением.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000307002",
+                  "english": "We went to the cinema last weekend.",
+                  "russian": "В прошлые выходные мы ходили в кино.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000307003",
+                  "english": "She took some beautiful photos at the park.",
+                  "russian": "Она сделала красивые фото в парке.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000307004",
+                  "english": "He met his friends and they hung out all day.",
+                  "russian": "Он встретился с друзьями и они провели время вместе весь день.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "The past simple of 'spend' is ___.",
+                  "options": [
+                    "spended",
+                    "spent",
+                    "spend",
+                    "spendt"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "The past simple of 'meet' is ___.",
+                  "options": [
+                    "meeted",
+                    "meted",
+                    "met",
+                    "meet"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Music and Art",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Talking About Music",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000308000,\"blocks\":[{\"id\":\"aB9cD0eF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Music is one of the most popular hobbies. Useful vocabulary:\"}},{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Music genres:</b> pop, rock, jazz, classical, hip-hop, electronic, folk, country\"}},{\"id\":\"oP5qR6sT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Musical activities:</b>\"}},{\"id\":\"vW8xY9zA0b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>play an instrument</b> — I play the piano / guitar / drums\",\"<b>sing in a choir</b> — perform with a group\",\"<b>attend a concert</b> — go to see live music\",\"<b>listen to music</b> — enjoy music through headphones or speakers\",\"<b>download / stream music</b> — get music from the internet\"]}},{\"id\":\"cD1eF2gH3i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Expressing preferences:</b><br><em>I prefer classical to pop. / I'm not really into jazz. / My favourite genre is rock.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "My favourite genre is jazz. I love listening to it when I'm relaxing.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "jazz",
+                    "rock",
+                    "classical",
+                    "cooking"
+                  ],
+                  "correctWord": "cooking"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "My [favourite] genre is jazz. I love to [listen] to it when I'm relaxing. I also [play] the saxophone. Last month I [attended] a wonderful concert.",
+              "gaps": [
+                {
+                  "placeholder": "favourite",
+                  "answers": [
+                    "favourite",
+                    "favorite"
+                  ]
+                },
+                {
+                  "placeholder": "listen",
+                  "answers": [
+                    "listen"
+                  ]
+                },
+                {
+                  "placeholder": "play",
+                  "answers": [
+                    "play"
+                  ]
+                },
+                {
+                  "placeholder": "attended",
+                  "answers": [
+                    "attended",
+                    "went to"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "'I prefer jazz to pop' means ___.",
+                  "options": [
+                    "I like pop more than jazz",
+                    "I like jazz more than pop",
+                    "I don't like jazz or pop",
+                    "I like jazz and pop the same"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which sentence is correct?",
+                  "options": [
+                    "I play the guitar.",
+                    "I play guitar.",
+                    "I play a guitar.",
+                    "I play guitars."
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Art and Creative Hobbies",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000309000,\"blocks\":[{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Creative hobbies are a great way to express yourself. Vocabulary:\"}},{\"id\":\"qR7sT8uV9w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>sketch</b> — a quick, simple drawing\",\"<b>watercolour</b> — a type of paint mixed with water\",\"<b>sculpture</b> — creating 3D art from clay, stone, or wood\",\"<b>craft</b> — making things by hand (origami, jewellery-making, etc.)\",\"<b>creative writing</b> — writing stories, poems, or journals\"]}},{\"id\":\"xY0zA1bC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Describing skills:</b><br><em>I'm good at drawing. / She's talented at painting. / He can't draw at all but loves photography.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "video",
+              "url": "VIDEO_PLACEHOLDER"
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "I'm really good at watercolour painting. She takes a craft class every Wednesday.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "A quick, simple drawing",
+                  "word": "sketch"
+                },
+                {
+                  "hint": "A type of paint mixed with water",
+                  "word": "watercolour"
+                },
+                {
+                  "hint": "Creating 3D art from clay or stone",
+                  "word": "sculpture"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000309001",
+                  "english": "I'm really good at watercolour painting.",
+                  "russian": "Я очень хорошо рисую акварелью.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000309002",
+                  "english": "She takes a craft class every Wednesday.",
+                  "russian": "Каждую среду она ходит на занятия по рукоделию.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000309003",
+                  "english": "He started creative writing last year.",
+                  "russian": "В прошлом году он начал заниматься литературным творчеством.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "A 'sketch' is ___.",
+                  "options": [
+                    "a detailed painting",
+                    "a quick simple drawing",
+                    "a type of music",
+                    "a photography style"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'I'm good at drawing' — what does 'good at' mean here?",
+                  "options": [
+                    "I enjoy it",
+                    "I do it often",
+                    "I have skill in it",
+                    "I do it professionally"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

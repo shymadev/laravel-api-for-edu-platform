@@ -1,0 +1,1237 @@
+[
+  {
+    "user_index": 2,
+    "phrase_count": 5,
+    "learned_ratio": 0.1
+  },
+  {
+    "user_index": 6,
+    "phrase_count": 7,
+    "learned_ratio": 0.64
+  },
+  {
+    "user_index": 9,
+    "phrase_count": 8,
+    "learned_ratio": 0.27
+  },
+  {
+    "user_index": 10,
+    "phrase_count": 13,
+    "learned_ratio": 0.67
+  },
+  {
+    "user_index": 13,
+    "phrase_count": 6,
+    "learned_ratio": 0.03
+  },
+  {
+    "user_index": 14,
+    "phrase_count": 13,
+    "learned_ratio": 0.01
+  },
+  {
+    "user_index": 15,
+    "phrase_count": 5,
+    "learned_ratio": 0.04
+  },
+  {
+    "user_index": 16,
+    "phrase_count": 10,
+    "learned_ratio": 0.45
+  },
+  {
+    "user_index": 17,
+    "phrase_count": 5,
+    "learned_ratio": 0.54
+  },
+  {
+    "user_index": 18,
+    "phrase_count": 6,
+    "learned_ratio": 0.23
+  },
+  {
+    "user_index": 19,
+    "phrase_count": 15,
+    "learned_ratio": 0.65
+  },
+  {
+    "user_index": 20,
+    "phrase_count": 7,
+    "learned_ratio": 0.43
+  },
+  {
+    "user_index": 21,
+    "phrase_count": 4,
+    "learned_ratio": 0.59
+  },
+  {
+    "user_index": 22,
+    "phrase_count": 10,
+    "learned_ratio": 0.11
+  },
+  {
+    "user_index": 23,
+    "phrase_count": 12,
+    "learned_ratio": 0.09
+  },
+  {
+    "user_index": 25,
+    "phrase_count": 9,
+    "learned_ratio": 0.41
+  },
+  {
+    "user_index": 27,
+    "phrase_count": 12,
+    "learned_ratio": 0.62
+  },
+  {
+    "user_index": 28,
+    "phrase_count": 15,
+    "learned_ratio": 0.49
+  },
+  {
+    "user_index": 29,
+    "phrase_count": 7,
+    "learned_ratio": 0.19
+  },
+  {
+    "user_index": 30,
+    "phrase_count": 8,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 31,
+    "phrase_count": 3,
+    "learned_ratio": 0.34
+  },
+  {
+    "user_index": 32,
+    "phrase_count": 3,
+    "learned_ratio": 0.2
+  },
+  {
+    "user_index": 33,
+    "phrase_count": 8,
+    "learned_ratio": 0.33
+  },
+  {
+    "user_index": 34,
+    "phrase_count": 6,
+    "learned_ratio": 0.04
+  },
+  {
+    "user_index": 35,
+    "phrase_count": 12,
+    "learned_ratio": 0.51
+  },
+  {
+    "user_index": 36,
+    "phrase_count": 8,
+    "learned_ratio": 0.23
+  },
+  {
+    "user_index": 37,
+    "phrase_count": 12,
+    "learned_ratio": 0.0
+  },
+  {
+    "user_index": 38,
+    "phrase_count": 12,
+    "learned_ratio": 0.14
+  },
+  {
+    "user_index": 39,
+    "phrase_count": 10,
+    "learned_ratio": 0.2
+  },
+  {
+    "user_index": 40,
+    "phrase_count": 6,
+    "learned_ratio": 0.45
+  },
+  {
+    "user_index": 41,
+    "phrase_count": 15,
+    "learned_ratio": 0.17
+  },
+  {
+    "user_index": 42,
+    "phrase_count": 12,
+    "learned_ratio": 0.69
+  },
+  {
+    "user_index": 43,
+    "phrase_count": 11,
+    "learned_ratio": 0.45
+  },
+  {
+    "user_index": 44,
+    "phrase_count": 2,
+    "learned_ratio": 0.39
+  },
+  {
+    "user_index": 45,
+    "phrase_count": 6,
+    "learned_ratio": 0.13
+  },
+  {
+    "user_index": 46,
+    "phrase_count": 12,
+    "learned_ratio": 0.29
+  },
+  {
+    "user_index": 47,
+    "phrase_count": 5,
+    "learned_ratio": 0.2
+  },
+  {
+    "user_index": 50,
+    "phrase_count": 12,
+    "learned_ratio": 0.15
+  },
+  {
+    "user_index": 52,
+    "phrase_count": 14,
+    "learned_ratio": 0.14
+  },
+  {
+    "user_index": 53,
+    "phrase_count": 7,
+    "learned_ratio": 0.31
+  },
+  {
+    "user_index": 54,
+    "phrase_count": 7,
+    "learned_ratio": 0.3
+  },
+  {
+    "user_index": 55,
+    "phrase_count": 15,
+    "learned_ratio": 0.58
+  },
+  {
+    "user_index": 56,
+    "phrase_count": 15,
+    "learned_ratio": 0.53
+  },
+  {
+    "user_index": 57,
+    "phrase_count": 2,
+    "learned_ratio": 0.06
+  },
+  {
+    "user_index": 58,
+    "phrase_count": 2,
+    "learned_ratio": 0.46
+  },
+  {
+    "user_index": 60,
+    "phrase_count": 15,
+    "learned_ratio": 0.49
+  },
+  {
+    "user_index": 61,
+    "phrase_count": 12,
+    "learned_ratio": 0.7
+  },
+  {
+    "user_index": 62,
+    "phrase_count": 8,
+    "learned_ratio": 0.38
+  },
+  {
+    "user_index": 63,
+    "phrase_count": 2,
+    "learned_ratio": 0.35
+  },
+  {
+    "user_index": 64,
+    "phrase_count": 7,
+    "learned_ratio": 0.3
+  },
+  {
+    "user_index": 67,
+    "phrase_count": 14,
+    "learned_ratio": 0.5
+  },
+  {
+    "user_index": 68,
+    "phrase_count": 4,
+    "learned_ratio": 0.59
+  },
+  {
+    "user_index": 71,
+    "phrase_count": 12,
+    "learned_ratio": 0.69
+  },
+  {
+    "user_index": 73,
+    "phrase_count": 3,
+    "learned_ratio": 0.28
+  },
+  {
+    "user_index": 74,
+    "phrase_count": 7,
+    "learned_ratio": 0.67
+  },
+  {
+    "user_index": 75,
+    "phrase_count": 11,
+    "learned_ratio": 0.07
+  },
+  {
+    "user_index": 76,
+    "phrase_count": 12,
+    "learned_ratio": 0.57
+  },
+  {
+    "user_index": 78,
+    "phrase_count": 4,
+    "learned_ratio": 0.61
+  },
+  {
+    "user_index": 80,
+    "phrase_count": 13,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 81,
+    "phrase_count": 3,
+    "learned_ratio": 0.69
+  },
+  {
+    "user_index": 82,
+    "phrase_count": 14,
+    "learned_ratio": 0.38
+  },
+  {
+    "user_index": 84,
+    "phrase_count": 7,
+    "learned_ratio": 0.56
+  },
+  {
+    "user_index": 86,
+    "phrase_count": 3,
+    "learned_ratio": 0.4
+  },
+  {
+    "user_index": 89,
+    "phrase_count": 6,
+    "learned_ratio": 0.69
+  },
+  {
+    "user_index": 91,
+    "phrase_count": 15,
+    "learned_ratio": 0.67
+  },
+  {
+    "user_index": 92,
+    "phrase_count": 2,
+    "learned_ratio": 0.6
+  },
+  {
+    "user_index": 93,
+    "phrase_count": 7,
+    "learned_ratio": 0.34
+  },
+  {
+    "user_index": 94,
+    "phrase_count": 2,
+    "learned_ratio": 0.54
+  },
+  {
+    "user_index": 97,
+    "phrase_count": 13,
+    "learned_ratio": 0.23
+  },
+  {
+    "user_index": 99,
+    "phrase_count": 11,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 102,
+    "phrase_count": 6,
+    "learned_ratio": 0.41
+  },
+  {
+    "user_index": 103,
+    "phrase_count": 9,
+    "learned_ratio": 0.69
+  },
+  {
+    "user_index": 106,
+    "phrase_count": 13,
+    "learned_ratio": 0.43
+  },
+  {
+    "user_index": 107,
+    "phrase_count": 2,
+    "learned_ratio": 0.31
+  },
+  {
+    "user_index": 108,
+    "phrase_count": 4,
+    "learned_ratio": 0.44
+  },
+  {
+    "user_index": 109,
+    "phrase_count": 14,
+    "learned_ratio": 0.56
+  },
+  {
+    "user_index": 110,
+    "phrase_count": 15,
+    "learned_ratio": 0.65
+  },
+  {
+    "user_index": 112,
+    "phrase_count": 12,
+    "learned_ratio": 0.01
+  },
+  {
+    "user_index": 114,
+    "phrase_count": 11,
+    "learned_ratio": 0.52
+  },
+  {
+    "user_index": 115,
+    "phrase_count": 5,
+    "learned_ratio": 0.17
+  },
+  {
+    "user_index": 116,
+    "phrase_count": 7,
+    "learned_ratio": 0.33
+  },
+  {
+    "user_index": 118,
+    "phrase_count": 3,
+    "learned_ratio": 0.39
+  },
+  {
+    "user_index": 119,
+    "phrase_count": 8,
+    "learned_ratio": 0.36
+  },
+  {
+    "user_index": 120,
+    "phrase_count": 2,
+    "learned_ratio": 0.68
+  },
+  {
+    "user_index": 121,
+    "phrase_count": 6,
+    "learned_ratio": 0.65
+  },
+  {
+    "user_index": 122,
+    "phrase_count": 3,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 124,
+    "phrase_count": 14,
+    "learned_ratio": 0.1
+  },
+  {
+    "user_index": 126,
+    "phrase_count": 7,
+    "learned_ratio": 0.1
+  },
+  {
+    "user_index": 127,
+    "phrase_count": 3,
+    "learned_ratio": 0.31
+  },
+  {
+    "user_index": 128,
+    "phrase_count": 6,
+    "learned_ratio": 0.58
+  },
+  {
+    "user_index": 129,
+    "phrase_count": 7,
+    "learned_ratio": 0.31
+  },
+  {
+    "user_index": 130,
+    "phrase_count": 12,
+    "learned_ratio": 0.61
+  },
+  {
+    "user_index": 131,
+    "phrase_count": 14,
+    "learned_ratio": 0.54
+  },
+  {
+    "user_index": 133,
+    "phrase_count": 14,
+    "learned_ratio": 0.45
+  },
+  {
+    "user_index": 134,
+    "phrase_count": 8,
+    "learned_ratio": 0.08
+  },
+  {
+    "user_index": 135,
+    "phrase_count": 12,
+    "learned_ratio": 0.21
+  },
+  {
+    "user_index": 138,
+    "phrase_count": 5,
+    "learned_ratio": 0.51
+  },
+  {
+    "user_index": 140,
+    "phrase_count": 12,
+    "learned_ratio": 0.2
+  },
+  {
+    "user_index": 142,
+    "phrase_count": 14,
+    "learned_ratio": 0.22
+  },
+  {
+    "user_index": 144,
+    "phrase_count": 10,
+    "learned_ratio": 0.53
+  },
+  {
+    "user_index": 147,
+    "phrase_count": 6,
+    "learned_ratio": 0.34
+  },
+  {
+    "user_index": 150,
+    "phrase_count": 11,
+    "learned_ratio": 0.63
+  },
+  {
+    "user_index": 152,
+    "phrase_count": 14,
+    "learned_ratio": 0.3
+  },
+  {
+    "user_index": 153,
+    "phrase_count": 8,
+    "learned_ratio": 0.57
+  },
+  {
+    "user_index": 154,
+    "phrase_count": 13,
+    "learned_ratio": 0.22
+  },
+  {
+    "user_index": 156,
+    "phrase_count": 9,
+    "learned_ratio": 0.03
+  },
+  {
+    "user_index": 158,
+    "phrase_count": 9,
+    "learned_ratio": 0.41
+  },
+  {
+    "user_index": 159,
+    "phrase_count": 5,
+    "learned_ratio": 0.09
+  },
+  {
+    "user_index": 160,
+    "phrase_count": 3,
+    "learned_ratio": 0.43
+  },
+  {
+    "user_index": 161,
+    "phrase_count": 6,
+    "learned_ratio": 0.49
+  },
+  {
+    "user_index": 165,
+    "phrase_count": 10,
+    "learned_ratio": 0.09
+  },
+  {
+    "user_index": 170,
+    "phrase_count": 8,
+    "learned_ratio": 0.24
+  },
+  {
+    "user_index": 171,
+    "phrase_count": 11,
+    "learned_ratio": 0.12
+  },
+  {
+    "user_index": 172,
+    "phrase_count": 11,
+    "learned_ratio": 0.61
+  },
+  {
+    "user_index": 175,
+    "phrase_count": 13,
+    "learned_ratio": 0.12
+  },
+  {
+    "user_index": 177,
+    "phrase_count": 2,
+    "learned_ratio": 0.14
+  },
+  {
+    "user_index": 178,
+    "phrase_count": 12,
+    "learned_ratio": 0.57
+  },
+  {
+    "user_index": 179,
+    "phrase_count": 8,
+    "learned_ratio": 0.19
+  },
+  {
+    "user_index": 181,
+    "phrase_count": 12,
+    "learned_ratio": 0.52
+  },
+  {
+    "user_index": 182,
+    "phrase_count": 4,
+    "learned_ratio": 0.48
+  },
+  {
+    "user_index": 183,
+    "phrase_count": 7,
+    "learned_ratio": 0.43
+  },
+  {
+    "user_index": 184,
+    "phrase_count": 2,
+    "learned_ratio": 0.12
+  },
+  {
+    "user_index": 185,
+    "phrase_count": 8,
+    "learned_ratio": 0.48
+  },
+  {
+    "user_index": 186,
+    "phrase_count": 10,
+    "learned_ratio": 0.26
+  },
+  {
+    "user_index": 188,
+    "phrase_count": 6,
+    "learned_ratio": 0.58
+  },
+  {
+    "user_index": 189,
+    "phrase_count": 2,
+    "learned_ratio": 0.12
+  },
+  {
+    "user_index": 190,
+    "phrase_count": 4,
+    "learned_ratio": 0.16
+  },
+  {
+    "user_index": 191,
+    "phrase_count": 3,
+    "learned_ratio": 0.61
+  },
+  {
+    "user_index": 192,
+    "phrase_count": 3,
+    "learned_ratio": 0.49
+  },
+  {
+    "user_index": 193,
+    "phrase_count": 5,
+    "learned_ratio": 0.6
+  },
+  {
+    "user_index": 194,
+    "phrase_count": 14,
+    "learned_ratio": 0.47
+  },
+  {
+    "user_index": 195,
+    "phrase_count": 5,
+    "learned_ratio": 0.41
+  },
+  {
+    "user_index": 196,
+    "phrase_count": 7,
+    "learned_ratio": 0.33
+  },
+  {
+    "user_index": 197,
+    "phrase_count": 9,
+    "learned_ratio": 0.54
+  },
+  {
+    "user_index": 198,
+    "phrase_count": 9,
+    "learned_ratio": 0.07
+  },
+  {
+    "user_index": 199,
+    "phrase_count": 7,
+    "learned_ratio": 0.58
+  },
+  {
+    "user_index": 200,
+    "phrase_count": 3,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 202,
+    "phrase_count": 15,
+    "learned_ratio": 0.62
+  },
+  {
+    "user_index": 204,
+    "phrase_count": 11,
+    "learned_ratio": 0.68
+  },
+  {
+    "user_index": 206,
+    "phrase_count": 13,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 207,
+    "phrase_count": 6,
+    "learned_ratio": 0.06
+  },
+  {
+    "user_index": 208,
+    "phrase_count": 4,
+    "learned_ratio": 0.22
+  },
+  {
+    "user_index": 209,
+    "phrase_count": 12,
+    "learned_ratio": 0.65
+  },
+  {
+    "user_index": 210,
+    "phrase_count": 6,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 212,
+    "phrase_count": 4,
+    "learned_ratio": 0.29
+  },
+  {
+    "user_index": 213,
+    "phrase_count": 13,
+    "learned_ratio": 0.69
+  },
+  {
+    "user_index": 214,
+    "phrase_count": 14,
+    "learned_ratio": 0.38
+  },
+  {
+    "user_index": 215,
+    "phrase_count": 10,
+    "learned_ratio": 0.48
+  },
+  {
+    "user_index": 216,
+    "phrase_count": 5,
+    "learned_ratio": 0.59
+  },
+  {
+    "user_index": 218,
+    "phrase_count": 12,
+    "learned_ratio": 0.26
+  },
+  {
+    "user_index": 220,
+    "phrase_count": 9,
+    "learned_ratio": 0.02
+  },
+  {
+    "user_index": 221,
+    "phrase_count": 7,
+    "learned_ratio": 0.07
+  },
+  {
+    "user_index": 224,
+    "phrase_count": 15,
+    "learned_ratio": 0.6
+  },
+  {
+    "user_index": 225,
+    "phrase_count": 13,
+    "learned_ratio": 0.66
+  },
+  {
+    "user_index": 228,
+    "phrase_count": 5,
+    "learned_ratio": 0.6
+  },
+  {
+    "user_index": 229,
+    "phrase_count": 10,
+    "learned_ratio": 0.66
+  },
+  {
+    "user_index": 231,
+    "phrase_count": 4,
+    "learned_ratio": 0.15
+  },
+  {
+    "user_index": 233,
+    "phrase_count": 3,
+    "learned_ratio": 0.4
+  },
+  {
+    "user_index": 234,
+    "phrase_count": 10,
+    "learned_ratio": 0.14
+  },
+  {
+    "user_index": 235,
+    "phrase_count": 8,
+    "learned_ratio": 0.04
+  },
+  {
+    "user_index": 236,
+    "phrase_count": 7,
+    "learned_ratio": 0.33
+  },
+  {
+    "user_index": 237,
+    "phrase_count": 7,
+    "learned_ratio": 0.35
+  },
+  {
+    "user_index": 239,
+    "phrase_count": 5,
+    "learned_ratio": 0.22
+  },
+  {
+    "user_index": 240,
+    "phrase_count": 2,
+    "learned_ratio": 0.6
+  },
+  {
+    "user_index": 242,
+    "phrase_count": 8,
+    "learned_ratio": 0.39
+  },
+  {
+    "user_index": 243,
+    "phrase_count": 15,
+    "learned_ratio": 0.48
+  },
+  {
+    "user_index": 244,
+    "phrase_count": 5,
+    "learned_ratio": 0.5
+  },
+  {
+    "user_index": 245,
+    "phrase_count": 2,
+    "learned_ratio": 0.36
+  },
+  {
+    "user_index": 248,
+    "phrase_count": 9,
+    "learned_ratio": 0.36
+  },
+  {
+    "user_index": 249,
+    "phrase_count": 10,
+    "learned_ratio": 0.3
+  },
+  {
+    "user_index": 252,
+    "phrase_count": 15,
+    "learned_ratio": 0.23
+  },
+  {
+    "user_index": 253,
+    "phrase_count": 2,
+    "learned_ratio": 0.56
+  },
+  {
+    "user_index": 254,
+    "phrase_count": 10,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 257,
+    "phrase_count": 12,
+    "learned_ratio": 0.18
+  },
+  {
+    "user_index": 264,
+    "phrase_count": 11,
+    "learned_ratio": 0.61
+  },
+  {
+    "user_index": 268,
+    "phrase_count": 10,
+    "learned_ratio": 0.14
+  },
+  {
+    "user_index": 269,
+    "phrase_count": 7,
+    "learned_ratio": 0.42
+  },
+  {
+    "user_index": 270,
+    "phrase_count": 13,
+    "learned_ratio": 0.18
+  },
+  {
+    "user_index": 272,
+    "phrase_count": 4,
+    "learned_ratio": 0.62
+  },
+  {
+    "user_index": 275,
+    "phrase_count": 12,
+    "learned_ratio": 0.27
+  },
+  {
+    "user_index": 276,
+    "phrase_count": 10,
+    "learned_ratio": 0.03
+  },
+  {
+    "user_index": 277,
+    "phrase_count": 15,
+    "learned_ratio": 0.12
+  },
+  {
+    "user_index": 278,
+    "phrase_count": 5,
+    "learned_ratio": 0.02
+  },
+  {
+    "user_index": 279,
+    "phrase_count": 12,
+    "learned_ratio": 0.16
+  },
+  {
+    "user_index": 280,
+    "phrase_count": 3,
+    "learned_ratio": 0.18
+  },
+  {
+    "user_index": 281,
+    "phrase_count": 11,
+    "learned_ratio": 0.66
+  },
+  {
+    "user_index": 282,
+    "phrase_count": 3,
+    "learned_ratio": 0.63
+  },
+  {
+    "user_index": 283,
+    "phrase_count": 15,
+    "learned_ratio": 0.14
+  },
+  {
+    "user_index": 286,
+    "phrase_count": 10,
+    "learned_ratio": 0.43
+  },
+  {
+    "user_index": 287,
+    "phrase_count": 11,
+    "learned_ratio": 0.49
+  },
+  {
+    "user_index": 288,
+    "phrase_count": 6,
+    "learned_ratio": 0.35
+  },
+  {
+    "user_index": 289,
+    "phrase_count": 2,
+    "learned_ratio": 0.37
+  },
+  {
+    "user_index": 290,
+    "phrase_count": 3,
+    "learned_ratio": 0.06
+  },
+  {
+    "user_index": 291,
+    "phrase_count": 11,
+    "learned_ratio": 0.27
+  },
+  {
+    "user_index": 292,
+    "phrase_count": 2,
+    "learned_ratio": 0.07
+  },
+  {
+    "user_index": 293,
+    "phrase_count": 14,
+    "learned_ratio": 0.33
+  },
+  {
+    "user_index": 294,
+    "phrase_count": 15,
+    "learned_ratio": 0.4
+  },
+  {
+    "user_index": 295,
+    "phrase_count": 6,
+    "learned_ratio": 0.65
+  },
+  {
+    "user_index": 297,
+    "phrase_count": 8,
+    "learned_ratio": 0.04
+  },
+  {
+    "user_index": 298,
+    "phrase_count": 5,
+    "learned_ratio": 0.17
+  },
+  {
+    "user_index": 299,
+    "phrase_count": 6,
+    "learned_ratio": 0.58
+  },
+  {
+    "user_index": 300,
+    "phrase_count": 8,
+    "learned_ratio": 0.51
+  },
+  {
+    "user_index": 301,
+    "phrase_count": 7,
+    "learned_ratio": 0.14
+  },
+  {
+    "user_index": 304,
+    "phrase_count": 14,
+    "learned_ratio": 0.31
+  },
+  {
+    "user_index": 306,
+    "phrase_count": 6,
+    "learned_ratio": 0.29
+  },
+  {
+    "user_index": 307,
+    "phrase_count": 11,
+    "learned_ratio": 0.68
+  },
+  {
+    "user_index": 308,
+    "phrase_count": 5,
+    "learned_ratio": 0.39
+  },
+  {
+    "user_index": 309,
+    "phrase_count": 11,
+    "learned_ratio": 0.38
+  },
+  {
+    "user_index": 310,
+    "phrase_count": 12,
+    "learned_ratio": 0.59
+  },
+  {
+    "user_index": 312,
+    "phrase_count": 11,
+    "learned_ratio": 0.68
+  },
+  {
+    "user_index": 313,
+    "phrase_count": 14,
+    "learned_ratio": 0.13
+  },
+  {
+    "user_index": 315,
+    "phrase_count": 9,
+    "learned_ratio": 0.3
+  },
+  {
+    "user_index": 316,
+    "phrase_count": 10,
+    "learned_ratio": 0.3
+  },
+  {
+    "user_index": 317,
+    "phrase_count": 14,
+    "learned_ratio": 0.34
+  },
+  {
+    "user_index": 318,
+    "phrase_count": 5,
+    "learned_ratio": 0.24
+  },
+  {
+    "user_index": 319,
+    "phrase_count": 4,
+    "learned_ratio": 0.04
+  },
+  {
+    "user_index": 320,
+    "phrase_count": 5,
+    "learned_ratio": 0.66
+  },
+  {
+    "user_index": 321,
+    "phrase_count": 10,
+    "learned_ratio": 0.62
+  },
+  {
+    "user_index": 322,
+    "phrase_count": 4,
+    "learned_ratio": 0.62
+  },
+  {
+    "user_index": 323,
+    "phrase_count": 5,
+    "learned_ratio": 0.65
+  },
+  {
+    "user_index": 325,
+    "phrase_count": 12,
+    "learned_ratio": 0.55
+  },
+  {
+    "user_index": 327,
+    "phrase_count": 6,
+    "learned_ratio": 0.34
+  },
+  {
+    "user_index": 328,
+    "phrase_count": 5,
+    "learned_ratio": 0.44
+  },
+  {
+    "user_index": 329,
+    "phrase_count": 6,
+    "learned_ratio": 0.35
+  },
+  {
+    "user_index": 330,
+    "phrase_count": 11,
+    "learned_ratio": 0.05
+  },
+  {
+    "user_index": 331,
+    "phrase_count": 13,
+    "learned_ratio": 0.42
+  },
+  {
+    "user_index": 335,
+    "phrase_count": 8,
+    "learned_ratio": 0.4
+  },
+  {
+    "user_index": 339,
+    "phrase_count": 14,
+    "learned_ratio": 0.56
+  },
+  {
+    "user_index": 341,
+    "phrase_count": 13,
+    "learned_ratio": 0.23
+  },
+  {
+    "user_index": 343,
+    "phrase_count": 5,
+    "learned_ratio": 0.21
+  },
+  {
+    "user_index": 348,
+    "phrase_count": 9,
+    "learned_ratio": 0.46
+  },
+  {
+    "user_index": 349,
+    "phrase_count": 5,
+    "learned_ratio": 0.34
+  },
+  {
+    "user_index": 350,
+    "phrase_count": 10,
+    "learned_ratio": 0.68
+  },
+  {
+    "user_index": 351,
+    "phrase_count": 15,
+    "learned_ratio": 0.05
+  },
+  {
+    "user_index": 352,
+    "phrase_count": 7,
+    "learned_ratio": 0.26
+  },
+  {
+    "user_index": 357,
+    "phrase_count": 12,
+    "learned_ratio": 0.37
+  },
+  {
+    "user_index": 360,
+    "phrase_count": 6,
+    "learned_ratio": 0.49
+  },
+  {
+    "user_index": 361,
+    "phrase_count": 2,
+    "learned_ratio": 0.34
+  },
+  {
+    "user_index": 363,
+    "phrase_count": 12,
+    "learned_ratio": 0.12
+  },
+  {
+    "user_index": 364,
+    "phrase_count": 9,
+    "learned_ratio": 0.61
+  },
+  {
+    "user_index": 365,
+    "phrase_count": 5,
+    "learned_ratio": 0.5
+  },
+  {
+    "user_index": 366,
+    "phrase_count": 10,
+    "learned_ratio": 0.46
+  },
+  {
+    "user_index": 367,
+    "phrase_count": 14,
+    "learned_ratio": 0.29
+  },
+  {
+    "user_index": 368,
+    "phrase_count": 15,
+    "learned_ratio": 0.31
+  },
+  {
+    "user_index": 369,
+    "phrase_count": 7,
+    "learned_ratio": 0.5
+  },
+  {
+    "user_index": 370,
+    "phrase_count": 6,
+    "learned_ratio": 0.48
+  },
+  {
+    "user_index": 373,
+    "phrase_count": 8,
+    "learned_ratio": 0.18
+  }
+]

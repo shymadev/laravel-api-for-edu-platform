@@ -1,0 +1,583 @@
+{
+  "title": "Legal and Business English",
+  "description": "A sophisticated course covering the specialised registers of legal and corporate communication, from contract drafting and interpretation to formal negotiation discourse and governance documentation. Designed for advanced learners in law, business, or finance who need to operate confidently in high-stakes professional English environments.",
+  "language": "en",
+  "difficulty_level": "C1",
+  "is_premium": true,
+  "preview_image": "Legal and Business English.jpg",
+  "topics": [
+    {
+      "title": "Module 1: The Language of Contracts",
+      "subtopics": [
+        {
+          "title": "1.1 Contract Structure and Terminology",
+          "lessons": [
+            {
+              "title": "Anatomy of a Contract: Key Clauses and Legal Language",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000071000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"A legally binding contract is a meticulously structured document whose every provision carries potential legal consequence. Understanding the <b>anatomy of a contract</b> — its standard sections, characteristic syntax, and recurrent terminology — is essential for anyone operating in a professional English-speaking legal or business environment.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"Contracts typically open with <b>recitals</b> (sometimes called 'whereas clauses'), which provide contextual background and establish the parties' intentions without creating enforceable obligations. These are followed by <b>operative provisions</b> — the substantive clauses that define the parties' rights and duties. Operative provisions are subdivided into <b>representations and warranties</b> (statements of existing fact), <b>covenants</b> (undertakings to perform or refrain from certain acts), <b>conditions precedent</b> (events that must occur before obligations are triggered), and <b>termination provisions</b>.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"The characteristic syntax of contract language reflects an overriding concern with precision and legal enforceability. <b>Shall</b> is conventionally used for mandatory obligations (<em>'The Seller shall deliver…'</em>); <b>may</b> for permissive provisions (<em>'The Buyer may elect to…'</em>); <b>will</b> increasingly replaces 'shall' in modern drafting practice. <b>Archaic legal terms</b> — <em>herein, thereof, whereof, heretofore, witnesseth</em> — persist in traditional drafting despite widespread criticism from legal writing reformers advocating plain English.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key contract terms include: <b>indemnification</b> (one party's agreement to compensate another for specified losses), <b>force majeure</b> (relief from obligations due to extraordinary events beyond a party's control), <b>liquidated damages</b> (pre-agreed compensation for breach), <b>severability</b> (provision ensuring that if one clause is invalid, the rest of the contract remains enforceable), and <b>entire agreement</b> clauses (which confirm the written contract supersedes all prior negotiations).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The force majeure clause excuses a party's obligations when extraordinary events beyond its control prevent performance.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "Indemnification clause",
+                      "right": "Obligates one party to compensate the other for specified losses"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "Force majeure",
+                      "right": "Excuses performance obligations due to extraordinary circumstances"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "Severability clause",
+                      "right": "Ensures the contract remains valid if a single provision is struck down"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "Condition precedent",
+                      "right": "An event that must occur before an obligation becomes operative"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "Entire agreement clause",
+                      "right": "Confirms the written contract supersedes all prior negotiations"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "In traditional contract drafting, the word 'shall' is used to express:",
+                      "options": [
+                        "A permissive right that a party may or may not exercise",
+                        "A mandatory obligation that must be performed",
+                        "A future contingency dependent on an external event",
+                        "A recital providing background context"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "What is the purpose of a 'severability clause'?",
+                      "options": [
+                        "To terminate the contract upon breach",
+                        "To ensure that if one clause is invalid, the remaining contract is unaffected",
+                        "To define monetary penalties for non-performance",
+                        "To establish the governing law of the contract"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Interpreting Contractual Language",
+          "lessons": [
+            {
+              "title": "Ambiguity, Interpretation, and Boilerplate Clauses",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000072000,\"blocks\":[{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Contract interpretation — determining what the parties intended a clause to mean when its language is ambiguous or disputed — is one of the most consequential legal skills. Courts in common law systems apply a range of interpretive canons to resolve ambiguity.\"}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>contra proferentem</b> rule holds that any ambiguous contract language is construed against the party who drafted it. The <b>ejusdem generis</b> rule provides that where a general term follows specific terms, the general term is limited in scope to the same class as the specifics. <b>Expressio unius est exclusio alterius</b> ('the expression of one thing excludes others') holds that specifying certain items implicitly excludes others not mentioned.\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Boilerplate clauses</b> are standard provisions that appear across many contracts and are often inserted without specific negotiation. Despite their routine nature, they carry significant legal weight and deserve careful attention: choice of law clauses (specifying which jurisdiction's law governs the contract), arbitration clauses (requiring disputes to be resolved through arbitration rather than litigation), notice provisions (specifying how official communications must be delivered), and assignment clauses (governing whether rights and obligations may be transferred to third parties).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "The contra proferentem rule holds that ambiguous contract language is construed against the drafter.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "Latin rule: ambiguous contract language is interpreted against the party who drafted it",
+                      "word": "contra proferentem"
+                    },
+                    {
+                      "hint": "Standard clauses inserted in most contracts without specific negotiation",
+                      "word": "boilerplate clauses"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700072001",
+                      "english": "Any ambiguity in the interpretation of these terms shall be construed against the party who prepared the document.",
+                      "russian": "Любая двусмысленность в толковании настоящих условий толкуется против стороны, подготовившей документ.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700072002",
+                      "english": "All disputes arising under this Agreement shall be resolved exclusively through binding arbitration in accordance with the rules of the ICC.",
+                      "russian": "Все споры, возникающие из настоящего Соглашения, разрешаются исключительно путём обязательного арбитража в соответствии с правилами МТП.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "What does the contra proferentem rule state?",
+                      "options": [
+                        "Specific terms override general terms in a contract",
+                        "Ambiguous language is interpreted against the party who drafted it",
+                        "The most recently signed contract supersedes earlier ones",
+                        "Oral agreements cannot modify written contracts"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Corporate Communication and Governance",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Board Resolutions, Minutes, and Governance Documents",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000073000,\"blocks\":[{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Corporate governance documents — <b>board resolutions, minutes of meetings, articles of association, and shareholder agreements</b> — constitute the formal legal record of a company's decision-making. They require a specialised register combining legal precision with formal business English.\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Board minutes</b> are the official record of decisions taken at a board of directors meeting. They typically record: who was present (and who held proxies for absent members), whether a quorum was established, the resolutions passed, any votes for and against, and declarations of conflict of interest. Minutes should be accurate, objective, and written in the past tense.\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"A <b>board resolution</b> is a formal decision made by the board, often recorded in the minutes as: <em>'IT WAS RESOLVED THAT the Company enter into the service agreement with Nexus Ltd on the terms presented.'</em> The capitalisation of 'IT WAS RESOLVED THAT' is conventional in legal drafting.\"}},{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Shareholder agreements</b> govern the relationship between shareholders and typically address: share transfer restrictions, pre-emption rights, dividend policy, deadlock resolution mechanisms, and tag-along and drag-along provisions. They sit alongside — and sometimes override — the company's articles of association.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "IT WAS RESOLVED THAT the Company enter into the Acquisition Agreement with Meridian Holdings on the terms and conditions presented to the Board.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Board resolution",
+                  "right": "Formal decision made by directors, recorded in minutes"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Pre-emption rights",
+                  "right": "Existing shareholders' right to buy new shares before outsiders"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Drag-along rights",
+                  "right": "Majority shareholders can force minorities to join a sale"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Tag-along rights",
+                  "right": "Minority shareholders can join a sale on the same terms as the majority"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Quorum",
+                  "right": "Minimum number of members required to make a meeting valid"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the purpose of 'tag-along rights' in a shareholder agreement?",
+                  "options": [
+                    "To force minority shareholders to sell their shares when the majority decides to exit",
+                    "To allow minority shareholders to sell their shares on the same terms when a majority shareholder exits",
+                    "To prevent any shareholder from selling shares without board approval",
+                    "To ensure dividends are distributed equally regardless of shareholding"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: Legal Dispute and Court Language",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Litigation, Arbitration, and Dispute Resolution Language",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000074000,\"blocks\":[{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Dispute resolution in a business context takes several forms: <b>litigation</b> (formal court proceedings), <b>arbitration</b> (binding private resolution by an appointed tribunal), <b>mediation</b> (facilitated negotiation with a neutral third party whose decision is not binding), and <b>expert determination</b> (where a technical expert rules on a specific issue).\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Litigation vocabulary:</b> claimant/plaintiff (party initiating proceedings), defendant/respondent (party defending the claim), pleadings (formal written statements of each party's case), discovery/disclosure (pre-trial exchange of relevant documents), witness statements, expert reports, and judgments. In common law systems, court decisions create <b>precedent</b> (<em>stare decisis</em>) — binding on lower courts in subsequent similar cases.\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Arbitration</b> is increasingly preferred for international commercial disputes due to confidentiality, enforceability of awards across jurisdictions (under the New York Convention), and flexibility of procedure. Arbitration proceedings are governed by institutional rules (ICC, LCIA, SIAC, AAA) or the UNCITRAL Model Law.\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key phrases in dispute correspondence: <em>'We hereby reserve all rights and remedies available to us under the agreement and applicable law.'</em> / <em>'We put you on notice that continued non-performance will result in formal legal proceedings.'</em> / <em>'Without prejudice to our position, we propose the following settlement offer…'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "We hereby put you on notice that continued non-performance will result in the commencement of formal arbitration proceedings.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat_1",
+                  "name": "Litigation",
+                  "color": "#1976d2"
+                },
+                {
+                  "id": "cat_2",
+                  "name": "Arbitration",
+                  "color": "#d32f2f"
+                },
+                {
+                  "id": "cat_3",
+                  "name": "Mediation",
+                  "color": "#2e7d32"
+                }
+              ],
+              "items": [
+                {
+                  "id": "item_1",
+                  "text": "Proceedings before a state court judge",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_2",
+                  "text": "Binding decision by a privately appointed tribunal",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_3",
+                  "text": "Facilitated negotiation with a non-binding neutral third party",
+                  "correctCategory": "cat_3"
+                },
+                {
+                  "id": "item_4",
+                  "text": "Subject to appeal in a court of law",
+                  "correctCategory": "cat_1"
+                },
+                {
+                  "id": "item_5",
+                  "text": "Enforceable in 170+ countries under the New York Convention",
+                  "correctCategory": "cat_2"
+                },
+                {
+                  "id": "item_6",
+                  "text": "Settlement is voluntary; parties retain control of outcome",
+                  "correctCategory": "cat_3"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'without prejudice' mean in legal correspondence?",
+                  "options": [
+                    "The statement is confidential and cannot be used as evidence in proceedings",
+                    "The party has no objection to the proposal",
+                    "The party waives all rights under the agreement",
+                    "The communication is binding on both parties"
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Business Negotiation Language",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "High-Stakes Negotiation: Language Strategies and Frameworks",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000075000,\"blocks\":[{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Professional negotiation in a legal or business context requires mastery of both substantive knowledge and language strategy. Effective negotiators understand the dynamics of <b>distributive</b> (zero-sum, competitive) versus <b>integrative</b> (value-creating, cooperative) negotiation, and code-switch between styles as circumstances require.\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Opening positions:</b> It is conventional to open with a position that leaves room for concession. Phrases that signal flexibility without weakness: <em>'Our starting position is… though we are open to discussion on the specifics.'</em> / <em>'At this stage, we would propose… with the understanding that this is a working draft.'</em>\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Conditional language</b> is the backbone of negotiation English: <em>'If you are willing to extend the payment terms, we would be prepared to increase the order volume.'</em> The structure 'If X, then Y' allows simultaneous movement on multiple issues and preserves optionality.\"}},{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Managing impasse:</b> When negotiations stall, skilled negotiators reframe the discussion, identify common ground, or introduce new variables: <em>'Perhaps we can set that issue to one side for now and address the delivery schedule, which I believe is less contentious.'</em> / <em>'Let me propose a different structure that might address both parties' concerns.'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "If you are willing to extend the payment terms to 60 days, we would be prepared to increase the order volume by 25%.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following negotiation phrase aloud with appropriate professional tone",
+                "targetPhrase": "If you are willing to extend the payment terms, we would be prepared to increase the order volume."
+              }
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700075001",
+                  "english": "Our initial position is X, though we acknowledge there may be room for negotiation on the specific terms.",
+                  "russian": "Наша исходная позиция — X, хотя мы признаём, что по конкретным условиям возможны переговоры.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700075002",
+                  "english": "Let me propose a different structure that might address both parties' principal concerns.",
+                  "russian": "Позвольте предложить иную структуру, которая могла бы учесть основные интересы обеих сторон.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which type of negotiation involves creating value for both parties rather than dividing a fixed pool of resources?",
+                  "options": [
+                    "Distributive negotiation",
+                    "Positional bargaining",
+                    "Integrative negotiation",
+                    "Adversarial negotiation"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Regulatory and Compliance Language",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Language of Regulation, Compliance, and Risk",
+          "weight": 6,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000076000,\"blocks\":[{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Regulatory English</b> — the language of statutes, regulations, guidelines, and compliance frameworks — is characterised by highly precise, often technical terminology, complex conditional structures, and extensive cross-referencing. Practitioners must be able to parse dense regulatory text, identify applicable obligations, and translate regulatory requirements into operational procedures.\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key regulatory vocabulary: <b>compliance</b> (adherence to applicable laws and rules), <b>due diligence</b> (investigation conducted before a transaction), <b>material breach</b> (a significant violation that defeats the purpose of the contract), <b>ultra vires</b> (actions taken beyond an entity's legal authority), <b>fiduciary duty</b> (obligation to act in another's best interest), <b>tortious liability</b> (civil liability arising from a non-contractual wrong).\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Financial regulation introduces further specialised vocabulary: <b>KYC</b> (Know Your Customer — identity verification requirements), <b>AML</b> (Anti-Money Laundering), <b>GDPR</b> (General Data Protection Regulation), <b>MiFID II</b> (Markets in Financial Instruments Directive), and <b>prudential requirements</b> (capital adequacy and liquidity standards for financial institutions).\"}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"Writing compliance reports and policy documents requires clear, unambiguous language. Obligations should be expressed using <em>'must'</em> or <em>'shall'</em>; prohibitions with <em>'must not'</em> or <em>'shall not'</em>; permissions with <em>'may'</em>. Avoid vague terms like <em>'should'</em> in operative provisions, as they introduce ambiguity about whether compliance is optional or mandatory.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "All reporting entities must comply with applicable KYC and AML requirements prior to onboarding new clients.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Latin term for actions taken beyond an entity's legal authority",
+                  "word": "ultra vires"
+                },
+                {
+                  "hint": "The duty to act in another party's best interest, imposed on directors and trustees",
+                  "word": "fiduciary duty"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In drafting compliance documents, which modal verb should be used to impose a mandatory obligation?",
+                  "options": [
+                    "Should",
+                    "May",
+                    "Might",
+                    "Must"
+                  ],
+                  "correctOptions": [
+                    3
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Financial English",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Reading and Writing Financial Documents",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000077000,\"blocks\":[{\"id\":\"fG0hI1jK2l\",\"type\":\"paragraph\",\"data\":{\"text\":\"Financial English encompasses the language used in financial statements, investment analysis, M&A documentation, and investor communications. Proficiency in this register is essential for finance professionals, auditors, and corporate counsel operating in international capital markets.\"}},{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Financial statements</b> comprise the income statement (profit and loss account), the balance sheet (statement of financial position), the cash flow statement, and notes to the accounts. Each has a characteristic structure and vocabulary: revenue, gross profit, EBITDA (earnings before interest, tax, depreciation, and amortisation), operating income, net income, retained earnings.\"}},{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>M&A (mergers and acquisitions) language:</b> acquisition, takeover bid, due diligence, valuation, enterprise value (EV), goodwill, earn-out provisions, representations and warranties insurance, material adverse change (MAC) clauses, escrow arrangements, and completion accounts.\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Investor communication</b> requires precise language about performance, risk, and outlook: <em>'Revenue grew by 14% year-on-year, driven by strong performance in the APAC segment.'</em> / <em>'Macroeconomic headwinds may pose downside risks to our guidance for Q4.'</em> / <em>'The Board remains confident that the Group is well-positioned to deliver sustainable shareholder value.'</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Revenue grew by 14% year-on-year, driven by strong performance in the Asia-Pacific segment.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "EBITDA",
+                  "right": "Earnings before interest, tax, depreciation, and amortisation"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Goodwill",
+                  "right": "Intangible value paid above a company's net asset value in an acquisition"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Earn-out",
+                  "right": "Deferred payment tied to the acquired company's future performance"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "MAC clause",
+                  "right": "Allows a buyer to withdraw if material adverse changes occur before closing"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Escrow",
+                  "right": "Funds held by a neutral third party pending fulfilment of conditions"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700077001",
+                  "english": "Macroeconomic headwinds, including rising interest rates and subdued consumer demand, may pose downside risks to our Q4 guidance.",
+                  "russian": "Макроэкономические препятствия, в том числе рост процентных ставок и слабый потребительский спрос, могут создавать риски снижения в сравнении с нашим прогнозом на четвёртый квартал.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700077002",
+                  "english": "The acquisition was completed at an enterprise value of approximately €2.4 billion, representing a multiple of 11x EBITDA.",
+                  "russian": "Поглощение было завершено при стоимости предприятия приблизительно в 2,4 миллиарда евро, что соответствует мультипликатору 11x EBITDA.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What does 'EBITDA' measure?",
+                  "options": [
+                    "A company's total revenue before any deductions",
+                    "Net profit after all taxes and interest payments",
+                    "Operating profitability before non-cash charges and financing costs",
+                    "Cash available for distribution to shareholders"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

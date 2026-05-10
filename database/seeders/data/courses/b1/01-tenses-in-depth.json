@@ -1,0 +1,1348 @@
+{
+  "title": "English Tenses in Depth",
+  "description": "Master the full range of English tenses at B1 level, from the present perfect to future forms and the past perfect. This course is designed for learners who have completed A2 and want to use tenses accurately in both speaking and writing.",
+  "language": "en",
+  "difficulty_level": "B1",
+  "is_premium": false,
+  "preview_image": "English Tenses in Depth.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Present Perfect vs Past Simple",
+      "subtopics": [
+        {
+          "title": "1.1 Forming the Present Perfect",
+          "lessons": [
+            {
+              "title": "How to Form the Present Perfect",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000001000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>present perfect</b> is formed with <b>have/has + past participle</b>. It connects the past to the present moment.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"I <b>have visited</b> Paris. (at some unspecified time before now)\",\"She <b>has finished</b> her homework. (recently, and it matters now)\",\"They <b>have never eaten</b> sushi. (life experience)\"]}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Use the present perfect for:\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Life experiences</b> — Have you ever been to London?\",\"<b>Recent actions with present results</b> — I've lost my keys. (I don't have them now)\",\"<b>Actions that started in the past and continue</b> — She's lived here for ten years.\",\"<b>Actions in an unfinished time period</b> — I've drunk three cups of coffee today.\"]}},{\"id\":\"cC3dD4eE5f\",\"type\":\"paragraph\",\"data\":{\"text\":\"Key time expressions: <em>ever, never, just, already, yet, for, since, recently, so far, this week/month/year</em>.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I have visited Paris. She has just finished her homework.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I have visited Paris.",
+                      "translation": "Я посещал Париж."
+                    },
+                    {
+                      "text": "She has finished her homework.",
+                      "translation": "Она закончила домашнее задание."
+                    },
+                    {
+                      "text": "They have never eaten sushi.",
+                      "translation": "Они никогда не ели суши."
+                    },
+                    {
+                      "text": "Have you ever been to London?",
+                      "translation": "Вы когда-нибудь были в Лондоне?"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "visited",
+                    "finished",
+                    "never",
+                    "already"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "I [have never been] to Australia, but I [have always wanted] to go. She [has just finished] her report and she [has sent] it to her boss.",
+                  "gaps": [
+                    {
+                      "placeholder": "have never been",
+                      "answers": [
+                        "have never been",
+                        "haven't been"
+                      ]
+                    },
+                    {
+                      "placeholder": "have always wanted",
+                      "answers": [
+                        "have always wanted"
+                      ]
+                    },
+                    {
+                      "placeholder": "has just finished",
+                      "answers": [
+                        "has just finished"
+                      ]
+                    },
+                    {
+                      "placeholder": "has sent",
+                      "answers": [
+                        "has sent"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Choose the correct form: 'She ___ been working here for five years.'",
+                      "options": [
+                        "has",
+                        "have",
+                        "had",
+                        "is"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    },
+                    {
+                      "text": "Which sentence uses the present perfect correctly?",
+                      "options": [
+                        "I have seen that film yesterday.",
+                        "She has just arrived.",
+                        "They have went to school.",
+                        "We have ate dinner at 7."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "'Have you ___ tried Japanese food?' — Fill the gap.",
+                      "options": [
+                        "ever",
+                        "already",
+                        "yet",
+                        "just"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Present Perfect: Experience and Duration",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000002000,\"blocks\":[{\"id\":\"fF6gG7hH8i\",\"type\":\"paragraph\",\"data\":{\"text\":\"Two of the most important uses of the present perfect are expressing <b>life experience</b> and <b>duration</b>.\"}},{\"id\":\"jJ9kK0lL1m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Experience:</b> Use the present perfect to talk about things that happened at an unspecified time in your life. The exact time does not matter — what matters is the experience itself.\"}},{\"id\":\"nN2oO3pP4q\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Have you <em>ever</em> climbed a mountain?\",\"I've <em>never</em> broken a bone.\",\"She's been to over twenty countries.\"]}},{\"id\":\"rR5sS6tT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Duration with FOR and SINCE:</b>\"}},{\"id\":\"vV8wW9xX0y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Use <em>for</em> + a period of time: <em>for two years, for a long time, for ages</em>\",\"Use <em>since</em> + a point in time: <em>since 2010, since Monday, since I was a child</em>\"]}},{\"id\":\"zA1bB2cC3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Examples: <em>I have known him for fifteen years. / We have lived here since 2018.</em>\"}},{\"id\":\"dD4eE5fF6g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common error:</b> Do not use the past simple for unfinished situations. Say 'I have worked here for three years' (I still work here), NOT 'I worked here for three years' (which means you no longer work there).\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I have known him for fifteen years. We have lived here since 2018.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "m1",
+                      "left": "for",
+                      "right": "a period of time (two hours, ages)"
+                    },
+                    {
+                      "id": "m2",
+                      "left": "since",
+                      "right": "a point in time (Monday, 2015)"
+                    },
+                    {
+                      "id": "m3",
+                      "left": "ever",
+                      "right": "at any time in your life (questions)"
+                    },
+                    {
+                      "id": "m4",
+                      "left": "never",
+                      "right": "not at any time in your life"
+                    },
+                    {
+                      "id": "m5",
+                      "left": "already",
+                      "right": "sooner than expected"
+                    },
+                    {
+                      "id": "m6",
+                      "left": "yet",
+                      "right": "up to now (negatives/questions)"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I have known her since five years.",
+                      "correctText": "I have known her for five years."
+                    },
+                    {
+                      "text": "We live here since 2018.",
+                      "correctText": "We have lived here since 2018."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I have known Maria ___ we were at school together.",
+                      "answers": [
+                        "since",
+                        "for",
+                        "when",
+                        "during"
+                      ]
+                    },
+                    {
+                      "sentence": "They have been married ___ thirty years.",
+                      "answers": [
+                        "for",
+                        "since",
+                        "during",
+                        "ago"
+                      ]
+                    },
+                    {
+                      "sentence": "Have you ___ tried bungee jumping?",
+                      "answers": [
+                        "ever",
+                        "never",
+                        "already",
+                        "yet"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Contrasting Present Perfect and Past Simple",
+          "lessons": [
+            {
+              "title": "When to Use Past Simple Instead",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000003000,\"blocks\":[{\"id\":\"gG7hH8iI9j\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>past simple</b> and <b>present perfect</b> are often confused. Here is the key difference:\"}},{\"id\":\"kK0lL1mM2n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Past simple</b> — used when the time is <em>known, specified, or finished</em>: <em>I saw that film last week. She graduated in 2019.</em>\",\"<b>Present perfect</b> — used when the time is <em>not specified</em> or the action is connected to now: <em>I've seen that film. She has graduated.</em>\"]}},{\"id\":\"oO3pP4qQ5r\",\"type\":\"paragraph\",\"data\":{\"text\":\"With past simple, you <em>must</em> use a finished time expression: <em>yesterday, last year, in 2010, two days ago, when I was young</em>.\"}},{\"id\":\"sS6tT7uU8v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Typical patterns:</b>\"}},{\"id\":\"wW9xX0yY1z\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"'Did you ever try...?' is sometimes used informally, but 'Have you ever tried...?' is the standard B1 form.\",\"When someone says 'I've just heard some news', the follow-up question is often in the past simple: 'Really? What did they say?'\"]}},{\"id\":\"aA2bB3cC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"This switch from present perfect to past simple is very natural in English conversation.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I visited Rome last summer. She has visited Rome three times.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Present Perfect",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Past Simple",
+                      "color": "#d32f2f"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "I visited Rome last summer.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "She has visited Rome three times.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "He finished the project yesterday.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "They have already finished the project.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "We moved to this city in 2015.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "I have never moved house.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Did you see that documentary last night?",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "Have you seen any good films recently?",
+                      "correctCategory": "cat1"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "yesterday",
+                        "last year",
+                        "since",
+                        "in 2010"
+                      ],
+                      "correctWord": "since"
+                    },
+                    {
+                      "words": [
+                        "ever",
+                        "never",
+                        "just",
+                        "ago"
+                      ],
+                      "correctWord": "ago"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000003001",
+                      "english": "I have never met anyone so interesting.",
+                      "russian": "Я никогда не встречал такого интересного человека.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000003002",
+                      "english": "She visited her grandparents last weekend.",
+                      "russian": "Она навещала своих бабушку и дедушку на прошлых выходных.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000003003",
+                      "english": "Have you ever worked abroad?",
+                      "russian": "Вы когда-нибудь работали за рубежом?",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000003004",
+                      "english": "He moved to London two years ago.",
+                      "russian": "Он переехал в Лондон два года назад.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: Past Perfect",
+      "subtopics": [
+        {
+          "title": "2.1 Forming and Using the Past Perfect",
+          "lessons": [
+            {
+              "title": "The Past Perfect: Actions Before the Past",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000004000,\"blocks\":[{\"id\":\"eE5fF6gG7h\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>past perfect</b> is formed with <b>had + past participle</b> and is used to show that one past action happened <em>before</em> another past action.\"}},{\"id\":\"hH8iI9jJ0k\",\"type\":\"paragraph\",\"data\":{\"text\":\"Think of it as the 'past of the past'. When you are already talking about the past and need to refer to something even earlier, use the past perfect.\"}},{\"id\":\"kK1lL2mM3n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"When I <b>arrived</b> at the station, the train <b>had already left</b>. (The train leaving = earlier event)\",\"She <b>had studied</b> French for three years before she <b>moved</b> to Paris.\",\"He <b>didn't recognise</b> her because he <b>hadn't seen</b> her for twenty years.\"]}},{\"id\":\"nN4oO5pP6q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Common linking words used with past perfect:</b>\"}},{\"id\":\"qQ7rR8sS9t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>by the time, after, before, when, already, never, just, because</em>\"]}},{\"id\":\"uU0vV1wW2x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Past perfect vs past simple:</b> If the order of events is clear from <em>before</em> or <em>after</em>, the past simple can be used: 'After she finished work, she went home.' But the past perfect makes the sequence explicit and is more common in formal writing.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "By the time we arrived at the party, most people had already left.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "The tense formed with 'had + past participle'",
+                      "word": "past perfect"
+                    },
+                    {
+                      "hint": "Used before 'the time' to show something completed earlier",
+                      "word": "by"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "By the time we [had arrived] at the party, most people [had already left]. She told me she [had never seen] such a beautiful view before. I couldn't find my keys because I [had left] them at the office.",
+                  "gaps": [
+                    {
+                      "placeholder": "had arrived",
+                      "answers": [
+                        "had arrived",
+                        "arrived"
+                      ]
+                    },
+                    {
+                      "placeholder": "had already left",
+                      "answers": [
+                        "had already left"
+                      ]
+                    },
+                    {
+                      "placeholder": "had never seen",
+                      "answers": [
+                        "had never seen"
+                      ]
+                    },
+                    {
+                      "placeholder": "had left",
+                      "answers": [
+                        "had left"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "By the time the ambulance arrived, the situation ___ already improved.",
+                      "answers": [
+                        "had",
+                        "has",
+                        "was",
+                        "have"
+                      ]
+                    },
+                    {
+                      "sentence": "She realised she ___ forgotten to bring her passport.",
+                      "answers": [
+                        "had",
+                        "has",
+                        "was",
+                        "did"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Choose the correct sentence:",
+                      "options": [
+                        "When she arrived, dinner already started.",
+                        "When she arrived, dinner had already started.",
+                        "When she arrived, dinner has already started.",
+                        "When she arrived, dinner was already starting yesterday."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "'He ___ never eaten sushi before he tried it in Tokyo.'",
+                      "options": [
+                        "had",
+                        "has",
+                        "have",
+                        "was"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Future Forms",
+      "subtopics": [
+        {
+          "title": "3.1 Will vs Going To",
+          "lessons": [
+            {
+              "title": "Predictions and Decisions: Will and Going To",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000005000,\"blocks\":[{\"id\":\"xX3yY4zA5b\",\"type\":\"paragraph\",\"data\":{\"text\":\"English has several ways to talk about the future. At B1 level, it is essential to understand the difference between <b>will</b>, <b>going to</b>, and <b>present continuous for future</b>.\"}},{\"id\":\"bB6cC7dD8e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>WILL</b> is used for:\"}},{\"id\":\"eE9fF0gG1h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Spontaneous decisions made at the moment of speaking: 'I'll have the pasta, please.'\",\"Predictions based on opinion or belief: 'I think it will rain tomorrow.'\",\"Promises and offers: 'I'll help you with that.'\"]}},{\"id\":\"hH2iI3jJ4k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>GOING TO</b> is used for:\"}},{\"id\":\"kK5lL6mM7n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Plans and intentions decided before the moment of speaking: 'We're going to visit my parents this weekend.'\",\"Predictions based on present evidence: 'Look at those clouds — it's going to rain.'\"]}},{\"id\":\"nN8oO9pP0q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>PRESENT CONTINUOUS</b> for future is used for:\"}},{\"id\":\"qQ1rR2sS3t\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Fixed arrangements (like diary entries): 'I'm meeting the doctor on Tuesday.'\"]}},{\"id\":\"tT4uU5vV6w\",\"type\":\"paragraph\",\"data\":{\"text\":\"The key distinction: <em>will</em> = spontaneous/opinion; <em>going to</em> = pre-planned/evidence.\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I think it will rain tomorrow. We are going to visit my parents this weekend.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat1",
+                      "name": "Will",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat2",
+                      "name": "Going To",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat3",
+                      "name": "Present Continuous (Future)",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "text": "I'll answer the phone — don't get up.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "She's going to start a new course next month — she enrolled last week.",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "I'm flying to Barcelona on Friday. (booked)",
+                      "correctCategory": "cat3"
+                    },
+                    {
+                      "text": "I think robots will replace many jobs.",
+                      "correctCategory": "cat1"
+                    },
+                    {
+                      "text": "Look! That vase is going to fall!",
+                      "correctCategory": "cat2"
+                    },
+                    {
+                      "text": "He's meeting his lawyer at 3 pm tomorrow.",
+                      "correctCategory": "cat3"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "If it will rain tomorrow, we will cancel the picnic.",
+                      "correctText": "If it rains tomorrow, we will cancel the picnic."
+                    },
+                    {
+                      "text": "Look at those clouds — it will rain.",
+                      "correctText": "Look at those clouds — it's going to rain."
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000005001",
+                      "english": "I think technology will change our lives completely.",
+                      "russian": "Я думаю, технологии полностью изменят нашу жизнь.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000005002",
+                      "english": "She is going to apply for a promotion next month.",
+                      "russian": "В следующем месяце она собирается претендовать на повышение.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000005003",
+                      "english": "We are having dinner with friends on Saturday.",
+                      "russian": "В субботу мы ужинаем с друзьями.",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "3.2 Future Perfect and Future Continuous",
+          "lessons": [
+            {
+              "title": "Advanced Future: Future Continuous and Future Perfect",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000006000,\"blocks\":[{\"id\":\"wW7xX8yY9z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Two more future forms give you greater precision when speaking about the future.\"}},{\"id\":\"aA0bB1cC2d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Future Continuous</b> (will be + -ing): Used for actions that will be <em>in progress</em> at a specific future time.\"}},{\"id\":\"dD3eE4fF5g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"At 8 o'clock tomorrow, I <b>will be driving</b> to work.\",\"This time next week, we <b>will be lying</b> on a beach.\"]}},{\"id\":\"gG6hH7iI8j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Future Perfect</b> (will have + past participle): Used for actions that will be <em>completed</em> before a specific future time.\"}},{\"id\":\"jJ9kK0lL1m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"By the end of the year, she <b>will have saved</b> enough money for a car.\",\"By the time you arrive, I <b>will have finished</b> cooking.\"]}},{\"id\":\"mM2nN3oO4p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Typical markers:</b>\"}},{\"id\":\"pP5qQ6rR7s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Future continuous: <em>at this time tomorrow, this time next week, at 6 pm on Friday</em>\",\"Future perfect: <em>by (the time), by the end of, before</em>\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "By the end of the year, she will have saved enough money. At 8 o'clock tomorrow, I will be driving to work.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "by the time",
+                        "by the end of",
+                        "before",
+                        "at this time tomorrow"
+                      ],
+                      "correctWord": "at this time tomorrow"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "By the time you read this letter, I [will have already left] the country. At midnight on New Year's Eve, we [will be celebrating] with our friends. By next June, she [will have completed] her degree.",
+                  "gaps": [
+                    {
+                      "placeholder": "will have already left",
+                      "answers": [
+                        "will have already left",
+                        "will have left"
+                      ]
+                    },
+                    {
+                      "placeholder": "will be celebrating",
+                      "answers": [
+                        "will be celebrating"
+                      ]
+                    },
+                    {
+                      "placeholder": "will have completed",
+                      "answers": [
+                        "will have completed"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "This time next year, I ___ studying at university.",
+                      "options": [
+                        "will be",
+                        "will have",
+                        "am going to",
+                        "will have been"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    },
+                    {
+                      "text": "By 2030, scientists ___ a cure for many diseases.",
+                      "options": [
+                        "will have found",
+                        "will be finding",
+                        "will find",
+                        "are finding"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    },
+                    {
+                      "text": "Don't call at 7 — I ___ having dinner.",
+                      "options": [
+                        "will be",
+                        "will have",
+                        "am going to be",
+                        "have been"
+                      ],
+                      "correctOptions": [
+                        0
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 4: Continuous Tenses",
+      "subtopics": [
+        {
+          "title": "4.1 Past Continuous",
+          "lessons": [
+            {
+              "title": "Past Continuous: Background and Interrupted Actions",
+              "weight": 7,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000007000,\"blocks\":[{\"id\":\"sS8tT9uU0v\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>past continuous</b> (was/were + -ing) is used to describe:\"}},{\"id\":\"vV1wW2xX3y\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"An action <em>in progress</em> at a specific time in the past: <em>At 9 pm last night, I was watching TV.</em>\",\"A background action <em>interrupted</em> by a shorter action (past simple): <em>I was walking home when it started raining.</em>\",\"Two simultaneous past actions: <em>While she was cooking, he was setting the table.</em>\"]}},{\"id\":\"yY4zA5bB6c\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Structure with 'when' and 'while':</b>\"}},{\"id\":\"cC7dD8eE9f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>When</em> + past simple (short action) — <em>while</em> + past continuous (longer background action)\",\"'She was reading a book <b>when</b> the lights went out.'\",\"'<b>While</b> I was studying, my phone kept ringing.'\"]}},{\"id\":\"fF0gG1hH2i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Stative verbs</b> (know, believe, want, like, own, seem) are NOT normally used in continuous forms: Say 'I knew the answer' not 'I was knowing the answer.'\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I was reading a fascinating book when my friend called.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read this sentence aloud",
+                    "targetPhrase": "While they were having lunch, it suddenly started to snow."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I [was reading] a fascinating book when my friend called. While they [were having] lunch, it suddenly started to snow. At 10 o'clock yesterday morning, she [was presenting] her project to the board.",
+                  "gaps": [
+                    {
+                      "placeholder": "was reading",
+                      "answers": [
+                        "was reading"
+                      ]
+                    },
+                    {
+                      "placeholder": "were having",
+                      "answers": [
+                        "were having"
+                      ]
+                    },
+                    {
+                      "placeholder": "was presenting",
+                      "answers": [
+                        "was presenting"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is correct?",
+                      "options": [
+                        "I was knowing the answer.",
+                        "She was understanding the problem.",
+                        "They were playing football when it began to rain.",
+                        "He was owning a restaurant."
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 5: Time Expressions and Tense Combinations",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Tense Timeline: Putting It All Together",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000008000,\"blocks\":[{\"id\":\"iI3jJ4kK5l\",\"type\":\"paragraph\",\"data\":{\"text\":\"At B1 level, you should be able to use multiple tenses in a single piece of writing or conversation. Here is a summary of which tense to use at each 'time layer':\"}},{\"id\":\"lL6mM7nN8o\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Past Perfect</b> — Before another past event: She had eaten before he arrived.\",\"<b>Past Simple</b> — Completed past event: He arrived at 7.\",\"<b>Past Continuous</b> — Background/interrupted past: It was raining when he arrived.\",\"<b>Present Perfect</b> — Past with present relevance: I've just heard the news.\",\"<b>Present Simple</b> — Facts/habits/routines: She works downtown.\",\"<b>Future (will/going to)</b> — Predictions/plans: They're going to move soon.\"]}},{\"id\":\"oO9pP0qQ1r\",\"type\":\"paragraph\",\"data\":{\"text\":\"When telling a story, you typically use: past continuous (background) + past simple (events) + past perfect (earlier events).\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I had already finished dinner when she called, so we went for a walk instead.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "listen-write",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [
+                {
+                  "text": "had already left",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "had already left"
+                },
+                {
+                  "text": "will be celebrating",
+                  "type": "tts",
+                  "audio_url": "",
+                  "correctText": "will be celebrating"
+                }
+              ],
+              "mistakeItems": []
+            },
+            {
+              "order": 4,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000008001",
+                  "english": "I had already finished dinner when she called, so we went for a walk instead.",
+                  "russian": "Я уже закончил ужин, когда она позвонила, поэтому мы вместо этого пошли на прогулку.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000008002",
+                  "english": "By the time the film starts, we will have been waiting for over an hour.",
+                  "russian": "К тому времени, как начнётся фильм, мы будем ждать уже больше часа.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000008003",
+                  "english": "While I was studying, I realised I had made a big mistake.",
+                  "russian": "Пока я учился, я понял, что допустил большую ошибку.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Choose the most natural combination: 'When I ___ home, I realised I ___ my keys at work.'",
+                  "options": [
+                    "got / left",
+                    "got / had left",
+                    "had got / left",
+                    "have got / had left"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which tense is used for a background action interrupted by a shorter event?",
+                  "options": [
+                    "Past Simple",
+                    "Past Perfect",
+                    "Past Continuous",
+                    "Present Perfect"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 6: Conditionals and Tenses",
+      "subtopics": [
+        {
+          "title": "6.1 Zero and First Conditionals",
+          "lessons": [
+            {
+              "title": "Real Conditions: Zero and First Conditional",
+              "weight": 9,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000009000,\"blocks\":[{\"id\":\"rR2sS3tT4u\",\"type\":\"paragraph\",\"data\":{\"text\":\"Conditionals connect tenses in specific patterns. The <b>zero conditional</b> uses present + present and the <b>first conditional</b> uses present + will.\"}},{\"id\":\"uU5vV6wW7x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Zero Conditional</b> — General truths, scientific facts, habitual results:\"}},{\"id\":\"xX8yY9zA0b\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>If you heat water to 100°C, it boils.</em>\",\"<em>If I drink coffee after 6 pm, I can't sleep.</em>\"]}},{\"id\":\"bB1cC2dD3e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>First Conditional</b> — Real, possible future situations:\"}},{\"id\":\"eE4fF5gG6h\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>If it rains tomorrow, we will cancel the picnic.</em>\",\"<em>She will fail the exam if she doesn't study harder.</em>\"]}},{\"id\":\"hH7iI8jJ9k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Important notes:</b>\"}},{\"id\":\"kK0lL1mM2n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Never use 'will' in the if-clause: NOT 'If it will rain' → 'If it rains'\",\"You can use 'unless' instead of 'if...not': 'Unless she studies, she'll fail.'\",\"You can also use 'when', 'as soon as', 'before', 'after' + present simple for the future.\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "If it rains tomorrow, we will cancel the picnic.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "If it will rain, I will stay home.",
+                      "correctText": "If it rains, I will stay home."
+                    },
+                    {
+                      "text": "Unless she will study, she'll fail.",
+                      "correctText": "Unless she studies, she'll fail."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "If she [works] hard, she will get a promotion. Unless you [leave] now, you'll miss the bus. If water [freezes], it becomes ice.",
+                  "gaps": [
+                    {
+                      "placeholder": "works",
+                      "answers": [
+                        "works"
+                      ]
+                    },
+                    {
+                      "placeholder": "leave",
+                      "answers": [
+                        "leave"
+                      ]
+                    },
+                    {
+                      "placeholder": "freezes",
+                      "answers": [
+                        "freezes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which sentence is a correct first conditional?",
+                      "options": [
+                        "If it will snow, I stayed home.",
+                        "If it snows, I will stay home.",
+                        "If it snowed, I would stay home.",
+                        "If it had snowed, I would have stayed home."
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "6.2 Second Conditional",
+          "lessons": [
+            {
+              "title": "Imaginary Situations: Second Conditional",
+              "weight": 10,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000010000,\"blocks\":[{\"id\":\"nN3oO4pP5q\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>second conditional</b> is used to talk about <em>imaginary, hypothetical, or unlikely</em> present/future situations.\"}},{\"id\":\"qQ6rR7sS8t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Form:</b> If + past simple, would + infinitive\"}},{\"id\":\"tT9uU0vV1w\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>If I had more time, I would learn the guitar.</em> (I don't have much time — imaginary)\",\"<em>What would you do if you won the lottery?</em> (very unlikely or hypothetical)\",\"<em>If she spoke Italian, she could work in Rome.</em>\"]}},{\"id\":\"wW2xX3yY4z\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Was or were?</b> In formal English and writing, use 'were' for all persons in the if-clause of the second conditional:\"}},{\"id\":\"zA5bB6cC7d\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>If I were you, I wouldn't do that.</em>\",\"<em>If she were taller, she could be a model.</em>\"]}},{\"id\":\"dD8eE9fF0g\",\"type\":\"paragraph\",\"data\":{\"text\":\"In informal spoken English, 'was' is also common with I/he/she/it.\"}},{\"id\":\"gG1hH2iI3j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Contrast with first conditional:</b>\"}},{\"id\":\"jJ4kK5lL6m\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"First: If I have time, I will call you. (probable — I probably have time)\",\"Second: If I had time, I would call you. (hypothetical — I probably don't have time)\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "If I were you, I wouldn't do that. What would you do if you won the lottery?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read this second conditional sentence aloud",
+                    "targetPhrase": "If I had more time, I would learn the guitar."
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "If I ___ the president, I would change many things.",
+                      "answers": [
+                        "were",
+                        "was",
+                        "am",
+                        "will be"
+                      ]
+                    },
+                    {
+                      "sentence": "She would travel more if she ___ more money.",
+                      "answers": [
+                        "had",
+                        "has",
+                        "would have",
+                        "will have"
+                      ]
+                    },
+                    {
+                      "sentence": "What would you do if you ___ someone else's wallet in the street?",
+                      "answers": [
+                        "found",
+                        "find",
+                        "would find",
+                        "have found"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000010001",
+                      "english": "If I were taller, I could play basketball professionally.",
+                      "russian": "Если бы я был выше, я мог бы профессионально играть в баскетбол.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000010002",
+                      "english": "What would you change if you could redesign your city?",
+                      "russian": "Что бы вы изменили, если бы могли перепроектировать свой город?",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 7: Tense Review Through Storytelling",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Narrative Tenses in Action",
+          "weight": 11,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000011000,\"blocks\":[{\"id\":\"mM7nN8oO9p\",\"type\":\"paragraph\",\"data\":{\"text\":\"One of the best ways to practise tenses is through storytelling. In English narrative writing, you typically use a combination of:\"}},{\"id\":\"pP0qQ1rR2s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Past simple</b> — for the main events of the story\",\"<b>Past continuous</b> — for background setting and interrupted actions\",\"<b>Past perfect</b> — for events that happened before the main narrative\"]}},{\"id\":\"sS3tT4uU5v\",\"type\":\"paragraph\",\"data\":{\"text\":\"Read this example: <em>'It was a cold January morning. Snow <b>was falling</b> softly outside the window. Maria <b>sat</b> down at her desk and <b>opened</b> her laptop. She <b>had been</b> working on the project for three weeks, but something still wasn't right. She <b>had promised</b> her boss she would deliver it by Friday...'</em>\"}},{\"id\":\"vV6wW7xX8y\",\"type\":\"paragraph\",\"data\":{\"text\":\"Notice how the tenses work together to create depth, show timing, and set the scene.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "It was a cold January morning. Snow was falling softly outside the window.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "m1",
+                  "left": "It was raining heavily.",
+                  "right": "Past continuous — background"
+                },
+                {
+                  "id": "m2",
+                  "left": "She had never seen such a thing.",
+                  "right": "Past perfect — before the story"
+                },
+                {
+                  "id": "m3",
+                  "left": "He opened the door.",
+                  "right": "Past simple — main event"
+                },
+                {
+                  "id": "m4",
+                  "left": "While I was sleeping, the storm started.",
+                  "right": "Interrupted action"
+                },
+                {
+                  "id": "m5",
+                  "left": "By midnight, everyone had gone home.",
+                  "right": "Past perfect — completed before a time"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In a narrative, which tense is used to describe the background setting?",
+                  "options": [
+                    "Past simple",
+                    "Past continuous",
+                    "Past perfect",
+                    "Present perfect"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Which sentence correctly uses past perfect in a narrative context?",
+                  "options": [
+                    "He was already leaving when I arrived.",
+                    "He has already left when I arrived.",
+                    "He had already left when I arrived.",
+                    "He already left when I was arriving."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 8: Common Tense Mistakes",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Avoiding Common Tense Errors",
+          "weight": 12,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000012000,\"blocks\":[{\"id\":\"yY9zA0bB1c\",\"type\":\"paragraph\",\"data\":{\"text\":\"Even B1 learners make predictable tense mistakes. Here are the most common ones and how to avoid them:\"}},{\"id\":\"cC2dD3eE4f\",\"type\":\"list\",\"data\":{\"style\":\"ordered\",\"items\":[\"<b>Using past simple instead of present perfect for unspecified time:</b> ✗ 'I saw that film.' (with no time reference, when you mean 'at some point in your life') ✓ 'I've seen that film.'\",\"<b>Using present perfect with a finished time expression:</b> ✗ 'I have visited Rome last year.' ✓ 'I visited Rome last year.'\",\"<b>Confusing 'for' and 'since':</b> ✗ 'I've known him since three years.' ✓ 'I've known him for three years.' / 'I've known him since 2021.'\",\"<b>Forgetting the past perfect in reported speech:</b> ✗ 'She said she is tired.' ✓ 'She said she was tired.' (backshift)\",\"<b>Using 'will' in if-clauses:</b> ✗ 'If it will rain...' ✓ 'If it rains...'\"]}},{\"id\":\"fF5gG6hH7i\",\"type\":\"paragraph\",\"data\":{\"text\":\"\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "I have visited Rome last year is incorrect. The correct form is: I visited Rome last year.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "I have visited Rome last year.",
+                  "correctText": "I visited Rome last year."
+                },
+                {
+                  "text": "I've known her since five years.",
+                  "correctText": "I've known her for five years."
+                },
+                {
+                  "text": "If it will snow, we will cancel the trip.",
+                  "correctText": "If it snows, we will cancel the trip."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "categorization",
+              "categories": [
+                {
+                  "id": "cat1",
+                  "name": "Correct",
+                  "color": "#2e7d32"
+                },
+                {
+                  "id": "cat2",
+                  "name": "Incorrect",
+                  "color": "#d32f2f"
+                }
+              ],
+              "items": [
+                {
+                  "text": "Have you finished your homework yet?",
+                  "correctCategory": "cat1"
+                },
+                {
+                  "text": "I have seen her yesterday.",
+                  "correctCategory": "cat2"
+                },
+                {
+                  "text": "By the time he woke up, she had already left.",
+                  "correctCategory": "cat1"
+                },
+                {
+                  "text": "If it will be sunny, we go to the beach.",
+                  "correctCategory": "cat2"
+                },
+                {
+                  "text": "She has worked here for ten years.",
+                  "correctCategory": "cat1"
+                },
+                {
+                  "text": "We are going to visiting my parents next week.",
+                  "correctCategory": "cat2"
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Which sentence contains an error?",
+                  "options": [
+                    "She has lived here since 2019.",
+                    "I have visited Paris last year.",
+                    "They've just arrived.",
+                    "He had already eaten when we called."
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "Correct the error: 'I've known her since five years.'",
+                  "options": [
+                    "I've known her for five years.",
+                    "I know her since five years.",
+                    "I know her for five years.",
+                    "I've known her by five years."
+                  ],
+                  "correctOptions": [
+                    0
+                  ]
+                },
+                {
+                  "text": "Which is the correct reported speech form?",
+                  "options": [
+                    "He told me he will come tomorrow.",
+                    "He told me he comes tomorrow.",
+                    "He told me he would come the next day.",
+                    "He told me he has come the next day."
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

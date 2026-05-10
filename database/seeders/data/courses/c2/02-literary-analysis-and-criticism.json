@@ -1,0 +1,389 @@
+{
+  "title": "Literary Analysis and Criticism",
+  "description": "Develop the analytical tools, theoretical frameworks, and precise vocabulary required to read, interpret, and write about literary texts at the highest level of sophistication. This course covers major schools of literary criticism, close reading techniques, the politics of the literary canon, and the practice of scholarly literary argument at C2 level.",
+  "language": "en",
+  "difficulty_level": "C2",
+  "is_premium": true,
+  "preview_image": "Literary Analysis and Criticism.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Schools of Literary Theory",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "From New Criticism to Deconstruction: A Survey of Literary Theory",
+          "weight": 1,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000121000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Literary theory</b> provides the systematic frameworks through which critics interpret and evaluate literature. Rather than simply asking 'what does this text mean?', theory asks 'what assumptions govern how we ask what a text means?' Different theoretical schools foreground different aspects of texts and produce different, sometimes incompatible, readings.\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>New Criticism</b> (I.A. Richards, Cleanth Brooks, Robert Penn Warren) — dominant in mid-20th-century Anglo-American academia — advocated <em>close reading</em> of the text itself, treating it as an autonomous, self-sufficient object. The 'intentional fallacy' (assuming the author's intention determines meaning) and the 'affective fallacy' (equating meaning with emotional response) were to be avoided. The text alone was the legitimate object of critical attention.\"}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Structuralism</b> (Saussure, Lévi-Strauss, Barthes) applied the methods of structural linguistics to cultural and literary analysis, seeking the underlying binary oppositions and narrative grammars that organise all texts. <b>Post-structuralism / Deconstruction</b> (Derrida, de Man) challenged structuralism's confidence in stable meanings, arguing that texts are inherently unstable, internally contradictory, and endlessly deferred in their signification.\"}},{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Psychoanalytic criticism</b> (Freud, Lacan) reads texts through the dynamics of desire, repression, the unconscious, and the symbolic order. <b>Marxist criticism</b> (Lukács, Jameson) examines literature's relationship to class, ideology, and historical materialism. <b>Feminist criticism</b> (Woolf, Showalter, Cixous) interrogates the gendering of the literary canon and the marginalisation of women's writing.\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Postcolonial theory</b> (Said, Spivak, Bhabha) examines how colonial discourses construct the 'other', how metropolitan literary traditions incorporate and distort non-Western cultures, and how writers from colonised traditions negotiate their relationship to imperial languages and forms.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "New Criticism argued that the text itself is the legitimate object of analysis, independent of authorial intention or reader response.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "New Criticism",
+                  "right": "Close reading of the text as autonomous object"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Deconstruction",
+                  "right": "Texts are internally contradictory; meaning is endlessly deferred"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Psychoanalytic criticism",
+                  "right": "Reads texts through desire, repression, and the unconscious"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Marxist criticism",
+                  "right": "Examines literature's relation to class and ideology"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Postcolonial theory",
+                  "right": "Examines how colonial discourse constructs and marginalises the 'other'"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the 'intentional fallacy' in New Criticism?",
+                  "options": [
+                    "The error of confusing the narrator with the author",
+                    "The mistaken assumption that an author's intentions determine a text's meaning",
+                    "The fallacy of treating all texts as having a single correct interpretation",
+                    "The error of applying personal emotional responses to texts"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 2: Close Reading at the Highest Level",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Micro-analysis: Analysing Language, Form, and Effect",
+          "weight": 2,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000122000,\"blocks\":[{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Close reading</b> at C2 level goes beyond identifying literary devices — it demands demonstrating with precision how specific textual choices produce specific interpretive effects. The key question is always: <em>why this word, this structure, this image — rather than another?</em>\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Phonological analysis</b> attends to the sound texture of a passage: patterns of alliteration, assonance, consonance, and onomatopoeia that reinforce meaning. Gerard Manley Hopkins's 'The Windhover' is a paradigmatic example of phonological density serving theological and emotional intensity.\"}},{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Syntactic analysis</b> examines sentence structure for its effects: fragmented syntax to convey psychological disruption; extended periodic sentences building to a climax; parataxis (coordination without explicit logical connectors) versus hypotaxis (complex subordination) as markers of different cognitive and aesthetic styles.\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Semantic analysis</b> tracks the connotative dimensions of word choice: register shifts, semantic fields that organise a passage around recurring conceptual associations, and the tension between a word's denotative and connotative meanings — particularly in ironic or ambiguous contexts.\"}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Formal analysis</b> considers the generic conventions the text invokes, conforms to, or subverts. A sonnet that breaks its expected rhyme scheme at the volta achieves effects unavailable to a prose paragraph making the same propositional content. Form is not container but content.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "In close reading, the analyst must demonstrate how specific textual choices produce specific interpretive effects.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Parataxis",
+                  "right": "Coordination without explicit logical connectors ('I came, I saw, I conquered')"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Hypotaxis",
+                  "right": "Complex subordination within sentences"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Semantic field",
+                  "right": "A group of words with related conceptual associations in a text"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Connotation",
+                  "right": "The associations and implications a word carries beyond its dictionary definition"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Phonological density",
+                  "right": "Rich patterns of sound (alliteration, assonance) reinforcing meaning"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "Syntactic style that uses coordination without explicit logical connectors between clauses",
+                  "word": "parataxis"
+                },
+                {
+                  "hint": "Analysis of the recurring conceptual associations organised by a group of related words in a text",
+                  "word": "semantic field"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "In literary analysis, what does 'connotation' refer to?",
+                  "options": [
+                    "The grammatical function of a word in a sentence",
+                    "The precise dictionary definition of a word",
+                    "The associations, implications, and emotional resonance a word carries beyond its literal meaning",
+                    "The frequency of a word's use in a given text"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 3: The Canon and its Critics",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "What is the Literary Canon? Politics, Power, and Inclusion",
+          "weight": 3,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000123000,\"blocks\":[{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"The <b>literary canon</b> — the body of works considered central to a literary tradition, worthy of study, and constitutive of cultural heritage — has been one of the most contested concepts in literary studies since the 1970s. Canon debates are simultaneously debates about aesthetics, institutional power, cultural identity, and the politics of exclusion.\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"paragraph\",\"data\":{\"text\":\"The traditional Western canon has been criticised for its <b>demographic homogeneity</b>: predominantly white, male, European, and written in a handful of European languages. Feminist critics like Elaine Showalter and Sandra Gilbert argued that women writers had been systematically excluded or marginalised. Harold Bloom's <em>The Western Canon</em> (1994) offered a controversial defence of the traditional canon against what he called the 'school of resentment'.\"}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Postcolonial interventions</b> have expanded canonical horizons, arguing for the inclusion of writing from Africa, South Asia, the Caribbean, and Latin America as central rather than marginal to world literature. Chinua Achebe's <em>Things Fall Apart</em>, Toni Morrison's <em>Beloved</em>, and Salman Rushdie's <em>Midnight's Children</em> are among the works that have moved from 'peripheral' to 'canonical' status within living memory.\"}},{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>World literature</b> (Goethe, Casanova, Damrosch) reconceptualises the canon as a global system in which works circulate across linguistic and cultural boundaries, translated and transformed in the process. This framework resists the notion of a single, stable canon in favour of plural, overlapping traditions.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Canon debates are simultaneously debates about aesthetics, institutional power, cultural identity, and the politics of exclusion.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700123001",
+                  "english": "The traditional literary canon has been criticised for systematically excluding writers from marginalised groups.",
+                  "russian": "Традиционный литературный канон подвергался критике за систематическое исключение писателей из маргинализированных групп.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700123002",
+                  "english": "World literature reconceptualises the canon as a global system in which texts circulate across linguistic and cultural boundaries.",
+                  "russian": "Концепция мировой литературы переосмысляет канон как глобальную систему, в которой тексты циркулируют через языковые и культурные границы.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is Harold Bloom's central argument in 'The Western Canon' (1994)?",
+                  "options": [
+                    "The Western canon should be expanded to include non-European writers",
+                    "The traditional literary canon represents a body of aesthetically superior works that should be defended",
+                    "The concept of a literary canon is inherently oppressive and should be abandoned",
+                    "All literature should be evaluated using postcolonial frameworks"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Narrative Theory",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Narratology: Story, Discourse, and the Act of Narration",
+          "weight": 4,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000124000,\"blocks\":[{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Narratology</b> — the formal study of narrative structure — provides a systematic vocabulary for analysing how stories are told rather than merely what they are about. The foundational distinction is between <b>story</b> (<em>fabula</em>) — the chronological sequence of events — and <b>discourse</b> (<em>sjuzhet</em>) — the order and manner in which those events are narrated.\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"Gérard Genette's influential framework in <em>Narrative Discourse</em> analyses narrative along three axes:\"}},{\"id\":\"iJ9kL0mN1o\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Time:</b> order (analepsis/flashback, prolepsis/flash-forward), duration (scene, summary, pause, ellipsis), frequency (how many times an event is narrated)\",\"<b>Mood:</b> distance (diegesis vs. mimesis) and focalization (who perceives — the character vs. the narrator)\",\"<b>Voice:</b> who narrates — homodiegetic (narrator is a character in the story) vs. heterodiegetic (narrator outside the story); autodiegetic (narrator is the protagonist)\"]}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Focalization</b> — Genette's refinement of point of view — asks not 'who speaks?' but 'who sees?': through whose perceptual and cognitive field are events filtered? Internal focalization limits the reader to what one character knows; external focalization remains outside any character's mind; zero focalization grants the narrator omniscience.\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Narratology distinguishes between the story — the chronological sequence of events — and the discourse — the order and manner in which they are narrated.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "matching",
+              "pairs": [
+                {
+                  "id": "pair_1",
+                  "left": "Fabula",
+                  "right": "The chronological story, independent of how it is told"
+                },
+                {
+                  "id": "pair_2",
+                  "left": "Sjuzhet",
+                  "right": "The actual narrative order and presentation of events"
+                },
+                {
+                  "id": "pair_3",
+                  "left": "Analepsis",
+                  "right": "Flashback: narration of earlier events"
+                },
+                {
+                  "id": "pair_4",
+                  "left": "Prolepsis",
+                  "right": "Flash-forward: narration of events before they occur"
+                },
+                {
+                  "id": "pair_5",
+                  "left": "Focalization",
+                  "right": "The perceptual filter through which events are perceived in narration"
+                }
+              ],
+              "shuffleRight": true
+            },
+            {
+              "order": 4,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is 'focalization' in Genette's narratological framework?",
+                  "options": [
+                    "The narrative's central theme or subject",
+                    "The camera angle used in a film adaptation",
+                    "The perceptual and cognitive perspective through which events are filtered in narration",
+                    "The relationship between the author and the implied reader"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Writing Literary Criticism",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "The Art of the Critical Essay: Argument, Evidence, and Style",
+          "weight": 5,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000125000,\"blocks\":[{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"A literary critical essay is not a summary, a retelling, or a review — it is an <b>argument</b> about a text, supported by close reading and, where appropriate, contextual or theoretical framing. The argument must be specific, contestable, and substantiated.\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>The role of quotation</b> is essential and requires precise technique. Block quotations (for longer passages) and run-in quotations (for shorter extracts) should be embedded smoothly into the analytical prose. The convention is: quote → analyse → interpret. Never allow a quotation to stand without analysis; never summarise when you should be quoting; never quote at length without sustained close reading.\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Language for literary argument:</b>\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<em>The text enacts / performs / stages / dramatises / enacts a tension between…</em>\",\"<em>This passage is symptomatic of the novel's broader preoccupation with…</em>\",\"<em>What is at stake in this scene is not merely X but the deeper question of…</em>\",\"<em>The irony here cuts in two directions: on one level…, but on another…</em>\",\"<em>Eliding this tension, critics have tended to read the passage as… However, a closer examination reveals…</em>\"]}},{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Critical voice and authority:</b> The best literary critical writing combines intellectual confidence with scholarly humility — making strong claims while acknowledging ambiguity and the legitimacy of competing readings. Avoid both the tentativeness of 'I think maybe this could possibly mean…' and the dogmatism of 'this clearly and definitively proves…'\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "What is at stake in this passage is not merely the protagonist's psychological state but the novel's broader interrogation of the reliability of memory.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700125001",
+                  "english": "This passage is symptomatic of the novel's broader preoccupation with the instability of self-knowledge.",
+                  "russian": "Данный отрывок симптоматичен для более широкой озабоченности романа нестабильностью самопознания.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700125002",
+                  "english": "Eliding this tension, critics have tended to read the passage as straightforwardly confessional; however, a closer examination reveals significant ironic distancing.",
+                  "russian": "Игнорируя это противоречие, критики склонны читать этот отрывок как откровенно исповедальный; однако более тщательное рассмотрение выявляет значительную иронистскую дистанцию.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read the following critical thesis statement aloud with appropriate scholarly delivery",
+                "targetPhrase": "This passage is symptomatic of the novel's broader preoccupation with the impossibility of authentic self-knowledge."
+              }
+            },
+            {
+              "order": 5,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "What is the standard three-step protocol for using quotations in a literary critical essay?",
+                  "options": [
+                    "Introduce → Quote → Move on",
+                    "Quote → Analyse → Interpret",
+                    "Summarise → Quote → Paraphrase",
+                    "Contextualise → Quote → Agree or disagree"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1370 @@
+{
+  "title": "Travel and Transport",
+  "description": "Learn how to talk about different types of transport, buy tickets, ask for directions, and describe travel experiences in English. Perfect for A1 completers who travel or plan to travel abroad.",
+  "language": "en",
+  "difficulty_level": "A2",
+  "is_premium": false,
+  "preview_image": "Travel and Transport.jpg",
+  "topics": [
+    {
+      "title": "Module 1: Types of Transport",
+      "subtopics": [
+        {
+          "title": "1.1 Land Transport",
+          "lessons": [
+            {
+              "title": "Cars, Buses, and Trains",
+              "weight": 1,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000101000,\"blocks\":[{\"id\":\"aB1cD2eF3g\",\"type\":\"paragraph\",\"data\":{\"text\":\"There are many ways to travel on land. Here is important vocabulary:\"}},{\"id\":\"hI4jK5lM6n\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>bus</b> — a large vehicle that carries many passengers on a fixed route\",\"<b>train</b> — travels on rails between cities or towns\",\"<b>tram</b> — like a bus but runs on rails in the city\",\"<b>underground / metro / subway</b> — a train that runs under the ground in a city\",\"<b>taxi / cab</b> — a car you pay to take you somewhere\",\"<b>car</b> — a private vehicle\"]}},{\"id\":\"oP7qR8sT9u\",\"type\":\"paragraph\",\"data\":{\"text\":\"We say: <b>go by + transport</b> → <em>I go to work by bus. She travels by train.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I go to work by bus.",
+                      "translation": "Я езжу на работу на автобусе."
+                    },
+                    {
+                      "text": "She travels by train.",
+                      "translation": "Она путешествует на поезде."
+                    },
+                    {
+                      "text": "I take the underground.",
+                      "translation": "Я еду на метро."
+                    },
+                    {
+                      "text": "We go by taxi.",
+                      "translation": "Мы едем на такси."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "bus",
+                      "right": "автобус"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "train",
+                      "right": "поезд"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "tram",
+                      "right": "трамвай"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "underground",
+                      "right": "метро"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "taxi",
+                      "right": "такси"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "I go to work by bus. She travels by train. They take the underground.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "bus",
+                    "train",
+                    "tram",
+                    "taxi"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "How do you say 'ехать на поезде' in English?",
+                      "options": [
+                        "go by car",
+                        "go by train",
+                        "go by bus",
+                        "go by tram"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "A train that runs under the ground is called the ___.",
+                      "options": [
+                        "tram",
+                        "taxi",
+                        "underground",
+                        "bus"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bikes, Motorbikes, and Walking",
+              "weight": 2,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000102000,\"blocks\":[{\"id\":\"vW0xY1zA2b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Not all transport has a motor! Some common ways to get around:\"}},{\"id\":\"cD3eF4gH5i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>bicycle / bike</b> — you pedal it yourself\",\"<b>motorbike / motorcycle</b> — like a bike but with a motor\",\"<b>scooter</b> — a small motorbike or electric scooter\",\"<b>on foot / walk</b> — no vehicle, just your legs!\"]}},{\"id\":\"jK6lM7nO8p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Note the prepositions: <em>by bike, by motorbike, on foot</em> (not 'by foot').\"}},{\"id\":\"qR9sT0uV1w\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Past simple examples:</b><br><em>Yesterday I cycled to school. / We walked to the park. / She rode her motorbike to work.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I usually go by bike. Yesterday it was raining, so I went on foot.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "find-mistake",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": [
+                    {
+                      "text": "I go to school by foot.",
+                      "correctText": "I go to school on foot."
+                    },
+                    {
+                      "text": "She rides her bike by foot.",
+                      "correctText": "She rides her bike to school."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "fill-gaps",
+                  "text": "I usually go to school [by] bike. Yesterday it was raining, so I went [on] foot. My brother rides a [motorbike] to work every day.",
+                  "gaps": [
+                    {
+                      "placeholder": "by",
+                      "answers": [
+                        "by"
+                      ]
+                    },
+                    {
+                      "placeholder": "on",
+                      "answers": [
+                        "on"
+                      ]
+                    },
+                    {
+                      "placeholder": "motorbike",
+                      "answers": [
+                        "motorbike",
+                        "motorcycle"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 5,
+                  "type": "translation",
+                  "pairs": [
+                    {
+                      "id": "1700000102001",
+                      "english": "I went to school on foot yesterday.",
+                      "russian": "Вчера я пошёл в школу пешком.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000102002",
+                      "english": "She usually rides her bike to the office.",
+                      "russian": "Обычно она ездит на работу на велосипеде.",
+                      "direction": "eng-ru"
+                    },
+                    {
+                      "id": "1700000102003",
+                      "english": "How do you get to work?",
+                      "russian": "Как ты добираешься до работы?",
+                      "direction": "eng-ru"
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Which preposition do we use with 'foot'?",
+                      "options": [
+                        "by foot",
+                        "on foot",
+                        "in foot",
+                        "at foot"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Past simple of 'ride' is ___.",
+                      "options": [
+                        "rided",
+                        "rode",
+                        "rid",
+                        "ridden"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1.2 Air and Water Transport",
+          "lessons": [
+            {
+              "title": "Planes, Ships, and Ferries",
+              "weight": 3,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000103000,\"blocks\":[{\"id\":\"xY2zA3bC4d\",\"type\":\"paragraph\",\"data\":{\"text\":\"For long-distance or international travel, we often use air or water transport:\"}},{\"id\":\"eF5gH6iJ7k\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>plane / aeroplane / airplane</b> — flies through the air\",\"<b>helicopter</b> — a small aircraft with spinning blades\",\"<b>ship</b> — a large boat that crosses seas and oceans\",\"<b>ferry</b> — a boat that carries people and cars across a river or short stretch of sea\",\"<b>cruise ship</b> — a very large ship for holiday travel\"]}},{\"id\":\"lM8nO9pQ0r\",\"type\":\"paragraph\",\"data\":{\"text\":\"Useful phrases: <em>I flew to London. / We took the ferry to France. / They travelled by ship.</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "audio",
+                  "content": {
+                    "text": "I flew to London. We took the ferry to France. They travelled by ship.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "categorization",
+                  "categories": [
+                    {
+                      "id": "cat_1",
+                      "name": "Land",
+                      "color": "#1976d2"
+                    },
+                    {
+                      "id": "cat_2",
+                      "name": "Air",
+                      "color": "#d32f2f"
+                    },
+                    {
+                      "id": "cat_3",
+                      "name": "Water",
+                      "color": "#2e7d32"
+                    }
+                  ],
+                  "items": [
+                    {
+                      "id": "item_1",
+                      "text": "plane",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_2",
+                      "text": "ferry",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_3",
+                      "text": "train",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_4",
+                      "text": "helicopter",
+                      "correctCategory": "cat_2"
+                    },
+                    {
+                      "id": "item_5",
+                      "text": "ship",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_6",
+                      "text": "tram",
+                      "correctCategory": "cat_1"
+                    },
+                    {
+                      "id": "item_7",
+                      "text": "cruise ship",
+                      "correctCategory": "cat_3"
+                    },
+                    {
+                      "id": "item_8",
+                      "text": "bicycle",
+                      "correctCategory": "cat_1"
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "vocabulary-game",
+                  "gameType": "odd-one-out",
+                  "words": [],
+                  "oddItems": [
+                    {
+                      "words": [
+                        "plane",
+                        "helicopter",
+                        "ferry",
+                        "aeroplane"
+                      ],
+                      "correctWord": "ferry"
+                    }
+                  ],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 5,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A boat that takes people across a river is called a ___.",
+                      "options": [
+                        "cruise ship",
+                        "ferry",
+                        "helicopter",
+                        "tram"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "Past tense of 'fly' is ___.",
+                      "options": [
+                        "flied",
+                        "flying",
+                        "flew",
+                        "flown"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Which is NOT air transport?",
+                      "options": [
+                        "plane",
+                        "helicopter",
+                        "ferry",
+                        "aeroplane"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 2: At the Station or Airport",
+      "subtopics": [
+        {
+          "title": "2.1 Buying Tickets",
+          "lessons": [
+            {
+              "title": "At the Train Station",
+              "weight": 4,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000104000,\"blocks\":[{\"id\":\"sT1uV2wX3y\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you travel by train, you need to know this vocabulary:\"}},{\"id\":\"zA4bC5dE6f\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>ticket</b> — the document that allows you to travel\",\"<b>single ticket</b> — for one journey, one direction\",\"<b>return ticket</b> — for a journey there and back\",\"<b>platform</b> — where you wait for and board the train\",\"<b>departure</b> — when the train leaves\",\"<b>arrival</b> — when the train arrives\",\"<b>delay</b> — when the train is late\"]}},{\"id\":\"gH7iJ8kL9m\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key phrases:</b><br><em>I'd like a return ticket to London, please.</em><br><em>Which platform does the train leave from?</em><br><em>Is the train on time?</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "I'd like a return ticket, please.",
+                      "translation": "Мне, пожалуйста, билет туда и обратно."
+                    },
+                    {
+                      "text": "Which platform is it?",
+                      "translation": "Какой перрон?"
+                    },
+                    {
+                      "text": "Is the train on time?",
+                      "translation": "Поезд по расписанию?"
+                    },
+                    {
+                      "text": "The train is delayed.",
+                      "translation": "Поезд задерживается."
+                    }
+                  ]
+                },
+                {
+                  "order": 3,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "single ticket",
+                      "right": "билет в одну сторону"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "return ticket",
+                      "right": "билет туда и обратно"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "platform",
+                      "right": "перрон"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "departure",
+                      "right": "отправление"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "delay",
+                      "right": "задержка"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'd like a return ticket to London, please. Which platform does the train leave from?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "sentence-task",
+                  "tasks": [
+                    {
+                      "sentence": "I'd like a ___ ticket to Manchester, please.",
+                      "answers": [
+                        "return",
+                        "single",
+                        "one",
+                        "platform"
+                      ]
+                    },
+                    {
+                      "sentence": "The train was ___ by 20 minutes.",
+                      "answers": [
+                        "delayed",
+                        "departed",
+                        "arrived",
+                        "cancelled"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "A 'return ticket' is for ___.",
+                      "options": [
+                        "one direction only",
+                        "a journey there and back",
+                        "first class travel",
+                        "children only"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "The area where you wait for your train is called the ___.",
+                      "options": [
+                        "departure",
+                        "ticket",
+                        "platform",
+                        "delay"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Dialogue: Buying a Train Ticket",
+              "weight": 5,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000105000,\"blocks\":[{\"id\":\"nO0pQ1rS2t\",\"type\":\"paragraph\",\"data\":{\"text\":\"Read this typical dialogue at a train station ticket office:\"}},{\"id\":\"uV3wX4yZ5a\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Clerk:</b> Good morning. How can I help you?<br><b>Passenger:</b> I'd like a return ticket to Edinburgh, please.<br><b>Clerk:</b> When would you like to travel?<br><b>Passenger:</b> Tomorrow morning. The first train, please.<br><b>Clerk:</b> That's the 7:45. Standard class or first class?<br><b>Passenger:</b> Standard class, please. How much is that?<br><b>Clerk:</b> That's £62. Would you like a window seat?<br><b>Passenger:</b> Yes, please. Thank you!\"}},{\"id\":\"bC6dE7fG8h\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Key phrases from the dialogue:</b><br>- <em>I'd like...</em> (= I would like — polite request)<br>- <em>How much is that?</em><br>- <em>Standard class / first class</em><br>- <em>Window seat / aisle seat</em>\"}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "speech-recognition",
+                  "content": {
+                    "instructions": "Read this dialogue line aloud",
+                    "targetPhrase": "I'd like a return ticket to Edinburgh, please. Standard class."
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "vocabulary-game",
+                  "gameType": "guess-word",
+                  "words": [],
+                  "oddItems": [],
+                  "guessItems": [
+                    {
+                      "hint": "A seat next to the window on a train",
+                      "word": "window seat"
+                    },
+                    {
+                      "hint": "The cheaper travel option on a train",
+                      "word": "standard class"
+                    },
+                    {
+                      "hint": "Short form of I would like",
+                      "word": "I'd like"
+                    }
+                  ],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 4,
+                  "type": "audio",
+                  "content": {
+                    "text": "I'd like a return ticket, please. Standard class. How much is that?",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "fill-gaps",
+                  "text": "I'd [like] a return ticket to Paris, please. [How] much is that? Do you have a [window] seat available? The train [departs] at half past eight.",
+                  "gaps": [
+                    {
+                      "placeholder": "like",
+                      "answers": [
+                        "like"
+                      ]
+                    },
+                    {
+                      "placeholder": "How",
+                      "answers": [
+                        "How"
+                      ]
+                    },
+                    {
+                      "placeholder": "window",
+                      "answers": [
+                        "window"
+                      ]
+                    },
+                    {
+                      "placeholder": "departs",
+                      "answers": [
+                        "departs",
+                        "leaves"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "order": 6,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "'I'd like' is a short form of ___.",
+                      "options": [
+                        "I did like",
+                        "I would like",
+                        "I have liked",
+                        "I am liking"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    },
+                    {
+                      "text": "An 'aisle seat' is a seat ___.",
+                      "options": [
+                        "next to the window",
+                        "at the front",
+                        "next to the walkway",
+                        "in first class"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "The passenger wants to travel ___.",
+                      "options": [
+                        "today in the evening",
+                        "tomorrow morning",
+                        "next week",
+                        "in the afternoon"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 At the Airport",
+          "lessons": [
+            {
+              "title": "Airport Vocabulary",
+              "weight": 6,
+              "content": [
+                {
+                  "order": 1,
+                  "type": "text",
+                  "content": "{\"time\":1700000106000,\"blocks\":[{\"id\":\"iJ9kL0mN1o\",\"type\":\"paragraph\",\"data\":{\"text\":\"Airports can be confusing! Learn this essential vocabulary:\"}},{\"id\":\"pQ2rS3tU4v\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>check-in</b> — the process of registering for your flight and dropping off luggage\",\"<b>boarding pass</b> — the document you need to get on the plane\",\"<b>gate</b> — the area where you wait before boarding the plane\",\"<b>passport control</b> — where officials check your passport\",\"<b>customs</b> — where officials check what you are bringing into the country\",\"<b>luggage / baggage</b> — your bags and suitcases\",\"<b>hand luggage</b> — small bag you carry onto the plane\",\"<b>flight</b> — a journey by plane\"]}}],\"version\":\"2.31.4\"}"
+                },
+                {
+                  "order": 2,
+                  "type": "video",
+                  "url": "VIDEO_PLACEHOLDER"
+                },
+                {
+                  "order": 3,
+                  "type": "phrases",
+                  "phrases": [
+                    {
+                      "text": "Where is the check-in desk?",
+                      "translation": "Где стойка регистрации?"
+                    },
+                    {
+                      "text": "Here is my boarding pass.",
+                      "translation": "Вот мой посадочный талон."
+                    },
+                    {
+                      "text": "My hand luggage is under the seat.",
+                      "translation": "Моя ручная кладь под сиденьем."
+                    },
+                    {
+                      "text": "The flight is on time.",
+                      "translation": "Рейс по расписанию."
+                    }
+                  ]
+                },
+                {
+                  "order": 4,
+                  "type": "matching",
+                  "pairs": [
+                    {
+                      "id": "pair_1",
+                      "left": "boarding pass",
+                      "right": "посадочный талон"
+                    },
+                    {
+                      "id": "pair_2",
+                      "left": "check-in",
+                      "right": "регистрация на рейс"
+                    },
+                    {
+                      "id": "pair_3",
+                      "left": "gate",
+                      "right": "выход на посадку"
+                    },
+                    {
+                      "id": "pair_4",
+                      "left": "customs",
+                      "right": "таможня"
+                    },
+                    {
+                      "id": "pair_5",
+                      "left": "hand luggage",
+                      "right": "ручная кладь"
+                    }
+                  ],
+                  "shuffleRight": true
+                },
+                {
+                  "order": 5,
+                  "type": "audio",
+                  "content": {
+                    "text": "Please have your boarding pass ready. Proceed to gate 14.",
+                    "type": "tts",
+                    "audio_url": ""
+                  }
+                },
+                {
+                  "order": 6,
+                  "type": "vocabulary-game",
+                  "gameType": "word-scramble",
+                  "words": [
+                    "passport",
+                    "customs",
+                    "luggage",
+                    "flight"
+                  ],
+                  "oddItems": [],
+                  "guessItems": [],
+                  "listenItems": [],
+                  "mistakeItems": []
+                },
+                {
+                  "order": 7,
+                  "type": "test",
+                  "questions": [
+                    {
+                      "text": "Where do you go first when you arrive at the airport?",
+                      "options": [
+                        "gate",
+                        "customs",
+                        "check-in",
+                        "passport control"
+                      ],
+                      "correctOptions": [
+                        2
+                      ]
+                    },
+                    {
+                      "text": "Your small bag that you take on the plane is called ___.",
+                      "options": [
+                        "suitcase",
+                        "hand luggage",
+                        "boarding pass",
+                        "gate bag"
+                      ],
+                      "correctOptions": [
+                        1
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "title": "Module 3: Directions and Getting Around",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Asking for and Giving Directions",
+          "weight": 7,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000107000,\"blocks\":[{\"id\":\"wX5yZ6aB7c\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you are lost, you need to ask for directions. Here are useful phrases:\"}},{\"id\":\"dE8fG9hI0j\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Asking:</b><br><em>Excuse me, how do I get to the train station?</em><br><em>Where is the nearest bus stop?</em><br><em>Is it far from here?</em>\"}},{\"id\":\"kL1mN2oP3q\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Giving directions:</b>\"}},{\"id\":\"rS4tU5vW6x\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>Turn left / right</b> — at the corner, turn in that direction\",\"<b>Go straight ahead / straight on</b> — keep going in the same direction\",\"<b>Take the first / second turning on the left/right</b>\",\"<b>It's on the left / right</b>\",\"<b>It's opposite / next to / near + place</b>\",\"<b>Cross the road / bridge</b> — go to the other side\"]}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "speech-recognition",
+              "content": {
+                "instructions": "Read these directions aloud",
+                "targetPhrase": "Go straight ahead and turn left at the traffic lights."
+              }
+            },
+            {
+              "order": 3,
+              "type": "fill-gaps",
+              "text": "[Excuse] me, how do I get to the museum? Go [straight] ahead and [turn] left at the traffic lights. The museum is [next] to the park. It's about ten minutes on [foot].",
+              "gaps": [
+                {
+                  "placeholder": "Excuse",
+                  "answers": [
+                    "Excuse"
+                  ]
+                },
+                {
+                  "placeholder": "straight",
+                  "answers": [
+                    "straight"
+                  ]
+                },
+                {
+                  "placeholder": "turn",
+                  "answers": [
+                    "turn"
+                  ]
+                },
+                {
+                  "placeholder": "next",
+                  "answers": [
+                    "next"
+                  ]
+                },
+                {
+                  "placeholder": "foot",
+                  "answers": [
+                    "foot"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "Go straight forward until the lights.",
+                  "correctText": "Go straight ahead until the lights."
+                },
+                {
+                  "text": "It's opposite to the bank.",
+                  "correctText": "It's opposite the bank."
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000107001",
+                  "english": "Excuse me, where is the nearest metro station?",
+                  "russian": "Извините, где ближайшая станция метро?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000107002",
+                  "english": "Turn right at the traffic lights.",
+                  "russian": "На светофоре поверните направо.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000107003",
+                  "english": "It's opposite the post office.",
+                  "russian": "Это напротив почты.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000107004",
+                  "english": "Is it far from here?",
+                  "russian": "Это далеко отсюда?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "audio",
+              "content": {
+                "text": "Excuse me! Turn left at the traffic lights. It is opposite the bank.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "'Go straight ahead' means ___.",
+                  "options": [
+                    "turn right",
+                    "turn left",
+                    "keep going in the same direction",
+                    "stop here"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "You ask: 'Is it far?' The person says: 'It's about a 5-minute walk.' This means ___.",
+                  "options": [
+                    "it is very far",
+                    "it is not far",
+                    "you need to take a bus",
+                    "it is closed"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Travel Phrases and Questions",
+          "weight": 8,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000108000,\"blocks\":[{\"id\":\"yZ7aB8cD9e\",\"type\":\"paragraph\",\"data\":{\"text\":\"These are essential phrases for any traveller:\"}},{\"id\":\"fG0hI1jK2l\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Arriving at the hotel: <em>I have a reservation. / I'd like to check in.</em>\",\"Asking about transport: <em>Does this bus go to the city centre?</em>\",\"Problems with luggage: <em>My suitcase is missing. / I lost my bag.</em>\",\"Getting on transport: <em>Is this seat taken?</em>\",\"Paying: <em>How much is a ticket to...?</em>\"]}},{\"id\":\"mN3oP4qR5s\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Past simple forms to know:</b> go → <b>went</b>, take → <b>took</b>, fly → <b>flew</b>, drive → <b>drove</b>, lose → <b>lost</b>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "Is this seat taken? I lost my bag at the airport. Does this bus go to the city centre?",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "We ___ to Rome last summer.",
+                  "answers": [
+                    "flew",
+                    "fly",
+                    "flied",
+                    "flown"
+                  ]
+                },
+                {
+                  "sentence": "I ___ my passport at the airport!",
+                  "answers": [
+                    "lost",
+                    "lose",
+                    "losing",
+                    "losed"
+                  ]
+                },
+                {
+                  "sentence": "She ___ a taxi to the hotel.",
+                  "answers": [
+                    "took",
+                    "take",
+                    "taken",
+                    "taked"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "vocabulary-game",
+              "gameType": "odd-one-out",
+              "words": [],
+              "oddItems": [
+                {
+                  "words": [
+                    "went",
+                    "took",
+                    "flew",
+                    "drive"
+                  ],
+                  "correctWord": "drive"
+                }
+              ],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000108001",
+                  "english": "Is this seat taken?",
+                  "russian": "Это место занято?",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000108002",
+                  "english": "I lost my bag at the airport.",
+                  "russian": "Я потерял сумку в аэропорту.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000108003",
+                  "english": "We flew to Paris last month.",
+                  "russian": "В прошлом месяце мы летели в Париж.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000108004",
+                  "english": "Does this bus go to the city centre?",
+                  "russian": "Этот автобус едет в центр города?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "Past tense of 'go' is ___.",
+                  "options": [
+                    "goed",
+                    "gone",
+                    "went",
+                    "go"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                },
+                {
+                  "text": "Past tense of 'lose' is ___.",
+                  "options": [
+                    "losed",
+                    "losing",
+                    "lost",
+                    "losen"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 4: Describing a Journey",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Talking About a Past Trip",
+          "weight": 9,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000109000,\"blocks\":[{\"id\":\"tU6vW7xY8z\",\"type\":\"paragraph\",\"data\":{\"text\":\"When you talk about a past journey, use the <b>past simple tense</b>. Key vocabulary for describing a trip:\"}},{\"id\":\"aB9cD0eF1g\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>journey</b> — the act of travelling from one place to another\",\"<b>trip</b> — a short journey, often for a purpose\",\"<b>destination</b> — the place you are travelling to\",\"<b>sightseeing</b> — visiting famous and interesting places\",\"<b>souvenir</b> — a small gift you buy to remember a place\",\"<b>accommodation</b> — the place where you stay (hotel, hostel, etc.)\"]}},{\"id\":\"hI2jK3lM4n\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Useful time expressions:</b> last summer, three days ago, in March, last year.\"}},{\"id\":\"oP5qR6sT7u\",\"type\":\"paragraph\",\"data\":{\"text\":\"<em>Example: Last summer I went to Spain. I flew from London. I stayed in a small hotel near the beach. I went sightseeing and bought souvenirs.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "phrases",
+              "phrases": [
+                {
+                  "text": "My destination was Rome.",
+                  "translation": "Мой пункт назначения — Рим."
+                },
+                {
+                  "text": "I went sightseeing.",
+                  "translation": "Я осматривал достопримечательности."
+                },
+                {
+                  "text": "I bought souvenirs.",
+                  "translation": "Я купил сувениры."
+                },
+                {
+                  "text": "I stayed in a hotel.",
+                  "translation": "Я останавливался в отеле."
+                }
+              ]
+            },
+            {
+              "order": 3,
+              "type": "audio",
+              "content": {
+                "text": "Last summer I went to Spain. I stayed in a hotel near the beach and went sightseeing every day.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 4,
+              "type": "fill-gaps",
+              "text": "Last year I went on a [trip] to Italy. My [destination] was Rome. I [stayed] in a small hotel in the city centre. I spent two days [sightseeing]. I [bought] many souvenirs for my family.",
+              "gaps": [
+                {
+                  "placeholder": "trip",
+                  "answers": [
+                    "trip"
+                  ]
+                },
+                {
+                  "placeholder": "destination",
+                  "answers": [
+                    "destination"
+                  ]
+                },
+                {
+                  "placeholder": "stayed",
+                  "answers": [
+                    "stayed"
+                  ]
+                },
+                {
+                  "placeholder": "sightseeing",
+                  "answers": [
+                    "sightseeing"
+                  ]
+                },
+                {
+                  "placeholder": "bought",
+                  "answers": [
+                    "bought"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "vocabulary-game",
+              "gameType": "guess-word",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [
+                {
+                  "hint": "A small gift you buy to remember a place",
+                  "word": "souvenir"
+                },
+                {
+                  "hint": "The place you are travelling to",
+                  "word": "destination"
+                },
+                {
+                  "hint": "Visiting famous and interesting places",
+                  "word": "sightseeing"
+                }
+              ],
+              "listenItems": [],
+              "mistakeItems": []
+            },
+            {
+              "order": 6,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000109001",
+                  "english": "We went sightseeing in Paris last year.",
+                  "russian": "В прошлом году мы осматривали достопримечательности в Париже.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000109002",
+                  "english": "I stayed in a comfortable hotel near the beach.",
+                  "russian": "Я жил в удобном отеле рядом с пляжем.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000109003",
+                  "english": "What was the most interesting place you visited?",
+                  "russian": "Какое самое интересное место вы посетили?",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 7,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "A small gift you buy to remember a place is called a ___.",
+                  "options": [
+                    "luggage",
+                    "souvenir",
+                    "boarding pass",
+                    "destination"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'Accommodation' means ___.",
+                  "options": [
+                    "a plane ticket",
+                    "a type of food",
+                    "the place where you stay",
+                    "a travel document"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Module 5: Travel Problems",
+      "subtopics": [],
+      "lessons": [
+        {
+          "title": "Common Travel Problems",
+          "weight": 10,
+          "content": [
+            {
+              "order": 1,
+              "type": "text",
+              "content": "{\"time\":1700000110000,\"blocks\":[{\"id\":\"vW8xY9zA0b\",\"type\":\"paragraph\",\"data\":{\"text\":\"Travel doesn't always go smoothly! Here is vocabulary for common travel problems:\"}},{\"id\":\"cD1eF2gH3i\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"<b>delayed</b> — the transport is late\",\"<b>cancelled</b> — the journey does not happen at all\",\"<b>missed the train/bus/flight</b> — you arrived too late and it left without you\",\"<b>lost luggage</b> — your bags did not arrive at the destination\",\"<b>overbooked</b> — too many tickets were sold (common on flights)\",\"<b>traffic jam</b> — cars are not moving on the road\"]}},{\"id\":\"jK4lM5nO6p\",\"type\":\"paragraph\",\"data\":{\"text\":\"Phrases to use: <em>My flight was cancelled. / I missed my bus. / My luggage was lost. / There was a terrible traffic jam.</em>\"}}],\"version\":\"2.31.4\"}"
+            },
+            {
+              "order": 2,
+              "type": "audio",
+              "content": {
+                "text": "My flight was cancelled. I missed my bus. There was a terrible traffic jam.",
+                "type": "tts",
+                "audio_url": ""
+              }
+            },
+            {
+              "order": 3,
+              "type": "vocabulary-game",
+              "gameType": "find-mistake",
+              "words": [],
+              "oddItems": [],
+              "guessItems": [],
+              "listenItems": [],
+              "mistakeItems": [
+                {
+                  "text": "My flight was cancel.",
+                  "correctText": "My flight was cancelled."
+                },
+                {
+                  "text": "I missed to my train.",
+                  "correctText": "I missed my train."
+                }
+              ]
+            },
+            {
+              "order": 4,
+              "type": "sentence-task",
+              "tasks": [
+                {
+                  "sentence": "My flight was ___ because of bad weather.",
+                  "answers": [
+                    "cancelled",
+                    "delayed",
+                    "missed",
+                    "lost"
+                  ]
+                },
+                {
+                  "sentence": "There was a terrible ___ on the motorway.",
+                  "answers": [
+                    "traffic jam",
+                    "delay",
+                    "boarding pass",
+                    "gate"
+                  ]
+                }
+              ]
+            },
+            {
+              "order": 5,
+              "type": "translation",
+              "pairs": [
+                {
+                  "id": "1700000110001",
+                  "english": "My flight was delayed by three hours.",
+                  "russian": "Мой рейс задержали на три часа.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000110002",
+                  "english": "I missed the last bus home.",
+                  "russian": "Я опоздал на последний автобус домой.",
+                  "direction": "eng-ru"
+                },
+                {
+                  "id": "1700000110003",
+                  "english": "My luggage was lost at the airport.",
+                  "russian": "Мой багаж потеряли в аэропорту.",
+                  "direction": "eng-ru"
+                }
+              ]
+            },
+            {
+              "order": 6,
+              "type": "test",
+              "questions": [
+                {
+                  "text": "'My flight was cancelled' means ___.",
+                  "options": [
+                    "the flight was late",
+                    "the flight did not happen",
+                    "I missed the flight",
+                    "the luggage was lost"
+                  ],
+                  "correctOptions": [
+                    1
+                  ]
+                },
+                {
+                  "text": "'I missed my train' means ___.",
+                  "options": [
+                    "I was on time",
+                    "the train was late",
+                    "I arrived too late and the train left",
+                    "I enjoyed the journey"
+                  ],
+                  "correctOptions": [
+                    2
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
