@@ -13,7 +13,7 @@ use App\Http\Requests\Topic\UpdateTopicRequest;
 use App\Http\Resources\Topic\TopicResource;
 use App\Models\Education\Course;
 use App\Models\Education\Topic;
-use App\Services\Contracts\Topic\TopicServiceInterface;
+use App\Services\TopicService;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
@@ -30,28 +30,23 @@ class TopicController extends Controller
     use SearcherTrait;
 
     /**
-     * Topic service instance.
-     *
-     * @var TopicServiceInterface
-     */
-    protected readonly TopicServiceInterface $topicService;
-
-    /**
      * Construct a new TopicController instance.
      *
-     * @param TopicServiceInterface $topicService
+     * @param \App\Services\TopicService $topicService
+     *
+     * @return void
      */
-    public function __construct(TopicServiceInterface $topicService)
-    {
-        $this->topicService = $topicService;
+    public function __construct(
+        protected readonly TopicService $topicService,
+    ) {
     }
 
     /**
      * Display a listing of topics with optional pagination and search.
      *
-     * @param Request $request
+     * @param \Illuminate\Http\Request $request
      *
-     * @return AnonymousResourceCollection returns a collection of topics
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
      */
     public function index(Request $request): AnonymousResourceCollection
     {
@@ -76,9 +71,9 @@ class TopicController extends Controller
     /**
      * Store a newly created topic in storage.
      *
-     * @param CreateTopicRequest $request
+     * @param \App\Http\Requests\Topic\CreateTopicRequest $request
      *
-     * @return JsonResponse returns the created topic or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function store(CreateTopicRequest $request): JsonResponse
     {
@@ -100,9 +95,9 @@ class TopicController extends Controller
     /**
      * Display the specified topic.
      *
-     * @param Topic $topic
+     * @param \App\Models\Education\Topic $topic
      *
-     * @return JsonResponse returns topic data or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function show(Topic $topic): JsonResponse
     {
@@ -121,10 +116,10 @@ class TopicController extends Controller
     /**
      * Update the specified topic in storage.
      *
-     * @param UpdateTopicRequest $request
-     * @param Topic              $topic
+     * @param \App\Http\Requests\Topic\UpdateTopicRequest $request
+     * @param \App\Models\Education\Topic $topic
      *
-     * @return JsonResponse returns updated topic or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function update(UpdateTopicRequest $request, Topic $topic): JsonResponse
     {
@@ -150,16 +145,16 @@ class TopicController extends Controller
     /**
      * Remove the specified topic from storage.
      *
-     * @param Topic $topic
+     * @param \App\Models\Education\Topic $topic
      *
-     * @return JsonResponse returns 204 on success or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function destroy(Topic $topic): JsonResponse
     {
         try {
             $deleted = $this->topicService->deleteTopic($topic);
 
-            if (! $deleted) {
+            if (!$deleted) {
                 Log::warning('Failed to delete topic', ['topic_id' => $topic->id]);
 
                 return response()->json(['message' => 'Failed to delete topic'], 400);
@@ -185,10 +180,10 @@ class TopicController extends Controller
     /**
      * Get all topics for a specific course with optional pagination and search.
      *
-     * @param Request $request
-     * @param Course  $course
+     * @param \Illuminate\Http\Request $request
+     * @param \App\Models\Education\Course $course
      *
-     * @return AnonymousResourceCollection returns collection of topics
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
      */
     public function getTopicsByCourseId(Request $request, Course $course): AnonymousResourceCollection
     {
@@ -221,9 +216,9 @@ class TopicController extends Controller
     /**
      * Publish the specified topic.
      *
-     * @param Topic $topic
+     * @param \App\Models\Education\Topic $topic
      *
-     * @return JsonResponse returns published topic or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function publish(Topic $topic): JsonResponse
     {
@@ -245,9 +240,9 @@ class TopicController extends Controller
     /**
      * Unpublish the specified topic.
      *
-     * @param Topic $topic
+     * @param \App\Models\Education\Topic $topic
      *
-     * @return JsonResponse returns unpublished topic or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function unpublish(Topic $topic): JsonResponse
     {

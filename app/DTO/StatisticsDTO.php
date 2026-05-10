@@ -15,7 +15,7 @@ final readonly class StatisticsDTO
      * @param int $activeStudents
      * @param int $totalCourses
      * @param int $completedLessons
-     * @param int $averageRating
+     * @param float $averageRating
      */
     public function __construct(
         public int $activeStudents,
@@ -25,6 +25,11 @@ final readonly class StatisticsDTO
     ) {
     }
 
+    /**
+     * Converts the DTO to an associative array.
+     *
+     * @return array<string, int|float>
+     */
     public function toArray(): array
     {
         return [

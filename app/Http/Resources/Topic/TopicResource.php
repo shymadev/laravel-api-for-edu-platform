@@ -14,7 +14,11 @@ use Illuminate\Http\Resources\Json\JsonResource;
 class TopicResource extends JsonResource
 {
     /**
-     * {@inheritdoc}
+     * Transform the resource into an array.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return array<string, mixed>
      */
     public function toArray(Request $request): array
     {
@@ -25,6 +29,7 @@ class TopicResource extends JsonResource
             'title' => $this->title,
             'created_at' => $this->created_at,
             'is_active' => $this->is_active,
+            'lesson_count' => $this->whenLoaded('lessons', fn () => $this->lessons->count(), 0),
         ];
     }
 }

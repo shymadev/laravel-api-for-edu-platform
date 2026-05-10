@@ -4,25 +4,31 @@ declare(strict_types=1);
 
 namespace App\Services\Storage;
 
-use App\Services\Contracts\Storage\FileStorageInterface;
 use Illuminate\Http\UploadedFile;
 use Illuminate\Support\Facades\Storage;
 
-abstract class BaseStorage implements FileStorageInterface
+abstract class BaseStorage
 {
     use Traits\UniqueFileNameTrait;
 
+    private const DISK = 'minio';
+
     /**
-     * {@inheritdoc}
+     * Upload a file to MinIO storage under the given folder.
+     *
+     * @param string $folderName
+     * @param UploadedFile $fileToUpload
+     *
+     * @return string|false Public URL on success, false on failure
      */
-    public function upload(UploadedFile $fileToUpload, string $folderName): string | false
+    public function upload(UploadedFile $fileToUpload, string $folderName): string|false
     {
         try {
-            if (! $this->isValidFile($fileToUpload)) {
+            if (!$this->isValidFile($fileToUpload)) {
                 return false;
             }
 
-            $filename = $folderName . '/' .$this->generateUniqueFilename($fileToUpload);
+            $filename = $folderName . '/' . $this->generateUniqueFilename($fileToUpload);
 
             if ($this->getStoragePathPrefix()) {
                 $filename = $this->getStoragePathPrefix() . '/' . $filename;
@@ -39,14 +45,14 @@ abstract class BaseStorage implements FileStorageInterface
             }
 
             try {
-                Storage::disk('public')->writeStream($filename, $stream);
+                Storage::disk(self::DISK)->writeStream($filename, $stream, ['visibility' => 'public']);
             } finally {
                 if (is_resource($stream)) {
                     fclose($stream);
                 }
             }
 
-            return '/storage/' . $filename;
+            return Storage::disk(self::DISK)->url($filename);
 
         } catch (\Exception) {
             return false;
@@ -54,31 +60,48 @@ abstract class BaseStorage implements FileStorageInterface
     }
 
     /**
-     * {@inheritdoc}
+     * Delete a file from storage by its URL.
+     *
+     * @param string $fileUrl
      */
     public function delete(string $fileUrl): bool
     {
         if (str_starts_with($fileUrl, '/storage')) {
-            $fileUrl = substr($fileUrl, 9);
+            $path = substr($fileUrl, 9);
+
+            if (Storage::disk('public')->exists($path)) {
+                return Storage::disk('public')->delete($path);
+            }
+
+            return false;
         }
 
-        if (Storage::disk('public')->exists($fileUrl)) {
-            return Storage::disk('public')->delete($fileUrl);
+        $path = $this->urlToPath($fileUrl);
+
+        if (Storage::disk(self::DISK)->exists($path)) {
+            return Storage::disk(self::DISK)->delete($path);
         }
 
         return false;
     }
 
     /**
-     * {@inheritdoc}
+     * Check whether a file exists in storage by its URL.
+     *
+     * Handles both public-disk files (URLs starting with /storage) and
+     * MinIO-hosted files.
+     *
+     * @param string $fileUrl
      */
     public function exists(string $fileUrl): bool
     {
         if (str_starts_with($fileUrl, '/storage')) {
-            $fileUrl = substr($fileUrl, 9);
+            $path = substr($fileUrl, 9);
+
+            return Storage::disk('public')->exists($path);
         }
 
-        return Storage::disk('public')->exists($fileUrl);
+        return Storage::disk(self::DISK)->exists($this->urlToPath($fileUrl));
     }
 
     /**
@@ -95,5 +118,23 @@ abstract class BaseStorage implements FileStorageInterface
      *
      * @return string|false The storage path prefix or false if not applicable
      */
-    abstract protected function getStoragePathPrefix(): string | false;
+    abstract protected function getStoragePathPrefix(): string|false;
+
+    /**
+     * Strip the MinIO public base URL + bucket prefix from a full URL,
+     * returning the bare object key (path within the bucket).
+     *
+     * @param string $url
+     *
+     * @return string Object key (path within the bucket)
+     */
+    private function urlToPath(string $url): string
+    {
+        $bucket = config('filesystems.disks.minio.bucket', 'tallksy');
+        // Matches any scheme+host combination followed by /<bucket>/
+        $pattern = '#^https?://[^/]+/' . preg_quote($bucket, '#') . '/#';
+        $path = preg_replace($pattern, '', $url);
+
+        return $path ?? $url;
+    }
 }

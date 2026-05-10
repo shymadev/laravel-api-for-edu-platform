@@ -18,6 +18,9 @@ use App\Models\Education\Paragraphs\TranslationParagraph;
 use App\Models\Education\Paragraphs\VideoParagraph;
 use App\Models\Education\Paragraphs\VocabularyGameParagraph;
 
+/**
+ * Converts lesson JSON content to typed paragraph value objects and back.
+ */
 class ParagraphParser
 {
     /**
@@ -35,13 +38,25 @@ class ParagraphParser
     }
 
     /**
+     * Serialize paragraphs to array for JSON storage.
+     *
+     * @param BaseParagraph[] $paragraphs
+     *
+     * @return array<int, array<string, mixed>>
+     */
+    public static function serialize(array $paragraphs): array
+    {
+        return array_map(fn (BaseParagraph $paragraph) => $paragraph->toArray(), $paragraphs);
+    }
+
+    /**
      * Parse a single paragraph based on type.
      *
      * @param array $data
      *
-     * @throws \InvalidArgumentException
-     *
      * @return BaseParagraph
+     *
+     * @throws \InvalidArgumentException
      */
     private static function parseSingle(array $data): BaseParagraph
     {
@@ -63,17 +78,5 @@ class ParagraphParser
 
             default => throw new \InvalidArgumentException("Unknown paragraph type: {$type}"),
         };
-    }
-
-    /**
-     * Serialize paragraphs to array for JSON storage.
-     *
-     * @param BaseParagraph[] $paragraphs
-     *
-     * @return array
-     */
-    public static function serialize(array $paragraphs): array
-    {
-        return array_map(fn (BaseParagraph $paragraph) => $paragraph->toArray(), $paragraphs);
     }
 }

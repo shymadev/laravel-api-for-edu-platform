@@ -7,13 +7,22 @@ namespace App\Http\Requests;
 use App\DTO\Profile\UpdateProfileDTO;
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates profile update data.
+ */
 class UpdateProfileRequest extends FormRequest
 {
+    /**
+     * @return boolean
+     */
     public function authorize(): bool
     {
         return true;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function rules(): array
     {
         return [
@@ -23,6 +32,9 @@ class UpdateProfileRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return array<string, string>
+     */
     public function messages(): array
     {
         return [
@@ -37,6 +49,9 @@ class UpdateProfileRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return array<string, string>
+     */
     public function attributes(): array
     {
         return [
@@ -46,6 +61,9 @@ class UpdateProfileRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return \App\DTO\Profile\UpdateProfileDTO
+     */
     public function toDTO(): UpdateProfileDTO
     {
         return new UpdateProfileDTO(

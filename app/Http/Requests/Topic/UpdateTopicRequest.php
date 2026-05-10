@@ -12,11 +12,17 @@ use Illuminate\Foundation\Http\FormRequest;
  */
 class UpdateTopicRequest extends FormRequest
 {
+    /**
+     * @return boolean
+     */
     public function authorize(): bool
     {
         return true;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function rules(): array
     {
         return [
@@ -26,6 +32,9 @@ class UpdateTopicRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return array<string, string>
+     */
     public function messages(): array
     {
         return [
@@ -38,6 +47,9 @@ class UpdateTopicRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return \App\DTO\Topic\UpdateTopicDTO
+     */
     public function toDTO(): UpdateTopicDTO
     {
         $data = $this->validated();

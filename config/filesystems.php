@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 return [
 
     /*
@@ -41,7 +43,21 @@ return [
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
-            'url' => env('APP_URL').'/storage',
+            'url' => env('APP_URL') . '/storage',
+            'visibility' => 'public',
+            'throw' => false,
+            'report' => false,
+        ],
+
+        'minio' => [
+            'driver' => 's3',
+            'key' => env('MINIO_ACCESS_KEY', 'minioadmin'),
+            'secret' => env('MINIO_SECRET_KEY', 'minioadmin'),
+            'region' => env('MINIO_REGION', 'us-east-1'),
+            'bucket' => env('MINIO_BUCKET', 'tallksy'),
+            'url' => env('MINIO_PUBLIC_URL', 'http://localhost:9000') . '/' . env('MINIO_BUCKET', 'tallksy'),
+            'endpoint' => env('MINIO_ENDPOINT', 'http://minio:9000'),
+            'use_path_style_endpoint' => true,
             'visibility' => 'public',
             'throw' => false,
             'report' => false,

@@ -4,6 +4,9 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers\Entities;
 
+/**
+ * Value object for list search query text.
+ */
 final readonly class SearchOptions
 {
     /**

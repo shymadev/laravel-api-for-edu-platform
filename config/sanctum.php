@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 return [
     'stateful' => explode(',', env('SANCTUM_STATEFUL_DOMAINS', 'tallksy.by,localhost:3000,localhost')),
 

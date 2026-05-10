@@ -1,11 +1,19 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Models\Education;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
+/**
+ * Single selectable option for a test question.
+ */
 class TestOption extends Model
 {
+    public $timestamps = false;
+
     protected $table = 'test_options';
 
     protected $fillable = [
@@ -14,13 +22,16 @@ class TestOption extends Model
         'is_correct',
     ];
 
-    public $timestamps = false;
-
     protected $casts = [
         'is_correct' => 'boolean',
     ];
 
-    public function question(): \Illuminate\Database\Eloquent\Relations\BelongsTo
+    /**
+     * Parent test question.
+     *
+     * @return BelongsTo
+     */
+    public function question(): BelongsTo
     {
         return $this->belongsTo(TestQuestion::class, 'question_id');
     }

@@ -12,10 +12,10 @@ readonly class UpdateTopicDTO
     /**
      * Constructs a new UpdateTopicDTO instance.
      *
-     * @param int         $id
-     * @param int|null    $courseId
+     * @param int $id
+     * @param int|null $courseId
      * @param string|null $title
-     * @param int|null    $parentId
+     * @param int|null $parentId
      */
     public function __construct(
         public int $id,

@@ -6,13 +6,26 @@ namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates subscription request data.
+ */
 class SubscribeRequest extends FormRequest
 {
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return boolean
+     */
     public function authorize(): bool
     {
         return true;
     }
 
+    /**
+     * Return the validation rules for this request.
+     *
+     * @return array<string, mixed>
+     */
     public function rules(): array
     {
         return [
@@ -20,6 +33,11 @@ class SubscribeRequest extends FormRequest
         ];
     }
 
+    /**
+     * Return custom validation error messages.
+     *
+     * @return array<string, string>
+     */
     public function messages(): array
     {
         return [

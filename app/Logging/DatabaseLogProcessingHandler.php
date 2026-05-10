@@ -14,7 +14,11 @@ use Monolog\LogRecord;
 class DatabaseLogProcessingHandler extends AbstractProcessingHandler
 {
     /**
-     * {@inheritdoc}
+     * Persist the log record to the database log table.
+     *
+     * @param LogRecord $record
+     *
+     * @return void
      */
     protected function write(LogRecord $record): void
     {

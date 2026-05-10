@@ -13,7 +13,11 @@ use Illuminate\Http\Resources\Json\JsonResource;
 class UserResource extends JsonResource
 {
     /**
-     * {@inheritdoc}
+     * Transform the resource into an array.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return array<string, mixed>
      */
     public function toArray(Request $request): array
     {
@@ -25,7 +29,9 @@ class UserResource extends JsonResource
             'profile_id' => $this->profile_id,
             'created_at' => $this->created_at,
             'updated_at' => $this->updated_at,
-            'is_blocked' => $this->is_blocked !== null ? (bool)$this->is_blocked : null,
+            'is_blocked' => $this->is_blocked,
+            'auth_provider' => $this->google_id !== null ? 'google' : 'local',
+            'has_local_password' => $this->hasLocalPassword(),
         ];
     }
 }

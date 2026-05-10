@@ -12,11 +12,17 @@ use Illuminate\Foundation\Http\FormRequest;
  */
 class CreateTopicRequest extends FormRequest
 {
+    /**
+     * @return boolean
+     */
     public function authorize(): bool
     {
         return true;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function rules(): array
     {
         return [
@@ -26,6 +32,9 @@ class CreateTopicRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return array<string, string>
+     */
     public function messages(): array
     {
         return [
@@ -40,6 +49,9 @@ class CreateTopicRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return \App\DTO\Topic\CreateTopicDTO
+     */
     public function toDTO(): CreateTopicDTO
     {
         return CreateTopicDTO::fromArray($this->validated());

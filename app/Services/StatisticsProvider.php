@@ -12,10 +12,14 @@ use App\Models\User\UserCompletedLesson;
 use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Support\Facades\Cache;
 
+/**
+ * Provides cached platform-wide statistics such as active students and course counts.
+ */
 #[Singleton]
 class StatisticsProvider
 {
     private const CACHE_KEY = 'platform.overall_statistics';
+
     private const CACHE_TTL = 600;
 
     /**
@@ -31,7 +35,7 @@ class StatisticsProvider
                     activeStudents: User::where('is_blocked', false)->count(),
                     totalCourses: Course::where('is_active', true)->count(),
                     completedLessons: UserCompletedLesson::count(),
-                    averageRating: round((float) CourseReview::avg('rating'), 2) ?? 0,
+                    averageRating: round((float) CourseReview::avg('rating'), 2),
                 );
             });
     }

@@ -4,16 +4,17 @@ declare(strict_types=1);
 
 namespace App\Services\Storage;
 
-use App\Services\Contracts\Storage\AudioStorageInterface;
+use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Http\UploadedFile;
 
 /**
  * Service for managing audio file storage.
  */
-class AudioStorageService extends BaseStorage implements AudioStorageInterface
+#[Singleton]
+class AudioStorageService extends BaseStorage
 {
     /**
-     * {@inheritdoc}
+     * {@inheritDoc}
      */
     protected function isValidFile(UploadedFile $file): bool
     {
@@ -26,7 +27,7 @@ class AudioStorageService extends BaseStorage implements AudioStorageInterface
         ];
 
         $client = $file->getClientMimeType();
-        if ($client !== null && in_array($client, $availableMimeTypes, true)) {
+        if (in_array($client, $availableMimeTypes, true)) {
             return true;
         }
 
@@ -34,7 +35,7 @@ class AudioStorageService extends BaseStorage implements AudioStorageInterface
     }
 
     /**
-     * {@inheritdoc}
+     * {@inheritDoc}
      */
     protected function getStoragePathPrefix(): string|false
     {

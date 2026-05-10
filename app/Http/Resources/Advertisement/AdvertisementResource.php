@@ -7,10 +7,17 @@ namespace App\Http\Resources\Advertisement;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 
+/**
+ * @mixin \App\Models\Additional\Advertisement
+ */
 class AdvertisementResource extends JsonResource
 {
     /**
-     * {@inheritdoc}
+     * Transform the resource into an array.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return array<string, mixed>
      */
     public function toArray(Request $request): array
     {

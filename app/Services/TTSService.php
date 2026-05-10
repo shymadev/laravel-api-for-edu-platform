@@ -4,15 +4,21 @@ declare(strict_types=1);
 
 namespace App\Services;
 
-use App\Services\Contracts\TTSServiceInterface;
+use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Http\UploadedFile;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Str;
 
-class TTSService implements TTSServiceInterface
+/**
+ * Client for the external text-to-speech microservice.
+ */
+#[Singleton]
+class TTSService
 {
-    /** Default TTS model. */
-    protected const DEFAULT_MODEL = "tts_models/en/ljspeech/tacotron2-DDC";
+    /**
+     * Default TTS model.
+     */
+    protected const DEFAULT_MODEL = 'tts_models/en/ljspeech/tacotron2-DDC';
 
     protected string $serviceUrl;
 
@@ -28,7 +34,12 @@ class TTSService implements TTSServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * Synthesize speech and return a temporary uploaded file.
+     *
+     * @param string $text
+     * @param string|null $modelName
+     *
+     * @return UploadedFile
      */
     public function generateAudio(string $text, ?string $modelName = null): UploadedFile
     {
@@ -39,16 +50,16 @@ class TTSService implements TTSServiceInterface
                     'model_name' => $modelName ?? self::DEFAULT_MODEL,
                 ]);
 
-            if (! $response->successful()) {
-                throw new \Exception("TTS service error: " . $response->body());
+            if (!$response->successful()) {
+                throw new \Exception('TTS service error: ' . $response->body());
             }
 
             $audioBinary = $response->body();
             $tempFilePath = tempnam(sys_get_temp_dir(), 'tts_');
             file_put_contents($tempFilePath, $audioBinary);
 
-            $mime = $response->header('content-type') ?? '';
-            if ($mime === '' || ! str_starts_with((string) $mime, 'audio/')) {
+            $mime = $response->header('content-type');
+            if ($mime === '' || !str_starts_with($mime, 'audio/')) {
                 $mime = 'audio/wav';
             }
 
@@ -57,17 +68,17 @@ class TTSService implements TTSServiceInterface
                 Str::slug(substr($text, 0, 20)) . '.wav',
                 $mime,
                 null,
-                true
+                true,
             );
         } catch (\Exception $e) {
-            throw new \Exception("Failed to generate audio: " . $e->getMessage());
+            throw new \Exception('Failed to generate audio: ' . $e->getMessage());
         }
     }
 
     /**
      * Check if the TTS service is healthy.
      *
-     * @return bool
+     * @return boolean
      */
     public function isHealthy(): bool
     {
@@ -91,7 +102,7 @@ class TTSService implements TTSServiceInterface
     {
         $preprocessedText = $text;
 
-        if (! str_ends_with($text, '.') && ! str_ends_with($text, '!') && ! str_ends_with($text, '?')) {
+        if (!str_ends_with($text, '.') && !str_ends_with($text, '!') && !str_ends_with($text, '?')) {
             $preprocessedText .= '.';
         }
 

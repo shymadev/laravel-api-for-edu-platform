@@ -8,7 +8,7 @@ use App\Http\Requests\Advertisement\CreateAdvertisementRequest;
 use App\Http\Requests\Advertisement\UpdateAdvertisementRequest;
 use App\Http\Resources\Advertisement\AdvertisementResource;
 use App\Models\Additional\Advertisement;
-use App\Services\Contracts\Advertisement\AdvertisementServiceInterface;
+use App\Services\Advertisement\AdvertisementService;
 use App\Services\Storage\ImageStorageService;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Http\JsonResponse;
@@ -17,28 +17,58 @@ use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Log;
 
+/**
+ * Advertisement controller.
+ */
 class AdvertisementController extends Controller
 {
+    /**
+     * Constructs a new AdvertisementController instance.
+     *
+     * @param \App\Services\Advertisement\AdvertisementService $advertisementService
+     * @param \App\Services\Storage\ImageStorageService $imageStorage
+     *
+     * @return void
+     */
     public function __construct(
-        protected readonly AdvertisementServiceInterface $advertisementService,
+        protected readonly AdvertisementService $advertisementService,
         protected readonly ImageStorageService $imageStorage,
     ) {
     }
 
+    /**
+     * Get all advertisements.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
+     */
     public function index(Request $request): AnonymousResourceCollection
     {
         return AdvertisementResource::collection(
-            $this->advertisementService->getAllAdvertisements()
+            $this->advertisementService->getAllAdvertisements(),
         );
     }
 
+    /**
+     * Get all active advertisements.
+     *
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
+     */
     public function active(): AnonymousResourceCollection
     {
         return AdvertisementResource::collection(
-            $this->advertisementService->getActiveAdvertisements()
+            $this->advertisementService->getActiveAdvertisements(),
         );
     }
 
+    /**
+     * Create a new advertisement.
+     *
+     * @param \App\Http\Requests\Advertisement\CreateAdvertisementRequest $request
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function store(CreateAdvertisementRequest $request): JsonResponse
     {
         try {
@@ -66,13 +96,28 @@ class AdvertisementController extends Controller
         }
     }
 
+    /**
+     * Get an advertisement by its ID.
+     *
+     * @param \App\Models\Additional\Advertisement $advertisement
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function show(Advertisement $advertisement): JsonResponse
     {
         return response()->json(
-            AdvertisementResource::make($advertisement)
+            AdvertisementResource::make($advertisement),
         );
     }
 
+    /**
+     * Update an advertisement.
+     *
+     * @param \App\Http\Requests\Advertisement\UpdateAdvertisementRequest $request
+     * @param \App\Models\Additional\Advertisement $advertisement
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function update(UpdateAdvertisementRequest $request, Advertisement $advertisement): JsonResponse
     {
         try {
@@ -102,6 +147,13 @@ class AdvertisementController extends Controller
         }
     }
 
+    /**
+     * Delete an advertisement.
+     *
+     * @param \App\Models\Additional\Advertisement $advertisement
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function destroy(Advertisement $advertisement): JsonResponse
     {
         try {
@@ -127,6 +179,13 @@ class AdvertisementController extends Controller
         }
     }
 
+    /**
+     * Publish an advertisement.
+     *
+     * @param \App\Models\Additional\Advertisement $advertisement
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function publish(Advertisement $advertisement): JsonResponse
     {
         try {
@@ -152,6 +211,13 @@ class AdvertisementController extends Controller
         }
     }
 
+    /**
+     * Unpublish an advertisement.
+     *
+     * @param \App\Models\Additional\Advertisement $advertisement
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function unpublish(Advertisement $advertisement): JsonResponse
     {
         try {

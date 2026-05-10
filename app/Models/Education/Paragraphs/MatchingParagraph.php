@@ -10,8 +10,16 @@ namespace App\Models\Education\Paragraphs;
 class MatchingParagraph extends BaseParagraph
 {
     public array $pairs;
+
     public bool $shuffleRight;
 
+    /**
+     * @param int $order
+     * @param array $pairs
+     * @param bool $shuffleRight
+     *
+     * @return void
+     */
     public function __construct(int $order, array $pairs, bool $shuffleRight = true)
     {
         $this->order = $order;
@@ -20,6 +28,9 @@ class MatchingParagraph extends BaseParagraph
         $this->shuffleRight = $shuffleRight;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [
@@ -30,12 +41,17 @@ class MatchingParagraph extends BaseParagraph
         ];
     }
 
+    /**
+     * @param array<string, mixed> $data
+     *
+     * @return static
+     */
     public static function fromArray(array $data): static
     {
         return new self(
             $data['order'],
             $data['pairs'] ?? [],
-            $data['shuffleRight'] ?? true
+            $data['shuffleRight'] ?? true,
         );
     }
 }

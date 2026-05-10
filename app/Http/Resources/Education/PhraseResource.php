@@ -13,7 +13,11 @@ use Illuminate\Http\Resources\Json\JsonResource;
 class PhraseResource extends JsonResource
 {
     /**
-     * {@inheritdoc}
+     * Transform the resource into an array.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return array<string, mixed>
      */
     public function toArray(Request $request): array
     {
@@ -22,7 +26,7 @@ class PhraseResource extends JsonResource
             'text' => $this->text,
             'translation' => $this->translation,
             'difficulty_level_id' => $this->difficulty_level_id,
-            'difficulty_level' => $this->difficultyLevel ? [
+            'difficulty_level' => $this->difficultyLevel !== null ? [
                 'id' => $this->difficultyLevel->id,
                 'name' => $this->difficultyLevel->name,
                 'value' => $this->difficultyLevel->value,
@@ -30,6 +34,8 @@ class PhraseResource extends JsonResource
             ] : null,
             'topic' => $this->topic,
             'audio_url' => $this->audio,
+            'transcription' => $this->transcription,
+            'is_phrasebook' => $this->is_phrasebook,
             'created_at' => $this->created_at,
             'updated_at' => $this->updated_at,
         ];

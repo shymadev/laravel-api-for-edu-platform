@@ -11,9 +11,14 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 
+/**
+ * Language course (topics, lessons, metadata).
+ */
 #[ObservedBy(CourseObserver::class)]
 class Course extends Model
 {
+    public $timestamps = false;
+
     protected $table = 'courses';
 
     protected $fillable = [
@@ -24,27 +29,41 @@ class Course extends Model
         'preview_image',
         'is_premium',
         'is_active',
+        'is_archived',
     ];
-
-
-    public $timestamps = false;
 
     protected $casts = [
         'created_at' => 'datetime',
         'is_premium' => 'boolean',
         'is_active' => 'boolean',
+        'is_archived' => 'boolean',
     ];
 
+    /**
+     * Difficulty tier for the course.
+     *
+     * @return BelongsTo
+     */
     public function difficultyLevel(): BelongsTo
     {
         return $this->belongsTo(DifficultyLevel::class, 'difficulty_level_id');
     }
 
+    /**
+     * Top-level and nested topics in this course.
+     *
+     * @return HasMany
+     */
     public function topics(): HasMany
     {
         return $this->hasMany(Topic::class, 'course_id');
     }
 
+    /**
+     * Per-user progress/statistics for this course.
+     *
+     * @return HasMany
+     */
     public function userStats(): HasMany
     {
         return $this->hasMany(UserCourseStatistics::class, 'course_id');

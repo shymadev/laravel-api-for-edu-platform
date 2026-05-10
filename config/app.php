@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 return [
 
     /*
@@ -56,6 +58,18 @@ return [
 
     /*
     |--------------------------------------------------------------------------
+    | Frontend URL (SPA)
+    |--------------------------------------------------------------------------
+    |
+    | Used for links in emails (e.g. password reset). The reset flow should
+    | open a frontend route such as /reset-password?token=...&email=...
+    |
+    */
+
+    'frontend_url' => env('FRONTEND_URL', env('FRONTEND_URL', 'www.tallksy.by')),
+
+    /*
+    |--------------------------------------------------------------------------
     | Application Timezone
     |--------------------------------------------------------------------------
     |
@@ -101,7 +115,7 @@ return [
 
     'previous_keys' => [
         ...array_filter(
-            explode(',', env('APP_PREVIOUS_KEYS', ''))
+            explode(',', env('APP_PREVIOUS_KEYS', '')),
         ),
     ],
 

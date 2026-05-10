@@ -7,13 +7,22 @@ namespace App\Http\Requests\Education;
 use App\DTO\Phrase\CreatePhraseDTO;
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates phrase creation payload (education API).
+ */
 class CreatePhraseRequest extends FormRequest
 {
+    /**
+     * @return boolean
+     */
     public function authorize(): bool
     {
         return true;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function rules(): array
     {
         return [
@@ -25,6 +34,9 @@ class CreatePhraseRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return \App\DTO\Phrase\CreatePhraseDTO
+     */
     public function toDTO(): CreatePhraseDTO
     {
         return CreatePhraseDTO::fromArray($this->validated());

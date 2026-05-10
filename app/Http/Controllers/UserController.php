@@ -12,7 +12,7 @@ use App\Http\Requests\User\CreateUserRequest;
 use App\Http\Requests\User\UpdateUserRequest;
 use App\Http\Resources\User\UserResource;
 use App\Models\User\User;
-use App\Services\Contracts\User\UserServiceInterface;
+use App\Services\UserService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
@@ -29,28 +29,22 @@ class UserController extends Controller
     use SearcherTrait;
 
     /**
-     * User service instance.
+     * Constructs a new UserController instance.
      *
-     * @var UserServiceInterface
-     */
-    protected readonly UserServiceInterface $userService;
-
-    /**
-     * Construct a new UserController instance.
+     * @param \App\Services\UserService $userService
      *
-     * @param UserServiceInterface $userService
+     * @return void
      */
-    public function __construct(UserServiceInterface $userService)
+    public function __construct(protected readonly UserService $userService)
     {
-        $this->userService = $userService;
     }
 
     /**
      * Display a listing of users with optional pagination and search.
      *
-     * @param Request $request
+     * @param \Illuminate\Http\Request $request
      *
-     * @return AnonymousResourceCollection returns a collection of users
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
      */
     public function index(Request $request): AnonymousResourceCollection
     {
@@ -74,9 +68,9 @@ class UserController extends Controller
     /**
      * Store a newly created user in storage.
      *
-     * @param CreateUserRequest $request
+     * @param \App\Http\Requests\User\CreateUserRequest $request
      *
-     * @return JsonResponse returns the created user
+     * @return \Illuminate\Http\JsonResponse
      */
     public function store(CreateUserRequest $request): JsonResponse
     {
@@ -100,13 +94,13 @@ class UserController extends Controller
      *
      * @param int|string $id
      *
-     * @return JsonResponse returns user data or 404 if not found
+     * @return \Illuminate\Http\JsonResponse
      */
     public function show(int|string $id): JsonResponse
     {
         $user = $this->userService->getUserById($id);
 
-        if (! $user) {
+        if ($user === null) {
             return response()->json(['message' => 'User not found'], 404);
         }
 
@@ -116,10 +110,10 @@ class UserController extends Controller
     /**
      * Update the specified user in storage.
      *
-     * @param UpdateUserRequest $request
-     * @param User              $user
+     * @param \App\Http\Requests\User\UpdateUserRequest $request
+     * @param \App\Models\User\User $user
      *
-     * @return JsonResponse returns updated user or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function update(UpdateUserRequest $request, User $user): JsonResponse
     {
@@ -141,17 +135,17 @@ class UserController extends Controller
     /**
      * Remove the specified user from storage.
      *
-     * @param User $user
+     * @param \App\Models\User\User $user
      *
-     * @return JsonResponse returns 204 on success or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function destroy(User $user): JsonResponse
     {
         try {
-            $deletedBy = Auth::user()?->username ?? null;
+            $deletedBy = Auth::user()?->username;
             $deletionResult = $this->userService->deleteUser($user, $deletedBy);
 
-            if (! $deletionResult) {
+            if (!$deletionResult) {
                 Log::warning('Failed to delete user', ['user_id' => $user->id]);
 
                 return response()->json(['message' => 'Failed to delete user'], 400);
@@ -173,17 +167,17 @@ class UserController extends Controller
     /**
      * Block the specified user.
      *
-     * @param User $user
+     * @param \App\Models\User\User $user
      *
-     * @return JsonResponse returns blocked user or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function block(User $user): JsonResponse
     {
         try {
-            if (! $this->userService->isUserBlocked($user)) {
+            if (!$this->userService->isUserBlocked($user)) {
                 $blockingResult = $this->userService->blockUser($user);
 
-                if (! $blockingResult) {
+                if (!$blockingResult) {
                     Log::warning('Failed to block user', ['user_id' => $user->id]);
 
                     return response()->json(['message' => 'Failed to block user'], 400);
@@ -206,9 +200,9 @@ class UserController extends Controller
     /**
      * Unblock the specified user.
      *
-     * @param User $user
+     * @param \App\Models\User\User $user
      *
-     * @return JsonResponse returns unblocked user or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function unblock(User $user): JsonResponse
     {
@@ -216,7 +210,7 @@ class UserController extends Controller
             if ($this->userService->isUserBlocked($user)) {
                 $unblockingResult = $this->userService->unblockUser($user);
 
-                if (! $unblockingResult) {
+                if (!$unblockingResult) {
                     Log::warning('Failed to unblock user', ['user_id' => $user->id]);
 
                     return response()->json(['message' => 'Failed to unblock user'], 400);

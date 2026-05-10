@@ -7,6 +7,9 @@ namespace App\Models\User;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasOne;
 
+/**
+ * Represents a user's public profile information.
+ */
 class Profile extends Model
 {
     protected $table = 'profiles';
@@ -18,6 +21,11 @@ class Profile extends Model
         'avatar_url',
     ];
 
+    /**
+     * Return the user that owns this profile.
+     *
+     * @return HasOne
+     */
     public function user(): HasOne
     {
         return $this->hasOne(User::class, 'profile_id', 'id');

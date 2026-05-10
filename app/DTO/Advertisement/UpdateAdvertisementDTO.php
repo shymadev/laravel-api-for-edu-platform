@@ -14,12 +14,12 @@ readonly class UpdateAdvertisementDTO
     /**
      * Constructs a new UpdateAdvertisementDTO instance.
      *
-     * @param int               $id
+     * @param int $id
      * @param UploadedFile|null $image
-     * @param string|null       $url
-     * @param bool|null         $isActive
-     * @param string|null       $startsAt
-     * @param string|null       $endsAt
+     * @param string|null $url
+     * @param bool|null $isActive
+     * @param string|null $startsAt
+     * @param string|null $endsAt
      */
     public function __construct(
         public int $id,

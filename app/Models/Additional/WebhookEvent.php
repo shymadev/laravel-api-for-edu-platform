@@ -6,6 +6,9 @@ namespace App\Models\Additional;
 
 use Illuminate\Database\Eloquent\Model;
 
+/**
+ * Stored Stripe webhook event for idempotent processing.
+ */
 class WebhookEvent extends Model
 {
     protected $table = 'webhook_events';
@@ -18,22 +21,14 @@ class WebhookEvent extends Model
         'error',
     ];
 
-    protected $casts = [
-        'processed' => 'boolean',
-        'created_at' => 'datetime',
-        'updated_at' => 'datetime',
-    ];
-
-    public function markAsProcessed(): void
+    /**
+     * @return array<string, string>
+     */
+    protected function casts(): array
     {
-        $this->update(['processed' => true]);
-    }
-
-    public function markAsFailed(string $error): void
-    {
-        $this->update([
-            'processed' => false,
-            'error' => $error,
-        ]);
+        return [
+            'payload' => 'array',
+            'processed' => 'boolean',
+        ];
     }
 }

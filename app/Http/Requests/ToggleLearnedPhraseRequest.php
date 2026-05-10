@@ -13,6 +13,8 @@ class ToggleLearnedPhraseRequest extends FormRequest
 {
     /**
      * Only authenticated users may toggle the learned state of their phrases.
+     *
+     * @return boolean
      */
     public function authorize(): bool
     {

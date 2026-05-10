@@ -4,14 +4,26 @@ declare(strict_types=1);
 
 namespace App\DTO\Review;
 
-class UpdateReviewDTO
+/**
+ * Data Transfer Object for updating an existing course review.
+ */
+readonly class UpdateReviewDTO
 {
+    /**
+     * @param int $rating
+     * @param string|null $reviewText
+     */
     public function __construct(
-        public readonly int $rating,
-        public readonly ?string $reviewText = null,
+        public int $rating,
+        public ?string $reviewText = null,
     ) {
     }
 
+    /**
+     * Converts the DTO to an associative array.
+     *
+     * @return array<string, int|string|null>
+     */
     public function toArray(): array
     {
         return [

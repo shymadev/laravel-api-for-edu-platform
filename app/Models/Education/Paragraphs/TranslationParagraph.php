@@ -11,6 +11,12 @@ class TranslationParagraph extends BaseParagraph
 {
     public array $pairs;
 
+    /**
+     * @param int $order
+     * @param array $pairs
+     *
+     * @return void
+     */
     public function __construct(int $order, array $pairs)
     {
         $this->order = $order;
@@ -18,6 +24,9 @@ class TranslationParagraph extends BaseParagraph
         $this->pairs = $pairs;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [
@@ -27,11 +36,16 @@ class TranslationParagraph extends BaseParagraph
         ];
     }
 
+    /**
+     * @param array<string, mixed> $data
+     *
+     * @return static
+     */
     public static function fromArray(array $data): static
     {
         return new self(
             $data['order'],
-            $data['pairs'] ?? []
+            $data['pairs'] ?? [],
         );
     }
 }

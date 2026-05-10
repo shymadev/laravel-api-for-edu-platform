@@ -8,7 +8,9 @@ use App\DTO\Review\CreateReviewDTO;
 use App\Http\Requests\Review\CreateReviewRequest;
 use App\Http\Resources\Review\CourseReviewResource;
 use App\Models\Education\CourseReview;
-use App\Services\Contracts\Review\CourseReviewServiceInterface;
+use App\Models\User\UserCompletedLesson;
+use App\Services\CourseReviewService;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
 use Illuminate\Routing\Controller;
@@ -22,10 +24,12 @@ class CourseReviewController extends Controller
     /**
      * Constructs the CourseReviewController.
      *
-     * @param CourseReviewServiceInterface $reviewService
+     * @param \App\Services\CourseReviewService $courseReviewService
+     *
+     * @return void
      */
     public function __construct(
-        private readonly CourseReviewServiceInterface $reviewService
+        protected readonly CourseReviewService $courseReviewService,
     ) {
     }
 
@@ -34,11 +38,11 @@ class CourseReviewController extends Controller
      *
      * @param int $courseId
      *
-     * @return AnonymousResourceCollection
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
      */
     public function index(int $courseId): AnonymousResourceCollection
     {
-        $reviews = $this->reviewService->getReviewsByCourse($courseId);
+        $reviews = $this->courseReviewService->getReviewsByCourse($courseId);
 
         return CourseReviewResource::collection($reviews);
     }
@@ -48,11 +52,11 @@ class CourseReviewController extends Controller
      *
      * @param int $courseId
      *
-     * @return JsonResponse
+     * @return \Illuminate\Http\JsonResponse
      */
     public function rating(int $courseId): JsonResponse
     {
-        $rating = $this->reviewService->getCourseRating($courseId);
+        $rating = $this->courseReviewService->getCourseRating($courseId);
 
         return response()->json(['data' => $rating]);
     }
@@ -60,22 +64,33 @@ class CourseReviewController extends Controller
     /**
      * Creates or updates a review for a specific course.
      *
-     * @param CreateReviewRequest $request
-     * @param int                 $courseId
+     * @param \App\Http\Requests\Review\CreateReviewRequest $request
+     * @param int $courseId
      *
-     * @return JsonResponse
+     * @return \Illuminate\Http\JsonResponse
      */
     public function store(CreateReviewRequest $request, int $courseId): JsonResponse
     {
+        $hasCompletedLesson = UserCompletedLesson::where('user_id', auth()->id())
+            ->whereHas('lesson.topic', function (Builder $query) use ($courseId): void {
+                $query->where('course_id', $courseId);
+            })->exists();
+
+        if (!$hasCompletedLesson) {
+            return response()->json([
+                'message' => 'You must complete at least one lesson before leaving a review.',
+            ], 403);
+        }
+
         try {
             $dto = new CreateReviewDTO(
                 userId: auth()->id(),
                 courseId: $courseId,
                 rating: $request->validated('rating'),
-                reviewText: $request->validated('review_text')
+                reviewText: $request->validated('review_text'),
             );
 
-            $review = $this->reviewService->createOrUpdateReview($dto);
+            $review = $this->courseReviewService->createOrUpdateReview($dto);
 
             Log::channel('db')->info('Course review created or updated', [
                 'review_id' => $review->id,
@@ -108,12 +123,12 @@ class CourseReviewController extends Controller
      *
      * @param int $courseId
      *
-     * @return JsonResponse
+     * @return \Illuminate\Http\JsonResponse
      */
     public function destroy(int $courseId): JsonResponse
     {
         try {
-            $this->reviewService->deleteReviewByUser(auth()->id(), $courseId);
+            $this->courseReviewService->deleteReviewByUser(auth()->id(), $courseId);
 
             Log::channel('db')->info('Course review deleted by user', [
                 'course_id' => $courseId,
@@ -140,14 +155,14 @@ class CourseReviewController extends Controller
     /**
      * Deletes a review for a specific course by an admin.
      *
-     * @param CourseReview $review
+     * @param \App\Models\Education\CourseReview $review
      *
-     * @return JsonResponse
+     * @return \Illuminate\Http\JsonResponse
      */
     public function destroyAdmin(CourseReview $review): JsonResponse
     {
         try {
-            $this->reviewService->deleteReviewByAdmin($review);
+            $this->courseReviewService->deleteReviewByAdmin($review);
 
             Log::channel('db')->info('Course review deleted by admin', [
                 'review_id' => $review->id,

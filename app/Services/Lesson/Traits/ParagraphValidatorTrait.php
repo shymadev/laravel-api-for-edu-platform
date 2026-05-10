@@ -10,10 +10,10 @@ trait ParagraphValidatorTrait
      * Validate a single paragraph based on its type.
      *
      * @param string $type
-     * @param array  $paragraph
-     * @param int    $index
+     * @param array $paragraph
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateParagraphByType(string $type, array $paragraph, int $index): array
     {
@@ -39,13 +39,13 @@ trait ParagraphValidatorTrait
      * Validate a speech-recognition paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateSpeechRecognitionParagraph(array $paragraph, int $index): array
     {
-        if (empty($paragraph['content'])) {
+        if (!isset($paragraph['content']) || $paragraph['content'] === '' || $paragraph['content'] === []) {
             return ["Speech-recognition paragraph at index {$index} must have non-empty 'content'"];
         }
 
@@ -56,13 +56,13 @@ trait ParagraphValidatorTrait
      * Validate a text paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateTextParagraph(array $paragraph, int $index): array
     {
-        if (empty($paragraph['content'])) {
+        if (!isset($paragraph['content']) || $paragraph['content'] === '' || $paragraph['content'] === []) {
             return ["Text paragraph at index {$index} must have non-empty 'content'"];
         }
 
@@ -73,13 +73,13 @@ trait ParagraphValidatorTrait
      * Validate a video paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateVideoParagraph(array $paragraph, int $index): array
     {
-        if (empty($paragraph['url'])) {
+        if (!isset($paragraph['url']) || $paragraph['url'] === '') {
             return ["Video paragraph at index {$index} must have non-empty 'url'"];
         }
 
@@ -90,18 +90,18 @@ trait ParagraphValidatorTrait
      * Validate an audio paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateAudioParagraph(array $paragraph, int $index): array
     {
         $paragraphErrors = [];
 
-        if (! isset($paragraph['content'])) {
+        if (!isset($paragraph['content'])) {
             $paragraphErrors[] = "Audio paragraph at index {$index} must have 'content' field";
         } else {
-            if ($paragraph['content']['type'] === 'stored_audio' && ! isset($paragraph['content']['file_key'])) {
+            if ($paragraph['content']['type'] === 'stored_audio' && !isset($paragraph['content']['file_key'])) {
                 $paragraphErrors[] = "Audio paragraph at index {$index} with type 'stored_audio' must have 'file_key'";
             }
         }
@@ -113,13 +113,13 @@ trait ParagraphValidatorTrait
      * Validate a phrases paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validatePhrasesParagraph(array $paragraph, int $index): array
     {
-        if (! isset($paragraph['phrases']) || ! is_array($paragraph['phrases']) || empty($paragraph['phrases'])) {
+        if (!isset($paragraph['phrases']) || !is_array($paragraph['phrases']) || $paragraph['phrases'] === []) {
             return ["Phrases paragraph at index {$index} must have non-empty 'phrases' array"];
         }
 
@@ -130,13 +130,13 @@ trait ParagraphValidatorTrait
      * Validate a test paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateTestParagraph(array $paragraph, int $index): array
     {
-        if (! isset($paragraph['questions']) || ! is_array($paragraph['questions']) || empty($paragraph['questions'])) {
+        if (!isset($paragraph['questions']) || !is_array($paragraph['questions']) || $paragraph['questions'] === []) {
             return ["Test paragraph at index {$index} must have non-empty 'questions' array"];
         }
 
@@ -147,13 +147,13 @@ trait ParagraphValidatorTrait
      * Validate a translation paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateTranslationParagraph(array $paragraph, int $index): array
     {
-        if (! isset($paragraph['pairs']) || ! is_array($paragraph['pairs']) || empty($paragraph['pairs'])) {
+        if (!isset($paragraph['pairs']) || !is_array($paragraph['pairs']) || $paragraph['pairs'] === []) {
             return ["Translation paragraph at index {$index} must have non-empty 'pairs' array"];
         }
 
@@ -164,13 +164,13 @@ trait ParagraphValidatorTrait
      * Validate a translation paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateMatchingParagraph(array $paragraph, int $index): array
     {
-        if (! is_array($paragraph['pairs']) || empty($paragraph['pairs'])) {
+        if (!isset($paragraph['pairs']) || !is_array($paragraph['pairs']) || $paragraph['pairs'] === []) {
             return ["Matching paragraph at index {$index} must have non-empty 'pairs' array"];
         }
 
@@ -181,19 +181,19 @@ trait ParagraphValidatorTrait
      * Validate a fill-gaps paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateFillGapsParagraph(array $paragraph, int $index): array
     {
         $errors = [];
 
-        if (empty($paragraph['text'])) {
+        if (!isset($paragraph['text']) || $paragraph['text'] === '') {
             $errors[] = "Fill-gaps paragraph at index {$index} must have non-empty 'text'";
         }
 
-        if (! isset($paragraph['gaps']) || ! is_array($paragraph['gaps'])) {
+        if (!isset($paragraph['gaps']) || !is_array($paragraph['gaps'])) {
             $errors[] = "Fill-gaps paragraph at index {$index} must have 'gaps' array";
         }
 
@@ -204,19 +204,19 @@ trait ParagraphValidatorTrait
      * Validate a categorization paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateCategorizationParagraph(array $paragraph, int $index): array
     {
         $errors = [];
 
-        if (! isset($paragraph['categories']) || ! is_array($paragraph['categories']) || empty($paragraph['categories'])) {
+        if (!isset($paragraph['categories']) || !is_array($paragraph['categories']) || $paragraph['categories'] === []) {
             $errors[] = "Categorization paragraph at index {$index} must have non-empty 'categories' array";
         }
 
-        if (! isset($paragraph['items']) || ! is_array($paragraph['items']) || empty($paragraph['items'])) {
+        if (!isset($paragraph['items']) || !is_array($paragraph['items']) || $paragraph['items'] === []) {
             $errors[] = "Categorization paragraph at index {$index} must have non-empty 'items' array";
         }
 
@@ -227,13 +227,13 @@ trait ParagraphValidatorTrait
      * Validate a sentence-task paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateSentenceTaskParagraph(array $paragraph, int $index): array
     {
-        if (! isset($paragraph['tasks']) || ! is_array($paragraph['tasks']) || empty($paragraph['tasks'])) {
+        if (!isset($paragraph['tasks']) || !is_array($paragraph['tasks']) || $paragraph['tasks'] === []) {
             return ["Sentence-task paragraph at index {$index} must have non-empty 'tasks' array"];
         }
 
@@ -244,19 +244,19 @@ trait ParagraphValidatorTrait
      * Validate a pre-listening paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validatePreListeningParagraph(array $paragraph, int $index): array
     {
         $errors = [];
 
-        if (empty($paragraph['taskType'])) {
+        if (!isset($paragraph['taskType']) || $paragraph['taskType'] === '') {
             $errors[] = "Pre-listening paragraph at index {$index} must have 'taskType'";
         }
 
-        if (empty($paragraph['title'])) {
+        if (!isset($paragraph['title']) || $paragraph['title'] === '') {
             $errors[] = "Pre-listening paragraph at index {$index} must have 'title'";
         }
 
@@ -267,13 +267,13 @@ trait ParagraphValidatorTrait
      * Validate a vocabulary-game paragraph.
      *
      * @param array $paragraph
-     * @param int   $index
+     * @param int $index
      *
-     * @return array
+     * @return array<int, string>
      */
     private function validateVocabularyGameParagraph(array $paragraph, int $index): array
     {
-        if (empty($paragraph['gameType'])) {
+        if (!isset($paragraph['gameType']) || $paragraph['gameType'] === '') {
             return ["Vocabulary-game paragraph at index {$index} must have 'gameType'"];
         }
 

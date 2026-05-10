@@ -12,12 +12,12 @@ readonly class CreateCourseDTO
     /**
      * Constructs a new CreateCourseDTO instance.
      *
-     * @param string      $title
-     * @param string      $language
+     * @param string $title
+     * @param string $language
      * @param string|null $description
-     * @param int|null    $difficultyLevelId
+     * @param int|null $difficultyLevelId
      * @param string|null $previewImage
-     * @param bool        $isPremium
+     * @param bool $isPremium
      */
     public function __construct(
         public string $title,
@@ -80,6 +80,13 @@ readonly class CreateCourseDTO
         ];
     }
 
+    /**
+     * Normalizes request payload values for `is_premium` to a boolean.
+     *
+     * @param mixed $value
+     *
+     * @return boolean
+     */
     protected function convertIsPremiumToBool(mixed $value): bool
     {
         if (is_bool($value)) {

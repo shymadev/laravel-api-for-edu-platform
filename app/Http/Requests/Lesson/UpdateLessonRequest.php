@@ -7,13 +7,22 @@ namespace App\Http\Requests\Lesson;
 use App\DTO\Lesson\UpdateLessonDTO;
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates lesson update for the admin API.
+ */
 class UpdateLessonRequest extends FormRequest
 {
+    /**
+     * @return boolean
+     */
     public function authorize(): bool
     {
         return true;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function rules(): array
     {
         return [
@@ -24,6 +33,9 @@ class UpdateLessonRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return array<string, string>
+     */
     public function messages(): array
     {
         return [
@@ -34,6 +46,9 @@ class UpdateLessonRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return \App\DTO\Lesson\UpdateLessonDTO
+     */
     public function toDTO(): UpdateLessonDTO
     {
         $data = $this->validated();

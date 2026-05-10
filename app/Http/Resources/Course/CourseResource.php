@@ -13,7 +13,11 @@ use Illuminate\Http\Resources\Json\JsonResource;
 class CourseResource extends JsonResource
 {
     /**
-     * {@inheritdoc}
+     * Transform the resource into an array.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return array<string, mixed>
      */
     public function toArray(Request $request): array
     {
@@ -34,9 +38,9 @@ class CourseResource extends JsonResource
             'preview_image_url' => $this->preview_image,
             'topics' => $this->whenLoaded('topics'),
             'created_at' => $this->created_at,
-            'updated_at' => $this->updated_at,
             'is_premium' => $this->is_premium,
             'is_active' => $this->is_active,
+            'is_archived' => $this->is_archived,
         ];
     }
 }

@@ -6,8 +6,10 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Entities\PaginationOptions;
 use App\Http\Controllers\Helpers\PaginatorTrait;
-use App\Services\Contracts\Log\DatabaseLogsProviderInterface;
+use App\Services\Log\DatabaseLogsProvider;
+use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Log;
 
@@ -20,16 +22,23 @@ class LogsController extends Controller
 
     /**
      * Constructs the LogsController.
+     *
+     * @param \App\Services\Log\DatabaseLogsProvider $databaseLogsProvider
+     *
+     * @return void
      */
-    public function __construct(protected readonly DatabaseLogsProviderInterface $databaseLogsProvider)
+    public function __construct(protected readonly DatabaseLogsProvider $databaseLogsProvider)
     {
-
     }
 
     /**
      * Display a listing of the resource.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection|\Illuminate\Http\JsonResponse
      */
-    public function index(Request $request)
+    public function index(Request $request): AnonymousResourceCollection|JsonResponse
     {
         try {
             $paginationOptions = $this->extractPaginationOptions($request);
@@ -48,22 +57,29 @@ class LogsController extends Controller
         }
     }
 
+    /**
+     * Extract criteria options from the request.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return array<string, mixed>
+     */
     protected function extractCriteriaOptions(Request $request): array
     {
         $criteria = [];
 
         $level = $request->query('level');
-        if (! is_null($level) && $level !== '') {
+        if (!is_null($level) && $level !== '') {
             $criteria['level'] = $level;
         }
 
         $userId = $request->query('user_id');
-        if (! is_null($userId) && $userId !== '') {
+        if (!is_null($userId) && $userId !== '') {
             $criteria['user_id'] = (int) $userId;
         }
 
         $message = $request->query('message_like');
-        if (! is_null($message) && $message !== '') {
+        if (!is_null($message) && $message !== '') {
             $criteria['message_like'] = $message;
         }
 

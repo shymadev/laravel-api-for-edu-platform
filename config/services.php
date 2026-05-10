@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 return [
 
     /*
@@ -29,6 +31,7 @@ return [
         'key' => env('STRIPE_KEY'),
         'secret' => env('STRIPE_SECRET'),
         'webhook_secret' => env('STRIPE_WEBHOOK_SECRET'),
+        'product_id' => env('STRIPE_PRODUCT_ID'),
         'price_id' => env('STRIPE_PRICE_ID'),
     ],
 
@@ -37,4 +40,10 @@ return [
         'secret' => env('MAILGUN_SECRET'),
         'endpoint' => env('MAILGUN_ENDPOINT', 'api.mailgun.net'),
     ],
+
+    'espoke' => [
+        'url' => env('ESPOKE_SERVICE_URL', 'http://espoke:2700'),
+        'timeout' => env('ESPOKE_TIMEOUT', 30),
+    ],
+
 ];

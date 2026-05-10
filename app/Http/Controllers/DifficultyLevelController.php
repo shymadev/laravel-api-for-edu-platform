@@ -17,7 +17,7 @@ class DifficultyLevelController extends Controller
     /**
      * Display a listing of the resource.
      *
-     * @return JsonResponse
+     * @return \Illuminate\Http\JsonResponse
      */
     public function index(): JsonResponse
     {

@@ -7,13 +7,26 @@ namespace App\Http\Requests;
 use App\DTO\User\CreateUserDTO;
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates user registration request data.
+ */
 class RegisterRequest extends FormRequest
 {
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return boolean
+     */
     public function authorize(): bool
     {
         return true;
     }
 
+    /**
+     * Return the validation rules for this request.
+     *
+     * @return array<string, mixed>
+     */
     public function rules(): array
     {
         return [
@@ -23,6 +36,11 @@ class RegisterRequest extends FormRequest
         ];
     }
 
+    /**
+     * Return custom validation error messages.
+     *
+     * @return array<string, string>
+     */
     public function messages(): array
     {
         return [
@@ -30,6 +48,11 @@ class RegisterRequest extends FormRequest
         ];
     }
 
+    /**
+     * Convert validated data to a CreateUserDTO.
+     *
+     * @return \App\DTO\User\CreateUserDTO
+     */
     public function toDTO(): CreateUserDTO
     {
         return new CreateUserDTO(

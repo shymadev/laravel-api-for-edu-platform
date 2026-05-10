@@ -8,19 +8,30 @@ use App\DTO\Progress\UserStatisticsDTO;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 
+/**
+ * API resource for aggregate user learning statistics.
+ */
 class UserStatisticsResource extends JsonResource
 {
     /**
-     * {@inheritdoc}
+     * Transform the resource into an array.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return array<string, mixed>
      */
     public function toArray(Request $request): array
     {
-        /** @var UserStatisticsDTO $this->resource */
+        /** @var UserStatisticsDTO $resource */
+        $resource = $this->resource;
+
         return [
-            'total_completed_lessons' => $this->resource->totalCompletedLessons,
-            'total_completed_courses' => $this->resource->totalCompletedCourses,
-            'total_in_progress_courses' => $this->resource->totalInProgressCourses,
-            'average_progress' => $this->resource->averageProgress,
+            'total_completed_lessons' => $resource->totalCompletedLessons,
+            'total_completed_courses' => $resource->totalCompletedCourses,
+            'total_in_progress_courses' => $resource->totalInProgressCourses,
+            'average_progress' => $resource->averageProgress,
+            'total_completed_exercises' => $resource->totalCompletedExercises,
+            'total_listened_audio' => $resource->totalListenedAudio,
         ];
     }
 }

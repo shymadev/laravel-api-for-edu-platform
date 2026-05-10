@@ -14,6 +14,8 @@ class UpdateUserRequest extends FormRequest
 {
     /**
      * Determine rules that apply to the request.
+     *
+     * @return array<string, mixed>
      */
     public function rules(): array
     {
@@ -26,9 +28,9 @@ class UpdateUserRequest extends FormRequest
     }
 
     /**
-     * {@inheritdoc}
+     * @return array<string, string>
      */
-    public function messages()
+    public function messages(): array
     {
         return [
             'email.unique' => 'The email has already been taken.',
@@ -40,6 +42,9 @@ class UpdateUserRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return \App\DTO\User\UpdateUserDTO
+     */
     public function toDTO(): UpdateUserDTO
     {
         return new UpdateUserDTO(

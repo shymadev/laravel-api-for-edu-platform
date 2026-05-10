@@ -14,11 +14,11 @@ trait PaginatorTrait
     /**
      * Extract pagination options from the request.
      *
-     * @param Request $request
+     * @param \Illuminate\Http\Request $request
      *
-     * @return PaginationOptions|false
+     * @return \App\Http\Controllers\Entities\PaginationOptions|false
      */
-    public function extractPaginationOptions(Request $request): PaginationOptions | false
+    public function extractPaginationOptions(Request $request): PaginationOptions|false
     {
         $perPage = (int) $request->query('per_page', '15');
 
@@ -28,10 +28,10 @@ trait PaginatorTrait
     /**
      * Paginate the query based on the pagination options.
      *
-     * @param Builder           $query
-     * @param PaginationOptions $paginationOptions
+     * @param \Illuminate\Database\Eloquent\Builder $query
+     * @param \App\Http\Controllers\Entities\PaginationOptions $paginationOptions
      *
-     * @return LengthAwarePaginatorInterface
+     * @return \Illuminate\Pagination\LengthAwarePaginator
      */
     public function paginateQuery(Builder $query, PaginationOptions $paginationOptions): LengthAwarePaginatorInterface
     {

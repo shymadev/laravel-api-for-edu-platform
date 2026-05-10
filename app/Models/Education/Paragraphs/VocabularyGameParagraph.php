@@ -10,12 +10,28 @@ namespace App\Models\Education\Paragraphs;
 class VocabularyGameParagraph extends BaseParagraph
 {
     public string $gameType;
+
     public ?array $words;
+
     public ?array $guessItems;
+
     public ?array $oddItems;
+
     public ?array $mistakeItems;
+
     public ?array $listenItems;
 
+    /**
+     * @param int $order
+     * @param string $gameType
+     * @param array|null $words
+     * @param array|null $guessItems
+     * @param array|null $oddItems
+     * @param array|null $mistakeItems
+     * @param array|null $listenItems
+     *
+     * @return void
+     */
     public function __construct(
         int $order,
         string $gameType,
@@ -23,7 +39,7 @@ class VocabularyGameParagraph extends BaseParagraph
         ?array $guessItems = null,
         ?array $oddItems = null,
         ?array $mistakeItems = null,
-        ?array $listenItems = null
+        ?array $listenItems = null,
     ) {
         $this->order = $order;
         $this->type = 'vocabulary-game';
@@ -35,6 +51,9 @@ class VocabularyGameParagraph extends BaseParagraph
         $this->listenItems = $listenItems;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [
@@ -49,6 +68,11 @@ class VocabularyGameParagraph extends BaseParagraph
         ];
     }
 
+    /**
+     * @param array<string, mixed> $data
+     *
+     * @return static
+     */
     public static function fromArray(array $data): static
     {
         return new self(
@@ -58,7 +82,7 @@ class VocabularyGameParagraph extends BaseParagraph
             $data['guessItems'] ?? null,
             $data['oddItems'] ?? null,
             $data['mistakeItems'] ?? null,
-            $data['listenItems'] ?? null
+            $data['listenItems'] ?? null,
         );
     }
 }

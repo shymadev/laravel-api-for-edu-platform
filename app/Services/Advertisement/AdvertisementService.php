@@ -7,25 +7,29 @@ namespace App\Services\Advertisement;
 use App\DTO\Advertisement\CreateAdvertisementDTO;
 use App\DTO\Advertisement\UpdateAdvertisementDTO;
 use App\Models\Additional\Advertisement;
-use App\Services\Contracts\Advertisement\AdvertisementServiceInterface;
-use App\Services\Contracts\Storage\ImageStorageInterface;
+use App\Services\Storage\ImageStorageService;
+use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Http\UploadedFile;
+use Illuminate\Support\Facades\Cache;
 
 /**
  * Service for handling advertisement-related business logic.
  */
-class AdvertisementService implements AdvertisementServiceInterface
+#[Singleton]
+class AdvertisementService
 {
     /**
      * Constructs a new AdvertisementService instance.
+     *
+     * @param ImageStorageService $imageStorage
      */
-    public function __construct(protected readonly ImageStorageInterface $imageStorage)
+    public function __construct(protected readonly ImageStorageService $imageStorage)
     {
     }
 
     /**
-     * {@inheritdoc}
+     * @return Collection<int, Advertisement>
      */
     public function getAllAdvertisements(): Collection
     {
@@ -33,34 +37,42 @@ class AdvertisementService implements AdvertisementServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * @return Collection<int, Advertisement>
      */
     public function getActiveAdvertisements(): Collection
     {
-        $now = now();
+        return Cache::tags(['advertisements'])->remember(
+            'advertisements.active',
+            300,
+            function (): Collection {
+                $now = now();
 
-        return Advertisement::where('is_active', true)
-            ->where(function ($query) use ($now) {
-                $query->where(function ($q) use ($now) {
-                    $q->whereNull('starts_at')
-                      ->whereNull('ends_at');
-                })
-                ->orWhere(function ($q) use ($now) {
-                    $q->where(function ($q1) use ($now) {
-                        $q1->whereNull('starts_at')
-                           ->orWhere('starts_at', '<=', $now);
+                return Advertisement::where('is_active', true)
+                    ->where(function ($query) use ($now): void {
+                        $query->where(function ($q): void {
+                            $q->whereNull('starts_at')
+                                ->whereNull('ends_at');
+                        })
+                            ->orWhere(function ($q) use ($now): void {
+                                $q->where(function ($q1) use ($now): void {
+                                    $q1->whereNull('starts_at')
+                                        ->orWhere('starts_at', '<=', $now);
+                                })
+                                    ->where(function ($q2) use ($now): void {
+                                        $q2->whereNull('ends_at')
+                                            ->orWhere('ends_at', '>=', $now);
+                                    });
+                            });
                     })
-                    ->where(function ($q2) use ($now) {
-                        $q2->whereNull('ends_at')
-                           ->orWhere('ends_at', '>=', $now);
-                    });
-                });
-            })
-            ->get();
+                    ->get();
+            },
+        );
     }
 
     /**
-     * {@inheritdoc}
+     * @param int $id
+     *
+     * @return Advertisement
      */
     public function getAdvertisementById(int $id): Advertisement
     {
@@ -68,37 +80,40 @@ class AdvertisementService implements AdvertisementServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * @param CreateAdvertisementDTO $dto
+     *
+     * @return Advertisement
      */
     public function createAdvertisement(CreateAdvertisementDTO $dto): Advertisement
     {
         $data = $dto->toArray();
 
-        if ($dto->image instanceof UploadedFile) {
-            $imagePath = $this->imageStorage->upload($dto->image, 'advertisements');
-        }
+        $imagePath = $this->imageStorage->upload($dto->image, 'advertisements');
 
-        $data['image_url'] = $imagePath ?? null;
+        $data['image_url'] = $imagePath;
         unset($data['image']);
 
         return Advertisement::create($data);
     }
 
     /**
-     * {@inheritdoc}
+     * @param Advertisement $advertisement
+     * @param UpdateAdvertisementDTO $dto
+     *
+     * @return Advertisement
      */
     public function updateAdvertisement(Advertisement $advertisement, UpdateAdvertisementDTO $dto): Advertisement
     {
         $data = $dto->toArray();
         unset($data['id']);
 
-        if (isset($data['image']) && $advertisement->image_url) {
+        if (isset($data['image']) && isset($advertisement->image_url)) {
             $this->imageStorage->delete($advertisement->image_url);
         }
 
         if ($dto->image instanceof UploadedFile) {
             $path = $this->imageStorage->upload($dto->image, 'advertisements');
-            $data['image_url'] = $path ?? $advertisement->image_url;
+            $data['image_url'] = $path;
         }
 
         $advertisement->update($data);
@@ -108,11 +123,13 @@ class AdvertisementService implements AdvertisementServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * @param Advertisement $advertisement
+     *
+     * @return boolean
      */
     public function deleteAdvertisement(Advertisement $advertisement): bool
     {
-        if ($advertisement->image_url) {
+        if (isset($advertisement->image_url)) {
             $this->imageStorage->delete($advertisement->image_url);
         }
 
@@ -120,7 +137,9 @@ class AdvertisementService implements AdvertisementServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * @param Advertisement $advertisement
+     *
+     * @return Advertisement
      */
     public function publish(Advertisement $advertisement): Advertisement
     {
@@ -131,7 +150,9 @@ class AdvertisementService implements AdvertisementServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * @param Advertisement $advertisement
+     *
+     * @return Advertisement
      */
     public function unpublish(Advertisement $advertisement): Advertisement
     {

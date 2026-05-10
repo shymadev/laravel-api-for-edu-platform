@@ -7,12 +7,17 @@ namespace App\Http\Requests\Lesson;
 use App\DTO\Lesson\CreateLessonDTO;
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates lesson creation for the admin API.
+ */
 class CreateLessonRequest extends FormRequest
 {
     use Traits\LessonValidatorTrait;
 
     /**
      * Determine if the user is authorized to make this request.
+     *
+     * @return boolean
      */
     public function authorize(): bool
     {
@@ -21,6 +26,8 @@ class CreateLessonRequest extends FormRequest
 
     /**
      * Define the validation rules for creating a lesson.
+     *
+     * @return array<string, mixed>
      */
     public function rules(): array
     {
@@ -33,7 +40,7 @@ class CreateLessonRequest extends FormRequest
     }
 
     /**
-     * {@inheritdoc}
+     * @return array<string, string>
      */
     public function messages(): array
     {
@@ -49,6 +56,8 @@ class CreateLessonRequest extends FormRequest
 
     /**
      * Convert the request data to a CreateLessonDTO.
+     *
+     * @return \App\DTO\Lesson\CreateLessonDTO
      */
     public function toDTO(): CreateLessonDTO
     {

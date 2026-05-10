@@ -15,10 +15,10 @@ readonly class CreateAdvertisementDTO
      * Constructs a new CreateAdvertisementDTO instance.
      *
      * @param UploadedFile $image
-     * @param string       $url
-     * @param bool         $isActive
-     * @param string|null  $startsAt
-     * @param string|null  $endsAt
+     * @param string $url
+     * @param bool $isActive
+     * @param string|null $startsAt
+     * @param string|null $endsAt
      */
     public function __construct(
         public UploadedFile $image,

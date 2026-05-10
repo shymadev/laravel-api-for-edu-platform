@@ -4,10 +4,11 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers;
 
-use App\Services\Contracts\Payment\SubscriptionServiceInterface;
+use App\Services\SubscriptionService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
+use Illuminate\Support\Facades\Log;
 use Laravel\Cashier\Exceptions\IncompletePayment;
 
 /**
@@ -16,37 +17,36 @@ use Laravel\Cashier\Exceptions\IncompletePayment;
 class SubscriptionController extends Controller
 {
     /**
-     * Subscription service instance.
-     *
-     * @var SubscriptionServiceInterface
-     */
-    private readonly SubscriptionServiceInterface $subscriptionService;
-
-    /**
      * Construct a new SubscriptionController instance.
      *
-     * @param SubscriptionServiceInterface $subscriptionService
+     * @param \App\Services\SubscriptionService $subscriptionService
+     *
+     * @return void
      */
-    public function __construct(SubscriptionServiceInterface $subscriptionService)
+    public function __construct(protected readonly SubscriptionService $subscriptionService)
     {
-        $this->subscriptionService = $subscriptionService;
     }
 
     /**
      * Create a setup intent for adding a payment method.
      *
-     * @param Request $request
+     * @param \Illuminate\Http\Request $request
      *
-     * @return JsonResponse returns client secret for setup intent
+     * @return \Illuminate\Http\JsonResponse
      */
     public function createSetupIntent(Request $request): JsonResponse
     {
+        $userId = $request->user()->id;
         try {
-            $userId = (int) $request->user()->id;
             $clientSecret = $this->subscriptionService->createSetupIntent($userId);
 
             return response()->json(['client_secret' => $clientSecret]);
         } catch (\Exception $e) {
+            Log::error('Failed to create setup intent', [
+                'user_id' => $userId,
+                'error' => $e->getMessage(),
+            ]);
+
             return response()->json([
                 'message' => 'Failed to create setup intent',
                 'error' => $e->getMessage(),
@@ -57,9 +57,9 @@ class SubscriptionController extends Controller
     /**
      * Subscribe the authenticated user to a premium plan.
      *
-     * @param Request $request must contain 'payment_method_id', optional 'with_trial'
+     * @param \Illuminate\Http\Request $request
      *
-     * @return JsonResponse returns subscription result or error details
+     * @return \Illuminate\Http\JsonResponse
      */
     public function subscribe(Request $request): JsonResponse
     {
@@ -69,13 +69,13 @@ class SubscriptionController extends Controller
         ]);
 
         try {
-            $userId = (int) $request->user()->id;
+            $userId = $request->user()->id;
             $withTrial = $request->input('with_trial', true);
 
             $result = $this->subscriptionService->subscribe(
                 $userId,
                 $request->input('payment_method_id'),
-                $withTrial
+                $withTrial,
             );
 
             return response()->json([
@@ -98,14 +98,14 @@ class SubscriptionController extends Controller
     /**
      * Cancel the authenticated user's subscription.
      *
-     * @param Request $request
+     * @param \Illuminate\Http\Request $request
      *
-     * @return JsonResponse returns success message or error
+     * @return \Illuminate\Http\JsonResponse
      */
     public function cancel(Request $request): JsonResponse
     {
         try {
-            $userId = (int) $request->user()->id;
+            $userId = $request->user()->id;
             $this->subscriptionService->cancel($userId);
 
             return response()->json(['message' => 'Subscription cancelled successfully']);
@@ -120,14 +120,14 @@ class SubscriptionController extends Controller
     /**
      * Resume a previously cancelled subscription.
      *
-     * @param Request $request
+     * @param \Illuminate\Http\Request $request
      *
-     * @return JsonResponse returns success message or error
+     * @return \Illuminate\Http\JsonResponse
      */
     public function resume(Request $request): JsonResponse
     {
         try {
-            $userId = (int) $request->user()->id;
+            $userId = $request->user()->id;
             $this->subscriptionService->resume($userId);
 
             return response()->json(['message' => 'Subscription resumed successfully']);
@@ -142,14 +142,14 @@ class SubscriptionController extends Controller
     /**
      * Get the current subscription status for the authenticated user.
      *
-     * @param Request $request
+     * @param \Illuminate\Http\Request $request
      *
-     * @return JsonResponse returns subscription status or error message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function status(Request $request): JsonResponse
     {
         try {
-            $userId = (int) $request->user()->id;
+            $userId = $request->user()->id;
             $status = $this->subscriptionService->status($userId);
 
             return response()->json($status);

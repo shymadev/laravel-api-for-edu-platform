@@ -19,16 +19,33 @@ use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Log;
 
+/**
+ * Controller that handles phrase-related operations.
+ */
 class PhraseController extends Controller
 {
     use PaginatorTrait;
     use SearcherTrait;
 
+    /**
+     * Constructs a new PhraseController instance.
+     *
+     * @param \App\Services\PhraseService $phraseService
+     *
+     * @return void
+     */
     public function __construct(
-        protected readonly PhraseService $phraseService
+        protected readonly PhraseService $phraseService,
     ) {
     }
 
+    /**
+     * Display a listing of phrases with optional pagination and search.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
+     */
     public function index(Request $request): AnonymousResourceCollection
     {
         $paginationOptions = $this->extractPaginationOptions($request);
@@ -38,13 +55,20 @@ class PhraseController extends Controller
             ? (int) $request->query('difficulty_level')
             : null;
 
-        $query = Phrase::query();
+        $sortBy = in_array($request->query('sort_by'), ['created_at', 'text'], true)
+            ? $request->query('sort_by')
+            : 'created_at';
+        $sortDir = in_array(strtolower((string) $request->query('sort_dir', 'desc')), ['asc', 'desc'], true)
+            ? strtolower((string) $request->query('sort_dir', 'desc'))
+            : 'desc';
+
+        $query = Phrase::query()->where('is_phrasebook', true);
 
         if ($searchOptions instanceof SearchOptions) {
             $query = $this->addSearchConditions($query, $searchOptions, ['text', 'translation']);
         }
 
-        if ($category) {
+        if ($category !== null && $category !== '') {
             $query->where('topic', $category);
         }
 
@@ -53,13 +77,20 @@ class PhraseController extends Controller
                 ->where('difficulty_levels.id', $difficultyLevel);
         }
 
+        $query->orderBy($sortBy === 'text' ? 'phrases.text' : 'phrases.created_at', $sortDir);
+
         return PhraseResource::collection(
             $paginationOptions instanceof PaginationOptions
                 ? $this->paginateQuery($query, $paginationOptions)
-                : $query->get()
+                : $query->get(),
         );
     }
 
+    /**
+     * Display a listing of categories.
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function categories(): JsonResponse
     {
         $categories = $this->phraseService->getAllCategories();
@@ -67,6 +98,13 @@ class PhraseController extends Controller
         return response()->json(['categories' => $categories]);
     }
 
+    /**
+     * Display the specified phrase.
+     *
+     * @param int|string $id
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function show(int|string $id): JsonResponse
     {
         try {
@@ -84,6 +122,13 @@ class PhraseController extends Controller
         }
     }
 
+    /**
+     * Store a new phrase.
+     *
+     * @param \App\Http\Requests\Education\CreatePhraseRequest $request
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function store(CreatePhraseRequest $request): JsonResponse
     {
         try {
@@ -106,6 +151,14 @@ class PhraseController extends Controller
         }
     }
 
+    /**
+     * Update the specified phrase.
+     *
+     * @param \App\Http\Requests\Education\UpdatePhraseRequest $request
+     * @param \App\Models\Education\Phrase $phrase
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function update(UpdatePhraseRequest $request, Phrase $phrase): JsonResponse
     {
         try {
@@ -129,6 +182,44 @@ class PhraseController extends Controller
         }
     }
 
+    /**
+     * Resolve a phrase by text and translation.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function resolve(Request $request): JsonResponse
+    {
+        $text = (string) $request->input('text', '');
+        $translation = (string) $request->input('translation', '');
+
+        if ($text === '' || $translation === '') {
+            return response()->json(['message' => 'text and translation are required'], 422);
+        }
+
+        try {
+            $phrase = $this->phraseService->resolveByText($text, $translation);
+
+            return response()->json(new PhraseResource($phrase));
+        } catch (\Exception $e) {
+            Log::channel('db')->error('Failed to resolve phrase', [
+                'text' => $text,
+                'action' => 'phrase_resolve_failed',
+                'exception' => $e,
+            ]);
+
+            return response()->json(['message' => 'Failed to resolve phrase'], 500);
+        }
+    }
+
+    /**
+     * Delete the specified phrase.
+     *
+     * @param int|string $id
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function destroy(int|string $id): JsonResponse
     {
         try {
@@ -151,5 +242,4 @@ class PhraseController extends Controller
             return response()->json(['message' => 'Failed to delete phrase'], 500);
         }
     }
-
 }

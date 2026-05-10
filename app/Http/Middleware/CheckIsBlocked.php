@@ -9,12 +9,18 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Symfony\Component\HttpFoundation\Response;
 
+/**
+ * Ensures the request user is not blocked before proceeding.
+ */
 class CheckIsBlocked
 {
     /**
      * Handle an incoming request.
      *
-     * @param \Closure(Request): (Response) $next
+     * @param \Illuminate\Http\Request $request
+     * @param \Closure $next
+     *
+     * @return \Symfony\Component\HttpFoundation\Response
      */
     public function handle(Request $request, Closure $next): Response
     {

@@ -12,13 +12,13 @@ readonly class UpdateCourseDTO
     /**
      * Constructs a new UpdateCourseDTO instance.
      *
-     * @param int         $id
+     * @param int $id
      * @param string|null $title
      * @param string|null $language
      * @param string|null $description
-     * @param int|null    $difficultyLevelId
+     * @param int|null $difficultyLevelId
      * @param string|null $previewImage
-     * @param bool|null   $isPremium
+     * @param bool|null $isPremium
      */
     public function __construct(
         public int $id,

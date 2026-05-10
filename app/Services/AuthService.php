@@ -12,37 +12,45 @@ use App\DTO\User\CreateUserDTO;
 use App\Enums\Role;
 use App\Mail\WelcomeMail;
 use App\Models\User\User;
-use App\Services\Contracts\Mail\MailServiceInterface;
-use App\Services\Contracts\User\UserProfileServiceInterface;
 use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Log;
 use Laravel\Sanctum\TransientToken;
 use Laravel\Socialite\Two\User as SocialiteUser;
 
+/**
+ * Coordinates user registration, login, logout, and Google OAuth.
+ */
 #[Singleton]
 readonly class AuthService
 {
     /**
      * Constructs Auth service object.
      *
-     * @param RegisterUser                $registerUserAction
-     * @param LoginUser                   $loginUserAction
-     * @param UserProfileServiceInterface $userProfileService
-     * @param HandleGoogleCallback        $handleGoogleCallback
-     * @param TokenGenerator     $tokenGenerator
-     * @param MailServiceInterface        $mailService
+     * @param RegisterUser $registerUserAction
+     * @param LoginUser $loginUserAction
+     * @param UserProfileService $userProfileService
+     * @param HandleGoogleCallback $handleGoogleCallback
+     * @param TokenGenerator $tokenGenerator
+     * @param MailService $mailService
      */
     public function __construct(
-        protected RegisterUser                $registerUserAction,
-        protected LoginUser                   $loginUserAction,
-        protected UserProfileServiceInterface $userProfileService,
-        protected HandleGoogleCallback        $handleGoogleCallback,
-        protected TokenGenerator              $tokenGenerator,
-        protected MailServiceInterface        $mailService
+        protected RegisterUser $registerUserAction,
+        protected LoginUser $loginUserAction,
+        protected UserProfileService $userProfileService,
+        protected HandleGoogleCallback $handleGoogleCallback,
+        protected TokenGenerator $tokenGenerator,
+        protected MailService $mailService,
     ) {
     }
 
+    /**
+     * Registers a new user, creates an empty profile for them, sends a welcome email, and logs them in.
+     *
+     * @param CreateUserDTO $dto
+     *
+     * @return array<string, mixed>
+     */
     public function register(CreateUserDTO $dto): array
     {
         $user = $this->registerUserAction->execute($dto);
@@ -50,7 +58,7 @@ readonly class AuthService
         $this->userProfileService->assignProfileToUser($user, $emptyProfile);
 
         try {
-            if (! empty($user->email)) {
+            if ($user->email !== '') {
                 $this->mailService->sendMailable($user->email, new WelcomeMail($user));
             }
         } catch (\Throwable $e) {
@@ -72,10 +80,8 @@ readonly class AuthService
      * Logs in a user using either email or username.
      *
      * @param LoginDTO $dto
-     *    The data transfer object containing login credentials.
      *
-     * @return array|null
-     *    Returns an array with user and token if login is successful, or null if it fails.
+     * @return array<string, mixed>|null
      */
     public function login(LoginDTO $dto): ?array
     {
@@ -100,13 +106,18 @@ readonly class AuthService
     }
 
     /**
-     * {@inheritdoc}
+     * Logs out the user by deleting their current access token and all other tokens.
+     *
+     * @param User $user
+     *
+     * @return void
      */
     public function logout(User $user): void
     {
         $token = $user->currentAccessToken();
 
-        if ($token && ! ($token instanceof TransientToken)) {
+        // @phpstan-ignore-next-line
+        if ($token && !($token instanceof TransientToken)) {
             $token->delete();
         }
 
@@ -114,13 +125,17 @@ readonly class AuthService
     }
 
     /**
-     * {@inheritdoc}
+     * Handles the Google OAuth callback, creates a user if necessary, and logs them in.
+     *
+     * @param SocialiteUser $googleUser
+     *
+     * @return array<string, mixed>
      */
     public function handleGoogleCallback(SocialiteUser $googleUser): array
     {
         $user = $this->handleGoogleCallback->execute($googleUser);
 
-        if (!User::where('id', $user->id)) {
+        if ($user->profile()->first() === null) {
             $emptyProfile = $this->userProfileService->createEmptyProfile();
             $this->userProfileService->assignProfileToUser($user, $emptyProfile);
         }

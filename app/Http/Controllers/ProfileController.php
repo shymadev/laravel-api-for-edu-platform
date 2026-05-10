@@ -6,7 +6,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\UpdateProfileRequest;
 use App\Http\Resources\User\ProfileResource;
-use App\Services\Contracts\User\UserProfileServiceInterface;
+use App\Services\UserProfileService;
 use Illuminate\Database\RecordNotFoundException;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
@@ -19,31 +19,23 @@ use Illuminate\Support\Facades\Log;
 class ProfileController extends Controller
 {
     /**
-     * User profile service instance.
-     *
-     * @var UserProfileServiceInterface
-     */
-    protected readonly UserProfileServiceInterface $userProfileService;
-
-    /**
      * Construct a new ProfileController instance.
      *
-     * @param UserProfileServiceInterface $userProfileService
+     * @param \App\Services\UserProfileService $userProfileService
+     *
+     * @return void
      */
-    public function __construct(UserProfileServiceInterface $userProfileService)
+    public function __construct(protected readonly UserProfileService $userProfileService)
     {
-        $this->userProfileService = $userProfileService;
     }
 
     /**
      * Retrieve a user profile by ID.
      *
-     * Successful reads are not logged. Errors are logged.
+     * @param int $id
+     * @param \Illuminate\Http\Request $request
      *
-     * @param int     $id      Profile ID
-     * @param Request $request HTTP request
-     *
-     * @return JsonResponse|ProfileResource
+     * @return \Illuminate\Http\JsonResponse|\App\Http\Resources\User\ProfileResource
      */
     public function getProfileById(int $id, Request $request): JsonResponse|ProfileResource
     {
@@ -77,12 +69,10 @@ class ProfileController extends Controller
     /**
      * Update a user profile by ID.
      *
-     * Logs successful updates and errors.
+     * @param \App\Http\Requests\UpdateProfileRequest $request
+     * @param int $id
      *
-     * @param UpdateProfileRequest $request Request containing profile update data
-     * @param int                  $id      Profile ID
-     *
-     * @return JsonResponse
+     * @return \Illuminate\Http\JsonResponse
      */
     public function updateProfileById(UpdateProfileRequest $request, int $id): JsonResponse
     {
@@ -126,12 +116,10 @@ class ProfileController extends Controller
     /**
      * Update a user's profile avatar.
      *
-     * Logs successful avatar updates and errors.
+     * @param \Illuminate\Http\Request $request
+     * @param int $id
      *
-     * @param Request $request HTTP request containing avatar file
-     * @param int     $id      Profile ID
-     *
-     * @return JsonResponse
+     * @return \Illuminate\Http\JsonResponse
      */
     public function updateProfileAvatar(Request $request, int $id): JsonResponse
     {

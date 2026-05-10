@@ -9,6 +9,13 @@ namespace App\DTO\Phrase;
  */
 readonly class CreatePhraseDTO
 {
+    /**
+     * @param string $text
+     * @param string|null $translation
+     * @param int|null $difficultyLevelId
+     * @param string|null $topic
+     * @param string|null $audio
+     */
     public function __construct(
         public string $text,
         public ?string $translation = null,
@@ -18,6 +25,13 @@ readonly class CreatePhraseDTO
     ) {
     }
 
+    /**
+     * Creates a CreatePhraseDTO from an associative array.
+     *
+     * @param array $data
+     *
+     * @return self
+     */
     public static function fromArray(array $data): self
     {
         return new self(
@@ -29,6 +43,11 @@ readonly class CreatePhraseDTO
         );
     }
 
+    /**
+     * Converts the DTO to an associative array.
+     *
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [

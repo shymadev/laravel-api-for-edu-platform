@@ -14,6 +14,8 @@ class UpdateCourseRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
+     *
+     * @return boolean
      */
     public function authorize(): bool
     {
@@ -61,7 +63,7 @@ class UpdateCourseRequest extends FormRequest
     /**
      * Convert validated data to DTO.
      *
-     * @return UpdateCourseDTO
+     * @return \App\DTO\Course\UpdateCourseDTO
      */
     public function toDTO(): UpdateCourseDTO
     {

@@ -9,6 +9,14 @@ namespace App\DTO\Lesson;
  */
 readonly class UpdateLessonDTO
 {
+    /**
+     * @param int $id
+     * @param int|null $topicId
+     * @param string|null $title
+     * @param int|null $weight
+     * @param array|null $content
+     * @param \ArrayIterator $files
+     */
     public function __construct(
         public int $id,
         public ?int $topicId,
@@ -19,6 +27,13 @@ readonly class UpdateLessonDTO
     ) {
     }
 
+    /**
+     * Creates an UpdateLessonDTO from an associative array.
+     *
+     * @param array $data
+     *
+     * @return self
+     */
     public static function fromArray(array $data): self
     {
         return new self(
@@ -31,6 +46,11 @@ readonly class UpdateLessonDTO
         );
     }
 
+    /**
+     * Converts the DTO to an associative array.
+     *
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [

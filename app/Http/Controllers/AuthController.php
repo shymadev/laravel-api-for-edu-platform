@@ -16,13 +16,30 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Log;
 use Laravel\Socialite\Facades\Socialite;
 
+/**
+ * Auth controller.
+ */
 class AuthController extends Controller
 {
+    /**
+     * Constructs a new AuthController instance.
+     *
+     * @param \App\Services\AuthService $authService
+     *
+     * @return void
+     */
     public function __construct(
         protected readonly AuthService $authService,
     ) {
     }
 
+    /**
+     * Register a new user.
+     *
+     * @param \App\Http\Requests\RegisterRequest $request
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function register(RegisterRequest $request): JsonResponse
     {
         try {
@@ -50,6 +67,13 @@ class AuthController extends Controller
         }
     }
 
+    /**
+     * Login a user.
+     *
+     * @param \App\Http\Requests\LoginRequest $request
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function login(LoginRequest $request): JsonResponse
     {
         $result = $this->authService->login($request->toDTO());
@@ -74,22 +98,15 @@ class AuthController extends Controller
             ]);
 
             Auth::logout();
-            $request->session()->invalidate();
-            $request->session()->regenerateToken();
+
+            if ($request->hasSession()) {
+                $request->session()->invalidate();
+                $request->session()->regenerateToken();
+            }
 
             return response()->json([
                 'message' => 'Your account is blocked',
             ], 403);
-        }
-
-        if (! is_array($result)) {
-            Log::channel('db')->warning('Failed login attempt', [
-                'email' => $request->input('email'),
-                'action' => 'login_failed',
-                'ip' => $request->ip(),
-            ]);
-
-            return response()->json(['message' => 'Invalid credentials'], 401);
         }
 
         Log::channel('db')->info('User logged in', [
@@ -105,6 +122,13 @@ class AuthController extends Controller
         ]);
     }
 
+    /**
+     * Logout a user.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function logout(Request $request): JsonResponse
     {
         $userId = $request->user()?->id;
@@ -112,8 +136,11 @@ class AuthController extends Controller
         $this->authService->logout($request->user());
 
         auth()->guard('web')->logout();
-        $request->session()->invalidate();
-        $request->session()->forget('user');
+
+        if ($request->hasSession()) {
+            $request->session()->invalidate();
+            $request->session()->forget('user');
+        }
 
         Log::channel('db')->info('User logged out', [
             'user_id' => $userId,
@@ -124,16 +151,35 @@ class AuthController extends Controller
         return response()->json(['message' => 'Logged out successfully']);
     }
 
+    /**
+     * Get the current user.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return \App\Http\Resources\User\UserResource
+     */
     public function currentUser(Request $request): UserResource
     {
         return new UserResource($request->user());
     }
 
+    /**
+     * Redirect to Google.
+     *
+     * @return \Illuminate\Http\RedirectResponse
+     */
     public function redirectToGoogle(): RedirectResponse
     {
         return Socialite::driver('google')->stateless()->redirect();
     }
 
+    /**
+     * Handle Google callback.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return \Illuminate\Http\RedirectResponse
+     */
     public function handleGoogleCallback(Request $request): RedirectResponse
     {
         try {
@@ -146,7 +192,7 @@ class AuthController extends Controller
             ]);
 
             return redirect(
-                "http://tallksy.by/auth/google/callback?token={$result['token']}"
+                "http://tallksy.by/auth/google/callback?token={$result['token']}",
             );
 
         } catch (\Throwable $e) {

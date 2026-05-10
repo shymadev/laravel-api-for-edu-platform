@@ -1,13 +1,20 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Http\Requests\Education;
 
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates course creation payload (education API).
+ */
 class CreateCourseRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
+     *
+     * @return boolean
      */
     public function authorize(): bool
     {

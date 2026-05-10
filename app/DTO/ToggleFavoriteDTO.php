@@ -4,18 +4,18 @@ declare(strict_types=1);
 
 namespace App\DTO;
 
+/**
+ * Data Transfer Object for toggling a phrase favourite state for a user.
+ */
 readonly class ToggleFavoriteDTO
 {
-
     /**
-     * Constructs a new ToggleFavoriteDTO instance.
-     *
-     * @param int $phraseId The ID of the phrase to toggle.
-     * @param int $userId The ID of the user to toggle the favorite for.
+     * @param int $phraseId
+     * @param int $userId
      */
     public function __construct(
-        public readonly int $phraseId,
-        public readonly int $userId,
+        public int $phraseId,
+        public int $userId,
     ) {
     }
 

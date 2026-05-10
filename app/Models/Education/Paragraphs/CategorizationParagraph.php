@@ -10,8 +10,16 @@ namespace App\Models\Education\Paragraphs;
 class CategorizationParagraph extends BaseParagraph
 {
     public array $categories;
+
     public array $items;
 
+    /**
+     * @param int $order
+     * @param array $categories
+     * @param array $items
+     *
+     * @return void
+     */
     public function __construct(int $order, array $categories, array $items)
     {
         $this->order = $order;
@@ -20,6 +28,9 @@ class CategorizationParagraph extends BaseParagraph
         $this->items = $items;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [
@@ -30,12 +41,17 @@ class CategorizationParagraph extends BaseParagraph
         ];
     }
 
+    /**
+     * @param array<string, mixed> $data
+     *
+     * @return static
+     */
     public static function fromArray(array $data): static
     {
         return new self(
             $data['order'],
             $data['categories'] ?? [],
-            $data['items'] ?? []
+            $data['items'] ?? [],
         );
     }
 }

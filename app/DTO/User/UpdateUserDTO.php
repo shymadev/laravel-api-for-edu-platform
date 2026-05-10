@@ -15,7 +15,7 @@ readonly class UpdateUserDTO
      * @param string|null $username
      * @param string|null $email
      * @param string|null $password
-     * @param int|null    $roleId
+     * @param int|null $roleId
      */
     public function __construct(
         public ?string $username,

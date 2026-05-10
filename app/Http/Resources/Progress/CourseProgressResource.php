@@ -8,22 +8,32 @@ use App\DTO\Progress\CourseProgressDTO;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 
+/**
+ * API resource for course progress (DTO-backed).
+ */
 class CourseProgressResource extends JsonResource
 {
     /**
-     * {@inheritdoc}
+     * Transform the resource into an array.
+     *
+     * @param \Illuminate\Http\Request $request
+     *
+     * @return array<string, mixed>
      */
     public function toArray(Request $request): array
     {
-        /** @var CourseProgressDTO $this->resource */
+        /** @var CourseProgressDTO $resource */
+        $resource = $this->resource;
+
         return [
-            'course_id' => $this->resource->courseId,
-            'title' => $this->resource->title,
-            'preview_image_url' => $this->resource->previewImageUrl,
-            'total_lessons' => $this->resource->totalLessons,
-            'completed_lessons' => $this->resource->completedLessons,
-            'progress_percentage' => $this->resource->progressPercentage,
-            'is_completed' => $this->resource->isCompleted,
+            'course_id' => $resource->courseId,
+            'title' => $resource->title,
+            'preview_image_url' => $resource->previewImageUrl,
+            'total_lessons' => $resource->totalLessons,
+            'completed_lessons' => $resource->completedLessons,
+            'progress_percentage' => $resource->progressPercentage,
+            'is_completed' => $resource->isCompleted,
+            'is_stopped' => $resource->isStopped,
         ];
     }
 }

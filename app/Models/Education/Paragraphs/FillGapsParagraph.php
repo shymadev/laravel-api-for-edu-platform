@@ -10,8 +10,16 @@ namespace App\Models\Education\Paragraphs;
 class FillGapsParagraph extends BaseParagraph
 {
     public string $text;
+
     public array $gaps;
 
+    /**
+     * @param int $order
+     * @param string $text
+     * @param array $gaps
+     *
+     * @return void
+     */
     public function __construct(int $order, string $text, array $gaps)
     {
         $this->order = $order;
@@ -20,6 +28,9 @@ class FillGapsParagraph extends BaseParagraph
         $this->gaps = $gaps;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [
@@ -30,12 +41,17 @@ class FillGapsParagraph extends BaseParagraph
         ];
     }
 
+    /**
+     * @param array<string, mixed> $data
+     *
+     * @return static
+     */
     public static function fromArray(array $data): static
     {
         return new self(
             $data['order'],
             $data['text'] ?? '',
-            $data['gaps'] ?? []
+            $data['gaps'] ?? [],
         );
     }
 }

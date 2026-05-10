@@ -4,18 +4,24 @@ declare(strict_types=1);
 
 namespace App\Http\Requests\Lesson\Traits;
 
-use App\Services\Contracts\Lesson\LessonServiceInterface;
+use App\Services\Lesson\LessonService;
+use Illuminate\Validation\Validator;
 
 trait LessonValidatorTrait
 {
-    public function withValidator($validator): void
+    /**
+     * @param Validator $validator
+     *
+     * @return void
+     */
+    public function withValidator(Validator $validator): void
     {
-        $validator->after(function ($validator) {
+        $validator->after(function ($validator): void {
             $content = $this->input('content');
             $content = $content !== null ? json_decode($content, true) : null;
 
             if ($content !== null) {
-                $lessonService = app(LessonServiceInterface::class);
+                $lessonService = app(LessonService::class);
                 $errors = $lessonService->validateContent($content);
 
                 foreach ($errors as $error) {

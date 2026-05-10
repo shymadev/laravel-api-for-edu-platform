@@ -7,13 +7,22 @@ namespace App\Http\Requests\Education;
 use App\DTO\Phrase\UpdatePhraseDTO;
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates phrase update payload (education API).
+ */
 class UpdatePhraseRequest extends FormRequest
 {
+    /**
+     * @return boolean
+     */
     public function authorize(): bool
     {
         return true;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function rules(): array
     {
         return [
@@ -25,6 +34,9 @@ class UpdatePhraseRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return \App\DTO\Phrase\UpdatePhraseDTO
+     */
     public function toDTO(): UpdatePhraseDTO
     {
         return UpdatePhraseDTO::fromArray($this->validated());

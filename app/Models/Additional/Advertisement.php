@@ -4,8 +4,14 @@ declare(strict_types=1);
 
 namespace App\Models\Additional;
 
+use App\Observers\AdvertisementObserver;
+use Illuminate\Database\Eloquent\Attributes\ObservedBy;
 use Illuminate\Database\Eloquent\Model;
 
+/**
+ * Promotional banner with optional schedule and link.
+ */
+#[ObservedBy(AdvertisementObserver::class)]
 class Advertisement extends Model
 {
     protected $table = 'advertisements';
@@ -28,6 +34,8 @@ class Advertisement extends Model
 
     /**
      * Check if advertisement is permanent (no start/end dates).
+     *
+     * @return boolean
      */
     public function isPermanent(): bool
     {
@@ -36,10 +44,12 @@ class Advertisement extends Model
 
     /**
      * Check if advertisement is currently active.
+     *
+     * @return boolean
      */
     public function isCurrentlyActive(): bool
     {
-        if (! $this->is_active) {
+        if (!$this->is_active) {
             return false;
         }
 
@@ -49,11 +59,11 @@ class Advertisement extends Model
 
         $now = now();
 
-        if ($this->starts_at && $now->lt($this->starts_at)) {
+        if ($this->starts_at !== null && $now->lt($this->starts_at)) {
             return false;
         }
 
-        if ($this->ends_at && $now->gt($this->ends_at)) {
+        if ($this->ends_at !== null && $now->gt($this->ends_at)) {
             return false;
         }
 

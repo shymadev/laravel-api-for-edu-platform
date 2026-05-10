@@ -8,10 +8,15 @@ use App\DTO\Advertisement\UpdateAdvertisementDTO;
 use Illuminate\Contracts\Validation\ValidationRule;
 use Illuminate\Foundation\Http\FormRequest;
 
+/**
+ * Validates advertisement update data.
+ */
 class UpdateAdvertisementRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
+     *
+     * @return boolean
      */
     public function authorize(): bool
     {
@@ -34,6 +39,9 @@ class UpdateAdvertisementRequest extends FormRequest
         ];
     }
 
+    /**
+     * @return \App\DTO\Advertisement\UpdateAdvertisementDTO
+     */
     public function toDTO(): UpdateAdvertisementDto
     {
         return new UpdateAdvertisementDTO(

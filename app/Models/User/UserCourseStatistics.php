@@ -8,8 +8,13 @@ use App\Models\Education\Course;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
+/**
+ * Aggregated per-user, per-course stats (e.g. progress).
+ */
 class UserCourseStatistics extends Model
 {
+    public $timestamps = false;
+
     protected $table = 'user_course_statistics';
 
     protected $fillable = [
@@ -17,13 +22,21 @@ class UserCourseStatistics extends Model
         'course_id',
     ];
 
-    public $timestamps = false;
-
+    /**
+     * User the statistics are for.
+     *
+     * @return BelongsTo
+     */
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class, 'user_id');
     }
 
+    /**
+     * Course these statistics apply to.
+     *
+     * @return BelongsTo
+     */
     public function course(): BelongsTo
     {
         return $this->belongsTo(Course::class, 'course_id');

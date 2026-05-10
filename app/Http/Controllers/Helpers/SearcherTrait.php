@@ -13,11 +13,11 @@ trait SearcherTrait
     /**
      * Extract search options from the request.
      *
-     * @param Request $request
+     * @param \Illuminate\Http\Request $request
      *
-     * @return SearchOptions|false
+     * @return \App\Http\Controllers\Entities\SearchOptions|false
      */
-    public function extractSearchOptions(Request $request): SearchOptions | false
+    public function extractSearchOptions(Request $request): SearchOptions|false
     {
         $searchQuery = (string) $request->query('search', '');
 
@@ -27,17 +27,17 @@ trait SearcherTrait
     /**
      * Add search conditions to the query based on the search options.
      *
-     * @param Builder       $query
-     * @param SearchOptions $searchOptions
-     * @param array         $indexedColumns
+     * @param \Illuminate\Database\Eloquent\Builder $query
+     * @param \App\Http\Controllers\Entities\SearchOptions $searchOptions
+     * @param array $indexedColumns
      *
-     * @return Builder
+     * @return \Illuminate\Database\Eloquent\Builder
      */
     public function addSearchConditions(Builder $query, SearchOptions $searchOptions, array $indexedColumns): Builder
     {
         $searchQuery = $searchOptions->searchQuery;
 
-        if (empty($indexedColumns)) {
+        if ($indexedColumns === []) {
             return $query;
         }
 
@@ -50,11 +50,11 @@ trait SearcherTrait
     /**
      * Add search conditions for multiple indexed columns.
      *
-     * @param Builder $query
-     * @param string  $searchQuery
-     * @param array   $indexedColumns
+     * @param \Illuminate\Database\Eloquent\Builder $query
+     * @param string $searchQuery
+     * @param string $indexedColumn
      *
-     * @return Builder
+     * @return \Illuminate\Database\Eloquent\Builder
      */
     private function addSingleColumnSearchCondition(Builder $query, string $searchQuery, string $indexedColumn): Builder
     {
@@ -64,15 +64,15 @@ trait SearcherTrait
     /**
      * Add search conditions for multiple indexed columns.
      *
-     * @param Builder $query
-     * @param string  $searchQuery
-     * @param array   $indexedColumns
+     * @param \Illuminate\Database\Eloquent\Builder $query
+     * @param string $searchQuery
+     * @param array $indexedColumns
      *
-     * @return Builder
+     * @return \Illuminate\Database\Eloquent\Builder
      */
     private function addMultiColumnSearchCondition(Builder $query, string $searchQuery, array $indexedColumns): Builder
     {
-        return $query->where(static function (Builder $subQuery) use ($searchQuery, $indexedColumns) {
+        return $query->where(static function (Builder $subQuery) use ($searchQuery, $indexedColumns): void {
             foreach ($indexedColumns as $indexedColumn) {
                 $subQuery->orWhere($indexedColumn, 'like', "%{$searchQuery}%");
             }

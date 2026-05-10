@@ -9,39 +9,59 @@ use App\DTO\Lesson\UpdateLessonDTO;
 use App\Http\Resources\Lesson\LessonResource;
 use App\Models\Education\Lesson;
 use App\Models\Education\Topic;
-use App\Services\Contracts\Lesson\LessonServiceInterface;
-use App\Services\Contracts\Storage\AudioStorageInterface;
-use App\Services\Contracts\TTSServiceInterface;
+use App\Services\Storage\AudioStorageService;
+use App\Services\TTSService;
 use ArrayIterator;
+use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
+use Illuminate\Support\Facades\Cache;
 
-class LessonService implements LessonServiceInterface
+/**
+ * Manages lesson CRUD, validation, and paragraph audio processing.
+ */
+#[Singleton]
+class LessonService
 {
-    use Traits\ParagraphValidatorTrait;
     use Traits\ParagraphAudioProcessingTrait;
+    use Traits\ParagraphValidatorTrait;
 
     /**
      * Constructs a new LessonService instance.
      *
-     * @param AudioStorageInterface $audioStorage
-     * @param TTSServiceInterface   $ttsService
+     * @param AudioStorageService $audioStorage
+     * @param TTSService $ttsService
      */
     public function __construct(
-        protected readonly AudioStorageInterface $audioStorage,
-        protected readonly TTSServiceInterface $ttsService,
+        protected readonly AudioStorageService $audioStorage,
+        protected readonly TTSService $ttsService,
     ) {
     }
 
     /**
-     * {@inheritdoc}
+     * Retrieve a lesson by its ID with eager-loaded topic and course.
+     *
+     * Result is cached in Redis under the `lessons` tag for 1 hour.
+     * Throws ModelNotFoundException if the lesson does not exist.
+     *
+     * @param int $id
+     *
+     * @return Lesson
      */
     public function getLessonById(int $id): Lesson
     {
-        return Lesson::with(['topic'])->findOrFail($id);
+        return Cache::tags(['lessons', "lesson.{$id}"])->remember(
+            "lesson.{$id}",
+            3600,
+            fn () => Lesson::with(['topic.course'])->findOrFail($id),
+        );
     }
 
     /**
-     * {@inheritdoc}
+     * Create a new lesson, running TTS audio generation on its paragraph content.
+     *
+     * @param CreateLessonDTO $dto
+     *
+     * @return Lesson
      */
     public function createLesson(CreateLessonDTO $dto): Lesson
     {
@@ -52,7 +72,15 @@ class LessonService implements LessonServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * Update a lesson's content and metadata.
+     *
+     * Removes audio files from paragraphs that were dropped and runs TTS on
+     * any new phrase paragraphs before persisting.
+     *
+     * @param Lesson $lesson
+     * @param UpdateLessonDTO $dto
+     *
+     * @return Lesson
      */
     public function updateLesson(Lesson $lesson, UpdateLessonDTO $dto): Lesson
     {
@@ -62,7 +90,7 @@ class LessonService implements LessonServiceInterface
 
         $this->cleanupUnusedAudio(
             $lesson->content,
-            $data['content'] ?? null
+            $data['content'] ?? null,
         );
 
         $data['content'] = $this->processAudioInParagraphs($data['content'], $files);
@@ -74,7 +102,11 @@ class LessonService implements LessonServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * Delete a lesson record from the database.
+     *
+     * @param Lesson $lesson
+     *
+     * @return boolean
      */
     public function deleteLesson(Lesson $lesson): bool
     {
@@ -82,21 +114,37 @@ class LessonService implements LessonServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * Return all lessons for a topic ordered by weight, wrapped in a resource collection.
+     *
+     * Result is cached in Redis under the `lessons` tag for 30 minutes.
+     *
+     * @param Topic $topic
+     *
+     * @return AnonymousResourceCollection
      */
     public function getLessonsByTopic(Topic $topic): AnonymousResourceCollection
     {
-        $query = Lesson::query();
+        $lessons = Cache::tags(['lessons', "topic.{$topic->id}"])->remember(
+            "lessons.topic.{$topic->id}",
+            1800,
+            fn () => Lesson::query()
+                ->where('topic_id', $topic->id)
+                ->orderBy('weight')
+                ->get(),
+        );
 
-        $fetchedCollection = $query->where('topic_id', '=', $topic->id)
-          ->orderBy('weight')
-          ->get();
-
-        return LessonResource::collection($fetchedCollection);
+        return LessonResource::collection($lessons);
     }
 
     /**
-     * {@inheritdoc}
+     * Validate structured lesson content paragraphs.
+     *
+     * Returns an array of human-readable error strings, one per invalid
+     * paragraph. An empty array means the content is valid.
+     *
+     * @param array<int, array<string, mixed>>|null $content
+     *
+     * @return array<int, string>
      */
     public function validateContent(?array $content): array
     {
@@ -123,7 +171,11 @@ class LessonService implements LessonServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * Mark a lesson as published (is_active = true).
+     *
+     * @param Lesson $lesson
+     *
+     * @return Lesson
      */
     public function publish(Lesson $lesson): Lesson
     {
@@ -134,7 +186,11 @@ class LessonService implements LessonServiceInterface
     }
 
     /**
-     * {@inheritdoc}
+     * Mark a lesson as unpublished (is_active = false).
+     *
+     * @param Lesson $lesson
+     *
+     * @return Lesson
      */
     public function unpublish(Lesson $lesson): Lesson
     {

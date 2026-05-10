@@ -1,11 +1,19 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Models\Education;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
+/**
+ * Eloquent line in a phrase block (text + translation).
+ */
 class PhraseItem extends Model
 {
+    public $timestamps = false;
+
     protected $table = 'phrase_items';
 
     protected $fillable = [
@@ -14,9 +22,12 @@ class PhraseItem extends Model
         'translation',
     ];
 
-    public $timestamps = false;
-
-    public function phraseParagraph(): \Illuminate\Database\Eloquent\Relations\BelongsTo
+    /**
+     * Phrase block this line belongs to.
+     *
+     * @return BelongsTo
+     */
+    public function phraseParagraph(): BelongsTo
     {
         return $this->belongsTo(PhraseParagraph::class, 'phrase_paragraph_id');
     }

@@ -12,9 +12,9 @@ readonly class CreateUserDTO
     /**
      * Constructs a new CreateUserDTO instance.
      *
-     * @param string   $username
-     * @param string   $email
-     * @param string   $password
+     * @param string $username
+     * @param string $email
+     * @param string $password
      * @param int|null $roleId
      */
     public function __construct(

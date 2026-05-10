@@ -6,17 +6,20 @@ namespace App\Services\Log;
 
 use App\Http\Resources\Log\LogResource;
 use App\Models\Additional\Log;
-use App\Services\Contracts\Log\DatabaseLogsProviderInterface;
+use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
 use Illuminate\Pagination\LengthAwarePaginator;
 
 /**
  * Provides logs from the database.
  */
-class DatabaseLogsProvider implements DatabaseLogsProviderInterface
+#[Singleton]
+class DatabaseLogsProvider
 {
     /**
-     * {@inheritdoc}
+     * @param array<string, mixed> $criteria
+     *
+     * @return AnonymousResourceCollection
      */
     public function provideLogs(array $criteria): AnonymousResourceCollection
     {
@@ -36,9 +39,9 @@ class DatabaseLogsProvider implements DatabaseLogsProviderInterface
 
         $logsQuery->orderBy('created_at', 'desc');
 
-        if (! empty($criteria['per_page'])) {
+        if (isset($criteria['per_page']) && $criteria['per_page'] !== '') {
             $perPage = (int) $criteria['per_page'];
-            /** @var LengthAwarePaginator $paginated */
+            /** @var LengthAwarePaginator<int, \App\Models\Additional\Log> $paginated */
             $paginated = $logsQuery->paginate($perPage);
 
             return LogResource::collection($paginated);

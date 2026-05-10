@@ -4,15 +4,23 @@ declare(strict_types=1);
 
 namespace App\Models\Education\Paragraphs;
 
+/**
+ * DTO for a test question and its options (nested under test paragraph).
+ */
 class TestQuestion extends BaseParagraph
 {
     public string $text;
-    /** @var TestOption[] */
+
+    /**
+     * @var TestOption[]
+     */
     public array $options;
 
     /**
-     * @param string       $text
+     * @param string $text
      * @param TestOption[] $options
+     *
+     * @return void
      */
     public function __construct(string $text, array $options)
     {
@@ -20,6 +28,9 @@ class TestQuestion extends BaseParagraph
         $this->options = $options;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [
@@ -28,26 +39,26 @@ class TestQuestion extends BaseParagraph
         ];
     }
 
-    public function jsonSerialize(): array
-    {
-        return $this->toArray();
-    }
-
+    /**
+     * @param array<string, mixed> $data
+     *
+     * @return static
+     */
     public static function fromArray(array $data): static
     {
         /** @var array<int, string> $testOptions */
         $testOptions = $data['options'] ?? [];
 
-        /** @var array<int, int> $testOptions */
+        /** @var array<int, int> $correctOptions */
         $correctOptions = $data['correctOptions'] ?? [];
 
         $optionsObjects = [];
 
         foreach ($testOptions as $key => $optionText) {
-            if (in_array($key, array_values($correctOptions))) {
+            if (in_array($key, array_values($correctOptions), true)) {
                 $optionsObjects[] = new TestOption(
                     text: $optionText,
-                    isCorrect: true
+                    isCorrect: true,
                 );
 
                 break;
@@ -55,13 +66,13 @@ class TestQuestion extends BaseParagraph
 
             $optionsObjects[] = new TestOption(
                 text: $optionText,
-                isCorrect: false
+                isCorrect: false,
             );
         }
 
         return new self(
             $data['text'],
-            $optionsObjects
+            $optionsObjects,
         );
     }
 }

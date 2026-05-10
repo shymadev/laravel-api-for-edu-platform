@@ -12,8 +12,8 @@ readonly class CreateTopicDTO
     /**
      * Constructs a new CreateTopicDTO instance.
      *
-     * @param int      $courseId
-     * @param string   $title
+     * @param int $courseId
+     * @param string $title
      * @param int|null $parentId
      */
     public function __construct(

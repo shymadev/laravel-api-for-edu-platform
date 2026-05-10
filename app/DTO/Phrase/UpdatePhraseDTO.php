@@ -14,7 +14,7 @@ readonly class UpdatePhraseDTO
      *
      * @param string|null $text
      * @param string|null $translation
-     * @param int|null    $difficultyLevelId
+     * @param int|null $difficultyLevelId
      * @param string|null $topic
      */
     public function __construct(

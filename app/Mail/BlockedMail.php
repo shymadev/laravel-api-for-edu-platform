@@ -8,23 +8,42 @@ use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 
+/**
+ * Mailable sent to a user when their account has been blocked.
+ */
 class BlockedMail extends Mailable
 {
     use Queueable;
     use SerializesModels;
 
+    /**
+     * @var mixed
+     */
     public $user;
+
+    /**
+     * @var string|null
+     */
     public $reason;
 
-    public function __construct($user, ?string $reason = null)
+    /**
+     * @param mixed $user
+     * @param string|null $reason
+     */
+    public function __construct(mixed $user, ?string $reason = null)
     {
         $this->user = $user;
         $this->reason = $reason;
     }
 
+    /**
+     * Build the message.
+     *
+     * @return static
+     */
     public function build()
     {
         return $this->subject('Ваш аккаунт заблокирован')
-            ->view('emails.blocked', ['user' => $this->user, 'reason' => $this->reason]);
+            ->view('mail.blocked', ['user' => $this->user, 'reason' => $this->reason]);
     }
 }

@@ -7,45 +7,70 @@ namespace App\Observers;
 use App\Models\Education\CourseReview;
 use Illuminate\Support\Facades\Cache;
 
+/**
+ * Clears review and course aggregate cache when a course review changes.
+ */
 class ReviewObserver
 {
     /**
-     * Handle the CourseReview "created" event.
+     * @param CourseReview $courseReview
+     *
+     * @return void
      */
     public function created(CourseReview $courseReview): void
     {
-        Cache::tags(['statistics'])->flush();
+        $this->invalidate($courseReview);
     }
 
     /**
-     * Handle the CourseReview "updated" event.
+     * @param CourseReview $courseReview
+     *
+     * @return void
      */
     public function updated(CourseReview $courseReview): void
     {
-        Cache::tags(['statistics'])->flush();
+        $this->invalidate($courseReview);
     }
 
     /**
-     * Handle the CourseReview "deleted" event.
+     * @param CourseReview $courseReview
+     *
+     * @return void
      */
     public function deleted(CourseReview $courseReview): void
     {
-        Cache::tags(['statistics'])->flush();
+        $this->invalidate($courseReview);
     }
 
     /**
-     * Handle the CourseReview "restored" event.
+     * @param CourseReview $courseReview
+     *
+     * @return void
      */
     public function restored(CourseReview $courseReview): void
     {
-        Cache::tags(['statistics'])->flush();
+        $this->invalidate($courseReview);
     }
 
     /**
-     * Handle the CourseReview "force deleted" event.
+     * @param CourseReview $courseReview
+     *
+     * @return void
      */
     public function forceDeleted(CourseReview $courseReview): void
     {
-        Cache::tags(['statistics'])->flush();
+        $this->invalidate($courseReview);
+    }
+
+    /**
+     * Flush statistics, reviews, and course-scoped cache tags.
+     *
+     * @param CourseReview $courseReview
+     *
+     * @return void
+     */
+    private function invalidate(CourseReview $courseReview): void
+    {
+        Cache::tags(['statistics', 'reviews', "course.{$courseReview->course_id}"])->flush();
     }
 }

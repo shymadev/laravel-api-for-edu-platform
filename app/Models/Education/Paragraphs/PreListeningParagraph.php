@@ -10,18 +10,32 @@ namespace App\Models\Education\Paragraphs;
 class PreListeningParagraph extends BaseParagraph
 {
     public string $taskType;
+
     public string $title;
+
     public string $instructions;
+
     public ?array $vocabularyWords;
+
     public ?array $questions;
 
+    /**
+     * @param int $order
+     * @param string $taskType
+     * @param string $title
+     * @param string $instructions
+     * @param array|null $vocabularyWords
+     * @param array|null $questions
+     *
+     * @return void
+     */
     public function __construct(
         int $order,
         string $taskType,
         string $title,
         string $instructions,
         ?array $vocabularyWords = null,
-        ?array $questions = null
+        ?array $questions = null,
     ) {
         $this->order = $order;
         $this->type = 'pre-listening';
@@ -32,6 +46,9 @@ class PreListeningParagraph extends BaseParagraph
         $this->questions = $questions;
     }
 
+    /**
+     * @return array<string, mixed>
+     */
     public function toArray(): array
     {
         return [
@@ -45,6 +62,11 @@ class PreListeningParagraph extends BaseParagraph
         ];
     }
 
+    /**
+     * @param array<string, mixed> $data
+     *
+     * @return static
+     */
     public static function fromArray(array $data): static
     {
         return new self(
@@ -53,7 +75,7 @@ class PreListeningParagraph extends BaseParagraph
             $data['title'] ?? '',
             $data['instructions'] ?? '',
             $data['vocabularyWords'] ?? null,
-            $data['questions'] ?? null
+            $data['questions'] ?? null,
         );
     }
 }

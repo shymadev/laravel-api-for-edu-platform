@@ -5,9 +5,10 @@ declare(strict_types=1);
 namespace App\Http\Controllers;
 
 use App\Http\Requests\Education\MarkLessonCompleteRequest;
+use App\Http\Requests\Education\SaveBlockProgressRequest;
 use App\Http\Resources\Progress\CourseProgressResource;
 use App\Http\Resources\Progress\UserStatisticsResource;
-use App\Services\Contracts\Progress\CourseProgressServiceInterface;
+use App\Services\CourseProgressService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
 use Illuminate\Routing\Controller;
@@ -19,31 +20,25 @@ use Illuminate\Support\Facades\Log;
 class UserProgressController extends Controller
 {
     /**
-     * Course progress service instance.
-     *
-     * @var CourseProgressServiceInterface
-     */
-    protected CourseProgressServiceInterface $progressService;
-
-    /**
      * Construct a new UserProgressController instance.
      *
-     * @param CourseProgressServiceInterface $progressService
+     * @param \App\Services\CourseProgressService $courseProgressService
+     *
+     * @return void
      */
-    public function __construct(CourseProgressServiceInterface $progressService)
+    public function __construct(protected readonly CourseProgressService $courseProgressService)
     {
-        $this->progressService = $progressService;
     }
 
     /**
      * Get a list of lessons completed by the authenticated user.
      *
-     * @return JsonResponse returns the list of completed lessons
+     * @return \Illuminate\Http\JsonResponse
      */
     public function completedLessons(): JsonResponse
     {
         try {
-            $completedLessons = $this->progressService->completedLessons((int) auth()->id());
+            $completedLessons = $this->courseProgressService->completedLessons((int) auth()->id());
 
             return response()->json($completedLessons);
         } catch (\Exception $e) {
@@ -59,9 +54,9 @@ class UserProgressController extends Controller
     /**
      * Mark a lesson as complete for the authenticated user.
      *
-     * @param MarkLessonCompleteRequest $request The validated request containing lesson ID
+     * @param \App\Http\Requests\Education\MarkLessonCompleteRequest $request
      *
-     * @return JsonResponse returns success or already-completed message
+     * @return \Illuminate\Http\JsonResponse
      */
     public function markLessonComplete(MarkLessonCompleteRequest $request): JsonResponse
     {
@@ -69,9 +64,9 @@ class UserProgressController extends Controller
         $lessonId = (int) $request->validated()['lesson_id'];
 
         try {
-            $marked = $this->progressService->markLessonComplete($userId, $lessonId);
+            $marked = $this->courseProgressService->markLessonComplete($userId, $lessonId);
 
-            if (! $marked) {
+            if (!$marked) {
                 Log::info('Lesson already completed', ['user_id' => $userId, 'lesson_id' => $lessonId]);
 
                 return response()->json(['message' => 'Lesson already completed', 'alreadyCompleted' => true]);
@@ -93,14 +88,14 @@ class UserProgressController extends Controller
     /**
      * Calculate the user's progress for a specific course.
      *
-     * @param int $courseId The course ID
+     * @param int $courseId
      *
-     * @return CourseProgressResource returns course progress details
+     * @return \App\Http\Resources\Progress\CourseProgressResource
      */
     public function courseProgress(int $courseId): CourseProgressResource
     {
         try {
-            $progress = $this->progressService->courseProgress((int) auth()->id(), $courseId);
+            $progress = $this->courseProgressService->courseProgress((int) auth()->id(), $courseId);
 
             return new CourseProgressResource($progress);
         } catch (\Exception $e) {
@@ -112,12 +107,12 @@ class UserProgressController extends Controller
     /**
      * Get the user's progress for all courses.
      *
-     * @return AnonymousResourceCollection returns collection of course progress
+     * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
      */
     public function coursesProgress(): AnonymousResourceCollection
     {
         try {
-            $progress = $this->progressService->userCoursesProgress((int) auth()->id());
+            $progress = $this->courseProgressService->userCoursesProgress((int) auth()->id());
 
             return CourseProgressResource::collection($progress);
         } catch (\Exception $e) {
@@ -127,14 +122,110 @@ class UserProgressController extends Controller
     }
 
     /**
+     * Get completed block indexes for a specific lesson.
+     *
+     * @param int $lessonId
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function lessonBlockProgress(int $lessonId): JsonResponse
+    {
+        try {
+            $progress = $this->courseProgressService->lessonBlockProgress((int) auth()->id(), $lessonId);
+
+            return response()->json($progress);
+        } catch (\Exception $e) {
+            Log::error('Failed to retrieve lesson block progress', ['user_id' => auth()->id(), 'lesson_id' => $lessonId, 'error' => $e->getMessage()]);
+
+            return response()->json(['message' => 'Failed to retrieve block progress', 'error' => $e->getMessage()], 500);
+        }
+    }
+
+    /**
+     * Save block progress (upsert). Supports partial state and completion flag.
+     *
+     * @param \App\Http\Requests\Education\SaveBlockProgressRequest $request
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function saveBlockProgress(SaveBlockProgressRequest $request): JsonResponse
+    {
+        $userId = (int) auth()->id();
+        $validated = $request->validated();
+
+        try {
+            $this->courseProgressService->saveBlockProgress(
+                $userId,
+                (int) $validated['lesson_id'],
+                (int) $validated['block_index'],
+                (string) $validated['block_type'],
+                (bool) ($validated['is_completed'] ?? false),
+                $validated['block_state'] ?? null,
+            );
+
+            return response()->json(['saved' => true], 201);
+        } catch (\Exception $e) {
+            Log::error('Failed to save block progress', ['user_id' => $userId, 'error' => $e->getMessage()]);
+
+            return response()->json(['message' => 'Failed to save block progress', 'error' => $e->getMessage()], 500);
+        }
+    }
+
+    /**
+     * Stop tracking the authenticated user's progress for a course.
+     *
+     * @param int $courseId
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function stopCourse(int $courseId): JsonResponse
+    {
+        $userId = (int) auth()->id();
+
+        try {
+            $this->courseProgressService->stopCourse($userId, $courseId);
+            Log::info('User stopped course', ['user_id' => $userId, 'course_id' => $courseId]);
+
+            return response()->json(['stopped' => true]);
+        } catch (\Exception $e) {
+            Log::error('Failed to stop course', ['user_id' => $userId, 'course_id' => $courseId, 'error' => $e->getMessage()]);
+
+            return response()->json(['message' => 'Failed to stop course'], 500);
+        }
+    }
+
+    /**
+     * Resume tracking the authenticated user's progress for a previously stopped course.
+     *
+     * @param int $courseId
+     *
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function resumeCourse(int $courseId): JsonResponse
+    {
+        $userId = (int) auth()->id();
+
+        try {
+            $this->courseProgressService->resumeCourse($userId, $courseId);
+            Log::info('User resumed course', ['user_id' => $userId, 'course_id' => $courseId]);
+
+            return response()->json(['resumed' => true]);
+        } catch (\Exception $e) {
+            Log::error('Failed to resume course', ['user_id' => $userId, 'course_id' => $courseId, 'error' => $e->getMessage()]);
+
+            return response()->json(['message' => 'Failed to resume course'], 500);
+        }
+    }
+
+    /**
      * Get overall statistics for the user.
      *
-     * @return UserStatisticsResource returns aggregated statistics of the user
+     * @return \App\Http\Resources\Progress\UserStatisticsResource
      */
     public function statistics(): UserStatisticsResource
     {
         try {
-            $stats = $this->progressService->userStatistics((int) auth()->id());
+            $stats = $this->courseProgressService->userStatistics((int) auth()->id());
 
             return new UserStatisticsResource($stats);
         } catch (\Exception $e) {

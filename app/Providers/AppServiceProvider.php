@@ -4,76 +4,55 @@ declare(strict_types=1);
 
 namespace App\Providers;
 
+use App\Listeners\SendPasswordResetSuccessEmail;
 use App\Models\User\PersonalAccessToken;
 use App\Models\User\User;
-use App\Services\Advertisement\AdvertisementService;
-use App\Services\Contracts\Advertisement\AdvertisementServiceInterface;
-use App\Services\Contracts\Auth\AuthServiceInterface;
-use App\Services\Contracts\Course\CourseServiceInterface;
-use App\Services\Contracts\Education\PhraseServiceInterface;
-use App\Services\Contracts\Lesson\LessonServiceInterface;
-use App\Services\Contracts\Log\DatabaseLogsProviderInterface;
-use App\Services\Contracts\Mail\MailServiceInterface;
-use App\Services\Contracts\Payment\SubscriptionServiceInterface;
-use App\Services\Contracts\Progress\CourseProgressServiceInterface;
-use App\Services\Contracts\Review\CourseReviewServiceInterface;
-use App\Services\Contracts\Storage\AudioStorageInterface;
-use App\Services\Contracts\Storage\ImageStorageInterface;
-use App\Services\Contracts\Topic\TopicServiceInterface;
-use App\Services\Contracts\TTSServiceInterface;
-use App\Services\Contracts\User\UserProfileServiceInterface;
-use App\Services\Contracts\User\UserServiceInterface;
-use App\Services\Course\CourseService;
-use App\Services\Lesson\LessonService;
-use App\Services\Log\DatabaseLogsProvider;
-use App\Services\Mail\MailService;
-use App\Services\Payment\SubscriptionService;
-use App\Services\PhraseService;
-use App\Services\Progress\CourseProgressService;
-use App\Services\Review\CourseReviewService;
-use App\Services\Storage\AudioStorageService;
-use App\Services\Storage\ImageStorageService;
-use App\Services\Topic\TopicService;
-use App\Services\TTSService;
-use App\Services\User\UserProfileService;
-use App\Services\User\UserService;
+use App\Services\ChangePasswordProcessor;
+use App\Services\Strategy\ChangePassword\GoogleChangePasswordStrategy;
+use App\Services\Strategy\ChangePassword\StandardChangePasswordStrategy;
+use Illuminate\Auth\Events\PasswordReset;
+use Illuminate\Cache\CacheServiceProvider;
+use Illuminate\Support\Facades\Event;
 use Illuminate\Support\ServiceProvider;
 use Laravel\Cashier\Cashier;
 use Laravel\Sanctum\Sanctum;
 use Stripe\Stripe;
 
+/**
+ * Application-wide service registration and bootstrapping (bindings, Sanctum, Cashier, events).
+ */
 class AppServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
+     *
+     * @return void
      */
     public function register(): void
     {
-        $this->app->singleton(UserServiceInterface::class, UserService::class);
-        $this->app->singleton(UserProfileServiceInterface::class, UserProfileService::class);
-        $this->app->singleton(TTSServiceInterface::class, TTSService::class);
+        $this->app->register(CacheServiceProvider::class);
 
-        $this->app->singleton(CourseServiceInterface::class, CourseService::class);
-        $this->app->singleton(TopicServiceInterface::class, TopicService::class);
-        $this->app->singleton(LessonServiceInterface::class, LessonService::class);
-        $this->app->singleton(AudioStorageInterface::class, AudioStorageService::class);
-        $this->app->singleton(ImageStorageInterface::class, ImageStorageService::class);
-        $this->app->singleton(CourseReviewServiceInterface::class, CourseReviewService::class);
-        $this->app->singleton(AdvertisementServiceInterface::class, AdvertisementService::class);
-        $this->app->singleton(CourseProgressServiceInterface::class, CourseProgressService::class);
-        $this->app->singleton(SubscriptionServiceInterface::class, SubscriptionService::class);
-        $this->app->singleton(DatabaseLogsProviderInterface::class, DatabaseLogsProvider::class);
-        $this->app->singleton(MailServiceInterface::class, MailService::class);
+        $this->app->bind(ChangePasswordProcessor::class, function ($app) {
+            return new ChangePasswordProcessor(
+                strategies: [
+                    $app->make(GoogleChangePasswordStrategy::class),
+                    $app->make(StandardChangePasswordStrategy::class),
+                ],
+            );
+        });
     }
 
     /**
      * Bootstrap services.
+     *
+     * @return void
      */
     public function boot(): void
     {
         Sanctum::usePersonalAccessTokenModel(PersonalAccessToken::class);
         Cashier::useCustomerModel(User::class);
-
         Stripe::setApiKey(config('cashier.secret'));
+
+        Event::listen(PasswordReset::class, SendPasswordResetSuccessEmail::class);
     }
 }

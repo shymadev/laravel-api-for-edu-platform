@@ -4,10 +4,11 @@ declare(strict_types=1);
 
 namespace App\Services\Storage;
 
-use App\Services\Contracts\Storage\ImageStorageInterface;
+use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Http\UploadedFile;
 
-class ImageStorageService extends BaseStorage implements ImageStorageInterface
+#[Singleton]
+class ImageStorageService extends BaseStorage
 {
     protected function isValidFile(UploadedFile $file): bool
     {
