@@ -20,6 +20,30 @@ services:
     user: "${UID:-1000}:${GID:-1000}"
     volumes:
       - .:/var/www
+      - ../conf/php/uploads.ini:/usr/local/etc/php/conf.d/zz-uploads.ini:ro
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - app_network
+
+  laravel-queue:
+    container_name: laravel-queue
+    build:
+      context: ..
+      dockerfile: docker/common/php-queue-worker/Dockerfile
+      args:
+        UID: ${UID:-1000}
+        GID: ${GID:-1000}
+    restart: unless-stopped
+    working_dir: /var/www
+    env_file:
+      - .env
+    environment:
+      PHP_IDE_CONFIG: serverName=Docker
+      STRIPE_WEBHOOK_FORWARD_TO: ${STRIPE_WEBHOOK_FORWARD_TO:-http://nginx:8080/api/stripe/webhook}
+      STRIPE_SECRET: ${STRIPE_SECRET}
+    volumes:
+      - .:/var/www
     extra_hosts:
       - "host.docker.internal:host-gateway"
     networks:

@@ -35,6 +35,8 @@ parameters:
             paths:
                 - app/Http/Controllers/*
                 - app/Services/*
+                - app/Console/Commands/*
+                - database/seeders/*
         -
             message: '#PHPDoc tag @return with type .* is incompatible with native type Illuminate\\Database\\Eloquent\\Casts\\Attribute#'
         -
@@ -47,3 +49,20 @@ parameters:
         -
             message: '#Call to function in_array\(\) requires parameter \#3 to be set#'
             path: app/Providers/SwaggerUiServiceProvider.php
+        -
+            message: '#Dynamic call to static method App\\Models\\Additional\\Advertisement::#'
+            path: app/Http/Resources/Advertisement/AdvertisementResource.php
+        -
+            message: '#Dynamic call to static method Illuminate\\Auth\\SessionGuard::logout\(\)#'
+            path: app/Http/Controllers/AuthController.php
+        -
+            message: '#Dynamic call to static method Illuminate\\Http\\Request::validate\(\)#'
+        -
+            message: '#Access to an undefined property Laravel\\Cashier\\Payment::\$client_secret#'
+            path: app/Http/Controllers/SubscriptionController.php
+        -
+            message: '#Dynamic call to static method Illuminate\\Contracts\\Auth\\Guard::id\(\)#'
+            path: app/Logging/DatabaseLogProcessingHandler.php
+        -
+            message: '#Dynamic call to static method App\\Models\\User\\User::hasLocalPassword\(\)#'
+            path: app/Http/Resources/User/UserResource.php

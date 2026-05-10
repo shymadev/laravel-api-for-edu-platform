@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+STAGED_FILES=$(git diff --cached --name-only --diff-filter=ACMR -- '*.php')
+
+if [ -z "$STAGED_FILES" ]; then
+    exit 0
+fi
+
+ROOT="$(git rev-parse --show-toplevel)"
+
+echo "→ PHP CS Fixer"
+php "$ROOT/vendor/bin/php-cs-fixer" check --config="$ROOT/.php-cs-fixer.dist.php" \
+    || { echo "✗ Fix with: composer fix"; exit 1; }
+
+echo "→ PHPStan"
+php "$ROOT/vendor/bin/phpstan" analyse --memory-limit=1G --no-progress \
+    || { echo "✗ PHPStan failed."; exit 1; }
+
+echo "→ PHPCS (staged files only)"
+# Only check staged app/ files — existing code is not blocked
+APP_FILES=$(echo "$STAGED_FILES" | grep "^app/" || true)
+if [ -n "$APP_FILES" ]; then
+    echo "$APP_FILES" | xargs php "$ROOT/vendor/bin/phpcs" --standard="$ROOT/phpcs.xml" \
+        || { echo "✗ Fix with: composer phpcbf"; exit 1; }
+fi
+
+echo "✓ All checks passed."
