@@ -7,23 +7,17 @@ use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
 return new class () extends Migration {
-    /**
-     * Run the migrations.
-     */
     public function up(): void
     {
         Schema::table('courses', function (Blueprint $table): void {
-            $table->boolean('is_premium')->default(false)->after('description');
+            $table->boolean('is_archived')->default(false)->after('is_active');
         });
     }
 
-    /**
-     * Reverse the migrations.
-     */
     public function down(): void
     {
         Schema::table('courses', function (Blueprint $table): void {
-            $table->dropColumn('is_premium');
+            $table->dropColumn('is_archived');
         });
     }
 };

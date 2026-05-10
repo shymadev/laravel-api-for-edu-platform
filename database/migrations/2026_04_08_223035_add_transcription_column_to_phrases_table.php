@@ -12,11 +12,8 @@ return new class () extends Migration {
      */
     public function up(): void
     {
-        Schema::create('test_options', function (Blueprint $table): void {
-            $table->id();
-            $table->foreignId('question_id')->constrained('test_questions')->onDelete('cascade');
-            $table->string('text');
-            $table->boolean('is_correct')->default(false);
+        Schema::table('phrases', function (Blueprint $table): void {
+            $table->text('transcription')->nullable();
         });
     }
 
@@ -25,6 +22,8 @@ return new class () extends Migration {
      */
     public function down(): void
     {
-        Schema::dropIfExists('test_options');
+        Schema::table('phrases', function (Blueprint $table): void {
+            $table->dropColumn('transcription');
+        });
     }
 };

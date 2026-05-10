@@ -12,18 +12,15 @@ return new class () extends Migration {
      */
     public function up(): void
     {
-        Schema::table('courses', function (Blueprint $table): void {
-            $table->boolean('is_premium')->default(false)->after('description');
+        Schema::table('phrases', function (Blueprint $table): void {
+            $table->boolean('is_phrasebook')->default(true)->after('transcription');
         });
     }
 
-    /**
-     * Reverse the migrations.
-     */
     public function down(): void
     {
-        Schema::table('courses', function (Blueprint $table): void {
-            $table->dropColumn('is_premium');
+        Schema::table('phrases', function (Blueprint $table): void {
+            $table->dropColumn('is_phrasebook');
         });
     }
 };
