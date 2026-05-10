@@ -16,6 +16,7 @@
         "laravel/sanctum": "^4.0",
         "laravel/socialite": "^5.23",
         "laravel/tinker": "^2.10.1",
+        "league/flysystem-aws-s3-v3": "^3.32",
         "openai-php/client": "^0.17.1",
         "symfony/http-client": "^8.0",
         "symfony/mailgun-mailer": "^8.0",
@@ -35,7 +36,8 @@
         "pestphp/pest-plugin-laravel": "^3.2",
         "phpstan/phpstan": "*",
         "phpstan/phpstan-deprecation-rules": "^2.0",
-        "phpstan/phpstan-strict-rules": "^2.0"
+        "phpstan/phpstan-strict-rules": "^2.0",
+        "squizlabs/php_codesniffer": "^4.0"
     },
     "autoload": {
         "psr-4": {
@@ -52,12 +54,16 @@
     "scripts": {
         "test": [
           "@lint",
+          "@phpcs",
           "@analyse",
           "@php artisan config:clear --ansi",
-          "@php artisan test"
+          "@php artisan test "
         ],
         "unit-test": [
           "@php artisan test --testsuite=Unit"
+        ],
+        "feature-test": [
+          "@php artisan test --testsuite=Feature"
         ],
         "lint": [
           "php-cs-fixer fix --dry-run --diff --verbose"
@@ -67,6 +73,15 @@
         ],
         "analyse": [
           "phpstan analyse --memory-limit=1G --ansi"
+        ],
+        "phpcs": [
+          "phpcs"
+        ],
+        "phpcbf": [
+          "phpcbf"
+        ],
+        "hooks:install": [
+          "@php -r \"copy('hooks/pre-commit', '.git/hooks/pre-commit'); chmod('.git/hooks/pre-commit', 0755); echo 'Git pre-commit hook installed.\\n';\""
         ]
     },
     "extra": {
