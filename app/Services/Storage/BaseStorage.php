@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Services\Storage;
 
 use Illuminate\Http\UploadedFile;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Storage;
 
 abstract class BaseStorage
@@ -44,17 +45,28 @@ abstract class BaseStorage
                 return false;
             }
 
+            $disk = Storage::disk(self::DISK);
+
             try {
-                Storage::disk(self::DISK)->writeStream($filename, $stream, ['visibility' => 'public']);
+                $written = $disk->writeStream($filename, $stream, ['visibility' => 'public']);
             } finally {
                 if (is_resource($stream)) {
                     fclose($stream);
                 }
             }
 
-            return Storage::disk(self::DISK)->url($filename);
+            if ($written === false || !$disk->exists($filename)) {
+                return false;
+            }
 
-        } catch (\Exception) {
+            return $disk->url($filename);
+
+        } catch (\Exception $e) {
+            Log::error('Failed to upload file to storage', [
+                'folder' => $folderName,
+                'error' => $e->getMessage(),
+            ]);
+
             return false;
         }
     }

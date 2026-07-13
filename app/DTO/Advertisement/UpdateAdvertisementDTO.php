@@ -20,6 +20,7 @@ readonly class UpdateAdvertisementDTO
      * @param bool|null $isActive
      * @param string|null $startsAt
      * @param string|null $endsAt
+     * @param ?bool $isPermanent
      */
     public function __construct(
         public int $id,
@@ -28,6 +29,7 @@ readonly class UpdateAdvertisementDTO
         public ?bool $isActive = null,
         public ?string $startsAt = null,
         public ?string $endsAt = null,
+        public ?bool $isPermanent = null,
     ) {
     }
 
@@ -53,6 +55,18 @@ readonly class UpdateAdvertisementDTO
             }
         }
 
+        $isPermanent = null;
+        if (isset($data['is_permanent'])) {
+            $value = $data['is_permanent'];
+            if (is_bool($value)) {
+                $isPermanent = $value;
+            } elseif (is_string($value)) {
+                $isPermanent = in_array(strtolower($value), ['true', '1'], true);
+            } elseif (is_int($value)) {
+                $isPermanent = $value === 1;
+            }
+        }
+
         return new self(
             id: (int) $data['id'],
             image: $data['image'] ?? null,
@@ -60,6 +74,7 @@ readonly class UpdateAdvertisementDTO
             isActive: $isActive,
             startsAt: $data['starts_at'] ?? null,
             endsAt: $data['ends_at'] ?? null,
+            isPermanent: $isPermanent,
         );
     }
 
@@ -70,12 +85,19 @@ readonly class UpdateAdvertisementDTO
      */
     public function toArray(): array
     {
-        return array_filter([
+        $data = array_filter([
             'image' => $this->image,
             'url' => $this->url,
             'is_active' => $this->isActive,
             'starts_at' => $this->startsAt,
             'ends_at' => $this->endsAt,
         ], fn ($value) => $value !== null);
+
+        if ($this->isPermanent === true) {
+            $data['starts_at'] = null;
+            $data['ends_at'] = null;
+        }
+
+        return $data;
     }
 }

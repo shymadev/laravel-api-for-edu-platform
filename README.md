@@ -766,7 +766,7 @@ Three tools enforce code quality:
 
 ### Git pre-commit hook
 
-The hook at `hooks/pre-commit` runs automatically before every commit. It:
+The tracked hook at `hooks/pre-commit` delegates to the Python `pre-commit` tool and reads checks from `.pre-commit-config.yaml`. It runs automatically before every commit and:
 
 1. Skips entirely if no PHP files are staged.
 2. Runs **PHP CS Fixer** across all files (fast — uses cache).
@@ -783,12 +783,18 @@ If any check fails, the commit is aborted with a hint:
 
 ### Installing the hook
 
-The hook lives in `hooks/pre-commit` (tracked by git). Install it once per machine after cloning:
+Install `pre-commit` once on your machine:
+
+```bash
+python3 -m pip install --user pre-commit
+```
+
+Then enable the repository hook after cloning:
 
 ```bash
 composer hooks:install
 ```
 
-This copies `hooks/pre-commit` to `.git/hooks/pre-commit` and makes it executable. The hook uses the host `php` binary and `vendor/bin/` directly — no Docker required at commit time, but PHP 8.4 must be installed on the host.
+This configures Git to use the tracked `hooks/` directory. The hook uses the host `php` binary and `vendor/bin/` directly — no Docker required at commit time, but PHP 8.4 must be installed on the host.
 
-> If you reinstall or update the hook script, re-run `composer hooks:install` to sync the copy in `.git/hooks/`.
+> If you update `.pre-commit-config.yaml`, the next commit will use the new checks automatically.

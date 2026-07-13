@@ -1,0 +1,25 @@
+minimum_pre_commit_version: "3.0.0"
+
+repos:
+  - repo: local
+    hooks:
+      - id: php-cs-fixer
+        name: PHP CS Fixer
+        entry: php vendor/bin/php-cs-fixer check --config=.php-cs-fixer.dist.php
+        language: system
+        pass_filenames: false
+        types: [php]
+
+      - id: phpstan
+        name: PHPStan
+        entry: php vendor/bin/phpstan analyse --memory-limit=1G --no-progress --debug
+        language: system
+        pass_filenames: false
+        types: [php]
+
+      - id: phpcs-app
+        name: PHPCS (staged app files)
+        entry: php vendor/bin/phpcs --standard=phpcs.xml
+        language: system
+        files: ^app/.*\.php$
+        types: [php]

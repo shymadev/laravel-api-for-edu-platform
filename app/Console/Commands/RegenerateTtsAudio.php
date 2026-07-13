@@ -29,7 +29,8 @@ class RegenerateTtsAudio extends Command
     protected $signature = 'tts:regenerate
                             {--type=* : Types to process: phrases, lesson-audio, lesson-games (omit for all)}
                             {--force : Regenerate even when audio already exists}
-                            {--dry-run : Preview what would be regenerated without making changes}';
+                            {--dry-run : Preview what would be regenerated without making changes}
+                            {--retries=3 : Generation/upload attempts per item}';
 
     protected $description = 'Regenerate TTS audio for phrases, lesson audio paragraphs, and vocabulary game items';
 
@@ -60,6 +61,7 @@ class RegenerateTtsAudio extends Command
         $types = $this->resolveTypes();
         $isDryRun = $this->option('dry-run') === true;
         $force = $this->option('force') === true;
+        $maxAttempts = $this->resolveMaxAttempts();
 
         if ($isDryRun) {
             $this->info('[dry-run] No changes will be written.');
@@ -70,14 +72,24 @@ class RegenerateTtsAudio extends Command
 
         foreach ($types as $type) {
             match ($type) {
-                self::TYPE_PHRASES => $this->processPhrases($force, $isDryRun),
-                self::TYPE_LESSON_AUDIO => $this->processLessonAudio($force, $isDryRun),
-                self::TYPE_LESSON_GAMES => $this->processLessonGames($force, $isDryRun),
+                self::TYPE_PHRASES => $this->processPhrases($force, $isDryRun, $maxAttempts),
+                self::TYPE_LESSON_AUDIO => $this->processLessonAudio($force, $isDryRun, $maxAttempts),
+                self::TYPE_LESSON_GAMES => $this->processLessonGames($force, $isDryRun, $maxAttempts),
                 default => null,
             };
         }
 
         return self::SUCCESS;
+    }
+
+    /**
+     * @return integer
+     */
+    private function resolveMaxAttempts(): int
+    {
+        $attempts = (int) $this->option('retries');
+
+        return max(1, min($attempts, 10));
     }
 
     /**
@@ -107,10 +119,11 @@ class RegenerateTtsAudio extends Command
      *
      * @param bool $force
      * @param bool $isDryRun
+     * @param int $maxAttempts
      *
      * @return void
      */
-    private function processPhrases(bool $force, bool $isDryRun): void
+    private function processPhrases(bool $force, bool $isDryRun, int $maxAttempts): void
     {
         $this->info('--- Phrases ---');
 
@@ -129,10 +142,11 @@ class RegenerateTtsAudio extends Command
 
         $regenerated = 0;
         $failed = 0;
+        $failures = [];
 
         Phrase::query()
             ->when(!$force, fn ($q) => $q->where(fn ($q2) => $q2->whereNull('audio')->orWhere('audio', '')))
-            ->each(function (Phrase $phrase) use ($force, $isDryRun, $bar, &$regenerated, &$failed): void {
+            ->each(function (Phrase $phrase) use ($force, $isDryRun, $maxAttempts, $bar, &$regenerated, &$failed, &$failures): void {
                 $bar->advance();
 
                 try {
@@ -142,23 +156,35 @@ class RegenerateTtsAudio extends Command
                         return;
                     }
 
-                    $newAudio = $this->ttsService->generateAudio($phrase->text);
-                    $newPath = $this->audioStorage->upload($newAudio, 'phrases');
+                    $oldAudio = $phrase->audio;
+                    $newPath = $this->generateAndUploadAudio($phrase->text, 'phrases', [
+                        'type' => self::TYPE_PHRASES,
+                        'phrase_id' => $phrase->id,
+                    ], $maxAttempts);
 
                     if ($newPath === false) {
                         $failed++;
+                        $failures[] = "phrase #{$phrase->id}: {$phrase->text}";
 
                         return;
                     }
 
-                    if ($force && $phrase->audio !== null && $phrase->audio !== '') {
-                        $this->audioStorage->delete($phrase->audio);
+                    $phrase->update(['audio' => $newPath]);
+
+                    if (
+                        $force
+                        && $oldAudio !== null
+                        && $oldAudio !== ''
+                        && $oldAudio !== $newPath
+                        && !$this->isPhraseAudioReferenced($oldAudio)
+                    ) {
+                        $this->audioStorage->delete($oldAudio);
                     }
 
-                    $phrase->update(['audio' => $newPath]);
                     $regenerated++;
                 } catch (\Throwable $e) {
                     $failed++;
+                    $failures[] = "phrase #{$phrase->id}: {$phrase->text}";
                     Log::error('tts:regenerate phrases error', [
                         'phrase_id' => $phrase->id,
                         'error' => $e->getMessage(),
@@ -168,7 +194,7 @@ class RegenerateTtsAudio extends Command
 
         $bar->finish();
         $this->newLine();
-        $this->printSummary($regenerated, $failed, $isDryRun);
+        $this->printSummary($regenerated, $failed, $isDryRun, $failures);
     }
 
     /**
@@ -176,10 +202,11 @@ class RegenerateTtsAudio extends Command
      *
      * @param bool $force
      * @param bool $isDryRun
+     * @param int $maxAttempts
      *
      * @return void
      */
-    private function processLessonAudio(bool $force, bool $isDryRun): void
+    private function processLessonAudio(bool $force, bool $isDryRun, int $maxAttempts): void
     {
         $this->info('--- Lesson audio paragraphs ---');
 
@@ -196,6 +223,7 @@ class RegenerateTtsAudio extends Command
 
         $regenerated = 0;
         $failed = 0;
+        $failures = [];
 
         $bar = $this->output->createProgressBar($lessons->count());
         $bar->start();
@@ -229,24 +257,31 @@ class RegenerateTtsAudio extends Command
                         continue;
                     }
 
-                    $newAudio = $this->ttsService->generateAudio($block['text']);
-                    $newPath = $this->audioStorage->upload($newAudio, 'lessons/audio_paragraphs');
+                    $oldAudio = $block['audio_url'] ?? null;
+                    $newPath = $this->generateAndUploadAudio($block['text'], 'lessons/audio_paragraphs', [
+                        'type' => self::TYPE_LESSON_AUDIO,
+                        'lesson_id' => $lesson->id,
+                        'paragraph_index' => $i,
+                    ], $maxAttempts);
 
                     if ($newPath === false) {
                         $failed++;
+                        $failures[] = "lesson #{$lesson->id}, paragraph {$i}";
 
                         continue;
                     }
 
-                    if ($force && $hasAudio) {
-                        $this->audioStorage->delete($block['audio_url']);
+                    $content[$i]['content']['audio_url'] = $newPath;
+
+                    if ($force && $hasAudio && $oldAudio !== $newPath) {
+                        $this->audioStorage->delete($oldAudio);
                     }
 
-                    $content[$i]['content']['audio_url'] = $newPath;
                     $dirty = true;
                     $regenerated++;
                 } catch (\Throwable $e) {
                     $failed++;
+                    $failures[] = "lesson #{$lesson->id}, paragraph {$i}";
                     Log::error('tts:regenerate lesson-audio error', [
                         'lesson_id' => $lesson->id,
                         'paragraph_index' => $i,
@@ -262,7 +297,7 @@ class RegenerateTtsAudio extends Command
 
         $bar->finish();
         $this->newLine();
-        $this->printSummary($regenerated, $failed, $isDryRun);
+        $this->printSummary($regenerated, $failed, $isDryRun, $failures);
     }
 
     /**
@@ -270,10 +305,11 @@ class RegenerateTtsAudio extends Command
      *
      * @param bool $force
      * @param bool $isDryRun
+     * @param int $maxAttempts
      *
      * @return void
      */
-    private function processLessonGames(bool $force, bool $isDryRun): void
+    private function processLessonGames(bool $force, bool $isDryRun, int $maxAttempts): void
     {
         $this->info('--- Lesson vocabulary game items ---');
 
@@ -290,6 +326,7 @@ class RegenerateTtsAudio extends Command
 
         $regenerated = 0;
         $failed = 0;
+        $failures = [];
 
         $bar = $this->output->createProgressBar($lessons->count());
         $bar->start();
@@ -328,24 +365,32 @@ class RegenerateTtsAudio extends Command
                             continue;
                         }
 
-                        $newAudio = $this->ttsService->generateAudio($item['text']);
-                        $newPath = $this->audioStorage->upload($newAudio, 'lessons/vocabulary_games');
+                        $oldAudio = $item['audio_url'] ?? null;
+                        $newPath = $this->generateAndUploadAudio($item['text'], 'lessons/vocabulary_games', [
+                            'type' => self::TYPE_LESSON_GAMES,
+                            'lesson_id' => $lesson->id,
+                            'paragraph_index' => $i,
+                            'item_index' => $j,
+                        ], $maxAttempts);
 
                         if ($newPath === false) {
                             $failed++;
+                            $failures[] = "lesson #{$lesson->id}, paragraph {$i}, item {$j}";
 
                             continue;
                         }
 
-                        if ($force && $hasAudio) {
-                            $this->audioStorage->delete($item['audio_url']);
+                        $content[$i]['listenItems'][$j]['audio_url'] = $newPath;
+
+                        if ($force && $hasAudio && $oldAudio !== $newPath) {
+                            $this->audioStorage->delete($oldAudio);
                         }
 
-                        $content[$i]['listenItems'][$j]['audio_url'] = $newPath;
                         $dirty = true;
                         $regenerated++;
                     } catch (\Throwable $e) {
                         $failed++;
+                        $failures[] = "lesson #{$lesson->id}, paragraph {$i}, item {$j}";
                         Log::error('tts:regenerate lesson-games error', [
                             'lesson_id' => $lesson->id,
                             'paragraph_index' => $i,
@@ -363,7 +408,59 @@ class RegenerateTtsAudio extends Command
 
         $bar->finish();
         $this->newLine();
-        $this->printSummary($regenerated, $failed, $isDryRun);
+        $this->printSummary($regenerated, $failed, $isDryRun, $failures);
+    }
+
+    /**
+     * @param string $text
+     * @param string $folderName
+     * @param array<string, mixed> $context
+     * @param int $maxAttempts
+     *
+     * @return string|false
+     */
+    private function generateAndUploadAudio(string $text, string $folderName, array $context, int $maxAttempts): string|false
+    {
+        for ($attempt = 1; $attempt <= $maxAttempts; $attempt++) {
+            try {
+                $audio = $this->ttsService->generateAudio($text);
+                $path = $this->audioStorage->upload($audio, $folderName);
+
+                if ($path !== false && $this->audioStorage->exists($path)) {
+                    return $path;
+                }
+
+                Log::warning('tts:regenerate upload failed', $context + [
+                    'attempt' => $attempt,
+                    'max_attempts' => $maxAttempts,
+                    'path' => $path === false ? null : $path,
+                ]);
+            } catch (\Throwable $e) {
+                Log::warning('tts:regenerate attempt failed', $context + [
+                    'attempt' => $attempt,
+                    'max_attempts' => $maxAttempts,
+                    'error' => $e->getMessage(),
+                ]);
+            }
+        }
+
+        Log::error('tts:regenerate failed after retries', $context + [
+            'max_attempts' => $maxAttempts,
+        ]);
+
+        return false;
+    }
+
+    /**
+     * @param string $audio
+     *
+     * @return boolean
+     */
+    private function isPhraseAudioReferenced(string $audio): bool
+    {
+        return Phrase::query()
+            ->where('audio', $audio)
+            ->exists();
     }
 
     /**
@@ -372,13 +469,28 @@ class RegenerateTtsAudio extends Command
      * @param int $regenerated
      * @param int $failed
      * @param bool $isDryRun
+     * @param string[] $failures
      *
      * @return void
      */
-    private function printSummary(int $regenerated, int $failed, bool $isDryRun): void
+    private function printSummary(int $regenerated, int $failed, bool $isDryRun, array $failures = []): void
     {
         $prefix = $isDryRun ? '[dry-run] ' : '';
         $this->info("{$prefix}Regenerated: {$regenerated}, Failed: {$failed}");
+
+        if ($failures !== []) {
+            $this->warn('Failed items:');
+
+            foreach (array_slice($failures, 0, 20) as $failure) {
+                $this->line("  - {$failure}");
+            }
+
+            $remaining = count($failures) - 20;
+            if ($remaining > 0) {
+                $this->line("  ...and {$remaining} more");
+            }
+        }
+
         $this->newLine();
     }
 }

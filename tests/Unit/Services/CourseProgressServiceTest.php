@@ -79,6 +79,8 @@ it('test_completed_lessons', function (int $count): void {
 
 /**
  * Provides completion counts for testForCompletedLessons.
+ *
+ * @return array<string, array<int>>
  */
 function dataProviderForTestCompletedLessons(): array
 {
@@ -108,6 +110,8 @@ it('test_mark_lesson_complete', function (bool $alreadyCompleted): void {
 
 /**
  * Provides pre-completion state scenarios for testForMarkLessonComplete.
+ *
+ * @return array<string, array<bool>>
  */
 function dataProviderForTestMarkLessonComplete(): array
 {
@@ -159,6 +163,8 @@ it('test_lesson_block_progress', function (bool $hasRecords): void {
 
 /**
  * Provides record existence flags for testForLessonBlockProgress.
+ *
+ * @return array<string, array<bool>>
  */
 function dataProviderForTestLessonBlockProgress(): array
 {
@@ -204,6 +210,8 @@ it('test_save_block_progress', function (bool $alreadyExists): void {
 
 /**
  * Provides pre-existence flags for testForSaveBlockProgress.
+ *
+ * @return array<string, array<bool>>
  */
 function dataProviderForTestSaveBlockProgress(): array
 {
@@ -212,6 +220,102 @@ function dataProviderForTestSaveBlockProgress(): array
         'existing record updated' => [true],
     ];
 }
+
+/**
+ * completed block state is not overwritten by a delayed partial save.
+ */
+it('test_save_block_progress_keeps_completed_state_after_delayed_partial_save', function (): void {
+    $this->service->saveBlockProgress(
+        userId: $this->user->id,
+        lessonId: $this->lesson->id,
+        blockIndex: 2,
+        blockType: 'matching',
+        isCompleted: true,
+        blockState: ['final' => true],
+    );
+
+    $this->service->saveBlockProgress(
+        userId: $this->user->id,
+        lessonId: $this->lesson->id,
+        blockIndex: 2,
+        blockType: 'matching',
+        isCompleted: false,
+        blockState: ['draft' => true],
+    );
+
+    $record = UserLessonBlockProgress::where('user_id', $this->user->id)
+        ->where('lesson_id', $this->lesson->id)
+        ->where('block_index', 2)
+        ->first();
+
+    expect($record)->not->toBeNull()
+        ->and($record->is_completed)->toBeTrue()
+        ->and($record->block_state)->toBe(['final' => true]);
+});
+
+/**
+ * completed save without state preserves an existing draft state.
+ */
+it('test_save_block_progress_preserves_existing_state_when_completed_state_is_null', function (): void {
+    $this->service->saveBlockProgress(
+        userId: $this->user->id,
+        lessonId: $this->lesson->id,
+        blockIndex: 3,
+        blockType: 'fill-gaps',
+        isCompleted: false,
+        blockState: ['draft' => 1],
+    );
+
+    $this->service->saveBlockProgress(
+        userId: $this->user->id,
+        lessonId: $this->lesson->id,
+        blockIndex: 3,
+        blockType: 'fill-gaps',
+        isCompleted: true,
+        blockState: null,
+    );
+
+    $record = UserLessonBlockProgress::where('user_id', $this->user->id)
+        ->where('lesson_id', $this->lesson->id)
+        ->where('block_index', 3)
+        ->first();
+
+    expect($record)->not->toBeNull()
+        ->and($record->is_completed)->toBeTrue()
+        ->and($record->block_state)->toBe(['draft' => 1]);
+});
+
+/**
+ * incomplete block state still accepts normal partial updates.
+ */
+it('test_save_block_progress_updates_incomplete_partial_state', function (): void {
+    $this->service->saveBlockProgress(
+        userId: $this->user->id,
+        lessonId: $this->lesson->id,
+        blockIndex: 4,
+        blockType: 'translation',
+        isCompleted: false,
+        blockState: ['draft' => 1],
+    );
+
+    $this->service->saveBlockProgress(
+        userId: $this->user->id,
+        lessonId: $this->lesson->id,
+        blockIndex: 4,
+        blockType: 'translation',
+        isCompleted: false,
+        blockState: ['draft' => 2],
+    );
+
+    $record = UserLessonBlockProgress::where('user_id', $this->user->id)
+        ->where('lesson_id', $this->lesson->id)
+        ->where('block_index', 4)
+        ->first();
+
+    expect($record)->not->toBeNull()
+        ->and($record->is_completed)->toBeFalse()
+        ->and($record->block_state)->toBe(['draft' => 2]);
+});
 
 /**
  * stopCourse creates at most one stopped-course row even when called twice.

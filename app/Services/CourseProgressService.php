@@ -15,6 +15,7 @@ use Illuminate\Container\Attributes\Singleton;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\DB;
 
 /**
  * Service for managing course progress.
@@ -223,22 +224,44 @@ class CourseProgressService
         bool $isCompleted = false,
         ?array $blockState = null,
     ): void {
-        $record = UserLessonBlockProgress::firstOrNew([
-            'user_id' => $userId,
-            'lesson_id' => $lessonId,
-            'block_index' => $blockIndex,
-        ]);
+        DB::transaction(function () use ($userId, $lessonId, $blockIndex, $blockType, $isCompleted, $blockState): void {
+            $record = UserLessonBlockProgress::query()
+                ->where('user_id', $userId)
+                ->where('lesson_id', $lessonId)
+                ->where('block_index', $blockIndex)
+                ->lockForUpdate()
+                ->first();
 
-        $record->block_type = $blockType;
-        $record->block_state = $blockState;
+            if ($record === null) {
+                UserLessonBlockProgress::create([
+                    'user_id' => $userId,
+                    'lesson_id' => $lessonId,
+                    'block_index' => $blockIndex,
+                    'block_type' => $blockType,
+                    'is_completed' => $isCompleted,
+                    'block_state' => $blockState,
+                ]);
 
-        if ($isCompleted) {
-            $record->is_completed = true;
-        } elseif (!$record->exists) {
-            $record->is_completed = false;
-        }
+                return;
+            }
 
-        $record->save();
+            if ($record->is_completed && !$isCompleted) {
+                return;
+            }
+
+            $record->block_type = $blockType;
+
+            if ($isCompleted) {
+                $record->is_completed = true;
+                if ($blockState !== null || $record->block_state === null) {
+                    $record->block_state = $blockState;
+                }
+            } else {
+                $record->block_state = $blockState;
+            }
+
+            $record->save();
+        });
     }
 
     /**

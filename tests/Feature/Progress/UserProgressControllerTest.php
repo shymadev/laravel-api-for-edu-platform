@@ -49,8 +49,13 @@ beforeEach(function (): void {
     ]);
 });
 
-// ─── Helpers ──────────────────────────────────────────────────────────────
-
+/**
+ * Create a user for progress route tests.
+ *
+ * @param int $roleId
+ *
+ * @return User
+ */
 function makeProgressUser(int $roleId = Role::USER_ROLE_ID): User
 {
     return User::create([
@@ -251,6 +256,35 @@ it('test_save_block_progress_returns_201', function (): void {
 
     $response->assertCreated()
         ->assertJsonFragment(['saved' => true]);
+});
+
+/**
+ * POST /api/user/lesson-block-progress ignores delayed partial state after completion.
+ */
+it('test_delayed_partial_save_does_not_overwrite_completed_block_state', function (): void {
+    $user = makeProgressUser();
+
+    $this->actingAs($user)->postJson('/api/user/lesson-block-progress', [
+        'lesson_id' => $this->lesson->id,
+        'block_index' => 0,
+        'block_type' => 'matching',
+        'is_completed' => true,
+        'block_state' => ['final' => true],
+    ])->assertCreated();
+
+    $this->actingAs($user)->postJson('/api/user/lesson-block-progress', [
+        'lesson_id' => $this->lesson->id,
+        'block_index' => 0,
+        'block_type' => 'matching',
+        'is_completed' => false,
+        'block_state' => ['draft' => true],
+    ])->assertCreated();
+
+    $response = $this->actingAs($user)->getJson("/api/user/lessons/{$this->lesson->id}/block-progress");
+
+    $response->assertOk();
+    expect($response->json('completed'))->toContain(0)
+        ->and($response->json('states.0'))->toBe(['final' => true]);
 });
 
 /**

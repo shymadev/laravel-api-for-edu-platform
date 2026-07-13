@@ -81,7 +81,7 @@
           "phpcbf"
         ],
         "hooks:install": [
-          "@php -r \"copy('hooks/pre-commit', '.git/hooks/pre-commit'); chmod('.git/hooks/pre-commit', 0755); echo 'Git pre-commit hook installed.\\n';\""
+          "git config core.hooksPath hooks"
         ]
     },
     "extra": {

@@ -73,7 +73,8 @@ class PhraseController extends Controller
         }
 
         if ($difficultyLevel !== null) {
-            $query->join('difficulty_levels', 'phrases.difficulty_level_id', '=', 'difficulty_levels.id')
+            $query->select('phrases.*')
+                ->join('difficulty_levels', 'phrases.difficulty_level_id', '=', 'difficulty_levels.id')
                 ->where('difficulty_levels.id', $difficultyLevel);
         }
 

@@ -34,6 +34,7 @@ class CreateAdvertisementRequest extends FormRequest
             'image' => ['required', 'image', 'mimes:jpeg,png,jpg,gif,webp', 'max:2048'],
             'url' => ['required', 'string', 'url', 'max:500'],
             'is_active' => ['sometimes', 'string'],
+            'is_permanent' => ['sometimes', 'string'],
             'starts_at' => ['nullable', 'date', 'after_or_equal:now'],
             'ends_at' => ['nullable', 'date', 'after:starts_at'],
         ];

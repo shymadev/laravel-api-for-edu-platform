@@ -2343,6 +2343,10 @@
                     "default": true,
                     "description": "Whether the advertisement is active"
                   },
+                  "is_permanent": {
+                    "type": "boolean",
+                    "description": "Whether the advertisement is permanent"
+                  },
                   "starts_at": {
                     "type": "string",
                     "format": "date-time",
@@ -2459,6 +2463,9 @@
                     "maxLength": 500
                   },
                   "is_active": {
+                    "type": "boolean"
+                  },
+                  "is_permanent": {
                     "type": "boolean"
                   },
                   "starts_at": {

@@ -34,6 +34,7 @@ class UpdateAdvertisementRequest extends FormRequest
             'image' => ['sometimes', 'image', 'mimes:jpeg,png,jpg,gif,webp', 'max:2048'],
             'url' => ['sometimes', 'string', 'url', 'max:500'],
             'is_active' => ['sometimes', 'string'],
+            'is_permanent' => ['sometimes', 'string'],
             'starts_at' => ['nullable', 'date'],
             'ends_at' => ['nullable', 'date', 'after:starts_at'],
         ];
@@ -48,9 +49,10 @@ class UpdateAdvertisementRequest extends FormRequest
             id: (int) $this->route('advertisement')->id,
             image: $this->file('image'),
             url: $this->input('url'),
-            isActive: $this->input('is_active', 'true') === 'true',
+            isActive: $this->has('is_active') ? $this->input('is_active') === 'true' : null,
             startsAt: $this->input('starts_at'),
             endsAt: $this->input('ends_at'),
+            isPermanent: $this->has('is_permanent') ? $this->input('is_permanent') === 'true' : null,
         );
     }
 }
