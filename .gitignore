@@ -37,8 +37,12 @@ coverage.xml
 *.swp
 *~
 
-CLAUDE.md
-.mcp.json
-boost.json
-
 .env.testing.local
+
+# Track AI assistant project configuration.
+!.claude/
+!.claude/**
+.claude/settings.local.json
+!CLAUDE.md
+!.mcp.json
+!boost.json
